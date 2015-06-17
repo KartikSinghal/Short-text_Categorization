@@ -1,0 +1,2890 @@
+computational overhead Memory management 62
+computational overhead Optimization 668
+computational overhead Parsing 9
+computational overhead Preprocessors 2
+computational overhead Retargetable compilerscomputational overhead Run-time environments 457
+computational overhead Translator writing systems and compiler generators 3
+computational overhead Miscellaneouscomputational overhead OPERATING SYSTEMS 356
+computational overhead General 1053
+computational overhead Process Management 136
+computational overhead Concurrency 54
+computational overhead Deadlocks 13
+computational overhead Multiprocessing/multiprogramming/multitaskingcomputational overhead Mutual exclusion 1
+computational overhead Scheduling 138
+computational overhead Synchronization 103
+computational overhead Threads 26
+computational overhead Storage Management 76
+computational overhead Allocation/deallocation strategies 32
+computational overhead Distributed memories 119
+computational overhead Garbage collection 8
+computational overhead Main memory 44
+computational overhead Secondary storage 3
+computational overhead Segmentation 98
+computational overhead Storage hierarchies 7
+computational overhead Swapping 7
+computational overhead Virtual memory 18
+computational overhead File Systems Management 318
+computational overhead Access methods 121
+computational overhead Directory structures 4
+computational overhead Distributed file systems 486
+computational overhead File organization 3
+computational overhead Maintenance 56
+computational overhead Communications Management 191
+computational overhead Buffering 57
+computational overhead Input/output 112
+computational overhead Message sending 67
+computational overhead Network communication 524
+computational overhead Terminal management 9
+computational overhead Reliability 155
+computational overhead Backup procedures 1
+computational overhead Checkpoint/restart 2
+computational overhead Fault-tolerance 70
+computational overhead Verification 89
+computational overhead Security and Protection 1679
+computational overhead Access controls 93
+computational overhead Authentication 212
+computational overhead Cryptographic controls 26
+computational overhead Information flow controls 423
+computational overhead Invasive software 2
+computational overhead Security kernels 5
+computational overhead Verification 89
+computational overhead Organization and Design 995
+computational overhead Batch processing systems 527
+computational overhead Distributed systems 430
+computational overhead Hierarchical design 43
+computational overhead Interactive systems 125
+computational overhead Real-time systems and embedded systems 300
+computational overhead Performance 1280
+computational overhead Measurements 435
+computational overhead Modeling and prediction 12071
+computational overhead Monitors 144
+computational overhead Operational analysis 175
+computational overhead Queueing theory 5
+computational overhead Simulation 789
+computational overhead Stochastic analysis 20
+computational overhead Command and control languages 35
+computational overhead Linkerscomputational overhead Loaderscomputational overhead Window managers 18
+computational overhead Miscellaneouscomputational overhead MISCELLANEOUScomputational overhead Software 178
+computational overhead GENERAL 1053
+computational overhead DATA STRUCTURES 261
+computational overhead Arrays 93
+computational overhead Distributed data structures 611
+computational overhead Graphs and networks 1145
+computational overhead Lists, stacks, and queues 11
+computational overhead Records 72
+computational overhead Tables 194
+computational overhead Trees 288
+computational overhead DATA STORAGE REPRESENTATIONS 239
+computational overhead Composite structures 20
+computational overhead Contiguous representations 1
+computational overhead Hash-table representations 52
+computational overhead Linked representations 12
+computational overhead Object representation 57
+computational overhead Primitive data items 48
+computational overhead DATA ENCRYPTION 115
+computational overhead Code breaking 9
+computational overhead Data encryption standard 263
+computational overhead Public key cryptosystems 171
+computational overhead Standards 367
+computational overhead CODING AND INFORMATION THEORY 368
+computational overhead Data compaction and compression 128
+computational overhead Error control codes 228
+computational overhead Formal models of communication 412
+computational overhead Nonsecret encoding schemes 78
+computational overhead FILES 83
+computational overhead Backup/recovery 5
+computational overhead Optimization 668
+computational overhead Organization/structure 38
+computational overhead Sorting/searching 8
+computational overhead MISCELLANEOUScomputational overhead GENERAL 1053
+computational overhead COMPUTATION BY ABSTRACT DEVICES 289
+computational overhead General 1053
+computational overhead Models of Computation 52825
+computational overhead Automata 19
+computational overhead Bounded-action devices 29
+computational overhead Computability theory 184
+computational overhead Relations between models 686
+computational overhead Self-modifying machines 55
+computational overhead Unbounded-action devices 6
+computational overhead Modes of Computation 2804
+computational overhead Alternation and nondeterminism 246
+computational overhead Interactive and reactive computation 342
+computational overhead Online computation 103
+computational overhead Parallelism and concurrency 356
+computational overhead Probabilistic computation 151
+computational overhead Relations among modes 97
+computational overhead Relativized computation 1
+computational overhead Complexity Measures and Classes 1274
+computational overhead Complexity hierarchies 15
+computational overhead Machine-independent complexity 188
+computational overhead Reducibility and completeness 1167
+computational overhead Relations among complexity classes 80
+computational overhead Relations among complexity measures 107
+computational overhead Miscellaneouscomputational overhead ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 628
+computational overhead General 1053
+computational overhead Numerical Algorithms and Problems 1070
+computational overhead Computation of transforms 2535
+computational overhead Computations in finite fields 432
+computational overhead Computations on matrices 2210
+computational overhead Computations on polynomials 2237
+computational overhead Number-theoretic computations 1103
+computational overhead Nonnumerical Algorithms and Problems 651
+computational overhead Computations on discrete structures 602
+computational overhead Geometrical problems and computations 1193
+computational overhead Pattern matching 39
+computational overhead Routing and layout 302
+computational overhead Sequencing and scheduling 352
+computational overhead Sorting and searching 347
+computational overhead Tradeoffs between Complexity Measures 111
+computational overhead Miscellaneouscomputational overhead LOGICS AND MEANINGS OF PROGRAMS 212
+computational overhead General 1053
+computational overhead Assertions 11
+computational overhead Invariants 50
+computational overhead Logics of programs 849
+computational overhead Mechanical verification 19
+computational overhead Pre- and post-conditions 40
+computational overhead Specification techniques 215
+computational overhead Semantics of Programming Languages 91
+computational overhead Algebraic approaches to semantics 100
+computational overhead Denotational semantics 11
+computational overhead Operational semantics 26
+computational overhead Partial evaluation 55
+computational overhead Process models 433
+computational overhead Program analysis 66
+computational overhead Studies of Program Constructs 370
+computational overhead Control primitives 7
+computational overhead Functional constructs 123
+computational overhead Object-oriented constructs 108
+computational overhead Program and recursion schemes 133
+computational overhead Type structure 100
+computational overhead Miscellaneouscomputational overhead MATHEMATICAL LOGIC AND FORMAL LANGUAGES 29
+computational overhead General 1053
+computational overhead Mathematical Logic 9
+computational overhead Computability theory 184
+computational overhead Computational logic 126
+computational overhead Lambda calculus and related systems 12
+computational overhead Logic and constraint programming 215
+computational overhead Mechanical theorem proving 112
+computational overhead Modal logiccomputational overhead Model theory 97
+computational overhead Proof theory 17
+computational overhead Recursive function theory 123
+computational overhead Set theory 73
+computational overhead Temporal logic 12
+computational overhead Grammars and Other Rewriting Systems 6
+computational overhead Decision problems 107
+computational overhead Grammar types 3
+computational overhead Parallel rewriting systems 190
+computational overhead Parsing 9
+computational overhead Thue systemscomputational overhead Formal Languages 18
+computational overhead Algebraic language theory 168
+computational overhead Classes defined by grammars or automata 1
+computational overhead Decision problems 107
+computational overhead Operations on languages 766
+computational overhead Miscellaneouscomputational overhead MISCELLANEOUScomputational overhead GENERAL 1053
+computational overhead NUMERICAL ANALYSIS 92
+computational overhead General 1053
+computational overhead Computer arithmetic 54
+computational overhead Conditioning 305
+computational overhead Error analysis 125
+computational overhead Interval arithmetic 7
+computational overhead Multiple precision arithmetic 39
+computational overhead Numerical algorithms 163
+computational overhead Parallel algorithms 201
+computational overhead Stability 92
+computational overhead Interpolation 95
+computational overhead Difference formulas 39
+computational overhead Extrapolation 17
+computational overhead Interpolation formulas 8
+computational overhead Smoothing 82
+computational overhead Approximation 416
+computational overhead Chebyshev approximation and theory 46
+computational overhead Elementary function approximation 195
+computational overhead Fast Fourier transforms 105
+computational overhead Least squares approximation 133
+computational overhead Linear approximation 129
+computational overhead Minimax approximation and algorithms 263
+computational overhead Nonlinear approximation 35
+computational overhead Rational approximation 9
+computational overhead Special function approximations 269
+computational overhead Spline and piecewise polynomial approximation 8
+computational overhead Wavelets and fractals 61
+computational overhead Numerical Linear Algebra 159
+computational overhead Conditioning 305
+computational overhead Determinants 386
+computational overhead Eigenvalues and eigenvectors 152
+computational overhead Error analysis 125
+computational overhead Linear systems 247
+computational overhead Matrix inversion 30
+computational overhead Pseudoinverses 4
+computational overhead Singular value decomposition 65
+computational overhead Sparse, structured, and very large systems 63
+computational overhead Quadrature and Numerical Differentiation 35
+computational overhead Automatic differentiation 10
+computational overhead Error analysis 125
+computational overhead Finite difference methods 595
+computational overhead Gaussian quadrature 2
+computational overhead Iterative methods 168
+computational overhead Multidimensional 52
+computational overhead Roots of Nonlinear Equations 51
+computational overhead Continuation 217
+computational overhead Convergence 197
+computational overhead Error analysis 125
+computational overhead Iterative methods 168
+computational overhead Polynomials, methods for 1272
+computational overhead Systems of equations 3558
+computational overhead Optimization 668
+computational overhead Constrained optimization 53
+computational overhead Convex programming 10
+computational overhead Global optimization 100
+computational overhead Gradient methods 66
+computational overhead Integer programming 21
+computational overhead Least squares methods 203
+computational overhead Linear programming 76
+computational overhead Nonlinear programming 19
+computational overhead Quadratic programming methods 173
+computational overhead Simulated annealing 23
+computational overhead Stochastic programming 16
+computational overhead Unconstrained optimization 8
+computational overhead Ordinary Differential Equations 50
+computational overhead Boundary value problems 391
+computational overhead Chaotic systems 12
+computational overhead Convergence and stability 284
+computational overhead Differential-algebraic equations 79
+computational overhead Error analysis 125
+computational overhead Finite difference methods 595
+computational overhead Initial value problems 441
+computational overhead Multistep and multivalue methods 3
+computational overhead One-step 301
+computational overhead Stiff equations 8
+computational overhead Partial Differential Equations 80
+computational overhead Domain decomposition methods 524
+computational overhead Elliptic equations 14
+computational overhead Finite difference methods 595
+computational overhead Finite element methods 298
+computational overhead Finite volume methods 201
+computational overhead Hyperbolic equations 2
+computational overhead Inverse problems 42
+computational overhead Iterative solution techniques 439
+computational overhead Method of lines 2894
+computational overhead Multigrid and multilevel methods 16
+computational overhead Parabolic equations 3
+computational overhead Spectral methods 51
+computational overhead Integral Equations 75
+computational overhead Delay equations 23
+computational overhead Fredholm equations 1
+computational overhead Integro-differential equations 45
+computational overhead Volterra equationscomputational overhead Applications 1063
+computational overhead Miscellaneouscomputational overhead DISCRETE MATHEMATICS 14
+computational overhead General 1053
+computational overhead Combinatorics 1
+computational overhead Combinatorial algorithms 21
+computational overhead Counting problems 58
+computational overhead Generating functions 377
+computational overhead Permutations and combinations 469
+computational overhead Recurrences and difference equations 117
+computational overhead Graph Theory 26
+computational overhead Graph algorithms 134
+computational overhead Graph labeling 9
+computational overhead Hypergraphs 2
+computational overhead Network problems 465
+computational overhead Path and circuit problems 199
+computational overhead Trees 288
+computational overhead Applications 1063
+computational overhead Miscellaneouscomputational overhead PROBABILITY AND STATISTICS 605
+computational overhead Contingency table analysis 64
+computational overhead Correlation and regression analysis 97
+computational overhead Distribution functions 254
+computational overhead Experimental design 110
+computational overhead Markov processes 51
+computational overhead Multivariate statistics 6
+computational overhead Nonparametric statistics 8
+computational overhead Probabilistic algorithms 94
+computational overhead Queueing theory 5
+computational overhead Random number generation 691
+computational overhead Reliability and life testing 52
+computational overhead Renewal theory 2
+computational overhead Robust regression 8
+computational overhead Statistical computing 241
+computational overhead Statistical software 18
+computational overhead Stochastic processes 48
+computational overhead Survival analysis 2
+computational overhead Time series analysis 1108
+computational overhead MATHEMATICAL SOFTWARE 11
+computational overhead Algorithm design and analysis 1297
+computational overhead Certification and testing 420
+computational overhead Documentation 1
+computational overhead Efficiency 1084
+computational overhead Parallel and vector implementations 191
+computational overhead Portability 26
+computational overhead Reliability and robustness 409
+computational overhead User interfaces 40
+computational overhead Verification 89
+computational overhead MISCELLANEOUScomputational overhead Queueing 39
+computational overhead GENERAL 1053
+computational overhead MODELS AND PRINCIPLES 3699
+computational overhead General 1053
+computational overhead Systems and Information Theory 2022
+computational overhead General systems theory 1055
+computational overhead Information theory 75
+computational overhead Value of information 1272
+computational overhead User/Machine Systems 509
+computational overhead Human factors 12
+computational overhead Human information processing 1556
+computational overhead Software psychologycomputational overhead Miscellaneouscomputational overhead DATABASE MANAGEMENT 32
+computational overhead General 1053
+computational overhead Security, integrity, and protection 456
+computational overhead Logical Design 53
+computational overhead Data models 462
+computational overhead Normal forms 48
+computational overhead Schema and subschema 10
+computational overhead Physical Design 70
+computational overhead Access methods 121
+computational overhead Deadlock avoidance 5
+computational overhead Recovery and restart 55
+computational overhead Languages 93
+computational overhead Data description languages 125
+computational overhead Data manipulation languages 86
+computational overhead Database 153
+computational overhead Query languages 20
+computational overhead Report writers 1
+computational overhead Systems 1263
+computational overhead Concurrency 54
+computational overhead Distributed databases 62
+computational overhead Multimedia databases 11
+computational overhead Object-oriented databases 86
+computational overhead Parallel databases 14
+computational overhead Query processing 87
+computational overhead Relational databases 47
+computational overhead Rule-based databases 256
+computational overhead Textual databasescomputational overhead Transaction processing 95
+computational overhead Heterogeneous Databases 7
+computational overhead Data translation 32
+computational overhead Program translation 10
+computational overhead Database Machines 20
+computational overhead Database Administration 4
+computational overhead Data dictionary/directory 14
+computational overhead Data warehouse and repository 34
+computational overhead Logging and recovery 141
+computational overhead Security, integrity, and protection 456
+computational overhead Database Applications 83
+computational overhead Data mining 72
+computational overhead Image databases 33
+computational overhead Scientific databases 10
+computational overhead Spatial databases and GIS 31
+computational overhead Statistical databases 29
+computational overhead Miscellaneouscomputational overhead INFORMATION STORAGE AND RETRIEVAL 171
+computational overhead General 1053
+computational overhead Content Analysis and Indexing 98
+computational overhead Abstracting methods 44
+computational overhead Dictionaries 14
+computational overhead Indexing methods 70
+computational overhead Linguistic processing 10
+computational overhead Thesaurusescomputational overhead Information Storage 98
+computational overhead File organization 3
+computational overhead Record classification 10
+computational overhead Information Search and Retrieval 235
+computational overhead Clustering 219
+computational overhead Information filtering 112
+computational overhead Query formulation 19
+computational overhead Relevance feedback 19
+computational overhead Retrieval models 51
+computational overhead Search process 138
+computational overhead Selection process 198
+computational overhead Systems and Software 11408
+computational overhead Current awareness systems 295
+computational overhead Distributed systems 430
+computational overhead Information networks 436
+computational overhead Performance evaluation 397
+computational overhead Question-answering 17
+computational overhead Online Information Services 207
+computational overhead Commercial services 15
+computational overhead Data sharing 120
+computational overhead Web-based services 407
+computational overhead Library Automation 3
+computational overhead Large text archives 26
+computational overhead Digital Libraries 3
+computational overhead Collection 206
+computational overhead Dissemination 31
+computational overhead Standards 367
+computational overhead Systems issues 203
+computational overhead User issues 80
+computational overhead Miscellaneouscomputational overhead INFORMATION SYSTEMS APPLICATIONS 2058
+computational overhead General 1053
+computational overhead Office Automationcomputational overhead Desktop publishing 1
+computational overhead Equipment 69
+computational overhead Groupwarecomputational overhead Spreadsheets 1
+computational overhead Time management 180
+computational overhead Word processing 33
+computational overhead Workflow management 4
+computational overhead Types of Systems 1533
+computational overhead Decision support 45
+computational overhead Logistics 8
+computational overhead Communications Applications 376
+computational overhead Bulletin boards 1
+computational overhead Computer conferencing, teleconferencing, and videoconferencingcomputational overhead Electronic mail 1
+computational overhead Information browsers 2
+computational overhead Videotexcomputational overhead Miscellaneouscomputational overhead INFORMATION INTERFACES AND PRESENTATION 565
+computational overhead General 1053
+computational overhead Multimedia Information Systems 556
+computational overhead Animations 23
+computational overhead Artificial, augmented, and virtual realitiescomputational overhead Audio input/output 119
+computational overhead Evaluation/methodology 41
+computational overhead Video 191
+computational overhead User Interfaces 40
+computational overhead Auditory 6
+computational overhead Benchmarking 109
+computational overhead Ergonomics 1
+computational overhead Evaluation/methodology 41
+computational overhead Graphical user interfaces 1612
+computational overhead Haptic I/O 126
+computational overhead Input devices and strategies 93
+computational overhead Interaction styles 2
+computational overhead Natural language 25
+computational overhead Prototyping 74
+computational overhead Screen design 3
+computational overhead Standardization 367
+computational overhead Style guides 1
+computational overhead Theory and methods 2361
+computational overhead Training, help, and documentation 21
+computational overhead User-centered design 229
+computational overhead User interface management systems 171
+computational overhead Voice I/O 127
+computational overhead Windowing systems 68
+computational overhead Group and Organization Interfaces 42
+computational overhead Asynchronous interaction 5
+computational overhead Collaborative computing 60
+computational overhead Computer-supported cooperative work 245
+computational overhead Evaluation/methodology 41
+computational overhead Organizational design 2
+computational overhead Synchronous interaction 7
+computational overhead Theory and models 2459
+computational overhead Web-based interaction 240
+computational overhead Hypertext/Hypermediacomputational overhead Architectures 287
+computational overhead Navigation 32
+computational overhead Theory 184
+computational overhead User issues 80
+computational overhead Sound and Music Computing 62
+computational overhead Methodologies and techniques 1402
+computational overhead Modeling 1033
+computational overhead Systems 1263
+computational overhead Miscellaneouscomputational overhead MISCELLANEOUScomputational overhead GENERAL 1053
+computational overhead SYMBOLIC AND ALGEBRAIC MANIPULATION 28
+computational overhead General 1053
+computational overhead Expressions and Their Representation 142
+computational overhead Representations 191
+computational overhead Simplification of expressions 186
+computational overhead Algorithms 1331
+computational overhead Algebraic algorithms 46
+computational overhead Analysis of algorithms 3131
+computational overhead Nonalgebraic algorithmscomputational overhead Languages and Systems 2748
+computational overhead Evaluation strategies 76
+computational overhead Nonprocedural languagescomputational overhead Special-purpose algebraic systems 24
+computational overhead Special-purpose hardware 63
+computational overhead Substitution mechanisms 8
+computational overhead Applications 1063
+computational overhead Miscellaneouscomputational overhead ARTIFICIAL INTELLIGENCE 46
+computational overhead General 1053
+computational overhead Cognitive simulation 7
+computational overhead Philosophical foundationscomputational overhead Applications and Expert Systems 954
+computational overhead Cartographycomputational overhead Games 40
+computational overhead Industrial automation 6
+computational overhead Law 47
+computational overhead Medicine and science 436
+computational overhead Natural language interfaces 55
+computational overhead Office automationcomputational overhead Automatic Programming 27
+computational overhead Automatic analysis of algorithms 488
+computational overhead Program modification 19
+computational overhead Program synthesis 11
+computational overhead Program transformation 28
+computational overhead Program verification 6
+computational overhead Deduction and Theorem Proving 39
+computational overhead Answer/reason extraction 41
+computational overhead Deduction 2
+computational overhead Inference engines 8
+computational overhead Logic programming 39
+computational overhead Mathematical induction 2
+computational overhead Metatheorycomputational overhead Nonmonotonic reasoning and belief revision 1
+computational overhead Resolution 143
+computational overhead Knowledge Representation Formalisms and Methods 47
+computational overhead Frames and scripts 147
+computational overhead Modal logiccomputational overhead Predicate logic 7
+computational overhead Relation systems 224
+computational overhead Representation languages 26
+computational overhead Representations 191
+computational overhead Semantic networks 26
+computational overhead Temporal logic 12
+computational overhead Programming Languages and Software 845
+computational overhead Expert system tools and techniques 91
+computational overhead Learning 195
+computational overhead Analogies 11
+computational overhead Concept learning 28
+computational overhead Connectionism and neural nets 10
+computational overhead Induction 28
+computational overhead Knowledge acquisition 3
+computational overhead Language acquisition 1
+computational overhead Parameter learning 60
+computational overhead Natural Language Processing 188
+computational overhead Discourse 3
+computational overhead Language generation 54
+computational overhead Language models 61
+computational overhead Language parsing and understanding 27
+computational overhead Machine translation 12
+computational overhead Speech recognition and synthesis 46
+computational overhead Text analysis 17
+computational overhead Problem Solving, Control Methods, and Search 131
+computational overhead Backtracking 15
+computational overhead Control theory 26
+computational overhead Dynamic programming 81
+computational overhead Graph and tree search strategies 49
+computational overhead Heuristic methods 88
+computational overhead Plan execution, formation, and generation 23
+computational overhead Scheduling 138
+computational overhead Robotics 79
+computational overhead Autonomous vehicles 9
+computational overhead Kinematics and dynamics 561
+computational overhead Manipulators 56
+computational overhead Operator interfaces 34
+computational overhead Propelling mechanismscomputational overhead Sensors 273
+computational overhead Vision and Scene Understanding 1029
+computational overhead Architecture and control structures 754
+computational overhead Motion 141
+computational overhead Perceptual reasoning 3
+computational overhead Shape 113
+computational overhead Texture 41
+computational overhead Video analysis 40
+computational overhead Distributed Artificial Intelligence 125
+computational overhead Coherence and coordination 176
+computational overhead Intelligent agents 22
+computational overhead Languages and structures 1291
+computational overhead Multiagent systems 5
+computational overhead Miscellaneouscomputational overhead COMPUTER GRAPHICS 79
+computational overhead General 1053
+computational overhead Hardware Architecture 45
+computational overhead Graphics processors 12
+computational overhead Hardcopy devicescomputational overhead Input devices 23
+computational overhead Parallel processing 152
+computational overhead Raster display devices 13
+computational overhead Storage devices 35
+computational overhead Three-dimensional displays 108
+computational overhead Vector display devices 33
+computational overhead Graphics Systems 34
+computational overhead Distributed/network graphics 467
+computational overhead Remote systems 40
+computational overhead Stand-alone systems 42
+computational overhead Picture/Image Generation 179
+computational overhead Antialiasingcomputational overhead Bitmap and framebuffer operations 6
+computational overhead Digitizing and scanning 302
+computational overhead Display algorithms 29
+computational overhead Line and curve generation 207
+computational overhead Viewing algorithms 84
+computational overhead Graphics Utilities 9
+computational overhead Application packages 17
+computational overhead Device drivers 8
+computational overhead Graphics editorscomputational overhead Graphics packages 2
+computational overhead Meta files 1
+computational overhead Paint systemscomputational overhead Picture description languages 17
+computational overhead Software support 47
+computational overhead Virtual device interfaces 58
+computational overhead Computational Geometry and Object Modeling 242
+computational overhead Boundary representations 13
+computational overhead Constructive solid geometry 23
+computational overhead Curve, surface, solid, and object representations 3
+computational overhead Geometric algorithms, languages, and systems 65
+computational overhead Hierarchy and geometric transformations 24
+computational overhead Modeling packages 19
+computational overhead Object hierarchies 11
+computational overhead Physically based modeling 2749
+computational overhead Splines 22
+computational overhead Methodology and Techniques 1402
+computational overhead Device independence 29
+computational overhead Ergonomics 1
+computational overhead Graphics data structures and data types 668
+computational overhead Interaction techniques 100
+computational overhead Languages 93
+computational overhead Standards 367
+computational overhead Three-Dimensional Graphics and Realism 8
+computational overhead Animation 23
+computational overhead Color, shading, shadowing, and texture 1
+computational overhead Fractals 5
+computational overhead Hidden line/surface removal 5
+computational overhead Radiosity 3
+computational overhead Raytracing 1
+computational overhead Virtual reality 4
+computational overhead Visible line/surface algorithms 31
+computational overhead Applications 1063
+computational overhead Miscellaneouscomputational overhead IMAGE PROCESSING AND COMPUTER VISION 307
+computational overhead General 1053
+computational overhead Image displays 20
+computational overhead Image processing software 346
+computational overhead Digitization and Image Capture 81
+computational overhead Camera calibration 6
+computational overhead Imaging geometry 22
+computational overhead Quantization 47
+computational overhead Radiometrycomputational overhead Reflectance 74
+computational overhead Sampling 261
+computational overhead Scanning 67
+computational overhead Compression 137
+computational overhead Approximate methods 285
+computational overhead Exact coding 12
+computational overhead Enhancement 276
+computational overhead Filtering 306
+computational overhead Geometric correction 16
+computational overhead Grayscale manipulationcomputational overhead Registration 24
+computational overhead Sharpening and deblurring 2
+computational overhead Smoothing 82
+computational overhead Restoration 29
+computational overhead Inverse filtering 26
+computational overhead Kalman filtering 34
+computational overhead Pseudoinverse restorationcomputational overhead Wiener filtering 6
+computational overhead Reconstruction 119
+computational overhead Series expansion methods 106
+computational overhead Summation methods 8
+computational overhead Transform methods 163
+computational overhead Segmentation 98
+computational overhead Edge and feature detection 157
+computational overhead Pixel classification 13
+computational overhead Region growing, partitioning 56
+computational overhead Relaxation 41
+computational overhead Feature Measurement 93
+computational overhead Feature representation 64
+computational overhead Invariants 50
+computational overhead Moments 34
+computational overhead Projections 147
+computational overhead Size and shape 628
+computational overhead Texture 41
+computational overhead Scene Analysis 13
+computational overhead Color 71
+computational overhead Depth cues 3
+computational overhead Motion 141
+computational overhead Object recognition 31
+computational overhead Photometrycomputational overhead Range data 184
+computational overhead Sensor fusion 16
+computational overhead Shading 7
+computational overhead Shape 113
+computational overhead Stereo 15
+computational overhead Surface fitting 17
+computational overhead Time-varying imagery 84
+computational overhead Tracking 164
+computational overhead Applications 1063
+computational overhead Image Representation 54
+computational overhead Hierarchical 159
+computational overhead Morphological 7
+computational overhead Multidimensional 52
+computational overhead Statistical 241
+computational overhead Volumetric 8
+computational overhead Miscellaneouscomputational overhead PATTERN RECOGNITION 55
+computational overhead General 1053
+computational overhead Models 1033
+computational overhead Deterministic 70
+computational overhead Fuzzy set 29
+computational overhead Geometric 89
+computational overhead Neural nets 9
+computational overhead Statistical 241
+computational overhead Structural 494
+computational overhead Design Methodology 52
+computational overhead Classifier design and evaluation 280
+computational overhead Feature evaluation and selection 342
+computational overhead Pattern analysis 84
+computational overhead Clustering 219
+computational overhead Algorithms 1331
+computational overhead Similarity measures 158
+computational overhead Applications 1063
+computational overhead Computer vision 71
+computational overhead Signal processing 208
+computational overhead Text processing 18
+computational overhead Waveform analysis 8
+computational overhead Implementation 458
+computational overhead Interactive systems 125
+computational overhead Special architectures 20
+computational overhead Miscellaneouscomputational overhead SIMULATION AND MODELING 43259
+computational overhead General 1053
+computational overhead Simulation Theory 65
+computational overhead Model classification 79
+computational overhead Systems theory 115
+computational overhead Types of simulation 1063
+computational overhead Simulation Languages 22
+computational overhead Applications 1063
+computational overhead Model Validation and Analysis 1975
+computational overhead Model Development 380
+computational overhead Modeling methodologies 68
+computational overhead Simulation Output Analysis 2442
+computational overhead Simulation Support Systems 3676
+computational overhead Environments 368
+computational overhead Types of Simulation 1063
+computational overhead Animation 23
+computational overhead Combined 447
+computational overhead Continuous 217
+computational overhead Discrete event 21
+computational overhead Distributed 716
+computational overhead Gaming 40
+computational overhead Monte Carlo 57
+computational overhead Parallel 298
+computational overhead Visual 123
+computational overhead Miscellaneouscomputational overhead DOCUMENT AND TEXT PROCESSING 58
+computational overhead General 1053
+computational overhead Document and Text Editing 18
+computational overhead Document management 15
+computational overhead Languages 93
+computational overhead Spelling 2
+computational overhead Version control 48
+computational overhead Document Preparation 1
+computational overhead Desktop publishing 1
+computational overhead Format and notation 135
+computational overhead Hypertext/hypermediacomputational overhead Index generation 74
+computational overhead Languages and systems 2748
+computational overhead Markup languages 3
+computational overhead Multi/mixed media 17
+computational overhead Scripting languages 6
+computational overhead Standards 367
+computational overhead Index Generation 74
+computational overhead Electronic Publishing 8
+computational overhead Document Capture 4
+computational overhead Document analysis 28
+computational overhead Optical character recognition 12
+computational overhead Scanning 67
+computational overhead Miscellaneouscomputational overhead MISCELLANEOUScomputational overhead GENERAL 1053
+computational overhead ADMINISTRATIVE DATA PROCESSING 453
+computational overhead Business 26
+computational overhead Education 22
+computational overhead Financial 7
+computational overhead Government 29
+computational overhead Law 47
+computational overhead Manufacturing 19
+computational overhead Marketing 32
+computational overhead Military 46
+computational overhead PHYSICAL SCIENCES AND ENGINEERING 262
+computational overhead Aerospace 23
+computational overhead Archaeologycomputational overhead Astronomy 11
+computational overhead Chemistry 19
+computational overhead Earth and atmospheric sciences 6
+computational overhead Electronics 158
+computational overhead Engineering 235
+computational overhead Mathematics and statistics 830
+computational overhead Physics 238
+computational overhead LIFE AND MEDICAL SCIENCES 43
+computational overhead Biology and genetics 1771
+computational overhead Health 30
+computational overhead Medical information systems 515
+computational overhead SOCIAL AND BEHAVIORAL SCIENCES 72
+computational overhead Economics 42
+computational overhead Psychology 1
+computational overhead Sociology 1
+computational overhead ARTS AND HUMANITIES 237
+computational overhead Architecture 287
+computational overhead Fine artscomputational overhead Language translation 14
+computational overhead Linguistics 16
+computational overhead Literature 239
+computational overhead Music 17
+computational overhead Performing arts 72
+computational overhead COMPUTER-AIDED ENGINEERING 307
+computational overhead Computer-aided design 741
+computational overhead Computer-aided manufacturing 93
+computational overhead COMPUTERS IN OTHER SYSTEMS 1804
+computational overhead Command and control 483
+computational overhead Consumer products 9
+computational overhead Industrial control 20
+computational overhead Military 46
+computational overhead Process control 173
+computational overhead Publishing 86
+computational overhead Real time 383
+computational overhead MISCELLANEOUScomputational overhead GENERAL 1053
+computational overhead THE COMPUTER INDUSTRY 6135
+computational overhead Markets 32
+computational overhead Standards 367
+computational overhead Statistics 241
+computational overhead Suppliers 4
+computational overhead HISTORY OF COMPUTING 2630
+computational overhead Hardware 183
+computational overhead People 32
+computational overhead Software 178
+computational overhead Systems 1263
+computational overhead Theory 184
+computational overhead COMPUTERS AND EDUCATION 2516
+computational overhead General 1053
+computational overhead Computer Uses in Education 2035
+computational overhead Collaborative learning 9
+computational overhead Computer-assisted instruction 89
+computational overhead Computer-managed instruction 400
+computational overhead Distance learning 31
+computational overhead Computer and Information Science Education 179
+computational overhead Accreditationcomputational overhead Computer science education 466
+computational overhead Curriculumcomputational overhead Information systems education 717
+computational overhead Literacycomputational overhead Self-assessment 7
+computational overhead Miscellaneouscomputational overhead Accreditationcomputational overhead Computer 2463
+computational overhead COMPUTERS AND SOCIETY 2482
+computational overhead General 1053
+computational overhead Public Policy Issues 79
+computational overhead Computer-related health issues 122
+computational overhead Ethicscomputational overhead Human safetycomputational overhead Intellectual property rights 13
+computational overhead Privacy 108
+computational overhead Regulation 17
+computational overhead Transborder data flow 91
+computational overhead Social Issues 4
+computational overhead Assistive technologies for persons with disabilities 15
+computational overhead Employment 4
+computational overhead Handicapped persons/special needscomputational overhead Organizational Impactscomputational overhead Automation 81
+computational overhead Computer-supported collaborative work 233
+computational overhead Employment 4
+computational overhead Reengineeringcomputational overhead Electronic Commerce 7
+computational overhead Electronic data interchange 68
+computational overhead Intellectual property 1
+computational overhead Payment schemes 10
+computational overhead Security 485
+computational overhead Miscellaneouscomputational overhead LEGAL ASPECTS OF COMPUTING 124
+computational overhead General 1053
+computational overhead Hardware/Software Protection 128
+computational overhead Copyrights 7
+computational overhead Licensing 6
+computational overhead Patents 1
+computational overhead Proprietary rightscomputational overhead Trade secrets 6
+computational overhead Governmental Issuescomputational overhead Censorshipcomputational overhead Regulation 17
+computational overhead Taxationcomputational overhead Miscellaneouscomputational overhead Contracts 13
+computational overhead Hardware 183
+computational overhead MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 761
+computational overhead General 1053
+computational overhead Economics 42
+computational overhead Project and People Management 54
+computational overhead Life cycle 5
+computational overhead Management techniques 161
+computational overhead Staffingcomputational overhead Strategic information systems planning 25
+computational overhead Systems analysis and design 4969
+computational overhead Systems development 422
+computational overhead Training 162
+computational overhead Installation Management 5
+computational overhead Benchmarks 109
+computational overhead Computer selection 461
+computational overhead Pricing and resource allocation 66
+computational overhead Software Management 45
+computational overhead Software development 82
+computational overhead Software maintenance 6
+computational overhead Software process 81
+computational overhead Software selection 32
+computational overhead System Management 223
+computational overhead Centralization/decentralization 17
+computational overhead Management audit 4
+computational overhead Quality assurance 8
+computational overhead Security and Protection 1679
+computational overhead Authentication 212
+computational overhead Insurance 10
+computational overhead Invasive software 2
+computational overhead Physical security 35
+computational overhead Unauthorized access 15
+computational overhead Miscellaneouscomputational overhead Insurance 10
+computational overhead Security 485
+computational overhead THE COMPUTING PROFESSION 2515
+computational overhead General 1053
+computational overhead Occupations 13
+computational overhead Organizations 118
+computational overhead Testing, Certification, and Licensing 5
+computational overhead Professional Ethicscomputational overhead Codes of ethics 405
+computational overhead Codes of good practice 240
+computational overhead Ethical dilemmascomputational overhead Miscellaneouscomputational overhead Codes 397
+computational overhead Ethicscomputational overhead PERSONAL COMPUTING 62
+computational overhead Games 40
+computational overhead General 1053
+computational overhead Games 40
+computational overhead Application Packages 17
+computational overhead Data communications 364
+computational overhead Database processing 82
+computational overhead Freeware/sharewarecomputational overhead Graphics 79
+computational overhead Spreadsheets 1
+computational overhead Word processing 33
+computational overhead Hardware 183
+computational overhead Management/Maintenance 21
+computational overhead Miscellaneouscomputational overhead MISCELLANEOUSreal time video GENERAL 855
+real time video Biographies autobiographies 1
+real time video Conference proceedings 1001
+real time video INTRODUCTORY AND SURVEY 89
+real time video REFERENCE 347
+real time video MISCELLANEOUSreal time video GENERAL 855
+real time video CONTROL STRUCTURES AND MICROPROGRAMMING 92
+real time video General 855
+real time video Control Design Styles 364
+real time video Hardwired control 839
+real time video Writable control store 57
+real time video Automatic synthesis 332
+real time video Formal models 964
+real time video Simulation 555
+real time video Control Structure Reliability, Testing, and Fault-Tolerance 29
+real time video Diagnostics 26
+real time video Error-checking 584
+real time video Redundant design 1061
+real time video Test generation 1349
+real time video Firmware engineering 247
+real time video Languages and compilers 125
+real time video Optimization 585
+real time video Verification 31
+real time video Direct data manipulation 177
+real time video Instruction set interpretation 45
+real time video Peripheral control 852
+real time video Special-purpose 427
+real time video Miscellaneousreal time video General 855
+real time video Design Styles 1005
+real time video Calculator 301
+real time video Parallel 320
+real time video Pipeline 113
+real time video Performance Analysis and Design Aids 117
+real time video Simulation 555
+real time video Verification 31
+real time video Worst-case analysis 114
+real time video Reliability, Testing, and Fault-Tolerance 10
+real time video Diagnostics 26
+real time video Error-checking 584
+real time video Redundant design 1061
+real time video Test generation 1349
+real time video High-Speed Arithmetic 321
+real time video Algorithms 1417
+real time video Cost/performance 1619
+real time video Miscellaneousreal time video MEMORY STRUCTURES 590
+real time video General 855
+real time video Semiconductor Memories 267
+real time video Dynamic memory 760
+real time video Read-only memory 92
+real time video Static memory 386
+real time video Design Styles 1005
+real time video Associative memories 456
+real time video Cache memories 294
+real time video Interleaved memories 291
+real time video Mass storage 168
+real time video Primary memory 324
+real time video Sequential-access memory 73
+real time video Shared memory 436
+real time video Virtual memory 430
+real time video Performance Analysis and Design Aids 117
+real time video Formal models 964
+real time video Simulation 555
+real time video Worst-case analysis 114
+real time video Reliability, Testing, and Fault-Tolerance 10
+real time video Diagnostics 26
+real time video Error-checking 584
+real time video Redundant design 1061
+real time video Test generation 1349
+real time video Miscellaneousreal time video INPUT/OUTPUT AND DATA COMMUNICATIONS 114
+real time video General 855
+real time video Data Communications Devices 839
+real time video Processors 331
+real time video Receivers 410
+real time video Transmitters 47
+real time video Input/Output Devices 135
+real time video Channels and controllers 711
+real time video Image display 1774
+real time video Voice 101
+real time video Interconnections 51
+real time video Asynchronous/synchronous operation 64
+real time video Fiber optics 291
+real time video Interfaces 255
+real time video Parallel I/O 151
+real time video Physical structures 547
+real time video Topology 70
+real time video Performance Analysis and Design Aids 117
+real time video Formal models 964
+real time video Simulation 555
+real time video Verification 31
+real time video Worst-case analysis 114
+real time video Reliability, Testing, and Fault-Tolerance 10
+real time video Built-in tests 538
+real time video Diagnostics 26
+real time video Error-checking 584
+real time video Hardware reliability 716
+real time video Redundant design 1061
+real time video Test generation 1349
+real time video Miscellaneousreal time video REGISTER-TRANSFER-LEVEL IMPLEMENTATION 36
+real time video General 855
+real time video Design 989
+real time video Arithmetic and logic units 22
+real time video Control design 3788
+real time video Data-path design 664
+real time video Memory design 1119
+real time video Styles 23
+real time video Design Aids 1020
+real time video Automatic synthesis 332
+real time video Hardware description languages 69
+real time video Optimization 585
+real time video Simulation 555
+real time video Verification 31
+real time video Reliability and Testing 693
+real time video Built-in tests 538
+real time video Error-checking 584
+real time video Redundant design 1061
+real time video Test generation 1349
+real time video Testability 1
+real time video Miscellaneousreal time video LOGIC DESIGN 1076
+real time video General 855
+real time video Design Styles 1005
+real time video Combinational logic 621
+real time video Logic arrays 239
+real time video Parallel circuits 529
+real time video Sequential circuits 296
+real time video Reliability and Testing 693
+real time video Built-in tests 538
+real time video Error-checking 584
+real time video Redundant design 1061
+real time video Test generation 1349
+real time video Testability 1
+real time video Design Aids 1020
+real time video Automatic synthesis 332
+real time video Hardware description languages 69
+real time video Optimization 585
+real time video Simulation 555
+real time video Switching theory 299
+real time video Verification 31
+real time video Miscellaneousreal time video INTEGRATED CIRCUITS 626
+real time video General 855
+real time video Types and Design Styles 138
+real time video Advanced technologies 1412
+real time video Algorithms implemented in hardware 628
+real time video Gate arrays 207
+real time video Input/output circuits 118
+real time video Memory technologies 1427
+real time video Microprocessors and microcomputers 48
+real time video Standard cells 715
+real time video VLSI 108
+real time video Design Aids 1020
+real time video Graphics 144
+real time video Layout 20
+real time video Placement and routing 146
+real time video Simulation 555
+real time video Verification 31
+real time video Reliability and Testing 693
+real time video Built-in tests 538
+real time video Error-checking 584
+real time video Redundant design 1061
+real time video Test generation 1349
+real time video Testability 1
+real time video Miscellaneousreal time video PERFORMANCE AND RELIABILITY 1830
+real time video General 855
+real time video Reliability, Testing, and Fault-Tolerance 10
+real time video Performance Analysis and Design Aids 117
+real time video Miscellaneousreal time video MISCELLANEOUSreal time video Design 989
+real time video GENERAL 855
+real time video Hardware/software interfaces 261
+real time video Instruction set design 242
+real time video Modeling of computer architecture 831
+real time video System architectures 4807
+real time video Systems specification methodology 828
+real time video PROCESSOR ARCHITECTURES 914
+real time video General 855
+real time video Single Data Stream Architectures 236
+real time video Pipeline processors 413
+real time video RISC/CISC, VLIW architectures 2
+real time video Von Neumann architectures 3
+real time video Multiple Data Stream Architectures 291
+real time video Array and vector processors 98
+real time video Associative processors 531
+real time video Connection machines 465
+real time video Interconnection architectures 722
+real time video Multiple-instruction-stream, multiple-data-stream processors 170
+real time video Parallel processors 631
+real time video Pipeline processors 413
+real time video Single-instruction-stream, multiple-data-stream processors 100
+real time video Other Architecture Styles 213
+real time video Adaptable architectures 1387
+real time video Analog computers 1435
+real time video Capability architectures 1132
+real time video Cellular architecture 750
+real time video Data-flow architectures 565
+real time video Heterogeneous 119
+real time video High-level language architectures 143
+real time video Neural nets 146
+real time video Pipeline processors 413
+real time video Stack-oriented processors 20
+real time video Parallel Architectures 960
+real time video Distributed architectures 1737
+real time video Mobile processors 745
+real time video Miscellaneousreal time video Analog 63
+real time video Hybrid 151
+real time video COMPUTER-COMMUNICATION NETWORKS 1220
+real time video General 855
+real time video Data communications 3331
+real time video Open Systems Interconnection reference model 13
+real time video Security and protection 310
+real time video Network Architecture and Design 865
+real time video Asynchronous Transfer Mode 62
+real time video Centralized networks 1238
+real time video Circuit-switching networks 193
+real time video Distributed networks 2115
+real time video Frame relay networks 392
+real time video ISDN 19
+real time video Network communications 1939
+real time video Network topology 1251
+real time video Packet-switching networks 524
+real time video Store and forward networks 206
+real time video Wireless communication 1337
+real time video Network Protocols 1461
+real time video Applications 1559
+real time video Protocol architecture 1057
+real time video Protocol verification 473
+real time video Routing protocols 549
+real time video Network Operations 1899
+real time video Network management 1450
+real time video Network monitoring 1496
+real time video Public networks 1228
+real time video Distributed Systems 3897
+real time video Client/server 270
+real time video Distributed applications 2865
+real time video Distributed databases 778
+real time video Network operating systems 1359
+real time video Local and Wide-Area Networks 160
+real time video Access schemes 992
+real time video Buses 7
+real time video Ethernet 35
+real time video High-speed 1441
+real time video Internet 370
+real time video Token rings 41
+real time video Internetworking 9
+real time video Routers 69
+real time video Standards 602
+real time video Miscellaneousreal time video SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 154
+real time video Microprocessor/microcomputer applications 27
+real time video Process control systems 2167
+real time video Real-time and embedded systems 2018
+real time video Signal processing systems 1860
+real time video Smartcardsreal time video PERFORMANCE OF SYSTEMS 4532
+real time video Design studies 1474
+real time video Fault tolerance 236
+real time video Measurement techniques 2296
+real time video Modeling techniques 1768
+real time video Performance attributes 1512
+real time video Reliability, availability, and serviceability 230
+real time video COMPUTER SYSTEM IMPLEMENTATION 1747
+real time video General 855
+real time video Large and Medium 518
+real time video Super 26
+real time video Minicomputers 3
+real time video Microcomputers 5
+real time video Microprocessors 40
+real time video Personal computers 1481
+real time video Portable devices 402
+real time video Workstations 33
+real time video VLSI Systems 2052
+real time video Servers 193
+real time video Miscellaneousreal time video MISCELLANEOUSreal time video GENERAL 855
+real time video PROGRAMMING TECHNIQUES 1335
+real time video General 855
+real time video Applicative 1559
+real time video Automatic Programming 520
+real time video Concurrent Programming 334
+real time video Distributed programming 1237
+real time video Parallel programming 552
+real time video Sequential Programming 280
+real time video Object-oriented Programming 202
+real time video Logic Programming 351
+real time video Visual Programming 776
+real time video Miscellaneousreal time video SOFTWARE ENGINEERING 937
+real time video General 855
+real time video Protection mechanisms 501
+real time video Standards 602
+real time video Requirements/Specifications 1668
+real time video Elicitation methods 1093
+real time video Languages 84
+real time video Methodologies 110
+real time video Tools 283
+real time video Design Tools and Techniques 475
+real time video Computer-aided software engineering 49
+real time video Decision tables 343
+real time video Evolutionary prototyping 192
+real time video Flow charts 327
+real time video Modules and interfaces 514
+real time video Object-oriented design methods 225
+real time video Petri nets 48
+real time video Programmer workbench 153
+real time video Software libraries 490
+real time video State diagrams 649
+real time video Structured programming 575
+real time video Top-down programming 22
+real time video User interfaces 725
+real time video Coding Tools and Techniques 446
+real time video Object-oriented programming 202
+real time video Pretty printers 6
+real time video Program editors 232
+real time video Reentrant code 818
+real time video Standards 602
+real time video Structured programming 575
+real time video Top-down programming 22
+real time video Software/Program Verification 109
+real time video Assertion checkers 7
+real time video Class invariants 197
+real time video Correctness proofs 225
+real time video Formal methods 1161
+real time video Model checking 1011
+real time video Programming by contract 183
+real time video Reliability 239
+real time video Statistical methods 1240
+real time video Validation 116
+real time video Testing and Debugging 482
+real time video Code inspections and walk-throughs 1
+real time video Debugging aids 50
+real time video Diagnostics 26
+real time video Distributed debugging 598
+real time video Dumps 2
+real time video Error handling and recovery 76
+real time video Monitors 290
+real time video Symbolic execution 154
+real time video Testing tools 762
+real time video Tracing 75
+real time video Programming Environments 818
+real time video Graphical environments 685
+real time video Integrated environments 893
+real time video Interactive environments 1259
+real time video Programmer workbench 153
+real time video Distribution, Maintenance, and Enhancement 94
+real time video Corrections 197
+real time video Documentation 4
+real time video Enhancement 355
+real time video Extensibility 292
+real time video Portability 64
+real time video Restructuring, reverse engineering, and reengineeringreal time video Version control 969
+real time video Metrics 155
+real time video Complexity measures 978
+real time video Performance measures 2247
+real time video Process metrics 1603
+real time video Product metrics 275
+real time video Software science 965
+real time video Management 249
+real time video Copyrights 17
+real time video Cost estimation 936
+real time video Life cycle 151
+real time video Productivity 117
+real time video Programming teams 261
+real time video Software configuration management 107
+real time video Software process models 848
+real time video Software quality assurance 141
+real time video Time estimation 3284
+real time video Design 989
+real time video Methodologies 110
+real time video Representation 150
+real time video Software Architectures 1249
+real time video Data abstraction 1458
+real time video Domain-specific architectures 186
+real time video Information hiding 884
+real time video Languages 84
+real time video Patterns 217
+real time video Interoperability 25
+real time video Data mapping 1829
+real time video Distributed objects 2123
+real time video Interface definition languages 32
+real time video Reusable Software 408
+real time video Domain engineering 489
+real time video Reusable libraries 74
+real time video Reuse models 896
+real time video Miscellaneousreal time video Rapid 97
+real time video Reusable 8
+real time video PROGRAMMING LANGUAGES 612
+real time video General 855
+real time video Standards 602
+real time video Formal Definitions and Theory 23
+real time video Semantics 43
+real time video Syntax 8
+real time video Language Classifications 225
+real time video Applicative 1559
+real time video Concurrent, distributed, and parallel languages 13
+real time video Constraint and logic languages 103
+real time video Data-flow languages 233
+real time video Design languages 1054
+real time video Extensible languages 444
+real time video Microprogramming languages 85
+real time video Multiparadigm languages 84
+real time video Nondeterministic languages 87
+real time video Nonprocedural languages 84
+real time video Object-oriented languages 178
+real time video Specialized application languages 176
+real time video Very high-level languages 98
+real time video Language Constructs and Features 74
+real time video Abstract data types 212
+real time video Classes and objects 709
+real time video Concurrent programming structures 71
+real time video Constraints 286
+real time video Control structures 2072
+real time video Coroutinesreal time video Data types and structures 457
+real time video Dynamic storage management 95
+real time video Frameworks 343
+real time video Inheritance 4
+real time video Input/output 419
+real time video Modules, packages 318
+real time video Patterns 217
+real time video Polymorphismreal time video Procedures, functions, and subroutines 37
+real time video Recursion 58
+real time video Processors 331
+real time video Code generation 1479
+real time video Compilers 35
+real time video Debuggersreal time video Incremental compilers 62
+real time video Interpreters 37
+real time video Memory management 501
+real time video Optimization 585
+real time video Parsing 15
+real time video Preprocessors 4
+real time video Retargetable compilers 37
+real time video Run-time environments 658
+real time video Translator writing systems and compiler generators 2
+real time video Miscellaneousreal time video OPERATING SYSTEMS 5649
+real time video General 855
+real time video Process Management 1939
+real time video Concurrency 44
+real time video Deadlocks 2
+real time video Multiprocessing/multiprogramming/multitaskingreal time video Mutual exclusion 19
+real time video Scheduling 210
+real time video Synchronization 132
+real time video Threads 21
+real time video Storage Management 384
+real time video Allocation/deallocation strategies 50
+real time video Distributed memories 1020
+real time video Garbage collection 246
+real time video Main memory 530
+real time video Secondary storage 162
+real time video Segmentation 260
+real time video Storage hierarchies 165
+real time video Swapping 8
+real time video Virtual memory 430
+real time video File Systems Management 238
+real time video Access methods 1418
+real time video Directory structures 374
+real time video Distributed file systems 498
+real time video File organization 190
+real time video Maintenance 34
+real time video Communications Management 1441
+real time video Buffering 269
+real time video Input/output 419
+real time video Message sending 231
+real time video Network communication 1939
+real time video Terminal management 337
+real time video Reliability 239
+real time video Backup procedures 156
+real time video Checkpoint/restart 5
+real time video Fault-tolerance 236
+real time video Verification 31
+real time video Security and Protection 310
+real time video Access controls 1143
+real time video Authentication 32
+real time video Cryptographic controls 846
+real time video Information flow controls 496
+real time video Invasive software 418
+real time video Security kernels 267
+real time video Verification 31
+real time video Organization and Design 1047
+real time video Batch processing systems 946
+real time video Distributed systems 3897
+real time video Hierarchical design 1080
+real time video Interactive systems 3050
+real time video Real-time systems and embedded systems 1973
+real time video Performance 1441
+real time video Measurements 452
+real time video Modeling and prediction 1241
+real time video Monitors 290
+real time video Operational analysis 1929
+real time video Queueing theory 210
+real time video Simulation 555
+real time video Stochastic analysis 601
+real time video Command and control languages 50
+real time video Linkersreal time video Loaders 1
+real time video Window managers 390
+real time video Miscellaneousreal time video MISCELLANEOUSreal time video Software 402
+real time video GENERAL 855
+real time video DATA STRUCTURES 2268
+real time video Arrays 156
+real time video Distributed data structures 584
+real time video Graphs and networks 1210
+real time video Lists, stacks, and queues 5
+real time video Records 174
+real time video Tables 181
+real time video Trees 113
+real time video DATA STORAGE REPRESENTATIONS 172
+real time video Composite structures 442
+real time video Contiguous representations 158
+real time video Hash-table representations 27
+real time video Linked representations 465
+real time video Object representation 761
+real time video Primitive data items 29
+real time video DATA ENCRYPTION 1278
+real time video Code breaking 842
+real time video Data encryption standard 307
+real time video Public key cryptosystems 14
+real time video Standards 602
+real time video CODING AND INFORMATION THEORY 313
+real time video Data compaction and compression 294
+real time video Error control codes 542
+real time video Formal models of communication 310
+real time video Nonsecret encoding schemes 277
+real time video FILES 94
+real time video Backup/recovery 79
+real time video Optimization 585
+real time video Organization/structure 459
+real time video Sorting/searching 320
+real time video MISCELLANEOUSreal time video GENERAL 855
+real time video COMPUTATION BY ABSTRACT DEVICES 190
+real time video General 855
+real time video Models of Computation 2109
+real time video Automata 1
+real time video Bounded-action devices 22
+real time video Computability theory 1672
+real time video Relations between models 452
+real time video Self-modifying machines 31
+real time video Unbounded-action devices 7
+real time video Modes of Computation 1613
+real time video Alternation and nondeterminism 155
+real time video Interactive and reactive computation 188
+real time video Online computation 1530
+real time video Parallelism and concurrency 368
+real time video Probabilistic computation 1397
+real time video Relations among modes 101
+real time video Relativized computation 1371
+real time video Complexity Measures and Classes 164
+real time video Complexity hierarchies 643
+real time video Machine-independent complexity 112
+real time video Reducibility and completeness 843
+real time video Relations among complexity classes 31
+real time video Relations among complexity measures 54
+real time video Miscellaneousreal time video ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 283
+real time video General 855
+real time video Numerical Algorithms and Problems 444
+real time video Computation of transforms 1756
+real time video Computations in finite fields 222
+real time video Computations on matrices 1288
+real time video Computations on polynomials 1322
+real time video Number-theoretic computations 412
+real time video Nonnumerical Algorithms and Problems 382
+real time video Computations on discrete structures 278
+real time video Geometrical problems and computations 389
+real time video Pattern matching 516
+real time video Routing and layout 149
+real time video Sequencing and scheduling 705
+real time video Sorting and searching 318
+real time video Tradeoffs between Complexity Measures 66
+real time video Miscellaneousreal time video LOGICS AND MEANINGS OF PROGRAMS 51
+real time video General 855
+real time video Assertions 2
+real time video Invariants 49
+real time video Logics of programs 349
+real time video Mechanical verification 432
+real time video Pre- and post-conditions 52
+real time video Specification techniques 1370
+real time video Semantics of Programming Languages 39
+real time video Algebraic approaches to semantics 37
+real time video Denotational semantics 117
+real time video Operational semantics 817
+real time video Partial evaluation 622
+real time video Process models 2960
+real time video Program analysis 941
+real time video Studies of Program Constructs 114
+real time video Control primitives 906
+real time video Functional constructs 692
+real time video Object-oriented constructs 176
+real time video Program and recursion schemes 71
+real time video Type structure 681
+real time video Miscellaneousreal time video MATHEMATICAL LOGIC AND FORMAL LANGUAGES 1
+real time video General 855
+real time video Mathematical Logic 155
+real time video Computability theory 1672
+real time video Computational logic 1585
+real time video Lambda calculus and related systems 1
+real time video Logic and constraint programming 63
+real time video Mechanical theorem proving 24
+real time video Modal logic 122
+real time video Model theory 1033
+real time video Proof theory 158
+real time video Recursive function theory 54
+real time video Set theory 672
+real time video Temporal logic 498
+real time video Grammars and Other Rewriting Systems 1
+real time video Decision problems 1019
+real time video Grammar types 357
+real time video Parallel rewriting systems 215
+real time video Parsing 15
+real time video Thue systems 1997
+real time video Formal Languages 132
+real time video Algebraic language theory 4
+real time video Classes defined by grammars or automatareal time video Decision problems 1019
+real time video Operations on languages 965
+real time video Miscellaneousreal time video MISCELLANEOUSreal time video GENERAL 855
+real time video NUMERICAL ANALYSIS 674
+real time video General 855
+real time video Computer arithmetic 1426
+real time video Conditioning 394
+real time video Error analysis 1026
+real time video Interval arithmetic 143
+real time video Multiple precision arithmetic 29
+real time video Numerical algorithms 1505
+real time video Parallel algorithms 1672
+real time video Stability 88
+real time video Interpolation 79
+real time video Difference formulas 999
+real time video Extrapolation 14
+real time video Interpolation formulas 109
+real time video Smoothing 136
+real time video Approximation 210
+real time video Chebyshev approximation and theory 15
+real time video Elementary function approximation 79
+real time video Fast Fourier transforms 120
+real time video Least squares approximation 54
+real time video Linear approximation 386
+real time video Minimax approximation and algorithms 116
+real time video Nonlinear approximation 254
+real time video Rational approximation 217
+real time video Special function approximations 129
+real time video Spline and piecewise polynomial approximation 1
+real time video Wavelets and fractals 133
+real time video Numerical Linear Algebra 21
+real time video Conditioning 394
+real time video Determinants 326
+real time video Eigenvalues and eigenvectors 10
+real time video Error analysis 1026
+real time video Linear systems 2118
+real time video Matrix inversion 150
+real time video Pseudoinversesreal time video Singular value decomposition 12
+real time video Sparse, structured, and very large systems 27
+real time video Quadrature and Numerical Differentiation 9
+real time video Automatic differentiation 408
+real time video Error analysis 1026
+real time video Finite difference methods 452
+real time video Gaussian quadrature 127
+real time video Iterative methods 1165
+real time video Multidimensional 9
+real time video Roots of Nonlinear Equations 12
+real time video Continuation 200
+real time video Convergence 62
+real time video Error analysis 1026
+real time video Iterative methods 1165
+real time video Polynomials, methods for 1060
+real time video Systems of equations 2650
+real time video Optimization 585
+real time video Constrained optimization 676
+real time video Convex programming 250
+real time video Global optimization 751
+real time video Gradient methods 1126
+real time video Integer programming 262
+real time video Least squares methods 112
+real time video Linear programming 422
+real time video Nonlinear programming 271
+real time video Quadratic programming methods 102
+real time video Simulated annealing 566
+real time video Stochastic programming 256
+real time video Unconstrained optimization 590
+real time video Ordinary Differential Equations 12
+real time video Boundary value problems 187
+real time video Chaotic systems 2000
+real time video Convergence and stability 145
+real time video Differential-algebraic equations 13
+real time video Error analysis 1026
+real time video Finite difference methods 452
+real time video Initial value problems 232
+real time video Multistep and multivalue methods 1
+real time video One-step 2954
+real time video Stiff equations 120
+real time video Partial Differential Equations 23
+real time video Domain decomposition methods 153
+real time video Elliptic equations 115
+real time video Finite difference methods 452
+real time video Finite element methods 105
+real time video Finite volume methods 54
+real time video Hyperbolic equations 113
+real time video Inverse problems 760
+real time video Iterative solution techniques 236
+real time video Method of lines 1303
+real time video Multigrid and multilevel methods 4
+real time video Parabolic equations 113
+real time video Spectral methods 1198
+real time video Integral Equations 554
+real time video Delay equations 595
+real time video Fredholm equations 112
+real time video Integro-differential equations 11
+real time video Volterra equations 112
+real time video Applications 1559
+real time video Miscellaneousreal time video DISCRETE MATHEMATICS 190
+real time video General 855
+real time video Combinatorics 1
+real time video Combinatorial algorithms 1421
+real time video Counting problems 741
+real time video Generating functions 1245
+real time video Permutations and combinations 553
+real time video Recurrences and difference equations 62
+real time video Graph Theory 198
+real time video Graph algorithms 1440
+real time video Graph labeling 129
+real time video Hypergraphs 1
+real time video Network problems 1736
+real time video Path and circuit problems 141
+real time video Trees 113
+real time video Applications 1559
+real time video Miscellaneousreal time video PROBABILITY AND STATISTICS 405
+real time video Contingency table analysis 48
+real time video Correlation and regression analysis 66
+real time video Distribution functions 1416
+real time video Experimental design 1511
+real time video Markov processes 1505
+real time video Multivariate statistics 263
+real time video Nonparametric statistics 262
+real time video Probabilistic algorithms 1444
+real time video Queueing theory 210
+real time video Random number generation 324
+real time video Reliability and life testing 65
+real time video Renewal theory 134
+real time video Robust regression 393
+real time video Statistical computing 1516
+real time video Statistical software 644
+real time video Stochastic processes 1505
+real time video Survival analysis 575
+real time video Time series analysis 617
+real time video MATHEMATICAL SOFTWARE 461
+real time video Algorithm design and analysis 762
+real time video Certification and testing 472
+real time video Documentation 4
+real time video Efficiency 846
+real time video Parallel and vector implementations 254
+real time video Portability 64
+real time video Reliability and robustness 571
+real time video User interfaces 725
+real time video Verification 31
+real time video MISCELLANEOUSreal time video Queueing 71
+real time video GENERAL 855
+real time video MODELS AND PRINCIPLES 957
+real time video General 855
+real time video Systems and Information Theory 920
+real time video General systems theory 700
+real time video Information theory 1059
+real time video Value of information 1111
+real time video User/Machine Systems 511
+real time video Human factors 501
+real time video Human information processing 603
+real time video Software psychology 409
+real time video Miscellaneousreal time video DATABASE MANAGEMENT 656
+real time video General 855
+real time video Security, integrity, and protection 71
+real time video Logical Design 1076
+real time video Data models 3855
+real time video Normal forms 477
+real time video Schema and subschema 7
+real time video Physical Design 1152
+real time video Access methods 1418
+real time video Deadlock avoidance 199
+real time video Recovery and restart 75
+real time video Languages 84
+real time video Data description languages 164
+real time video Data manipulation languages 88
+real time video Database 119
+real time video Query languages 133
+real time video Report writers 279
+real time video Systems 1997
+real time video Concurrency 44
+real time video Distributed databases 778
+real time video Multimedia databases 716
+real time video Object-oriented databases 151
+real time video Parallel databases 439
+real time video Query processing 1532
+real time video Relational databases 372
+real time video Rule-based databases 138
+real time video Textual databases 125
+real time video Transaction processing 1704
+real time video Heterogeneous Databases 238
+real time video Data translation 1328
+real time video Program translation 328
+real time video Database Machines 293
+real time video Database Administration 164
+real time video Data dictionary/directory 5
+real time video Data warehouse and repository 10
+real time video Logging and recovery 107
+real time video Security, integrity, and protection 71
+real time video Database Applications 2082
+real time video Data mining 1461
+real time video Image databases 1437
+real time video Scientific databases 176
+real time video Spatial databases and GIS 29
+real time video Statistical databases 369
+real time video Miscellaneousreal time video INFORMATION STORAGE AND RETRIEVAL 142
+real time video General 855
+real time video Content Analysis and Indexing 132
+real time video Abstracting methods 1163
+real time video Dictionaries 5
+real time video Indexing methods 1174
+real time video Linguistic processing 1464
+real time video Thesaurusesreal time video Information Storage 1055
+real time video File organization 190
+real time video Record classification 312
+real time video Information Search and Retrieval 166
+real time video Clustering 113
+real time video Information filtering 1237
+real time video Query formulation 141
+real time video Relevance feedback 237
+real time video Retrieval models 988
+real time video Search process 1663
+real time video Selection process 1729
+real time video Systems and Software 5646
+real time video Current awareness systems 407
+real time video Distributed systems 3897
+real time video Information networks 2293
+real time video Performance evaluation 2239
+real time video Question-answering 48
+real time video Online Information Services 262
+real time video Commercial services 661
+real time video Data sharing 1695
+real time video Web-based services 497
+real time video Library Automation 189
+real time video Large text archives 20
+real time video Digital Libraries 535
+real time video Collection 123
+real time video Dissemination 25
+real time video Standards 602
+real time video Systems issues 3712
+real time video User issues 787
+real time video Miscellaneousreal time video INFORMATION SYSTEMS APPLICATIONS 1997
+real time video General 855
+real time video Office Automation 147
+real time video Desktop publishing 87
+real time video Equipment 119
+real time video Groupwarereal time video Spreadsheets 1
+real time video Time management 3270
+real time video Word processing 1483
+real time video Workflow management 260
+real time video Types of Systems 2089
+real time video Decision support 1057
+real time video Logistics 8
+real time video Communications Applications 2804
+real time video Bulletin boards 86
+real time video Computer conferencing, teleconferencing, and videoconferencing 5
+real time video Electronic mail 264
+real time video Information browsers 905
+real time video Videotexreal time video Miscellaneousreal time video INFORMATION INTERFACES AND PRESENTATION 642
+real time video General 855
+real time video Multimedia Information Systems 1084
+real time video Animations 51
+real time video Artificial, augmented, and virtual realities 23
+real time video Audio input/output 100
+real time video Evaluation/methodology 628
+real time video Video 3255
+real time video User Interfaces 725
+real time video Auditory 4
+real time video Benchmarking 34
+real time video Ergonomicsreal time video Evaluation/methodology 628
+real time video Graphical user interfaces 181
+real time video Haptic I/O 76
+real time video Input devices and strategies 64
+real time video Interaction styles 382
+real time video Natural language 313
+real time video Prototyping 178
+real time video Screen design 1050
+real time video Standardization 602
+real time video Style guides 70
+real time video Theory and methods 1162
+real time video Training, help, and documentation 11
+real time video User-centered design 295
+real time video User interface management systems 159
+real time video Voice I/O 95
+real time video Windowing systems 2097
+real time video Group and Organization Interfaces 43
+real time video Asynchronous interaction 390
+real time video Collaborative computing 1602
+real time video Computer-supported cooperative work 149
+real time video Evaluation/methodology 628
+real time video Organizational design 991
+real time video Synchronous interaction 467
+real time video Theory and models 942
+real time video Web-based interaction 313
+real time video Hypertext/Hypermedia 9
+real time video Architectures 697
+real time video Navigation 60
+real time video Theory 130
+real time video User issues 787
+real time video Sound and Music Computing 65
+real time video Methodologies and techniques 1071
+real time video Modeling 866
+real time video Systems 1997
+real time video Miscellaneousreal time video MISCELLANEOUSreal time video GENERAL 855
+real time video SYMBOLIC AND ALGEBRAIC MANIPULATION 2
+real time video General 855
+real time video Expressions and Their Representation 82
+real time video Representations 150
+real time video Simplification of expressions 138
+real time video Algorithms 1417
+real time video Algebraic algorithms 1422
+real time video Analysis of algorithms 2034
+real time video Nonalgebraic algorithms 1417
+real time video Languages and Systems 2078
+real time video Evaluation strategies 744
+real time video Nonprocedural languages 84
+real time video Special-purpose algebraic systems 30
+real time video Special-purpose hardware 126
+real time video Substitution mechanisms 415
+real time video Applications 1559
+real time video Miscellaneousreal time video ARTIFICIAL INTELLIGENCE 291
+real time video General 855
+real time video Cognitive simulation 578
+real time video Philosophical foundations 22
+real time video Applications and Expert Systems 1173
+real time video Cartography 2
+real time video Games 56
+real time video Industrial automation 302
+real time video Law 26
+real time video Medicine and science 489
+real time video Natural language interfaces 57
+real time video Office automation 147
+real time video Automatic Programming 520
+real time video Automatic analysis of algorithms 458
+real time video Program modification 303
+real time video Program synthesis 279
+real time video Program transformation 603
+real time video Program verification 329
+real time video Deduction and Theorem Proving 6
+real time video Answer/reason extraction 20
+real time video Deduction 1
+real time video Inference engines 290
+real time video Logic programming 351
+real time video Mathematical induction 67
+real time video Metatheoryreal time video Nonmonotonic reasoning and belief revisionreal time video Resolution 312
+real time video Knowledge Representation Formalisms and Methods 17
+real time video Frames and scripts 992
+real time video Modal logic 122
+real time video Predicate logic 99
+real time video Relation systems 2105
+real time video Representation languages 229
+real time video Representations 150
+real time video Semantic networks 1203
+real time video Temporal logic 498
+real time video Programming Languages and Software 203
+real time video Expert system tools and techniques 118
+real time video Learning 174
+real time video Analogies 5
+real time video Concept learning 387
+real time video Connectionism and neural nets 6
+real time video Induction 3
+real time video Knowledge acquisition 229
+real time video Language acquisition 168
+real time video Parameter learning 598
+real time video Natural Language Processing 171
+real time video Discourse 1
+real time video Language generation 960
+real time video Language models 975
+real time video Language parsing and understanding 8
+real time video Machine translation 240
+real time video Speech recognition and synthesis 34
+real time video Text analysis 631
+real time video Problem Solving, Control Methods, and Search 75
+real time video Backtrackingreal time video Control theory 1367
+real time video Dynamic programming 810
+real time video Graph and tree search strategies 7
+real time video Heuristic methods 1145
+real time video Plan execution, formation, and generation 6
+real time video Scheduling 210
+real time video Robotics 127
+real time video Autonomous vehicles 221
+real time video Kinematics and dynamics 576
+real time video Manipulators 78
+real time video Operator interfaces 1452
+real time video Propelling mechanisms 399
+real time video Sensors 172
+real time video Vision and Scene Understanding 95
+real time video Architecture and control structures 333
+real time video Motion 672
+real time video Perceptual reasoning 220
+real time video Shape 146
+real time video Texture 102
+real time video Video analysis 3255
+real time video Distributed Artificial Intelligence 85
+real time video Coherence and coordination 150
+real time video Intelligent agents 287
+real time video Languages and structures 456
+real time video Multiagent systems 2010
+real time video Miscellaneousreal time video COMPUTER GRAPHICS 1654
+real time video General 855
+real time video Hardware Architecture 1055
+real time video Graphics processors 468
+real time video Hardcopy devices 351
+real time video Input devices 579
+real time video Parallel processing 1717
+real time video Raster display devices 65
+real time video Storage devices 482
+real time video Three-dimensional displays 178
+real time video Vector display devices 101
+real time video Graphics Systems 2250
+real time video Distributed/network graphics 375
+real time video Remote systems 2297
+real time video Stand-alone systems 49
+real time video Picture/Image Generation 485
+real time video Antialiasingreal time video Bitmap and framebuffer operations 1
+real time video Digitizing and scanning 600
+real time video Display algorithms 1696
+real time video Line and curve generation 131
+real time video Viewing algorithms 1610
+real time video Graphics Utilities 595
+real time video Application packages 1726
+real time video Device drivers 386
+real time video Graphics editors 157
+real time video Graphics packages 192
+real time video Meta files 109
+real time video Paint systems 2004
+real time video Picture description languages 26
+real time video Software support 1243
+real time video Virtual device interfaces 88
+real time video Computational Geometry and Object Modeling 175
+real time video Boundary representations 237
+real time video Constructive solid geometry 10
+real time video Curve, surface, solid, and object representationsreal time video Geometric algorithms, languages, and systems 68
+real time video Hierarchy and geometric transformations 28
+real time video Modeling packages 910
+real time video Object hierarchies 648
+real time video Physically based modeling 788
+real time video Splines 11
+real time video Methodology and Techniques 1071
+real time video Device independence 517
+real time video Ergonomicsreal time video Graphics data structures and data types 45
+real time video Interaction techniques 1640
+real time video Languages 84
+real time video Standards 602
+real time video Three-Dimensional Graphics and Realism 8
+real time video Animation 51
+real time video Color, shading, shadowing, and texture 10
+real time video Fractals 7
+real time video Hidden line/surface removal 4
+real time video Radiosity 1
+real time video Raytracing 1
+real time video Virtual reality 263
+real time video Visible line/surface algorithms 13
+real time video Applications 1559
+real time video Miscellaneousreal time video IMAGE PROCESSING AND COMPUTER VISION 718
+real time video General 855
+real time video Image displays 1774
+real time video Image processing software 1255
+real time video Digitization and Image Capture 401
+real time video Camera calibration 505
+real time video Imaging geometry 1473
+real time video Quantization 208
+real time video Radiometryreal time video Reflectance 83
+real time video Sampling 197
+real time video Scanning 110
+real time video Compression 562
+real time video Approximate methods 1206
+real time video Exact coding 844
+real time video Enhancement 355
+real time video Filtering 372
+real time video Geometric correction 271
+real time video Grayscale manipulation 97
+real time video Registration 46
+real time video Sharpening and deblurring 11
+real time video Smoothing 136
+real time video Restoration 35
+real time video Inverse filtering 432
+real time video Kalman filtering 399
+real time video Pseudoinverse restoration 35
+real time video Wiener filtering 374
+real time video Reconstruction 145
+real time video Series expansion methods 47
+real time video Summation methods 1094
+real time video Transform methods 1273
+real time video Segmentation 260
+real time video Edge and feature detection 266
+real time video Pixel classification 518
+real time video Region growing, partitioning 38
+real time video Relaxation 25
+real time video Feature Measurement 875
+real time video Feature representation 575
+real time video Invariants 49
+real time video Moments 30
+real time video Projections 273
+real time video Size and shape 586
+real time video Texture 102
+real time video Scene Analysis 774
+real time video Color 251
+real time video Depth cues 129
+real time video Motion 672
+real time video Object recognition 876
+real time video Photometryreal time video Range data 1454
+real time video Sensor fusion 246
+real time video Shading 9
+real time video Shape 146
+real time video Stereo 40
+real time video Surface fitting 234
+real time video Time-varying imagery 223
+real time video Tracking 426
+real time video Applications 1559
+real time video Image Representation 1530
+real time video Hierarchical 112
+real time video Morphological 36
+real time video Multidimensional 9
+real time video Statistical 255
+real time video Volumetric 11
+real time video Miscellaneousreal time video PATTERN RECOGNITION 520
+real time video General 855
+real time video Models 866
+real time video Deterministic 36
+real time video Fuzzy set 628
+real time video Geometric 74
+real time video Neural nets 146
+real time video Statistical 255
+real time video Structural 373
+real time video Design Methodology 1072
+real time video Classifier design and evaluation 257
+real time video Feature evaluation and selection 272
+real time video Pattern analysis 759
+real time video Clustering 113
+real time video Algorithms 1417
+real time video Similarity measures 743
+real time video Applications 1559
+real time video Computer vision 1683
+real time video Signal processing 2657
+real time video Text processing 1510
+real time video Waveform analysis 592
+real time video Implementation 703
+real time video Interactive systems 3050
+real time video Special architectures 847
+real time video Miscellaneousreal time video SIMULATION AND MODELING 3022
+real time video General 855
+real time video Simulation Theory 873
+real time video Model classification 950
+real time video Systems theory 3180
+real time video Types of simulation 836
+real time video Simulation Languages 767
+real time video Applications 1559
+real time video Model Validation and Analysis 335
+real time video Model Development 1969
+real time video Modeling methodologies 987
+real time video Simulation Output Analysis 241
+real time video Simulation Support Systems 1022
+real time video Environments 489
+real time video Types of Simulation 836
+real time video Animation 51
+real time video Combined 545
+real time video Continuous 200
+real time video Discrete event 355
+real time video Distributed 567
+real time video Gaming 56
+real time video Monte Carlo 66
+real time video Parallel 320
+real time video Visual 455
+real time video Miscellaneousreal time video DOCUMENT AND TEXT PROCESSING 55
+real time video General 855
+real time video Document and Text Editing 8
+real time video Document management 290
+real time video Languages 84
+real time video Spelling 1
+real time video Version control 969
+real time video Document Preparation 69
+real time video Desktop publishing 87
+real time video Format and notation 189
+real time video Hypertext/hypermedia 9
+real time video Index generation 944
+real time video Languages and systems 2078
+real time video Markup languages 89
+real time video Multi/mixed media 64
+real time video Scripting languages 93
+real time video Standards 602
+real time video Index Generation 944
+real time video Electronic Publishing 307
+real time video Document Capture 309
+real time video Document analysis 610
+real time video Optical character recognition 35
+real time video Scanning 110
+real time video Miscellaneousreal time video MISCELLANEOUSreal time video GENERAL 855
+real time video ADMINISTRATIVE DATA PROCESSING 594
+real time video Business 54
+real time video Education 65
+real time video Financial 8
+real time video Government 21
+real time video Law 26
+real time video Manufacturing 32
+real time video Marketing 47
+real time video Military 57
+real time video PHYSICAL SCIENCES AND ENGINEERING 88
+real time video Aerospace 16
+real time video Archaeologyreal time video Astronomy 8
+real time video Chemistry 12
+real time video Earth and atmospheric sciences 10
+real time video Electronics 248
+real time video Engineering 246
+real time video Mathematics and statistics 307
+real time video Physics 186
+real time video LIFE AND MEDICAL SCIENCES 48
+real time video Biology and genetics 37
+real time video Health 44
+real time video Medical information systems 696
+real time video SOCIAL AND BEHAVIORAL SCIENCES 36
+real time video Economics 48
+real time video Psychology 7
+real time video Sociologyreal time video ARTS AND HUMANITIES 388
+real time video Architecture 697
+real time video Fine arts 181
+real time video Language translation 153
+real time video Linguistics 2
+real time video Literature 192
+real time video Music 21
+real time video Performing arts 1592
+real time video COMPUTER-AIDED ENGINEERING 191
+real time video Computer-aided design 542
+real time video Computer-aided manufacturing 34
+real time video COMPUTERS IN OTHER SYSTEMS 1947
+real time video Command and control 924
+real time video Consumer products 304
+real time video Industrial control 1036
+real time video Military 57
+real time video Process control 3025
+real time video Publishing 60
+real time video Real time 3381
+real time video MISCELLANEOUSreal time video GENERAL 855
+real time video THE COMPUTER INDUSTRY 1541
+real time video Markets 47
+real time video Standards 602
+real time video Statistics 255
+real time video Suppliers 3
+real time video HISTORY OF COMPUTING 1370
+real time video Hardware 463
+real time video People 91
+real time video Software 402
+real time video Systems 1997
+real time video Theory 130
+real time video COMPUTERS AND EDUCATION 1441
+real time video General 855
+real time video Computer Uses in Education 1141
+real time video Collaborative learning 285
+real time video Computer-assisted instruction 90
+real time video Computer-managed instruction 176
+real time video Distance learning 357
+real time video Computer and Information Science Education 100
+real time video Accreditation 1
+real time video Computer science education 273
+real time video Curriculum 2
+real time video Information systems education 676
+real time video Literacy 1
+real time video Self-assessment 226
+real time video Miscellaneousreal time video Accreditation 1
+real time video Computer 1371
+real time video COMPUTERS AND SOCIETY 1437
+real time video General 855
+real time video Public Policy Issues 35
+real time video Computer-related health issues 32
+real time video Ethics 3
+real time video Human safety 337
+real time video Intellectual property rights 9
+real time video Privacy 16
+real time video Regulation 35
+real time video Transborder data flow 169
+real time video Social Issues 330
+real time video Assistive technologies for persons with disabilities 6
+real time video Employment 3
+real time video Handicapped persons/special needs 3
+real time video Organizational Impacts 138
+real time video Automation 122
+real time video Computer-supported collaborative work 164
+real time video Employment 3
+real time video Reengineeringreal time video Electronic Commerce 255
+real time video Electronic data interchange 98
+real time video Intellectual property 153
+real time video Payment schemes 735
+real time video Security 193
+real time video Miscellaneousreal time video LEGAL ASPECTS OF COMPUTING 88
+real time video General 855
+real time video Hardware/Software Protection 203
+real time video Copyrights 17
+real time video Licensing 6
+real time video Patents 4
+real time video Proprietary rights 67
+real time video Trade secrets 109
+real time video Governmental Issues 309
+real time video Censorshipreal time video Regulation 35
+real time video Taxationreal time video Miscellaneousreal time video Contracts 21
+real time video Hardware 463
+real time video MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 431
+real time video General 855
+real time video Economics 48
+real time video Project and People Management 59
+real time video Life cycle 151
+real time video Management techniques 1238
+real time video Staffing 1
+real time video Strategic information systems planning 21
+real time video Systems analysis and design 3073
+real time video Systems development 7490
+real time video Training 142
+real time video Installation Management 294
+real time video Benchmarks 34
+real time video Computer selection 1884
+real time video Pricing and resource allocation 117
+real time video Software Management 756
+real time video Software development 1919
+real time video Software maintenance 472
+real time video Software process 2107
+real time video Software selection 913
+real time video System Management 3811
+real time video Centralization/decentralization 144
+real time video Management audit 251
+real time video Quality assurance 1000
+real time video Security and Protection 310
+real time video Authentication 32
+real time video Insurance 3
+real time video Invasive software 418
+real time video Physical security 371
+real time video Unauthorized access 382
+real time video Miscellaneousreal time video Insurance 3
+real time video Security 193
+real time video THE COMPUTING PROFESSION 1352
+real time video General 855
+real time video Occupations 42
+real time video Organizations 104
+real time video Testing, Certification, and Licensing 3
+real time video Professional Ethics 25
+real time video Codes of ethics 811
+real time video Codes of good practice 193
+real time video Ethical dilemmas 4
+real time video Miscellaneousreal time video Codes 818
+real time video Ethics 3
+real time video PERSONAL COMPUTING 1481
+real time video Games 56
+real time video General 855
+real time video Games 56
+real time video Application Packages 1726
+real time video Data communications 3331
+real time video Database processing 1852
+real time video Freeware/sharewarereal time video Graphics 144
+real time video Spreadsheets 1
+real time video Word processing 1483
+real time video Hardware 463
+real time video Management/Maintenance 284
+real time video Miscellaneousreal time video MISCELLANEOUSmedia commodities GENERALmedia commodities Biographies autobiographiesmedia commodities Conference proceedingsmedia commodities INTRODUCTORY AND SURVEYmedia commodities REFERENCEmedia commodities MISCELLANEOUSmedia commodities GENERALmedia commodities CONTROL STRUCTURES AND MICROPROGRAMMINGmedia commodities Generalmedia commodities Control Design Stylesmedia commodities Hardwired controlmedia commodities Writable control storemedia commodities Automatic synthesismedia commodities Formal modelsmedia commodities Simulationmedia commodities Control Structure Reliability, Testing, and Fault-Tolerancemedia commodities Diagnosticsmedia commodities Error-checkingmedia commodities Redundant designmedia commodities Test generationmedia commodities Firmware engineeringmedia commodities Languages and compilersmedia commodities Optimizationmedia commodities Verificationmedia commodities Direct data manipulationmedia commodities Instruction set interpretationmedia commodities Peripheral controlmedia commodities Special-purposemedia commodities Miscellaneousmedia commodities Generalmedia commodities Design Stylesmedia commodities Calculatormedia commodities Parallelmedia commodities Pipelinemedia commodities Performance Analysis and Design Aids 1
+media commodities Simulationmedia commodities Verificationmedia commodities Worst-case analysismedia commodities Reliability, Testing, and Fault-Tolerancemedia commodities Diagnosticsmedia commodities Error-checkingmedia commodities Redundant designmedia commodities Test generationmedia commodities High-Speed Arithmeticmedia commodities Algorithmsmedia commodities Cost/performancemedia commodities Miscellaneousmedia commodities MEMORY STRUCTURESmedia commodities Generalmedia commodities Semiconductor Memoriesmedia commodities Dynamic memorymedia commodities Read-only memory 1
+media commodities Static memorymedia commodities Design Stylesmedia commodities Associative memoriesmedia commodities Cache memoriesmedia commodities Interleaved memoriesmedia commodities Mass storagemedia commodities Primary memorymedia commodities Sequential-access memorymedia commodities Shared memorymedia commodities Virtual memorymedia commodities Performance Analysis and Design Aids 1
+media commodities Formal modelsmedia commodities Simulationmedia commodities Worst-case analysismedia commodities Reliability, Testing, and Fault-Tolerancemedia commodities Diagnosticsmedia commodities Error-checkingmedia commodities Redundant designmedia commodities Test generationmedia commodities Miscellaneousmedia commodities INPUT/OUTPUT AND DATA COMMUNICATIONSmedia commodities Generalmedia commodities Data Communications Devices 51
+media commodities Processorsmedia commodities Receiversmedia commodities Transmittersmedia commodities Input/Output Devices 3
+media commodities Channels and controllers 15
+media commodities Image displaymedia commodities Voicemedia commodities Interconnectionsmedia commodities Asynchronous/synchronous operationmedia commodities Fiber opticsmedia commodities Interfacesmedia commodities Parallel I/O 2
+media commodities Physical structuresmedia commodities Topologymedia commodities Performance Analysis and Design Aids 1
+media commodities Formal modelsmedia commodities Simulationmedia commodities Verificationmedia commodities Worst-case analysismedia commodities Reliability, Testing, and Fault-Tolerancemedia commodities Built-in testsmedia commodities Diagnosticsmedia commodities Error-checkingmedia commodities Hardware reliabilitymedia commodities Redundant designmedia commodities Test generationmedia commodities Miscellaneousmedia commodities REGISTER-TRANSFER-LEVEL IMPLEMENTATIONmedia commodities Generalmedia commodities Designmedia commodities Arithmetic and logic unitsmedia commodities Control designmedia commodities Data-path design 18
+media commodities Memory designmedia commodities Stylesmedia commodities Design Aidsmedia commodities Automatic synthesismedia commodities Hardware description languages 5
+media commodities Optimizationmedia commodities Simulationmedia commodities Verificationmedia commodities Reliability and Testing 2
+media commodities Built-in testsmedia commodities Error-checkingmedia commodities Redundant designmedia commodities Test generationmedia commodities Testabilitymedia commodities Miscellaneousmedia commodities LOGIC DESIGNmedia commodities Generalmedia commodities Design Stylesmedia commodities Combinational logicmedia commodities Logic arraysmedia commodities Parallel circuitsmedia commodities Sequential circuitsmedia commodities Reliability and Testing 2
+media commodities Built-in testsmedia commodities Error-checkingmedia commodities Redundant designmedia commodities Test generationmedia commodities Testabilitymedia commodities Design Aidsmedia commodities Automatic synthesismedia commodities Hardware description languages 5
+media commodities Optimizationmedia commodities Simulationmedia commodities Switching theorymedia commodities Verificationmedia commodities Miscellaneousmedia commodities INTEGRATED CIRCUITSmedia commodities Generalmedia commodities Types and Design Styles 9
+media commodities Advanced technologiesmedia commodities Algorithms implemented in hardware 4
+media commodities Gate arraysmedia commodities Input/output circuitsmedia commodities Memory technologiesmedia commodities Microprocessors and microcomputersmedia commodities Standard cellsmedia commodities VLSImedia commodities Design Aidsmedia commodities Graphicsmedia commodities Layoutmedia commodities Placement and routingmedia commodities Simulationmedia commodities Verificationmedia commodities Reliability and Testing 2
+media commodities Built-in testsmedia commodities Error-checkingmedia commodities Redundant designmedia commodities Test generationmedia commodities Testabilitymedia commodities Miscellaneousmedia commodities PERFORMANCE AND RELIABILITY 7
+media commodities Generalmedia commodities Reliability, Testing, and Fault-Tolerancemedia commodities Performance Analysis and Design Aids 1
+media commodities Miscellaneousmedia commodities MISCELLANEOUSmedia commodities Designmedia commodities GENERALmedia commodities Hardware/software interfaces 69
+media commodities Instruction set design 10
+media commodities Modeling of computer architecture 7
+media commodities System architecturesmedia commodities Systems specification methodology 13
+media commodities PROCESSOR ARCHITECTURESmedia commodities Generalmedia commodities Single Data Stream Architecturesmedia commodities Pipeline processorsmedia commodities RISC/CISC, VLIW architecturesmedia commodities Von Neumann architecturesmedia commodities Multiple Data Stream Architecturesmedia commodities Array and vector processorsmedia commodities Associative processorsmedia commodities Connection machinesmedia commodities Interconnection architecturesmedia commodities Multiple-instruction-stream, multiple-data-stream processorsmedia commodities Parallel processorsmedia commodities Pipeline processorsmedia commodities Single-instruction-stream, multiple-data-stream processorsmedia commodities Other Architecture Stylesmedia commodities Adaptable architecturesmedia commodities Analog computersmedia commodities Capability architecturesmedia commodities Cellular architecturemedia commodities Data-flow architectures 22
+media commodities Heterogeneousmedia commodities High-level language architecturesmedia commodities Neural netsmedia commodities Pipeline processorsmedia commodities Stack-oriented processorsmedia commodities Parallel Architecturesmedia commodities Distributed architecturesmedia commodities Mobile processorsmedia commodities Miscellaneousmedia commodities Analogmedia commodities Hybridmedia commodities COMPUTER-COMMUNICATION NETWORKS 65
+media commodities Generalmedia commodities Data communicationsmedia commodities Open Systems Interconnection reference modelmedia commodities Security and protection 13
+media commodities Network Architecture and Design 48
+media commodities Asynchronous Transfer Modemedia commodities Centralized networksmedia commodities Circuit-switching networksmedia commodities Distributed networksmedia commodities Frame relay networksmedia commodities ISDNmedia commodities Network communicationsmedia commodities Network topologymedia commodities Packet-switching networks 13
+media commodities Store and forward networks 1
+media commodities Wireless communicationmedia commodities Network Protocolsmedia commodities Applicationsmedia commodities Protocol architecturemedia commodities Protocol verificationmedia commodities Routing protocolsmedia commodities Network Operationsmedia commodities Network managementmedia commodities Network monitoringmedia commodities Public networksmedia commodities Distributed Systemsmedia commodities Client/servermedia commodities Distributed applicationsmedia commodities Distributed databasesmedia commodities Network operating systems 87
+media commodities Local and Wide-Area Networksmedia commodities Access schemesmedia commodities Busesmedia commodities Ethernetmedia commodities High-speedmedia commodities Internet 1
+media commodities Token ringsmedia commodities Internetworkingmedia commodities Routersmedia commodities Standardsmedia commodities Miscellaneousmedia commodities SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMSmedia commodities Microprocessor/microcomputer applicationsmedia commodities Process control systems 95
+media commodities Real-time and embedded systems 2
+media commodities Signal processing systems 22
+media commodities Smartcardsmedia commodities PERFORMANCE OF SYSTEMS 56
+media commodities Design studiesmedia commodities Fault tolerancemedia commodities Measurement techniquesmedia commodities Modeling techniquesmedia commodities Performance attributesmedia commodities Reliability, availability, and serviceability 1
+media commodities COMPUTER SYSTEM IMPLEMENTATION 96
+media commodities Generalmedia commodities Large and Medium 9
+media commodities Supermedia commodities Minicomputersmedia commodities Microcomputersmedia commodities Microprocessorsmedia commodities Personal computersmedia commodities Portable devicesmedia commodities Workstationsmedia commodities VLSI Systemsmedia commodities Serversmedia commodities Miscellaneousmedia commodities MISCELLANEOUSmedia commodities GENERALmedia commodities PROGRAMMING TECHNIQUESmedia commodities Generalmedia commodities Applicativemedia commodities Automatic Programmingmedia commodities Concurrent Programmingmedia commodities Distributed programming 1
+media commodities Parallel programmingmedia commodities Sequential Programmingmedia commodities Object-oriented Programming 14
+media commodities Logic Programmingmedia commodities Visual Programmingmedia commodities Miscellaneousmedia commodities SOFTWARE ENGINEERINGmedia commodities Generalmedia commodities Protection mechanismsmedia commodities Standardsmedia commodities Requirements/Specificationsmedia commodities Elicitation methodsmedia commodities Languagesmedia commodities Methodologiesmedia commodities Toolsmedia commodities Design Tools and Techniques 10
+media commodities Computer-aided software engineering 1
+media commodities Decision tablesmedia commodities Evolutionary prototypingmedia commodities Flow chartsmedia commodities Modules and interfaces 3
+media commodities Object-oriented design methods 14
+media commodities Petri netsmedia commodities Programmer workbenchmedia commodities Software librariesmedia commodities State diagramsmedia commodities Structured programming 1
+media commodities Top-down programmingmedia commodities User interfacesmedia commodities Coding Tools and Techniques 3
+media commodities Object-oriented programming 14
+media commodities Pretty printersmedia commodities Program editorsmedia commodities Reentrant codemedia commodities Standardsmedia commodities Structured programming 1
+media commodities Top-down programmingmedia commodities Software/Program Verification 2
+media commodities Assertion checkersmedia commodities Class invariantsmedia commodities Correctness proofsmedia commodities Formal methodsmedia commodities Model checkingmedia commodities Programming by contract 10
+media commodities Reliabilitymedia commodities Statistical methodsmedia commodities Validationmedia commodities Testing and Debuggingmedia commodities Code inspections and walk-throughsmedia commodities Debugging aidsmedia commodities Diagnosticsmedia commodities Distributed debuggingmedia commodities Dumpsmedia commodities Error handling and recoverymedia commodities Monitorsmedia commodities Symbolic executionmedia commodities Testing toolsmedia commodities Tracingmedia commodities Programming Environments 1
+media commodities Graphical environmentsmedia commodities Integrated environments 1
+media commodities Interactive environmentsmedia commodities Programmer workbenchmedia commodities Distribution, Maintenance, and Enhancement 2
+media commodities Correctionsmedia commodities Documentationmedia commodities Enhancementmedia commodities Extensibilitymedia commodities Portabilitymedia commodities Restructuring, reverse engineering, and reengineeringmedia commodities Version controlmedia commodities Metricsmedia commodities Complexity measuresmedia commodities Performance measuresmedia commodities Process metricsmedia commodities Product metricsmedia commodities Software sciencemedia commodities Managementmedia commodities Copyrightsmedia commodities Cost estimationmedia commodities Life cyclemedia commodities Productivity 2
+media commodities Programming teamsmedia commodities Software configuration management 7
+media commodities Software process models 14
+media commodities Software quality assurance 1
+media commodities Time estimationmedia commodities Designmedia commodities Methodologiesmedia commodities Representation 1
+media commodities Software Architecturesmedia commodities Data abstractionmedia commodities Domain-specific architectures 1
+media commodities Information hidingmedia commodities Languagesmedia commodities Patternsmedia commodities Interoperabilitymedia commodities Data mappingmedia commodities Distributed objectsmedia commodities Interface definition languagesmedia commodities Reusable Softwaremedia commodities Domain engineeringmedia commodities Reusable librariesmedia commodities Reuse modelsmedia commodities Miscellaneousmedia commodities Rapidmedia commodities Reusablemedia commodities PROGRAMMING LANGUAGESmedia commodities Generalmedia commodities Standardsmedia commodities Formal Definitions and Theorymedia commodities Semanticsmedia commodities Syntaxmedia commodities Language Classificationsmedia commodities Applicativemedia commodities Concurrent, distributed, and parallel languagesmedia commodities Constraint and logic languagesmedia commodities Data-flow languages 5
+media commodities Design languagesmedia commodities Extensible languagesmedia commodities Microprogramming languagesmedia commodities Multiparadigm languagesmedia commodities Nondeterministic languagesmedia commodities Nonprocedural languagesmedia commodities Object-oriented languages 21
+media commodities Specialized application languagesmedia commodities Very high-level languagesmedia commodities Language Constructs and Featuresmedia commodities Abstract data types 3
+media commodities Classes and objects 6
+media commodities Concurrent programming structures 3
+media commodities Constraintsmedia commodities Control structuresmedia commodities Coroutinesmedia commodities Data types and structures 60
+media commodities Dynamic storage managementmedia commodities Frameworksmedia commodities Inheritancemedia commodities Input/outputmedia commodities Modules, packagesmedia commodities Patternsmedia commodities Polymorphismmedia commodities Procedures, functions, and subroutinesmedia commodities Recursionmedia commodities Processorsmedia commodities Code generationmedia commodities Compilersmedia commodities Debuggersmedia commodities Incremental compilersmedia commodities Interpretersmedia commodities Memory managementmedia commodities Optimizationmedia commodities Parsingmedia commodities Preprocessorsmedia commodities Retargetable compilersmedia commodities Run-time environmentsmedia commodities Translator writing systems and compiler generatorsmedia commodities Miscellaneousmedia commodities OPERATING SYSTEMSmedia commodities Generalmedia commodities Process Managementmedia commodities Concurrencymedia commodities Deadlocksmedia commodities Multiprocessing/multiprogramming/multitaskingmedia commodities Mutual exclusionmedia commodities Schedulingmedia commodities Synchronizationmedia commodities Threadsmedia commodities Storage Managementmedia commodities Allocation/deallocation strategiesmedia commodities Distributed memoriesmedia commodities Garbage collectionmedia commodities Main memorymedia commodities Secondary storagemedia commodities Segmentationmedia commodities Storage hierarchiesmedia commodities Swappingmedia commodities Virtual memorymedia commodities File Systems Management 55
+media commodities Access methodsmedia commodities Directory structuresmedia commodities Distributed file systems 37
+media commodities File organizationmedia commodities Maintenancemedia commodities Communications Managementmedia commodities Bufferingmedia commodities Input/outputmedia commodities Message sendingmedia commodities Network communicationmedia commodities Terminal managementmedia commodities Reliabilitymedia commodities Backup proceduresmedia commodities Checkpoint/restartmedia commodities Fault-tolerancemedia commodities Verificationmedia commodities Security and Protection 13
+media commodities Access controlsmedia commodities Authenticationmedia commodities Cryptographic controlsmedia commodities Information flow controls 14
+media commodities Invasive softwaremedia commodities Security kernelsmedia commodities Verificationmedia commodities Organization and Design 27
+media commodities Batch processing systems 2
+media commodities Distributed systemsmedia commodities Hierarchical designmedia commodities Interactive systemsmedia commodities Real-time systems and embedded systems 2
+media commodities Performancemedia commodities Measurementsmedia commodities Modeling and prediction 99
+media commodities Monitorsmedia commodities Operational analysismedia commodities Queueing theorymedia commodities Simulationmedia commodities Stochastic analysismedia commodities Command and control languages 1
+media commodities Linkersmedia commodities Loadersmedia commodities Window managersmedia commodities Miscellaneousmedia commodities MISCELLANEOUSmedia commodities Softwaremedia commodities GENERALmedia commodities DATA STRUCTURESmedia commodities Arraysmedia commodities Distributed data structures 26
+media commodities Graphs and networksmedia commodities Lists, stacks, and queuesmedia commodities Recordsmedia commodities Tablesmedia commodities Treesmedia commodities DATA STORAGE REPRESENTATIONS 9
+media commodities Composite structuresmedia commodities Contiguous representationsmedia commodities Hash-table representations 2
+media commodities Linked representationsmedia commodities Object representationmedia commodities Primitive data itemsmedia commodities DATA ENCRYPTIONmedia commodities Code breaking 1
+media commodities Data encryption standard 10
+media commodities Public key cryptosystemsmedia commodities Standardsmedia commodities CODING AND INFORMATION THEORY 7
+media commodities Data compaction and compression 3
+media commodities Error control codesmedia commodities Formal models of communication 1
+media commodities Nonsecret encoding schemesmedia commodities FILESmedia commodities Backup/recoverymedia commodities Optimizationmedia commodities Organization/structuremedia commodities Sorting/searchingmedia commodities MISCELLANEOUSmedia commodities GENERALmedia commodities COMPUTATION BY ABSTRACT DEVICES 7
+media commodities Generalmedia commodities Models of Computation 157
+media commodities Automatamedia commodities Bounded-action devicesmedia commodities Computability theorymedia commodities Relations between models 51
+media commodities Self-modifying machinesmedia commodities Unbounded-action devicesmedia commodities Modes of Computation 5
+media commodities Alternation and nondeterminismmedia commodities Interactive and reactive computation 3
+media commodities Online computationmedia commodities Parallelism and concurrency 2
+media commodities Probabilistic computationmedia commodities Relations among modes 1
+media commodities Relativized computationmedia commodities Complexity Measures and Classes 2
+media commodities Complexity hierarchiesmedia commodities Machine-independent complexity 3
+media commodities Reducibility and completeness 11
+media commodities Relations among complexity classes 1
+media commodities Relations among complexity measures 3
+media commodities Miscellaneousmedia commodities ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 2
+media commodities Generalmedia commodities Numerical Algorithms and Problems 14
+media commodities Computation of transforms 32
+media commodities Computations in finite fields 5
+media commodities Computations on matrices 4
+media commodities Computations on polynomials 1
+media commodities Number-theoretic computations 1
+media commodities Nonnumerical Algorithms and Problemsmedia commodities Computations on discrete structures 7
+media commodities Geometrical problems and computations 1
+media commodities Pattern matchingmedia commodities Routing and layoutmedia commodities Sequencing and schedulingmedia commodities Sorting and searching 1
+media commodities Tradeoffs between Complexity Measuresmedia commodities Miscellaneousmedia commodities LOGICS AND MEANINGS OF PROGRAMS 1
+media commodities Generalmedia commodities Assertionsmedia commodities Invariantsmedia commodities Logics of programs 5
+media commodities Mechanical verificationmedia commodities Pre- and post-conditions 1
+media commodities Specification techniquesmedia commodities Semantics of Programming Languagesmedia commodities Algebraic approaches to semanticsmedia commodities Denotational semanticsmedia commodities Operational semanticsmedia commodities Partial evaluationmedia commodities Process models 1
+media commodities Program analysismedia commodities Studies of Program Constructs 19
+media commodities Control primitivesmedia commodities Functional constructsmedia commodities Object-oriented constructs 15
+media commodities Program and recursion schemesmedia commodities Type structuremedia commodities Miscellaneousmedia commodities MATHEMATICAL LOGIC AND FORMAL LANGUAGESmedia commodities Generalmedia commodities Mathematical Logicmedia commodities Computability theorymedia commodities Computational logicmedia commodities Lambda calculus and related systemsmedia commodities Logic and constraint programmingmedia commodities Mechanical theorem provingmedia commodities Modal logicmedia commodities Model theorymedia commodities Proof theorymedia commodities Recursive function theorymedia commodities Set theorymedia commodities Temporal logicmedia commodities Grammars and Other Rewriting Systemsmedia commodities Decision problemsmedia commodities Grammar typesmedia commodities Parallel rewriting systemsmedia commodities Parsingmedia commodities Thue systemsmedia commodities Formal Languagesmedia commodities Algebraic language theorymedia commodities Classes defined by grammars or automatamedia commodities Decision problemsmedia commodities Operations on languages 29
+media commodities Miscellaneousmedia commodities MISCELLANEOUSmedia commodities GENERALmedia commodities NUMERICAL ANALYSISmedia commodities Generalmedia commodities Computer arithmeticmedia commodities Conditioningmedia commodities Error analysismedia commodities Interval arithmeticmedia commodities Multiple precision arithmeticmedia commodities Numerical algorithmsmedia commodities Parallel algorithmsmedia commodities Stabilitymedia commodities Interpolationmedia commodities Difference formulasmedia commodities Extrapolationmedia commodities Interpolation formulasmedia commodities Smoothingmedia commodities Approximationmedia commodities Chebyshev approximation and theorymedia commodities Elementary function approximation 1
+media commodities Fast Fourier transforms 1
+media commodities Least squares approximationmedia commodities Linear approximationmedia commodities Minimax approximation and algorithmsmedia commodities Nonlinear approximationmedia commodities Rational approximationmedia commodities Special function approximationsmedia commodities Spline and piecewise polynomial approximationmedia commodities Wavelets and fractalsmedia commodities Numerical Linear Algebra 4
+media commodities Conditioningmedia commodities Determinants 1
+media commodities Eigenvalues and eigenvectorsmedia commodities Error analysismedia commodities Linear systemsmedia commodities Matrix inversionmedia commodities Pseudoinversesmedia commodities Singular value decomposition 4
+media commodities Sparse, structured, and very large systemsmedia commodities Quadrature and Numerical Differentiationmedia commodities Automatic differentiationmedia commodities Error analysismedia commodities Finite difference methods 6
+media commodities Gaussian quadraturemedia commodities Iterative methodsmedia commodities Multidimensionalmedia commodities Roots of Nonlinear Equationsmedia commodities Continuation 1
+media commodities Convergencemedia commodities Error analysismedia commodities Iterative methodsmedia commodities Polynomials, methods formedia commodities Systems of equations 56
+media commodities Optimizationmedia commodities Constrained optimizationmedia commodities Convex programmingmedia commodities Global optimizationmedia commodities Gradient methodsmedia commodities Integer programmingmedia commodities Least squares methodsmedia commodities Linear programmingmedia commodities Nonlinear programmingmedia commodities Quadratic programming methodsmedia commodities Simulated annealingmedia commodities Stochastic programmingmedia commodities Unconstrained optimizationmedia commodities Ordinary Differential Equationsmedia commodities Boundary value problems 4
+media commodities Chaotic systemsmedia commodities Convergence and stability 6
+media commodities Differential-algebraic equationsmedia commodities Error analysismedia commodities Finite difference methods 6
+media commodities Initial value problems 4
+media commodities Multistep and multivalue methodsmedia commodities One-stepmedia commodities Stiff equationsmedia commodities Partial Differential Equations 1
+media commodities Domain decomposition methodsmedia commodities Elliptic equationsmedia commodities Finite difference methods 6
+media commodities Finite element methods 8
+media commodities Finite volume methodsmedia commodities Hyperbolic equationsmedia commodities Inverse problemsmedia commodities Iterative solution techniquesmedia commodities Method of lines 9
+media commodities Multigrid and multilevel methodsmedia commodities Parabolic equationsmedia commodities Spectral methodsmedia commodities Integral Equationsmedia commodities Delay equationsmedia commodities Fredholm equationsmedia commodities Integro-differential equationsmedia commodities Volterra equationsmedia commodities Applicationsmedia commodities Miscellaneousmedia commodities DISCRETE MATHEMATICSmedia commodities Generalmedia commodities Combinatoricsmedia commodities Combinatorial algorithmsmedia commodities Counting problemsmedia commodities Generating functionsmedia commodities Permutations and combinations 1
+media commodities Recurrences and difference equations 1
+media commodities Graph Theorymedia commodities Graph algorithmsmedia commodities Graph labelingmedia commodities Hypergraphsmedia commodities Network problemsmedia commodities Path and circuit problems 1
+media commodities Treesmedia commodities Applicationsmedia commodities Miscellaneousmedia commodities PROBABILITY AND STATISTICS 2
+media commodities Contingency table analysismedia commodities Correlation and regression analysis 1
+media commodities Distribution functionsmedia commodities Experimental designmedia commodities Markov processesmedia commodities Multivariate statisticsmedia commodities Nonparametric statisticsmedia commodities Probabilistic algorithmsmedia commodities Queueing theorymedia commodities Random number generation 2
+media commodities Reliability and life testingmedia commodities Renewal theorymedia commodities Robust regressionmedia commodities Statistical computingmedia commodities Statistical softwaremedia commodities Stochastic processesmedia commodities Survival analysismedia commodities Time series analysis 3
+media commodities MATHEMATICAL SOFTWAREmedia commodities Algorithm design and analysis 2
+media commodities Certification and testingmedia commodities Documentationmedia commodities Efficiencymedia commodities Parallel and vector implementations 1
+media commodities Portabilitymedia commodities Reliability and robustness 2
+media commodities User interfacesmedia commodities Verificationmedia commodities MISCELLANEOUSmedia commodities Queueingmedia commodities GENERALmedia commodities MODELS AND PRINCIPLES 25
+media commodities Generalmedia commodities Systems and Information Theory 37
+media commodities General systems theory 15
+media commodities Information theorymedia commodities Value of information 26
+media commodities User/Machine Systems 2
+media commodities Human factorsmedia commodities Human information processing 3
+media commodities Software psychologymedia commodities Miscellaneousmedia commodities DATABASE MANAGEMENTmedia commodities Generalmedia commodities Security, integrity, and protection 3
+media commodities Logical Designmedia commodities Data modelsmedia commodities Normal formsmedia commodities Schema and subschemamedia commodities Physical Designmedia commodities Access methodsmedia commodities Deadlock avoidancemedia commodities Recovery and restart 1
+media commodities Languagesmedia commodities Data description languages 24
+media commodities Data manipulation languages 8
+media commodities Databasemedia commodities Query languagesmedia commodities Report writersmedia commodities Systems 1
+media commodities Concurrencymedia commodities Distributed databasesmedia commodities Multimedia databasesmedia commodities Object-oriented databases 24
+media commodities Parallel databasesmedia commodities Query processingmedia commodities Relational databasesmedia commodities Rule-based databasesmedia commodities Textual databasesmedia commodities Transaction processingmedia commodities Heterogeneous Databasesmedia commodities Data translationmedia commodities Program translationmedia commodities Database Machinesmedia commodities Database Administrationmedia commodities Data dictionary/directorymedia commodities Data warehouse and repositorymedia commodities Logging and recoverymedia commodities Security, integrity, and protection 3
+media commodities Database Applicationsmedia commodities Data miningmedia commodities Image databasesmedia commodities Scientific databasesmedia commodities Spatial databases and GISmedia commodities Statistical databasesmedia commodities Miscellaneousmedia commodities INFORMATION STORAGE AND RETRIEVAL 10
+media commodities Generalmedia commodities Content Analysis and Indexing 39
+media commodities Abstracting methodsmedia commodities Dictionariesmedia commodities Indexing methodsmedia commodities Linguistic processingmedia commodities Thesaurusesmedia commodities Information Storagemedia commodities File organizationmedia commodities Record classificationmedia commodities Information Search and Retrieval 32
+media commodities Clusteringmedia commodities Information filteringmedia commodities Query formulationmedia commodities Relevance feedbackmedia commodities Retrieval modelsmedia commodities Search processmedia commodities Selection processmedia commodities Systems and Software 110
+media commodities Current awareness systems 2
+media commodities Distributed systemsmedia commodities Information networksmedia commodities Performance evaluationmedia commodities Question-answeringmedia commodities Online Information Services 3
+media commodities Commercial servicesmedia commodities Data sharingmedia commodities Web-based services 13
+media commodities Library Automationmedia commodities Large text archivesmedia commodities Digital Librariesmedia commodities Collectionmedia commodities Disseminationmedia commodities Standardsmedia commodities Systems issues 1
+media commodities User issuesmedia commodities Miscellaneousmedia commodities INFORMATION SYSTEMS APPLICATIONS 88
+media commodities Generalmedia commodities Office Automationmedia commodities Desktop publishingmedia commodities Equipmentmedia commodities Groupwaremedia commodities Spreadsheetsmedia commodities Time managementmedia commodities Word processingmedia commodities Workflow managementmedia commodities Types of Systems 477
+media commodities Decision supportmedia commodities Logisticsmedia commodities Communications Applicationsmedia commodities Bulletin boardsmedia commodities Computer conferencing, teleconferencing, and videoconferencing 1
+media commodities Electronic mailmedia commodities Information browsersmedia commodities Videotexmedia commodities Miscellaneousmedia commodities INFORMATION INTERFACES AND PRESENTATION 28
+media commodities Generalmedia commodities Multimedia Information Systems 4
+media commodities Animationsmedia commodities Artificial, augmented, and virtual realitiesmedia commodities Audio input/output 1
+media commodities Evaluation/methodologymedia commodities Video 1
+media commodities User Interfacesmedia commodities Auditorymedia commodities Benchmarkingmedia commodities Ergonomicsmedia commodities Evaluation/methodologymedia commodities Graphical user interfaces 12
+media commodities Haptic I/Omedia commodities Input devices and strategies 2
+media commodities Interaction stylesmedia commodities Natural languagemedia commodities Prototypingmedia commodities Screen designmedia commodities Standardizationmedia commodities Style guidesmedia commodities Theory and methods 94
+media commodities Training, help, and documentation 1
+media commodities User-centered design 4
+media commodities User interface management systems 3
+media commodities Voice I/Omedia commodities Windowing systemsmedia commodities Group and Organization Interfaces 1
+media commodities Asynchronous interactionmedia commodities Collaborative computingmedia commodities Computer-supported cooperative work 3
+media commodities Evaluation/methodologymedia commodities Organizational designmedia commodities Synchronous interactionmedia commodities Theory and models 199
+media commodities Web-based interaction 17
+media commodities Hypertext/Hypermediamedia commodities Architecturesmedia commodities Navigationmedia commodities Theorymedia commodities User issuesmedia commodities Sound and Music Computingmedia commodities Methodologies and techniques 3
+media commodities Modeling 1
+media commodities Systems 1
+media commodities Miscellaneousmedia commodities MISCELLANEOUSmedia commodities GENERALmedia commodities SYMBOLIC AND ALGEBRAIC MANIPULATIONmedia commodities Generalmedia commodities Expressions and Their Representationmedia commodities Representations 1
+media commodities Simplification of expressionsmedia commodities Algorithmsmedia commodities Algebraic algorithmsmedia commodities Analysis of algorithms 31
+media commodities Nonalgebraic algorithmsmedia commodities Languages and Systems 8
+media commodities Evaluation strategiesmedia commodities Nonprocedural languagesmedia commodities Special-purpose algebraic systemsmedia commodities Special-purpose hardware 1
+media commodities Substitution mechanismsmedia commodities Applicationsmedia commodities Miscellaneousmedia commodities ARTIFICIAL INTELLIGENCEmedia commodities Generalmedia commodities Cognitive simulationmedia commodities Philosophical foundationsmedia commodities Applications and Expert Systems 14
+media commodities Cartographymedia commodities Games 1
+media commodities Industrial automationmedia commodities Lawmedia commodities Medicine and sciencemedia commodities Natural language interfaces 2
+media commodities Office automationmedia commodities Automatic Programmingmedia commodities Automatic analysis of algorithms 1
+media commodities Program modificationmedia commodities Program synthesismedia commodities Program transformationmedia commodities Program verificationmedia commodities Deduction and Theorem Provingmedia commodities Answer/reason extractionmedia commodities Deductionmedia commodities Inference enginesmedia commodities Logic programmingmedia commodities Mathematical inductionmedia commodities Metatheorymedia commodities Nonmonotonic reasoning and belief revisionmedia commodities Resolutionmedia commodities Knowledge Representation Formalisms and Methodsmedia commodities Frames and scripts 3
+media commodities Modal logicmedia commodities Predicate logicmedia commodities Relation systems 1
+media commodities Representation languagesmedia commodities Representations 1
+media commodities Semantic networksmedia commodities Temporal logicmedia commodities Programming Languages and Software 6
+media commodities Expert system tools and techniquesmedia commodities Learningmedia commodities Analogiesmedia commodities Concept learningmedia commodities Connectionism and neural netsmedia commodities Inductionmedia commodities Knowledge acquisitionmedia commodities Language acquisitionmedia commodities Parameter learningmedia commodities Natural Language Processing 7
+media commodities Discourse 1
+media commodities Language generationmedia commodities Language modelsmedia commodities Language parsing and understanding 1
+media commodities Machine translationmedia commodities Speech recognition and synthesismedia commodities Text analysismedia commodities Problem Solving, Control Methods, and Searchmedia commodities Backtrackingmedia commodities Control theorymedia commodities Dynamic programmingmedia commodities Graph and tree search strategiesmedia commodities Heuristic methodsmedia commodities Plan execution, formation, and generationmedia commodities Schedulingmedia commodities Roboticsmedia commodities Autonomous vehiclesmedia commodities Kinematics and dynamics 2
+media commodities Manipulatorsmedia commodities Operator interfacesmedia commodities Propelling mechanismsmedia commodities Sensorsmedia commodities Vision and Scene Understandingmedia commodities Architecture and control structures 1
+media commodities Motionmedia commodities Perceptual reasoningmedia commodities Shapemedia commodities Texturemedia commodities Video analysismedia commodities Distributed Artificial Intelligence 1
+media commodities Coherence and coordinationmedia commodities Intelligent agentsmedia commodities Languages and structures 7
+media commodities Multiagent systemsmedia commodities Miscellaneousmedia commodities COMPUTER GRAPHICSmedia commodities Generalmedia commodities Hardware Architecturemedia commodities Graphics processorsmedia commodities Hardcopy devicesmedia commodities Input devicesmedia commodities Parallel processingmedia commodities Raster display devicesmedia commodities Storage devicesmedia commodities Three-dimensional displays 1
+media commodities Vector display devicesmedia commodities Graphics Systemsmedia commodities Distributed/network graphics 1
+media commodities Remote systemsmedia commodities Stand-alone systemsmedia commodities Picture/Image Generationmedia commodities Antialiasingmedia commodities Bitmap and framebuffer operationsmedia commodities Digitizing and scanningmedia commodities Display algorithmsmedia commodities Line and curve generationmedia commodities Viewing algorithmsmedia commodities Graphics Utilitiesmedia commodities Application packagesmedia commodities Device driversmedia commodities Graphics editorsmedia commodities Graphics packagesmedia commodities Meta filesmedia commodities Paint systemsmedia commodities Picture description languagesmedia commodities Software supportmedia commodities Virtual device interfaces 2
+media commodities Computational Geometry and Object Modeling 2
+media commodities Boundary representationsmedia commodities Constructive solid geometrymedia commodities Curve, surface, solid, and object representationsmedia commodities Geometric algorithms, languages, and systemsmedia commodities Hierarchy and geometric transformationsmedia commodities Modeling packagesmedia commodities Object hierarchiesmedia commodities Physically based modeling 11
+media commodities Splinesmedia commodities Methodology and Techniques 3
+media commodities Device independencemedia commodities Ergonomicsmedia commodities Graphics data structures and data types 11
+media commodities Interaction techniquesmedia commodities Languagesmedia commodities Standardsmedia commodities Three-Dimensional Graphics and Realismmedia commodities Animationmedia commodities Color, shading, shadowing, and texturemedia commodities Fractalsmedia commodities Hidden line/surface removalmedia commodities Radiositymedia commodities Raytracingmedia commodities Virtual realitymedia commodities Visible line/surface algorithmsmedia commodities Applicationsmedia commodities Miscellaneousmedia commodities IMAGE PROCESSING AND COMPUTER VISION 2
+media commodities Generalmedia commodities Image displaysmedia commodities Image processing software 6
+media commodities Digitization and Image Capture 5
+media commodities Camera calibrationmedia commodities Imaging geometrymedia commodities Quantizationmedia commodities Radiometrymedia commodities Reflectancemedia commodities Samplingmedia commodities Scanningmedia commodities Compressionmedia commodities Approximate methodsmedia commodities Exact codingmedia commodities Enhancementmedia commodities Filteringmedia commodities Geometric correctionmedia commodities Grayscale manipulationmedia commodities Registrationmedia commodities Sharpening and deblurringmedia commodities Smoothingmedia commodities Restorationmedia commodities Inverse filteringmedia commodities Kalman filteringmedia commodities Pseudoinverse restorationmedia commodities Wiener filteringmedia commodities Reconstructionmedia commodities Series expansion methodsmedia commodities Summation methodsmedia commodities Transform methodsmedia commodities Segmentationmedia commodities Edge and feature detectionmedia commodities Pixel classificationmedia commodities Region growing, partitioningmedia commodities Relaxationmedia commodities Feature Measurementmedia commodities Feature representationmedia commodities Invariantsmedia commodities Momentsmedia commodities Projectionsmedia commodities Size and shape 6
+media commodities Texturemedia commodities Scene Analysismedia commodities Colormedia commodities Depth cuesmedia commodities Motionmedia commodities Object recognitionmedia commodities Photometrymedia commodities Range datamedia commodities Sensor fusionmedia commodities Shadingmedia commodities Shapemedia commodities Stereomedia commodities Surface fittingmedia commodities Time-varying imagerymedia commodities Trackingmedia commodities Applicationsmedia commodities Image Representationmedia commodities Hierarchicalmedia commodities Morphologicalmedia commodities Multidimensionalmedia commodities Statisticalmedia commodities Volumetricmedia commodities Miscellaneousmedia commodities PATTERN RECOGNITIONmedia commodities Generalmedia commodities Models 1
+media commodities Deterministicmedia commodities Fuzzy setmedia commodities Geometricmedia commodities Neural netsmedia commodities Statisticalmedia commodities Structural 1
+media commodities Design Methodologymedia commodities Classifier design and evaluationmedia commodities Feature evaluation and selection 4
+media commodities Pattern analysismedia commodities Clusteringmedia commodities Algorithmsmedia commodities Similarity measuresmedia commodities Applicationsmedia commodities Computer visionmedia commodities Signal processingmedia commodities Text processing 1
+media commodities Waveform analysismedia commodities Implementationmedia commodities Interactive systemsmedia commodities Special architecturesmedia commodities Miscellaneousmedia commodities SIMULATION AND MODELING 112
+media commodities Generalmedia commodities Simulation Theorymedia commodities Model classificationmedia commodities Systems theorymedia commodities Types of simulation 67
+media commodities Simulation Languagesmedia commodities Applicationsmedia commodities Model Validation and Analysis 16
+media commodities Model Developmentmedia commodities Modeling methodologiesmedia commodities Simulation Output Analysismedia commodities Simulation Support Systems 3
+media commodities Environments 1
+media commodities Types of Simulation 67
+media commodities Animationmedia commodities Combinedmedia commodities Continuous 1
+media commodities Discrete eventmedia commodities Distributed 1
+media commodities Gaming 1
+media commodities Monte Carlomedia commodities Parallelmedia commodities Visual 1
+media commodities Miscellaneousmedia commodities DOCUMENT AND TEXT PROCESSING 18
+media commodities Generalmedia commodities Document and Text Editing 1
+media commodities Document managementmedia commodities Languagesmedia commodities Spellingmedia commodities Version controlmedia commodities Document Preparationmedia commodities Desktop publishingmedia commodities Format and notation 3
+media commodities Hypertext/hypermediamedia commodities Index generationmedia commodities Languages and systems 8
+media commodities Markup languagesmedia commodities Multi/mixed media 5
+media commodities Scripting languagesmedia commodities Standardsmedia commodities Index Generationmedia commodities Electronic Publishingmedia commodities Document Capturemedia commodities Document analysismedia commodities Optical character recognition 1
+media commodities Scanningmedia commodities Miscellaneousmedia commodities MISCELLANEOUSmedia commodities GENERALmedia commodities ADMINISTRATIVE DATA PROCESSINGmedia commodities Businessmedia commodities Educationmedia commodities Financialmedia commodities Governmentmedia commodities Lawmedia commodities Manufacturingmedia commodities Marketing 1
+media commodities Militarymedia commodities PHYSICAL SCIENCES AND ENGINEERING 1
+media commodities Aerospacemedia commodities Archaeologymedia commodities Astronomymedia commodities Chemistrymedia commodities Earth and atmospheric sciences 1
+media commodities Electronicsmedia commodities Engineeringmedia commodities Mathematics and statisticsmedia commodities Physicsmedia commodities LIFE AND MEDICAL SCIENCESmedia commodities Biology and geneticsmedia commodities Healthmedia commodities Medical information systems 8
+media commodities SOCIAL AND BEHAVIORAL SCIENCES 1
+media commodities Economicsmedia commodities Psychologymedia commodities Sociologymedia commodities ARTS AND HUMANITIES 77
+media commodities Architecturemedia commodities Fine artsmedia commodities Language translationmedia commodities Linguisticsmedia commodities Literaturemedia commodities Musicmedia commodities Performing artsmedia commodities COMPUTER-AIDED ENGINEERING 1
+media commodities Computer-aided design 2
+media commodities Computer-aided manufacturingmedia commodities COMPUTERS IN OTHER SYSTEMS 117
+media commodities Command and control 23
+media commodities Consumer products 1
+media commodities Industrial controlmedia commodities Militarymedia commodities Process controlmedia commodities Publishingmedia commodities Real timemedia commodities MISCELLANEOUSmedia commodities GENERALmedia commodities THE COMPUTER INDUSTRY 139
+media commodities Markets 1
+media commodities Standardsmedia commodities Statisticsmedia commodities Suppliersmedia commodities HISTORY OF COMPUTING 14
+media commodities Hardwaremedia commodities People 1
+media commodities Softwaremedia commodities Systems 1
+media commodities Theorymedia commodities COMPUTERS AND EDUCATION 40
+media commodities Generalmedia commodities Computer Uses in Education 33
+media commodities Collaborative learningmedia commodities Computer-assisted instruction 8
+media commodities Computer-managed instruction 6
+media commodities Distance learningmedia commodities Computer and Information Science Education 8
+media commodities Accreditationmedia commodities Computer science education 14
+media commodities Curriculummedia commodities Information systems education 25
+media commodities Literacymedia commodities Self-assessmentmedia commodities Miscellaneousmedia commodities Accreditationmedia commodities Computermedia commodities COMPUTERS AND SOCIETY 13
+media commodities Generalmedia commodities Public Policy Issues 34
+media commodities Computer-related health issuesmedia commodities Ethicsmedia commodities Human safetymedia commodities Intellectual property rights 1
+media commodities Privacymedia commodities Regulationmedia commodities Transborder data flowmedia commodities Social Issuesmedia commodities Assistive technologies for persons with disabilitiesmedia commodities Employmentmedia commodities Handicapped persons/special needsmedia commodities Organizational Impactsmedia commodities Automationmedia commodities Computer-supported collaborative work 9
+media commodities Employmentmedia commodities Reengineeringmedia commodities Electronic Commercemedia commodities Electronic data interchangemedia commodities Intellectual propertymedia commodities Payment schemesmedia commodities Securitymedia commodities Miscellaneousmedia commodities LEGAL ASPECTS OF COMPUTINGmedia commodities Generalmedia commodities Hardware/Software Protection 30
+media commodities Copyrightsmedia commodities Licensing 1
+media commodities Patentsmedia commodities Proprietary rightsmedia commodities Trade secretsmedia commodities Governmental Issuesmedia commodities Censorshipmedia commodities Regulationmedia commodities Taxationmedia commodities Miscellaneousmedia commodities Contractsmedia commodities Hardwaremedia commodities MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 18
+media commodities Generalmedia commodities Economicsmedia commodities Project and People Management 5
+media commodities Life cyclemedia commodities Management techniquesmedia commodities Staffingmedia commodities Strategic information systems planningmedia commodities Systems analysis and design 62
+media commodities Systems development 1
+media commodities Trainingmedia commodities Installation Managementmedia commodities Benchmarksmedia commodities Computer selectionmedia commodities Pricing and resource allocation 47
+media commodities Software Managementmedia commodities Software developmentmedia commodities Software maintenancemedia commodities Software processmedia commodities Software selectionmedia commodities System Managementmedia commodities Centralization/decentralizationmedia commodities Management auditmedia commodities Quality assurancemedia commodities Security and Protection 13
+media commodities Authenticationmedia commodities Insurancemedia commodities Invasive softwaremedia commodities Physical securitymedia commodities Unauthorized accessmedia commodities Miscellaneousmedia commodities Insurancemedia commodities Securitymedia commodities THE COMPUTING PROFESSION 6
+media commodities Generalmedia commodities Occupationsmedia commodities Organizationsmedia commodities Testing, Certification, and Licensingmedia commodities Professional Ethicsmedia commodities Codes of ethics 8
+media commodities Codes of good practice 2
+media commodities Ethical dilemmasmedia commodities Miscellaneousmedia commodities Codes 1
+media commodities Ethicsmedia commodities PERSONAL COMPUTINGmedia commodities Games 1
+media commodities Generalmedia commodities Games 1
+media commodities Application Packagesmedia commodities Data communicationsmedia commodities Database processingmedia commodities Freeware/sharewaremedia commodities Graphicsmedia commodities Spreadsheetsmedia commodities Word processingmedia commodities Hardwaremedia commodities Management/Maintenancemedia commodities Miscellaneousmedia commodities MISCELLANEOUSrecommender systems GENERAL 2208
+recommender systems Biographies autobiographiesrecommender systems Conference proceedings 25
+recommender systems INTRODUCTORY AND SURVEY 372
+recommender systems REFERENCE 652
+recommender systems MISCELLANEOUS 1
+recommender systems GENERAL 2208
+recommender systems CONTROL STRUCTURES AND MICROPROGRAMMING 51
+recommender systems General 2208
+recommender systems Control Design Styles 186
+recommender systems Hardwired controlrecommender systems Writable control store 29
+recommender systems Automatic synthesis 3
+recommender systems Formal models 228
+recommender systems Simulation 308
+recommender systems Control Structure Reliability, Testing, and Fault-Tolerance 2
+recommender systems Diagnostics 28
+recommender systems Error-checking 11
+recommender systems Redundant design 17
+recommender systems Test generation 412
+recommender systems Firmware engineeringrecommender systems Languages and compilers 677
+recommender systems Optimization 614
+recommender systems Verification 24
+recommender systems Direct data manipulation 339
+recommender systems Instruction set interpretation 118
+recommender systems Peripheral controlrecommender systems Special-purpose 47
+recommender systems Miscellaneous 1
+recommender systems General 2208
+recommender systems Design Styles 62
+recommender systems Calculator 652
+recommender systems Parallel 129
+recommender systems Pipeline 7
+recommender systems Performance Analysis and Design Aids 523
+recommender systems Simulation 308
+recommender systems Verification 24
+recommender systems Worst-case analysis 364
+recommender systems Reliability, Testing, and Fault-Tolerance 121
+recommender systems Diagnostics 28
+recommender systems Error-checking 11
+recommender systems Redundant design 17
+recommender systems Test generation 412
+recommender systems High-Speed Arithmetic 49
+recommender systems Algorithms 2457
+recommender systems Cost/performance 158
+recommender systems Miscellaneous 1
+recommender systems MEMORY STRUCTURES 76
+recommender systems General 2208
+recommender systems Semiconductor Memoriesrecommender systems Dynamic memory 50
+recommender systems Read-only memory 240
+recommender systems Static memory 17
+recommender systems Design Styles 62
+recommender systems Associative memories 102
+recommender systems Cache memories 9
+recommender systems Interleaved memoriesrecommender systems Mass storage 3
+recommender systems Primary memory 11
+recommender systems Sequential-access memory 109
+recommender systems Shared memory 55
+recommender systems Virtual memory 10
+recommender systems Performance Analysis and Design Aids 523
+recommender systems Formal models 228
+recommender systems Simulation 308
+recommender systems Worst-case analysis 364
+recommender systems Reliability, Testing, and Fault-Tolerance 121
+recommender systems Diagnostics 28
+recommender systems Error-checking 11
+recommender systems Redundant design 17
+recommender systems Test generation 412
+recommender systems Miscellaneous 1
+recommender systems INPUT/OUTPUT AND DATA COMMUNICATIONS 176
+recommender systems General 2208
+recommender systems Data Communications Devices 799
+recommender systems Processors 30
+recommender systems Receivers 344
+recommender systems Transmittersrecommender systems Input/Output Devices 167
+recommender systems Channels and controllers 246
+recommender systems Image display 13
+recommender systems Voice 29
+recommender systems Interconnections 33
+recommender systems Asynchronous/synchronous operation 19
+recommender systems Fiber optics 2
+recommender systems Interfaces 506
+recommender systems Parallel I/O 170
+recommender systems Physical structures 25
+recommender systems Topology 62
+recommender systems Performance Analysis and Design Aids 523
+recommender systems Formal models 228
+recommender systems Simulation 308
+recommender systems Verification 24
+recommender systems Worst-case analysis 364
+recommender systems Reliability, Testing, and Fault-Tolerance 121
+recommender systems Built-in tests 1509
+recommender systems Diagnostics 28
+recommender systems Error-checking 11
+recommender systems Hardware reliabilityrecommender systems Redundant design 17
+recommender systems Test generation 412
+recommender systems Miscellaneous 1
+recommender systems REGISTER-TRANSFER-LEVEL IMPLEMENTATION 3
+recommender systems General 2208
+recommender systems Design 1288
+recommender systems Arithmetic and logic units 13
+recommender systems Control design 102
+recommender systems Data-path design 847
+recommender systems Memory design 111
+recommender systems Styles 152
+recommender systems Design Aids 59
+recommender systems Automatic synthesis 3
+recommender systems Hardware description languages 151
+recommender systems Optimization 614
+recommender systems Simulation 308
+recommender systems Verification 24
+recommender systems Reliability and Testing 2655
+recommender systems Built-in tests 1509
+recommender systems Error-checking 11
+recommender systems Redundant design 17
+recommender systems Test generation 412
+recommender systems Testability 1
+recommender systems Miscellaneous 1
+recommender systems LOGIC DESIGN 68
+recommender systems General 2208
+recommender systems Design Styles 62
+recommender systems Combinational logic 81
+recommender systems Logic arrays 2
+recommender systems Parallel circuits 4
+recommender systems Sequential circuitsrecommender systems Reliability and Testing 2655
+recommender systems Built-in tests 1509
+recommender systems Error-checking 11
+recommender systems Redundant design 17
+recommender systems Test generation 412
+recommender systems Testability 1
+recommender systems Design Aids 59
+recommender systems Automatic synthesis 3
+recommender systems Hardware description languages 151
+recommender systems Optimization 614
+recommender systems Simulation 308
+recommender systems Switching theory 5
+recommender systems Verification 24
+recommender systems Miscellaneous 1
+recommender systems INTEGRATED CIRCUITS 2
+recommender systems General 2208
+recommender systems Types and Design Styles 372
+recommender systems Advanced technologies 242
+recommender systems Algorithms implemented in hardware 529
+recommender systems Gate arrays 1
+recommender systems Input/output circuits 155
+recommender systems Memory technologies 147
+recommender systems Microprocessors and microcomputers 4
+recommender systems Standard cells 7
+recommender systems VLSI 3
+recommender systems Design Aids 59
+recommender systems Graphics 120
+recommender systems Layout 32
+recommender systems Placement and routing 95
+recommender systems Simulation 308
+recommender systems Verification 24
+recommender systems Reliability and Testing 2655
+recommender systems Built-in tests 1509
+recommender systems Error-checking 11
+recommender systems Redundant design 17
+recommender systems Test generation 412
+recommender systems Testability 1
+recommender systems Miscellaneous 1
+recommender systems PERFORMANCE AND RELIABILITY 5772
+recommender systems General 2208
+recommender systems Reliability, Testing, and Fault-Tolerance 121
+recommender systems Performance Analysis and Design Aids 523
+recommender systems Miscellaneous 1
+recommender systems MISCELLANEOUS 1
+recommender systems Design 1288
+recommender systems GENERAL 2208
+recommender systems Hardware/software interfaces 279
+recommender systems Instruction set design 575
+recommender systems Modeling of computer architecture 2545
+recommender systems System architectures 483
+recommender systems Systems specification methodology 1356
+recommender systems PROCESSOR ARCHITECTURES 4
+recommender systems General 2208
+recommender systems Single Data Stream Architectures 80
+recommender systems Pipeline processors 1
+recommender systems RISC/CISC, VLIW architecturesrecommender systems Von Neumann architectures 12
+recommender systems Multiple Data Stream Architectures 70
+recommender systems Array and vector processors 10
+recommender systems Associative processors 6
+recommender systems Connection machines 48
+recommender systems Interconnection architectures 9
+recommender systems Multiple-instruction-stream, multiple-data-stream processorsrecommender systems Parallel processors 7
+recommender systems Pipeline processors 1
+recommender systems Single-instruction-stream, multiple-data-stream processorsrecommender systems Other Architecture Styles 329
+recommender systems Adaptable architectures 124
+recommender systems Analog computers 44
+recommender systems Capability architectures 65
+recommender systems Cellular architecture 4
+recommender systems Data-flow architectures 363
+recommender systems Heterogeneous 155
+recommender systems High-level language architectures 89
+recommender systems Neural nets 12
+recommender systems Pipeline processors 1
+recommender systems Stack-oriented processors 4
+recommender systems Parallel Architectures 19
+recommender systems Distributed architectures 114
+recommender systems Mobile processors 2
+recommender systems Miscellaneous 1
+recommender systems Analog 78
+recommender systems Hybrid 824
+recommender systems COMPUTER-COMMUNICATION NETWORKS 1711
+recommender systems General 2208
+recommender systems Data communications 614
+recommender systems Open Systems Interconnection reference model 52
+recommender systems Security and protection 1239
+recommender systems Network Architecture and Design 785
+recommender systems Asynchronous Transfer Mode 16
+recommender systems Centralized networks 125
+recommender systems Circuit-switching networks 31
+recommender systems Distributed networks 326
+recommender systems Frame relay networks 24
+recommender systems ISDNrecommender systems Network communications 483
+recommender systems Network topology 50
+recommender systems Packet-switching networks 35
+recommender systems Store and forward networks 161
+recommender systems Wireless communication 44
+recommender systems Network Protocols 66
+recommender systems Applications 2063
+recommender systems Protocol architecture 41
+recommender systems Protocol verificationrecommender systems Routing protocols 8
+recommender systems Network Operations 176
+recommender systems Network management 221
+recommender systems Network monitoring 54
+recommender systems Public networks 82
+recommender systems Distributed Systems 716
+recommender systems Client/server 66
+recommender systems Distributed applications 319
+recommender systems Distributed databases 145
+recommender systems Network operating systems 2508
+recommender systems Local and Wide-Area Networks 134
+recommender systems Access schemes 49
+recommender systems Buses 5
+recommender systems Ethernetrecommender systems High-speed 39
+recommender systems Internet 613
+recommender systems Token ringsrecommender systems Internetworking 1
+recommender systems Routers 3
+recommender systems Standards 594
+recommender systems Miscellaneous 1
+recommender systems SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 392
+recommender systems Microprocessor/microcomputer applications 2
+recommender systems Process control systems 2439
+recommender systems Real-time and embedded systems 640
+recommender systems Signal processing systems 2473
+recommender systems Smartcardsrecommender systems PERFORMANCE OF SYSTEMS 50165
+recommender systems Design studies 575
+recommender systems Fault tolerance 5
+recommender systems Measurement techniques 701
+recommender systems Modeling techniques 1208
+recommender systems Performance attributes 257
+recommender systems Reliability, availability, and serviceability 559
+recommender systems COMPUTER SYSTEM IMPLEMENTATION 3861
+recommender systems General 2208
+recommender systems Large and Medium 1200
+recommender systems Super 13
+recommender systems Minicomputers 1
+recommender systems Microcomputersrecommender systems Microprocessors 1
+recommender systems Personal computers 874
+recommender systems Portable devices 11
+recommender systems Workstations 5
+recommender systems VLSI Systems 3
+recommender systems Servers 226
+recommender systems Miscellaneous 1
+recommender systems MISCELLANEOUS 1
+recommender systems GENERAL 2208
+recommender systems PROGRAMMING TECHNIQUES 178
+recommender systems General 2208
+recommender systems Applicative 2063
+recommender systems Automatic Programming 72
+recommender systems Concurrent Programming 3
+recommender systems Distributed programming 59
+recommender systems Parallel programming 16
+recommender systems Sequential Programming 6
+recommender systems Object-oriented Programming 256
+recommender systems Logic Programming 49
+recommender systems Visual Programming 21
+recommender systems Miscellaneous 1
+recommender systems SOFTWARE ENGINEERING 145
+recommender systems General 2208
+recommender systems Protection mechanisms 18
+recommender systems Standards 594
+recommender systems Requirements/Specifications 332
+recommender systems Elicitation methods 86
+recommender systems Languages 378
+recommender systems Methodologies 395
+recommender systems Tools 714
+recommender systems Design Tools and Techniques 4046
+recommender systems Computer-aided software engineering 104
+recommender systems Decision tables 52
+recommender systems Evolutionary prototyping 4
+recommender systems Flow charts 3
+recommender systems Modules and interfaces 793
+recommender systems Object-oriented design methods 229
+recommender systems Petri nets 3
+recommender systems Programmer workbenchrecommender systems Software libraries 33
+recommender systems State diagrams 10
+recommender systems Structured programming 72
+recommender systems Top-down programming 70
+recommender systems User interfaces 472
+recommender systems Coding Tools and Techniques 520
+recommender systems Object-oriented programming 256
+recommender systems Pretty printersrecommender systems Program editors 6
+recommender systems Reentrant coderecommender systems Standards 594
+recommender systems Structured programming 72
+recommender systems Top-down programming 70
+recommender systems Software/Program Verification 156
+recommender systems Assertion checkersrecommender systems Class invariants 3
+recommender systems Correctness proofs 3
+recommender systems Formal methods 175
+recommender systems Model checking 42
+recommender systems Programming by contract 365
+recommender systems Reliability 236
+recommender systems Statistical methods 327
+recommender systems Validation 334
+recommender systems Testing and Debugging 867
+recommender systems Code inspections and walk-throughs 3
+recommender systems Debugging aids 1
+recommender systems Diagnostics 28
+recommender systems Distributed debugging 3
+recommender systems Dumps 3
+recommender systems Error handling and recovery 52
+recommender systems Monitors 177
+recommender systems Symbolic execution 3
+recommender systems Testing tools 126
+recommender systems Tracing 74
+recommender systems Programming Environments 69
+recommender systems Graphical environments 24
+recommender systems Integrated environments 160
+recommender systems Interactive environments 235
+recommender systems Programmer workbenchrecommender systems Distribution, Maintenance, and Enhancement 133
+recommender systems Corrections 152
+recommender systems Documentation 16
+recommender systems Enhancement 633
+recommender systems Extensibility 582
+recommender systems Portability 27
+recommender systems Restructuring, reverse engineering, and reengineering 1
+recommender systems Version control 29
+recommender systems Metrics 732
+recommender systems Complexity measures 210
+recommender systems Performance measures 696
+recommender systems Process metrics 313
+recommender systems Product metrics 232
+recommender systems Software science 74
+recommender systems Management 733
+recommender systems Copyrights 18
+recommender systems Cost estimation 78
+recommender systems Life cycle 14
+recommender systems Productivity 1307
+recommender systems Programming teams 8
+recommender systems Software configuration management 289
+recommender systems Software process models 1890
+recommender systems Software quality assurance 139
+recommender systems Time estimation 233
+recommender systems Design 1288
+recommender systems Methodologies 395
+recommender systems Representation 448
+recommender systems Software Architectures 90
+recommender systems Data abstraction 146
+recommender systems Domain-specific architectures 626
+recommender systems Information hiding 17
+recommender systems Languages 378
+recommender systems Patterns 650
+recommender systems Interoperability 41
+recommender systems Data mapping 230
+recommender systems Distributed objects 133
+recommender systems Interface definition languages 163
+recommender systems Reusable Software 15
+recommender systems Domain engineering 256
+recommender systems Reusable libraries 5
+recommender systems Reuse models 64
+recommender systems Miscellaneous 1
+recommender systems Rapid 134
+recommender systems Reusable 30
+recommender systems PROGRAMMING LANGUAGES 62
+recommender systems General 2208
+recommender systems Standards 594
+recommender systems Formal Definitions and Theory 190
+recommender systems Semantics 855
+recommender systems Syntax 25
+recommender systems Language Classifications 63
+recommender systems Applicative 2063
+recommender systems Concurrent, distributed, and parallel languages 12
+recommender systems Constraint and logic languages 118
+recommender systems Data-flow languages 298
+recommender systems Design languages 114
+recommender systems Extensible languages 71
+recommender systems Microprogramming languagesrecommender systems Multiparadigm languagesrecommender systems Nondeterministic languages

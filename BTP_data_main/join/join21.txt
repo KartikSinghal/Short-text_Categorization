@@ -1,0 +1,27 @@
+UML component models GENERAL 2
+UML component models Biographies autobiographiesUML component models Conference proceedings 1
+UML component models INTRODUCTORY AND SURVEYUML component models REFERENCEUML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models CONTROL STRUCTURES AND MICROPROGRAMMINGUML component models General 2
+UML component models Control Design StylesUML component models Hardwired controlUML component models Writable control storeUML component models Automatic synthesis 1
+UML component models Formal models 10
+UML component models SimulationUML component models Control Structure Reliability, Testing, and Fault-ToleranceUML component models DiagnosticsUML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models Firmware engineering 2
+UML component models Languages and compilers 5
+UML component models OptimizationUML component models VerificationUML component models Direct data manipulationUML component models Instruction set interpretationUML component models Peripheral controlUML component models Special-purposeUML component models MiscellaneousUML component models General 2
+UML component models Design Styles 3
+UML component models Calculator 1
+UML component models ParallelUML component models PipelineUML component models Performance Analysis and Design Aids 1
+UML component models SimulationUML component models VerificationUML component models Worst-case analysisUML component models Reliability, Testing, and Fault-ToleranceUML component models DiagnosticsUML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models High-Speed ArithmeticUML component models AlgorithmsUML component models Cost/performance 3
+UML component models MiscellaneousUML component models MEMORY STRUCTURESUML component models General 2
+UML component models Semiconductor MemoriesUML component models Dynamic memory 1
+UML component models Read-only memoryUML component models Static memoryUML component models Design Styles 3
+UML component models Associative memories 1
+UML component models Cache memoriesUML component models Interleaved memoriesUML component models Mass storageUML component models Primary memoryUML component models Sequential-access memoryUML component models Shared memoryUML component models Virtual memoryUML component models Performance Analysis and Design Aids 1
+UML component models Formal models 10
+UML component models SimulationUML component models Worst-case analysisUML component models Reliability, Testing, and Fault-ToleranceUML component models DiagnosticsUML component models Error-checking 2
+UML component models Redundant design

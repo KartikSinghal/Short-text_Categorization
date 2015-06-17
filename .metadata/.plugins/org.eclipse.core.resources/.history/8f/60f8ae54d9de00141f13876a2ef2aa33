@@ -1,0 +1,27 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.StringTokenizer;
+
+
+public class clearacmmapmisc {
+		public static void main(String args[]) throws IOException{
+			BufferedReader in = new BufferedReader(new FileReader("media\\enigmatus\\C85ACC635ACC503C\\Users\\Kartik\\Documents\\BTP\\acmmapmiscclear.txt"));
+			BufferedWriter in1 = new BufferedWriter(new FileWriter("media\\enigmatus\\C85ACC635ACC503C\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\acmmapmiscclearnewfornocomma.txt"));			
+			String line="";
+			String temp1,temp2;
+			StringTokenizer st1=null;
+			while((line=in.readLine())!=null){
+				line=line.replace("'", "");
+				in1.write(line);
+				in1.newLine();
+			}
+			
+			int i=0;
+			in1.close();
+		}
+	
+
+}

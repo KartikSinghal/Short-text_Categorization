@@ -1,0 +1,237 @@
+INTRODUCTORY AND SURVEY
+CONTROL STRUCTURES AND MICROPROGRAMMING
+Control Structures 6138
+Microprogramming 3685
+
+Control Structure Performance Analysis and Design Aids
+Control Structure 6138
+Design Aids 107628
+
+Control Structure Reliability, Testing, and Fault-Tolerance
+Control Structure Reliability 4
+Testing 370512
+Fault tolerance 21510
+
+Languages and compilers
+Languages 295261
+Compilers 61192
+
+ARITHMETIC AND LOGIC STRUCTURES
+Arithmetic 35767
+Logic Structures 61876
+
+Performance Analysis and Design Aids
+Reliability, Testing, and Fault-Tolerance
+Performance Analysis and Design Aids
+Reliability, Testing, and Fault-Tolerance
+INPUT/OUTPUT AND DATA COMMUNICATIONS
+Channels and controllers
+Data terminals and printers
+Performance Analysis and Design Aids
+Reliability, Testing, and Fault-Tolerance
+Arithmetic and logic units
+Reliability and Testing
+Cellular arrays and automata
+Memory control and access
+Reliability and Testing
+Types and Design Styles
+Microprocessors and microcomputers
+Standard cells
+Placement and routing
+Reliability and Testing
+PERFORMANCE AND RELIABILITY
+Reliability, Testing, and Fault-Tolerance
+Performance Analysis and Design Aids
+Array and vector processors
+Security and protection
+Network Architecture and Design
+Store and forward networks
+Local and Wide-Area Networks
+Standards
+SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS
+Real-time and embedded systems
+Reliability, availability, and serviceability
+Large and Medium
+Standards
+Design Tools and Techniques
+Modules and interfaces
+Coding Tools and Techniques
+Standards
+Testing and Debugging
+Code inspections and walk-throughs
+Error handling and recovery
+Distribution, Maintenance, and Enhancement
+Restructuring, reverse engineering, and reengineering
+Standards
+Formal Definitions and Theory
+Concurrent, distributed, and parallel languages
+Constraint and logic languages
+Macro and assembly languages
+Language Constructs and Features
+Classes and objects
+Data types and structures
+Procedures, functions, and subroutines
+Translator writing systems and compiler generators
+Security and Protection
+Organization and Design
+Real-time systems and embedded systems
+Modeling and prediction
+Systems Programs and Utilities
+Command and control languages
+Graphs and networks
+Lists, stacks, and queues
+Data encryption standard
+Standards
+CODING AND INFORMATION THEORY
+Data compaction and compression
+Alternation and nondeterminism
+Interactive and reactive computation
+Parallelism and concurrency
+Complexity Measures and Classes
+Reducibility and completeness
+ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+Numerical Algorithms and Problems
+Nonnumerical Algorithms and Problems
+Geometrical problems and computations
+Routing and layout
+Sequencing and scheduling
+Sorting and searching
+LOGICS AND MEANINGS OF PROGRAMS
+Specifying and Verifying and Reasoning about Programs
+Pre- and post-conditions
+Program and recursion schemes
+MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+Lambda calculus and related systems
+Logic and constraint programming
+Grammars and Other Rewriting Systems
+Spline and piecewise polynomial interpolation
+Approximation of surfaces and contours
+Chebyshev approximation and theory
+Minimax approximation and algorithms
+Spline and piecewise polynomial approximation
+Wavelets and fractals
+Eigenvalues and eigenvectors
+Sparse, structured, and very large systems
+Quadrature and Numerical Differentiation
+Adaptive and iterative quadrature
+Convergence and stability
+Multistep and multivalue methods
+Multigrid and multilevel methods
+Permutations and combinations
+Recurrences and difference equations
+Path and circuit problems
+PROBABILITY AND STATISTICS
+Correlation and regression analysis
+Random number generation
+Reliability and life testing
+Algorithm design and analysis
+Certification and testing
+Parallel and vector implementations
+Reliability and robustness
+MODELS AND PRINCIPLES
+Systems and Information Theory
+Security, integrity, and protection
+Schema and subschema
+Recovery and restart
+Data warehouse and repository
+Logging and recovery
+Security, integrity, and protection
+Spatial databases and GIS
+INFORMATION STORAGE AND RETRIEVAL
+Content Analysis and Indexing
+Information Search and Retrieval
+Systems and Software
+User profiles and alert services
+Standards
+Computer conferencing, teleconferencing, and videoconferencing
+INFORMATION INTERFACES AND PRESENTATION
+Artificial, augmented, and virtual realities
+Hypertext navigation and maps
+Input devices and strategies
+Standardization
+Theory and methods
+Training, help, and documentation
+Group and Organization Interfaces
+Theory and models
+Sound and Music Computing
+Methodologies and techniques
+Signal analysis, synthesis, and processing
+SYMBOLIC AND ALGEBRAIC MANIPULATION
+Expressions and Their Representation
+Languages and Systems
+Applications and Expert Systems
+Medicine and science
+Deduction and Theorem Proving
+Nonmonotonic reasoning and belief revision
+Uncertainty, ``fuzzy,'' and probabilistic reasoning
+Knowledge Representation Formalisms and Methods
+Frames and scripts
+Programming Languages and Software
+Expert system tools and techniques
+Connectionism and neural nets
+Language parsing and understanding
+Speech recognition and synthesis
+Problem Solving, Control Methods, and Search
+Graph and tree search strategies
+Plan execution, formation, and generation
+Commercial robots and applications
+Kinematics and dynamics
+Workcell organization and planning
+Vision and Scene Understanding
+Architecture and control structures
+Intensity, color, photometry, and thresholding
+Modeling and recovery of physical attributes
+Representations, data structures, and transforms
+Coherence and coordination
+Languages and structures
+Stand-alone systems
+Bitmap and framebuffer operations
+Digitizing and scanning
+Line and curve generation
+Computational Geometry and Object Modeling
+Curve, surface, solid, and object representations
+Geometric algorithms, languages, and systems
+Hierarchy and geometric transformations
+Methodology and Techniques
+Graphics data structures and data types
+Standards
+Three-Dimensional Graphics and Realism
+Color, shading, shadowing, and texture
+IMAGE PROCESSING AND COMPUTER VISION
+Digitization and Image Capture
+Sharpening and deblurring
+Edge and feature detection
+Size and shape
+Classifier design and evaluation
+Feature evaluation and selection
+SIMULATION AND MODELING
+Model Validation and Analysis
+DOCUMENT AND TEXT PROCESSING
+Document and Text Editing
+Format and notation
+Languages and systems
+Standards
+Graphics recognition and interpretation
+PHYSICAL SCIENCES AND ENGINEERING
+Earth and atmospheric sciences
+Mathematics and statistics
+LIFE AND MEDICAL SCIENCES
+Biology and genetics
+SOCIAL AND BEHAVIORAL SCIENCES
+ARTS AND HUMANITIES
+Arts, fine and performing
+Command and control
+Standards
+COMPUTERS AND EDUCATION
+Computer and Information Science Education
+COMPUTERS AND SOCIETY
+Abuse and crime involving computers
+Abuse and crime involving computers
+Handicapped persons/special needs
+MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS
+Project and People Management
+Systems analysis and design
+Performance and usage measurement
+Pricing and resource allocation
+Security and Protection
+Testing, Certification, and Licensing

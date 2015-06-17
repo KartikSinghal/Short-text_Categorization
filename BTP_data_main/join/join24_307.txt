@@ -1,0 +1,437 @@
+semi automatic abstraction Visual Programmingsemi automatic abstraction Visual Programming 4
+semi automatic abstraction Miscellaneoussemi automatic abstraction SOFTWARE ENGINEERING 4
+semi automatic abstraction General 1
+semi automatic abstraction Protection mechanismssemi automatic abstraction Standardssemi automatic abstraction Requirements/Specifications 2
+semi automatic abstraction Elicitation methods 2
+semi automatic abstraction Languages 2
+semi automatic abstraction Methodologies 1
+semi automatic abstraction Tools 3
+semi automatic abstraction Design Tools and Techniques 6
+semi automatic abstraction Computer-aided software engineeringsemi automatic abstraction Decision tablessemi automatic abstraction Evolutionary prototypingsemi automatic abstraction Flow chartssemi automatic abstraction Modules and interfacessemi automatic abstraction Object-oriented design methods 2
+semi automatic abstraction Petri netssemi automatic abstraction Programmer workbenchsemi automatic abstraction Software libraries 4
+semi automatic abstraction State diagrams 1
+semi automatic abstraction Structured programming 2
+semi automatic abstraction Top-down programmingsemi automatic abstraction User interfaces 6
+semi automatic abstraction Coding Tools and Techniques 4
+semi automatic abstraction Object-oriented programming 2
+semi automatic abstraction Pretty printerssemi automatic abstraction Program editors 1
+semi automatic abstraction Reentrant code 2
+semi automatic abstraction Standardssemi automatic abstraction Structured programming 2
+semi automatic abstraction Top-down programmingsemi automatic abstraction Software/Program Verification 1
+semi automatic abstraction Assertion checkerssemi automatic abstraction Class invariants 1
+semi automatic abstraction Correctness proofs 1
+semi automatic abstraction Formal methods 3
+semi automatic abstraction Model checking 4
+semi automatic abstraction Programming by contractsemi automatic abstraction Reliabilitysemi automatic abstraction Statistical methods 3
+semi automatic abstraction Validationsemi automatic abstraction Testing and Debugging 1
+semi automatic abstraction Code inspections and walk-throughssemi automatic abstraction Debugging aidssemi automatic abstraction Diagnosticssemi automatic abstraction Distributed debuggingsemi automatic abstraction Dumpssemi automatic abstraction Error handling and recoverysemi automatic abstraction Monitorssemi automatic abstraction Symbolic execution 1
+semi automatic abstraction Testing tools 20
+semi automatic abstraction Tracing 1
+semi automatic abstraction Programming Environments 4
+semi automatic abstraction Graphical environments 1
+semi automatic abstraction Integrated environments 8
+semi automatic abstraction Interactive environments 2
+semi automatic abstraction Programmer workbenchsemi automatic abstraction Distribution, Maintenance, and Enhancementsemi automatic abstraction Correctionssemi automatic abstraction Documentationsemi automatic abstraction Enhancementsemi automatic abstraction Extensibilitysemi automatic abstraction Portabilitysemi automatic abstraction Restructuring, reverse engineering, and reengineering 1
+semi automatic abstraction Version control 1
+semi automatic abstraction Metricssemi automatic abstraction Complexity measures 1
+semi automatic abstraction Performance measures 1
+semi automatic abstraction Process metrics 9
+semi automatic abstraction Product metricssemi automatic abstraction Software science 6
+semi automatic abstraction Management 1
+semi automatic abstraction Copyrightssemi automatic abstraction Cost estimationsemi automatic abstraction Life cyclesemi automatic abstraction Productivitysemi automatic abstraction Programming teams 1
+semi automatic abstraction Software configuration management 1
+semi automatic abstraction Software process models 7
+semi automatic abstraction Software quality assurance 1
+semi automatic abstraction Time estimation 1
+semi automatic abstraction Design 2
+semi automatic abstraction Methodologies 1
+semi automatic abstraction Representationsemi automatic abstraction Software Architectures 5
+semi automatic abstraction Data abstraction 3
+semi automatic abstraction Domain-specific architectures 2
+semi automatic abstraction Information hiding 1
+semi automatic abstraction Languages 2
+semi automatic abstraction Patternssemi automatic abstraction Interoperabilitysemi automatic abstraction Data mapping 8
+semi automatic abstraction Distributed objects 4
+semi automatic abstraction Interface definition languages 1
+semi automatic abstraction Reusable Software 3
+semi automatic abstraction Domain engineering 4
+semi automatic abstraction Reusable librariessemi automatic abstraction Reuse models 5
+semi automatic abstraction Miscellaneoussemi automatic abstraction Rapidsemi automatic abstraction Reusablesemi automatic abstraction PROGRAMMING LANGUAGES 6
+semi automatic abstraction General 1
+semi automatic abstraction Standardssemi automatic abstraction Formal Definitions and Theory 1
+semi automatic abstraction Semantics 2
+semi automatic abstraction Syntaxsemi automatic abstraction Language Classifications 2
+semi automatic abstraction Applicative 1
+semi automatic abstraction Concurrent, distributed, and parallel languagessemi automatic abstraction Constraint and logic languages 1
+semi automatic abstraction Data-flow languagessemi automatic abstraction Design languages 7
+semi automatic abstraction Extensible languages 4
+semi automatic abstraction Microprogramming languages 2
+semi automatic abstraction Multiparadigm languages 2
+semi automatic abstraction Nondeterministic languages 2
+semi automatic abstraction Nonprocedural languages 2
+semi automatic abstraction Object-oriented languages 3
+semi automatic abstraction Specialized application languages 1
+semi automatic abstraction Very high-level languages 1
+semi automatic abstraction Language Constructs and Featuressemi automatic abstraction Abstract data typessemi automatic abstraction Classes and objects 3
+semi automatic abstraction Concurrent programming structures 1
+semi automatic abstraction Constraints 1
+semi automatic abstraction Control structures 3
+semi automatic abstraction Coroutinessemi automatic abstraction Data types and structures 5
+semi automatic abstraction Dynamic storage managementsemi automatic abstraction Frameworkssemi automatic abstraction Inheritancesemi automatic abstraction Input/outputsemi automatic abstraction Modules, packagessemi automatic abstraction Patternssemi automatic abstraction Polymorphismsemi automatic abstraction Procedures, functions, and subroutinessemi automatic abstraction Recursionsemi automatic abstraction Processorssemi automatic abstraction Code generation 8
+semi automatic abstraction Compilerssemi automatic abstraction Debuggerssemi automatic abstraction Incremental compilerssemi automatic abstraction Interpreterssemi automatic abstraction Memory management 1
+semi automatic abstraction Optimizationsemi automatic abstraction Parsingsemi automatic abstraction Preprocessorssemi automatic abstraction Retargetable compilerssemi automatic abstraction Run-time environmentssemi automatic abstraction Translator writing systems and compiler generatorssemi automatic abstraction Miscellaneoussemi automatic abstraction OPERATING SYSTEMS 14
+semi automatic abstraction General 1
+semi automatic abstraction Process Management 18
+semi automatic abstraction Concurrency 1
+semi automatic abstraction Deadlockssemi automatic abstraction Multiprocessing/multiprogramming/multitaskingsemi automatic abstraction Mutual exclusionsemi automatic abstraction Schedulingsemi automatic abstraction Synchronizationsemi automatic abstraction Threadssemi automatic abstraction Storage Management 1
+semi automatic abstraction Allocation/deallocation strategiessemi automatic abstraction Distributed memoriessemi automatic abstraction Garbage collection 1
+semi automatic abstraction Main memory 1
+semi automatic abstraction Secondary storagesemi automatic abstraction Segmentationsemi automatic abstraction Storage hierarchiessemi automatic abstraction Swappingsemi automatic abstraction Virtual memory 1
+semi automatic abstraction File Systems Management 2
+semi automatic abstraction Access methods 3
+semi automatic abstraction Directory structures 1
+semi automatic abstraction Distributed file systemssemi automatic abstraction File organization 1
+semi automatic abstraction Maintenance 1
+semi automatic abstraction Communications Management 1
+semi automatic abstraction Bufferingsemi automatic abstraction Input/outputsemi automatic abstraction Message sending 1
+semi automatic abstraction Network communicationsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal managementsemi automatic abstraction Terminal management 1
+semi automatic abstraction Reliabilitysemi automatic abstraction Backup proceduressemi automatic abstraction Checkpoint/restartsemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerancesemi automatic abstraction Fault-tolerance 1
+semi automatic abstraction Verification 1
+semi automatic abstraction Security and Protectionsemi automatic abstraction Access controlssemi automatic abstraction Authenticationsemi automatic abstraction Cryptographic controlssemi automatic abstraction Information flow controlssemi automatic abstraction Invasive software 3
+semi automatic abstraction Security kernelssemi automatic abstraction Verification 1
+semi automatic abstraction Organization and Design 2
+semi automatic abstraction Batch processing systems 2
+semi automatic abstraction Distributed systems 7
+semi automatic abstraction Hierarchical design 2
+semi automatic abstraction Interactive systems 13
+semi automatic abstraction Real-time systems and embedded systemssemi automatic abstraction Performancesemi automatic abstraction Measurementssemi automatic abstraction Modeling and prediction 4
+semi automatic abstraction Monitorssemi automatic abstraction Operational analysis 5
+semi automatic abstraction Queueing theorysemi automatic abstraction Simulationsemi automatic abstraction Stochastic analysis 1
+semi automatic abstraction Command and control languagessemi automatic abstraction Linkerssemi automatic abstraction Loaderssemi automatic abstraction Window managers 1
+semi automatic abstraction Miscellaneoussemi automatic abstraction MISCELLANEOUSsemi automatic abstraction Software 3
+semi automatic abstraction GENERAL 1
+semi automatic abstraction DATA STRUCTURES 14
+semi automatic abstraction Arrayssemi automatic abstraction Distributed data structuressemi automatic abstraction Graphs and networkssemi automatic abstraction Lists, stacks, and queuessemi automatic abstraction Recordssemi automatic abstraction Tablessemi automatic abstraction Treessemi automatic abstraction DATA STORAGE REPRESENTATIONS 2
+semi automatic abstraction Composite structures 4
+semi automatic abstraction Contiguous representationssemi automatic abstraction Hash-table representationssemi automatic abstraction Linked representationssemi automatic abstraction Object representation 3
+semi automatic abstraction Primitive data itemssemi automatic abstraction DATA ENCRYPTIONsemi automatic abstraction Code breaking 2
+semi automatic abstraction Data encryption standardsemi automatic abstraction Public key cryptosystemssemi automatic abstraction Standardssemi automatic abstraction CODING AND INFORMATION THEORY 1
+semi automatic abstraction Data compaction and compressionsemi automatic abstraction Error control codessemi automatic abstraction Formal models of communication 2
+semi automatic abstraction Nonsecret encoding schemessemi automatic abstraction FILESsemi automatic abstraction Backup/recoverysemi automatic abstraction Optimizationsemi automatic abstraction Organization/structure 3
+semi automatic abstraction Sorting/searchingsemi automatic abstraction MISCELLANEOUSsemi automatic abstraction GENERAL 1
+semi automatic abstraction COMPUTATION BY ABSTRACT DEVICESsemi automatic abstraction General 1
+semi automatic abstraction Models of Computation 17
+semi automatic abstraction Automatasemi automatic abstraction Bounded-action devicessemi automatic abstraction Computability theory 1
+semi automatic abstraction Relations between models 2
+semi automatic abstraction Self-modifying machinessemi automatic abstraction Unbounded-action devicessemi automatic abstraction Modes of Computation 11
+semi automatic abstraction Alternation and nondeterminismsemi automatic abstraction Interactive and reactive computationsemi automatic abstraction Online computationsemi automatic abstraction Parallelism and concurrency 3
+semi automatic abstraction Probabilistic computation 1
+semi automatic abstraction Relations among modessemi automatic abstraction Relativized computationsemi automatic abstraction Complexity Measures and Classes 1
+semi automatic abstraction Complexity hierarchies 1
+semi automatic abstraction Machine-independent complexitysemi automatic abstraction Reducibility and completenesssemi automatic abstraction Relations among complexity classessemi automatic abstraction Relations among complexity measuressemi automatic abstraction Miscellaneoussemi automatic abstraction ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 2
+semi automatic abstraction General 1
+semi automatic abstraction Numerical Algorithms and Problems 1
+semi automatic abstraction Computation of transforms 5
+semi automatic abstraction Computations in finite fieldssemi automatic abstraction Computations on matricessemi automatic abstraction Computations on polynomialssemi automatic abstraction Number-theoretic computationssemi automatic abstraction Nonnumerical Algorithms and Problems 1
+semi automatic abstraction Computations on discrete structuressemi automatic abstraction Geometrical problems and computations 1
+semi automatic abstraction Pattern matching 1
+semi automatic abstraction Routing and layout 1
+semi automatic abstraction Sequencing and schedulingsemi automatic abstraction Sorting and searchingsemi automatic abstraction Tradeoffs between Complexity Measuressemi automatic abstraction Miscellaneoussemi automatic abstraction LOGICS AND MEANINGS OF PROGRAMSsemi automatic abstraction General 1
+semi automatic abstraction Assertionssemi automatic abstraction Invariantssemi automatic abstraction Logics of programs 1
+semi automatic abstraction Mechanical verification 1
+semi automatic abstraction Pre- and post-conditionssemi automatic abstraction Specification techniques 3
+semi automatic abstraction Semantics of Programming Languages 4
+semi automatic abstraction Algebraic approaches to semantics 2
+semi automatic abstraction Denotational semantics 2
+semi automatic abstraction Operational semantics 3
+semi automatic abstraction Partial evaluation 1
+semi automatic abstraction Process models 46
+semi automatic abstraction Program analysis 4
+semi automatic abstraction Studies of Program Constructs 1
+semi automatic abstraction Control primitivessemi automatic abstraction Functional constructs 2
+semi automatic abstraction Object-oriented constructs 4
+semi automatic abstraction Program and recursion schemessemi automatic abstraction Type structure 1
+semi automatic abstraction Miscellaneoussemi automatic abstraction MATHEMATICAL LOGIC AND FORMAL LANGUAGESsemi automatic abstraction General 1
+semi automatic abstraction Mathematical Logicsemi automatic abstraction Computability theory 1
+semi automatic abstraction Computational logicsemi automatic abstraction Lambda calculus and related systemssemi automatic abstraction Logic and constraint programmingsemi automatic abstraction Mechanical theorem provingsemi automatic abstraction Modal logicsemi automatic abstraction Model theory 3
+semi automatic abstraction Proof theory 1
+semi automatic abstraction Recursive function theorysemi automatic abstraction Set theory 1
+semi automatic abstraction Temporal logicsemi automatic abstraction Grammars and Other Rewriting Systemssemi automatic abstraction Decision problems 3
+semi automatic abstraction Grammar typessemi automatic abstraction Parallel rewriting systems 1
+semi automatic abstraction Parsingsemi automatic abstraction Thue systems 3
+semi automatic abstraction Formal Languages 4
+semi automatic abstraction Algebraic language theorysemi automatic abstraction Classes defined by grammars or automatasemi automatic abstraction Decision problems 3
+semi automatic abstraction Operations on languages 3
+semi automatic abstraction Miscellaneoussemi automatic abstraction MISCELLANEOUSsemi automatic abstraction GENERAL 1
+semi automatic abstraction NUMERICAL ANALYSIS 1
+semi automatic abstraction General 1
+semi automatic abstraction Computer arithmeticsemi automatic abstraction Conditioningsemi automatic abstraction Error analysis 2
+semi automatic abstraction Interval arithmeticsemi automatic abstraction Multiple precision arithmeticsemi automatic abstraction Numerical algorithms 1
+semi automatic abstraction Parallel algorithms 12
+semi automatic abstraction Stabilitysemi automatic abstraction Interpolationsemi automatic abstraction Difference formulas 2
+semi automatic abstraction Extrapolationsemi automatic abstraction Interpolation formulassemi automatic abstraction Smoothingsemi automatic abstraction Approximationsemi automatic abstraction Chebyshev approximation and theorysemi automatic abstraction Elementary function approximationsemi automatic abstraction Fast Fourier transformssemi automatic abstraction Least squares approximationsemi automatic abstraction Linear approximation 1
+semi automatic abstraction Minimax approximation and algorithmssemi automatic abstraction Nonlinear approximationsemi automatic abstraction Rational approximationsemi automatic abstraction Special function approximationssemi automatic abstraction Spline and piecewise polynomial approximationsemi automatic abstraction Wavelets and fractalssemi automatic abstraction Numerical Linear Algebrasemi automatic abstraction Conditioningsemi automatic abstraction Determinantssemi automatic abstraction Eigenvalues and eigenvectorssemi automatic abstraction Error analysis 2
+semi automatic abstraction Linear systems 7
+semi automatic abstraction Matrix inversionsemi automatic abstraction Pseudoinversessemi automatic abstraction Singular value decompositionsemi automatic abstraction Singular value decompositionsemi automatic abstraction Sparse, structured, and very large systemssemi automatic abstraction Quadrature and Numerical Differentiationsemi automatic abstraction Automatic differentiation 4
+semi automatic abstraction Error analysis 2
+semi automatic abstraction Finite difference methods 1
+semi automatic abstraction Gaussian quadraturesemi automatic abstraction Iterative methods 4
+semi automatic abstraction Multidimensionalsemi automatic abstraction Roots of Nonlinear Equationssemi automatic abstraction Continuationsemi automatic abstraction Convergencesemi automatic abstraction Error analysis 2
+semi automatic abstraction Iterative methods 4
+semi automatic abstraction Polynomials, methods for 2
+semi automatic abstraction Systems of equations 10
+semi automatic abstraction Optimizationsemi automatic abstraction Constrained optimizationsemi automatic abstraction Convex programming 1
+semi automatic abstraction Global optimizationsemi automatic abstraction Gradient methods 3
+semi automatic abstraction Integer programming 1
+semi automatic abstraction Least squares methodssemi automatic abstraction Linear programming 2
+semi automatic abstraction Nonlinear programming 1
+semi automatic abstraction Quadratic programming methods 1
+semi automatic abstraction Simulated annealingsemi automatic abstraction Stochastic programming 1
+semi automatic abstraction Unconstrained optimizationsemi automatic abstraction Ordinary Differential Equationssemi automatic abstraction Boundary value problems 1
+semi automatic abstraction Chaotic systems 3
+semi automatic abstraction Convergence and stabilitysemi automatic abstraction Differential-algebraic equationssemi automatic abstraction Error analysis 2
+semi automatic abstraction Finite difference methods 1
+semi automatic abstraction Initial value problemssemi automatic abstraction Multistep and multivalue methodssemi automatic abstraction One-stepsemi automatic abstraction One-step 8
+semi automatic abstraction Stiff equationssemi automatic abstraction Partial Differential Equationssemi automatic abstraction Domain decomposition methods 1
+semi automatic abstraction Elliptic equationssemi automatic abstraction Finite difference methods 1
+semi automatic abstraction Finite element methodssemi automatic abstraction Finite volume methodssemi automatic abstraction Hyperbolic equationssemi automatic abstraction Inverse problems 2
+semi automatic abstraction Iterative solution techniques 2
+semi automatic abstraction Method of lines 53
+semi automatic abstraction Multigrid and multilevel methodssemi automatic abstraction Parabolic equationssemi automatic abstraction Spectral methods 2
+semi automatic abstraction Integral Equationssemi automatic abstraction Delay equationssemi automatic abstraction Fredholm equationssemi automatic abstraction Integro-differential equationssemi automatic abstraction Volterra equationssemi automatic abstraction Applications 1
+semi automatic abstraction Miscellaneoussemi automatic abstraction DISCRETE MATHEMATICSsemi automatic abstraction General 1
+semi automatic abstraction Combinatoricssemi automatic abstraction Combinatorial algorithms 1
+semi automatic abstraction Counting problems 4
+semi automatic abstraction Generating functions 69
+semi automatic abstraction Permutations and combinationssemi automatic abstraction Recurrences and difference equationssemi automatic abstraction Graph Theorysemi automatic abstraction Graph algorithms 3
+semi automatic abstraction Graph labeling 1
+semi automatic abstraction Hypergraphssemi automatic abstraction Network problems 2
+semi automatic abstraction Path and circuit problemssemi automatic abstraction Treessemi automatic abstraction Applications 1
+semi automatic abstraction Miscellaneoussemi automatic abstraction PROBABILITY AND STATISTICSsemi automatic abstraction Contingency table analysissemi automatic abstraction Correlation and regression analysissemi automatic abstraction Distribution functions 3
+semi automatic abstraction Experimental design 2
+semi automatic abstraction Markov processes 3
+semi automatic abstraction Multivariate statisticssemi automatic abstraction Nonparametric statisticssemi automatic abstraction Probabilistic algorithms 2
+semi automatic abstraction Queueing theorysemi automatic abstraction Random number generationsemi automatic abstraction Reliability and life testingsemi automatic abstraction Renewal theorysemi automatic abstraction Robust regressionsemi automatic abstraction Statistical computing 1
+semi automatic abstraction Statistical software 3
+semi automatic abstraction Stochastic processes 2
+semi automatic abstraction Survival analysis 1
+semi automatic abstraction Time series analysissemi automatic abstraction MATHEMATICAL SOFTWARE 3
+semi automatic abstraction Algorithm design and analysis 7
+semi automatic abstraction Certification and testingsemi automatic abstraction Documentationsemi automatic abstraction Efficiencysemi automatic abstraction Parallel and vector implementations 1
+semi automatic abstraction Portabilitysemi automatic abstraction Reliability and robustnesssemi automatic abstraction User interfaces 6
+semi automatic abstraction Verification 1
+semi automatic abstraction MISCELLANEOUSsemi automatic abstraction Queueingsemi automatic abstraction GENERAL 1
+semi automatic abstraction MODELS AND PRINCIPLES 5
+semi automatic abstraction General 1
+semi automatic abstraction Systems and Information Theory 6
+semi automatic abstraction General systems theory 22
+semi automatic abstraction Information theory 2
+semi automatic abstraction Value of information 1
+semi automatic abstraction User/Machine Systems 1
+semi automatic abstraction Human factors 1
+semi automatic abstraction Human information processing 3
+semi automatic abstraction Software psychology 3
+semi automatic abstraction Miscellaneoussemi automatic abstraction DATABASE MANAGEMENT 2
+semi automatic abstraction General 1
+semi automatic abstraction Security, integrity, and protectionsemi automatic abstraction Logical Design 3
+semi automatic abstraction Data models 21
+semi automatic abstraction Normal formssemi automatic abstraction Schema and subschemasemi automatic abstraction Physical Design 3
+semi automatic abstraction Access methods 3
+semi automatic abstraction Deadlock avoidance 1
+semi automatic abstraction Recovery and restartsemi automatic abstraction Languages 2
+semi automatic abstraction Data description languages 1
+semi automatic abstraction Data manipulation languagessemi automatic abstraction Databasesemi automatic abstraction Query languages 2
+semi automatic abstraction Report writerssemi automatic abstraction Systems 3
+semi automatic abstraction Concurrency 1
+semi automatic abstraction Distributed databasessemi automatic abstraction Multimedia databasessemi automatic abstraction Object-oriented databases 3
+semi automatic abstraction Parallel databasessemi automatic abstraction Query processing 3
+semi automatic abstraction Relational databasessemi automatic abstraction Rule-based databases 2
+semi automatic abstraction Textual databasessemi automatic abstraction Transaction processing 2
+semi automatic abstraction Heterogeneous Databasessemi automatic abstraction Data translation 5
+semi automatic abstraction Program translation 1
+semi automatic abstraction Database Machinessemi automatic abstraction Database Administrationsemi automatic abstraction Data dictionary/directorysemi automatic abstraction Data warehouse and repositorysemi automatic abstraction Logging and recoverysemi automatic abstraction Security, integrity, and protectionsemi automatic abstraction Database Applications 2
+semi automatic abstraction Data mining 12
+semi automatic abstraction Image databases 11
+semi automatic abstraction Scientific databasessemi automatic abstraction Spatial databases and GIS 1
+semi automatic abstraction Statistical databasessemi automatic abstraction Miscellaneoussemi automatic abstraction INFORMATION STORAGE AND RETRIEVAL 1
+semi automatic abstraction General 1
+semi automatic abstraction Content Analysis and Indexing 1
+semi automatic abstraction Abstracting methods 3
+semi automatic abstraction Dictionariessemi automatic abstraction Indexing methods 13
+semi automatic abstraction Linguistic processing 3
+semi automatic abstraction Thesaurusessemi automatic abstraction Information Storage 2
+semi automatic abstraction File organization 1
+semi automatic abstraction Record classification 2
+semi automatic abstraction Information Search and Retrieval 2
+semi automatic abstraction Clusteringsemi automatic abstraction Information filtering 3
+semi automatic abstraction Query formulation 1
+semi automatic abstraction Relevance feedback 4
+semi automatic abstraction Retrieval models 7
+semi automatic abstraction Search process 8
+semi automatic abstraction Selection process 11
+semi automatic abstraction Systems and Software 13
+semi automatic abstraction Current awareness systemssemi automatic abstraction Distributed systems 7
+semi automatic abstraction Information networks 3
+semi automatic abstraction Performance evaluation 4
+semi automatic abstraction Question-answering 1
+semi automatic abstraction Online Information Servicessemi automatic abstraction Commercial servicessemi automatic abstraction Data sharing 3
+semi automatic abstraction Web-based services 10
+semi automatic abstraction Library Automation 1
+semi automatic abstraction Large text archivessemi automatic abstraction Digital Librariessemi automatic abstraction Collectionsemi automatic abstraction Disseminationsemi automatic abstraction Standardssemi automatic abstraction Systems issues 13
+semi automatic abstraction User issues 2
+semi automatic abstraction Miscellaneoussemi automatic abstraction INFORMATION SYSTEMS APPLICATIONS 5
+semi automatic abstraction General 1
+semi automatic abstraction Office Automation 1
+semi automatic abstraction Desktop publishingsemi automatic abstraction Equipmentsemi automatic abstraction Groupwaresemi automatic abstraction Spreadsheetssemi automatic abstraction Time management 2
+semi automatic abstraction Word processing 4
+semi automatic abstraction Workflow management 4
+semi automatic abstraction Types of Systems 4
+semi automatic abstraction Decision support 2
+semi automatic abstraction Logisticssemi automatic abstraction Communications Applications 1
+semi automatic abstraction Bulletin boardssemi automatic abstraction Computer conferencing, teleconferencing, and videoconferencingsemi automatic abstraction Electronic mailsemi automatic abstraction Information browsers 1
+semi automatic abstraction Videotexsemi automatic abstraction Miscellaneoussemi automatic abstraction INFORMATION INTERFACES AND PRESENTATION 1
+semi automatic abstraction General 1
+semi automatic abstraction Multimedia Information Systems 3
+semi automatic abstraction Animationssemi automatic abstraction Artificial, augmented, and virtual realitiessemi automatic abstraction Audio input/outputsemi automatic abstraction Evaluation/methodology 9
+semi automatic abstraction Videosemi automatic abstraction User Interfaces 6
+semi automatic abstraction Auditorysemi automatic abstraction Benchmarkingsemi automatic abstraction Ergonomicssemi automatic abstraction Evaluation/methodology 9
+semi automatic abstraction Graphical user interfaces 2
+semi automatic abstraction Haptic I/Osemi automatic abstraction Input devices and strategiessemi automatic abstraction Interaction stylessemi automatic abstraction Natural language 5
+semi automatic abstraction Prototypingsemi automatic abstraction Screen design 2
+semi automatic abstraction Standardizationsemi automatic abstraction Style guidessemi automatic abstraction Theory and methods 2
+semi automatic abstraction Training, help, and documentationsemi automatic abstraction User-centered design 2
+semi automatic abstraction User interface management systems 1
+semi automatic abstraction Voice I/Osemi automatic abstraction Windowing systems 3
+semi automatic abstraction Group and Organization Interfacessemi automatic abstraction Asynchronous interactionsemi automatic abstraction Collaborative computingsemi automatic abstraction Computer-supported cooperative worksemi automatic abstraction Evaluation/methodology 9
+semi automatic abstraction Organizational design 2
+semi automatic abstraction Synchronous interactionsemi automatic abstraction Theory and models 3
+semi automatic abstraction Web-based interaction 4
+semi automatic abstraction Hypertext/Hypermedia 1
+semi automatic abstraction Architectures 2
+semi automatic abstraction Navigation 1
+semi automatic abstraction Theorysemi automatic abstraction User issues 2
+semi automatic abstraction Sound and Music Computingsemi automatic abstraction Methodologies and techniques 14
+semi automatic abstraction Modeling 3
+semi automatic abstraction Systems 3
+semi automatic abstraction Miscellaneoussemi automatic abstraction MISCELLANEOUSsemi automatic abstraction GENERAL 1
+semi automatic abstraction SYMBOLIC AND ALGEBRAIC MANIPULATIONsemi automatic abstraction General 1
+semi automatic abstraction Expressions and Their Representationsemi automatic abstraction Representationssemi automatic abstraction Simplification of expressions 1
+semi automatic abstraction Algorithms 1
+semi automatic abstraction Algebraic algorithms 1
+semi automatic abstraction Analysis of algorithms 20
+semi automatic abstraction Nonalgebraic algorithms 1
+semi automatic abstraction Languages and Systems 5
+semi automatic abstraction Evaluation strategies 4
+semi automatic abstraction Nonprocedural languages 2
+semi automatic abstraction Special-purpose algebraic systemssemi automatic abstraction Special-purpose hardwaresemi automatic abstraction Substitution mechanismssemi automatic abstraction Applications 1
+semi automatic abstraction Miscellaneoussemi automatic abstraction ARTIFICIAL INTELLIGENCEsemi automatic abstraction General 1
+semi automatic abstraction Cognitive simulationsemi automatic abstraction Philosophical foundationssemi automatic abstraction Applications and Expert Systems 1
+semi automatic abstraction Cartographysemi automatic abstraction Gamessemi automatic abstraction Industrial automation 1
+semi automatic abstraction Lawsemi automatic abstraction Medicine and sciencesemi automatic abstraction Natural language interfaces 1
+semi automatic abstraction Office automation 1
+semi automatic abstraction Automatic Programming 3
+semi automatic abstraction Automatic analysis of algorithms 2
+semi automatic abstraction Program modification 2
+semi automatic abstraction Program synthesis 2
+semi automatic abstraction Program transformation 4
+semi automatic abstraction Program verification 3
+semi automatic abstraction Deduction and Theorem Provingsemi automatic abstraction Answer/reason extractionsemi automatic abstraction Deductionsemi automatic abstraction Inference engines 3
+semi automatic abstraction Logic programming 1
+semi automatic abstraction Mathematical inductionsemi automatic abstraction Metatheorysemi automatic abstraction Nonmonotonic reasoning and belief revisionsemi automatic abstraction Resolutionsemi automatic abstraction Knowledge Representation Formalisms and Methodssemi automatic abstraction Frames and scriptssemi automatic abstraction Modal logicsemi automatic abstraction Predicate logicsemi automatic abstraction Relation systems 4
+semi automatic abstraction Representation languages 2
+semi automatic abstraction Representationssemi automatic abstraction Semantic networks 8
+semi automatic abstraction Temporal logicsemi automatic abstraction Programming Languages and Software 5
+semi automatic abstraction Expert system tools and techniques 2
+semi automatic abstraction Learningsemi automatic abstraction Analogiessemi automatic abstraction Concept learning 2
+semi automatic abstraction Connectionism and neural netssemi automatic abstraction Inductionsemi automatic abstraction Knowledge acquisition 12
+semi automatic abstraction Language acquisition 4
+semi automatic abstraction Parameter learningsemi automatic abstraction Natural Language Processing 2
+semi automatic abstraction Discoursesemi automatic abstraction Language generation 2
+semi automatic abstraction Language models 6
+semi automatic abstraction Language parsing and understandingsemi automatic abstraction Machine translation 1
+semi automatic abstraction Speech recognition and synthesissemi automatic abstraction Text analysis 1
+semi automatic abstraction Problem Solving, Control Methods, and Searchsemi automatic abstraction Backtrackingsemi automatic abstraction Control theorysemi automatic abstraction Dynamic programming 3
+semi automatic abstraction Graph and tree search strategiessemi automatic abstraction Heuristic methods 3
+semi automatic abstraction Plan execution, formation, and generationsemi automatic abstraction Schedulingsemi automatic abstraction Roboticssemi automatic abstraction Autonomous vehiclessemi automatic abstraction Kinematics and dynamicssemi automatic abstraction Manipulatorssemi automatic abstraction Operator interfaces 4
+semi automatic abstraction Propelling mechanismssemi automatic abstraction Sensorssemi automatic abstraction Vision and Scene Understandingsemi automatic abstraction Architecture and control structures 1
+semi automatic abstraction Motionsemi automatic abstraction Perceptual reasoningsemi automatic abstraction Shapesemi automatic abstraction Texturesemi automatic abstraction Video analysis 14
+semi automatic abstraction Distributed Artificial Intelligencesemi automatic abstraction Coherence and coordinationsemi automatic abstraction Intelligent agentssemi automatic abstraction Languages and structures 2
+semi automatic abstraction Multiagent systems 3
+semi automatic abstraction Miscellaneoussemi automatic abstraction COMPUTER GRAPHICSsemi automatic abstraction General 1
+semi automatic abstraction Hardware Architecture 2
+semi automatic abstraction Graphics processorssemi automatic abstraction Hardcopy devicessemi automatic abstraction Input devicessemi automatic abstraction Parallel processing 21
+semi automatic abstraction Raster display devicessemi automatic abstraction Storage devicessemi automatic abstraction Three-dimensional displayssemi automatic abstraction Vector display devicessemi automatic abstraction Graphics Systems 3
+semi automatic abstraction Distributed/network graphicssemi automatic abstraction Remote systems 6
+semi automatic abstraction Stand-alone systemssemi automatic abstraction Picture/Image Generationsemi automatic abstraction Antialiasingsemi automatic abstraction Bitmap and framebuffer operationssemi automatic abstraction Digitizing and scanning 4
+semi automatic abstraction Display algorithms 1
+semi automatic abstraction Line and curve generation 1
+semi automatic abstraction Viewing algorithms 2
+semi automatic abstraction Graphics Utilitiessemi automatic abstraction Application packages 2
+semi automatic abstraction Device driverssemi automatic abstraction Graphics editors 1
+semi automatic abstraction Graphics packages 1
+semi automatic abstraction Meta filessemi automatic abstraction Paint systems 3
+semi automatic abstraction Picture description languagessemi automatic abstraction Software support 6
+semi automatic abstraction Virtual device interfacessemi automatic abstraction Computational Geometry and Object Modelingsemi automatic abstraction Boundary representationssemi automatic abstraction Constructive solid geometrysemi automatic abstraction Curve, surface, solid, and object representationssemi automatic abstraction Geometric algorithms, languages, and systemssemi automatic abstraction Hierarchy and geometric transformationssemi automatic abstraction Modeling packages 3
+semi automatic abstraction Object hierarchies 2
+semi automatic abstraction Physically based modeling 3
+semi automatic abstraction Splinessemi automatic abstraction Methodology and Techniques 14
+semi automatic abstraction Device independence 1
+semi automatic abstraction Ergonomicssemi automatic abstraction Graphics data structures and data types 1
+semi automatic abstraction Interaction techniques 7
+semi automatic abstraction Languages 2
+semi automatic abstraction Standardssemi automatic abstraction Three-Dimensional Graphics and Realismsemi automatic abstraction Animationsemi automatic abstraction Color, shading, shadowing, and texturesemi automatic abstraction Fractalssemi automatic abstraction Hidden line/surface removalsemi automatic abstraction Radiositysemi automatic abstraction Raytracingsemi automatic abstraction Virtual reality 2
+semi automatic abstraction Visible line/surface algorithmssemi automatic abstraction Applications 1
+semi automatic abstraction Miscellaneoussemi automatic abstraction IMAGE PROCESSING AND COMPUTER VISION 5
+semi automatic abstraction General 1
+semi automatic abstraction Image displays 1
+semi automatic abstraction Image processing software 14
+semi automatic abstraction Digitization and Image Capture 1
+semi automatic abstraction Camera calibration 2
+semi automatic abstraction Imaging geometry 5
+semi automatic abstraction Quantizationsemi automatic abstraction Radiometrysemi automatic abstraction Reflectancesemi automatic abstraction Samplingsemi automatic abstraction Scanningsemi automatic abstraction Compressionsemi automatic abstraction Approximate methods 3
+semi automatic abstraction Exact coding 2
+semi automatic abstraction Enhancementsemi automatic abstraction Filteringsemi automatic abstraction Geometric correction 1
+semi automatic abstraction Grayscale manipulationsemi automatic abstraction Registrationsemi automatic abstraction Sharpening and deblurringsemi automatic abstraction Smoothingsemi automatic abstraction Restorationsemi automatic abstraction Inverse filteringsemi automatic abstraction Kalman filteringsemi automatic abstraction Pseudoinverse restorationsemi automatic abstraction Wiener filteringsemi automatic abstraction Reconstructionsemi automatic abstraction Series expansion methodssemi automatic abstraction Summation methods 2
+semi automatic abstraction Transform methods 17
+semi automatic abstraction Segmentationsemi automatic abstraction Edge and feature detection 2
+semi automatic abstraction Pixel classification 1
+semi automatic abstraction Region growing, partitioningsemi automatic abstraction Relaxationsemi automatic abstraction Feature Measurement 7
+semi automatic abstraction Feature representation 4
+semi automatic abstraction Invariantssemi automatic abstraction Momentssemi automatic abstraction Projectionssemi automatic abstraction Size and shapesemi automatic abstraction Texturesemi automatic abstraction Scene Analysis 2
+semi automatic abstraction Colorsemi automatic abstraction Depth cues 1
+semi automatic abstraction Motionsemi automatic abstraction Object recognition 7
+semi automatic abstraction Photometrysemi automatic abstraction Range datasemi automatic abstraction Sensor fusionsemi automatic abstraction Shadingsemi automatic abstraction Shapesemi automatic abstraction Stereosemi automatic abstraction Surface fitting 4
+semi automatic abstraction Time-varying imagerysemi automatic abstraction Trackingsemi automatic abstraction Applications 1
+semi automatic abstraction Image Representation 4
+semi automatic abstraction Hierarchicalsemi automatic abstraction Morphologicalsemi automatic abstraction Multidimensionalsemi automatic abstraction Statisticalsemi automatic abstraction Volumetricsemi automatic abstraction Miscellaneoussemi automatic abstraction Miscellaneoussemi automatic abstraction PATTERN RECOGNITION 5
+semi automatic abstraction Generalsemi automatic abstraction General 1
+semi automatic abstraction Modelssemi automatic abstraction Models 3
+semi automatic abstraction Deterministicsemi automatic abstraction Fuzzy set 2
+semi automatic abstraction Geometricsemi automatic abstraction Neural netssemi automatic abstraction Statisticalsemi automatic abstraction Statisticalsemi automatic abstraction Statisticalsemi automatic abstraction Statisticalsemi automatic abstraction Structuralsemi automatic abstraction Structural 1
+semi automatic abstraction Design Methodology 6
+semi automatic abstraction Classifier design and evaluation 1
+semi automatic abstraction Feature evaluation and selection 4
+semi automatic abstraction Pattern analysissemi automatic abstraction Pattern analysis 6
+semi automatic abstraction Clusteringsemi automatic abstraction Algorithms 1
+semi automatic abstraction Similarity measuressemi automatic abstraction Applications 1
+semi automatic abstraction Computer visionsemi automatic abstraction Computer vision 1
+semi automatic abstraction Signal processing 2
+semi automatic abstraction Text processing 4
+semi automatic abstraction Waveform analysis 1
+semi automatic abstraction Implementation 1
+semi automatic abstraction Interactive systemssemi automatic abstraction Interactive systems 13
+semi automatic abstraction Special architectures 2
+semi automatic abstraction Miscellaneoussemi automatic abstraction SIMULATION AND MODELING 7
+semi automatic abstraction Generalsemi automatic abstraction Generalsemi automatic abstraction General 1
+semi automatic abstraction Simulation Theorysemi automatic abstraction Model classification 4
+semi automatic abstraction Systems theory 8
+semi automatic abstraction Types of simulationsemi automatic abstraction Simulation Languages 5
+semi automatic abstraction Applicationssemi automatic abstraction Applications 1
+semi automatic abstraction Model Validation and Analysis 2
+semi automatic abstraction Model Development 19
+semi automatic abstraction Modeling methodologies 7
+semi automatic abstraction Simulation Output Analysissemi automatic abstraction Simulation Support Systemssemi automatic abstraction Simulation Support Systems 2
+semi automatic abstraction Environments 1
+semi automatic abstraction Types of Simulationsemi automatic abstraction Animationsemi automatic abstraction Combinedsemi automatic abstraction Combinedsemi automatic abstraction Combinedsemi automatic abstraction Continuoussemi automatic abstraction Discrete eventsemi automatic abstraction Distributedsemi automatic abstraction Gamingsemi automatic abstraction Gamingsemi automatic abstraction Monte Carlosemi automatic abstraction Monte Carlo 3
+semi automatic abstraction Parallelsemi automatic abstraction Parallelsemi automatic abstraction Parallelsemi automatic abstraction Visualsemi automatic abstraction Miscellaneoussemi automatic abstraction DOCUMENT AND TEXT PROCESSING 2
+semi automatic abstraction General

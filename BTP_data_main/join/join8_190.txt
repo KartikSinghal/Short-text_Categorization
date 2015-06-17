@@ -1,0 +1,1827 @@
+networked communications systems Modeling of computer architecture 28
+networked communications systems System architectures 90
+networked communications systems Systems specification methodology 15
+networked communications systems PROCESSOR ARCHITECTURES 24
+networked communications systems General 24
+networked communications systems Single Data Stream Architectures 1
+networked communications systems Pipeline processors 4
+networked communications systems RISC/CISC, VLIW architecturesnetworked communications systems Von Neumann architecturesnetworked communications systems Multiple Data Stream Architectures 2
+networked communications systems Array and vector processors 1
+networked communications systems Associative processors 9
+networked communications systems Connection machines 25
+networked communications systems Interconnection architectures 25
+networked communications systems Multiple-instruction-stream, multiple-data-stream processorsnetworked communications systems Parallel processors 5
+networked communications systems Pipeline processors 4
+networked communications systems Single-instruction-stream, multiple-data-stream processorsnetworked communications systems Other Architecture Styles 8
+networked communications systems Adaptable architectures 29
+networked communications systems Analog computers 36
+networked communications systems Capability architectures 33
+networked communications systems Cellular architecture 23
+networked communications systems Data-flow architectures 9
+networked communications systems Heterogeneous 4
+networked communications systems High-level language architectures 3
+networked communications systems Neural nets 3
+networked communications systems Pipeline processors 4
+networked communications systems Stack-oriented processors 2
+networked communications systems Parallel Architectures 25
+networked communications systems Distributed architectures 35
+networked communications systems Mobile processors 12
+networked communications systems Miscellaneousnetworked communications systems Analog 2
+networked communications systems Hybrid 4
+networked communications systems COMPUTER-COMMUNICATION NETWORKS 88
+networked communications systems General 24
+networked communications systems Data communications 119
+networked communications systems Open Systems Interconnection reference modelnetworked communications systems Security and protection 25
+networked communications systems Network Architecture and Design 53
+networked communications systems Asynchronous Transfer Mode 3
+networked communications systems Centralized networks 89
+networked communications systems Circuit-switching networks 15
+networked communications systems Distributed networks 93
+networked communications systems Frame relay networks 6
+networked communications systems ISDN 2
+networked communications systems Network communications 106
+networked communications systems Network topology 91
+networked communications systems Packet-switching networks 15
+networked communications systems Store and forward networks 11
+networked communications systems Wireless communication 99
+networked communications systems Network Protocols 90
+networked communications systems Applications 43
+networked communications systems Protocol architecture 41
+networked communications systems Protocol verification 20
+networked communications systems Routing protocols 30
+networked communications systems Network Operations 93
+networked communications systems Network management 91
+networked communications systems Network monitoring 90
+networked communications systems Public networks 88
+networked communications systems Distributed Systems 97
+networked communications systems Client/server 6
+networked communications systems Distributed applications 55
+networked communications systems Distributed databases 25
+networked communications systems Network operating systems 89
+networked communications systems Local and Wide-Area Networks 10
+networked communications systems Access schemes 9
+networked communications systems Busesnetworked communications systems Ethernet 7
+networked communications systems High-speed 46
+networked communications systems Internet 2
+networked communications systems Token rings 3
+networked communications systems Internetworking 1
+networked communications systems Routers 1
+networked communications systems Standards 9
+networked communications systems Miscellaneousnetworked communications systems SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 6
+networked communications systems Microprocessor/microcomputer applicationsnetworked communications systems Process control systems 41
+networked communications systems Real-time and embedded systems 14
+networked communications systems Signal processing systems 46
+networked communications systems Smartcardsnetworked communications systems PERFORMANCE OF SYSTEMS 337
+networked communications systems Design studies 252
+networked communications systems Fault tolerance 5
+networked communications systems Measurement techniques 26
+networked communications systems Modeling techniques 63
+networked communications systems Performance attributes 34
+networked communications systems Reliability, availability, and serviceability 8
+networked communications systems COMPUTER SYSTEM IMPLEMENTATION 45
+networked communications systems General 24
+networked communications systems Large and Medium 16
+networked communications systems Super 1
+networked communications systems Minicomputersnetworked communications systems Microcomputersnetworked communications systems Microprocessorsnetworked communications systems Personal computers 35
+networked communications systems Portable devices 16
+networked communications systems Workstations 1
+networked communications systems VLSI Systems 89
+networked communications systems Servers 5
+networked communications systems Miscellaneousnetworked communications systems MISCELLANEOUSnetworked communications systems GENERAL 24
+networked communications systems PROGRAMMING TECHNIQUES 31
+networked communications systems General 24
+networked communications systems Applicative 43
+networked communications systems Automatic Programming 17
+networked communications systems Concurrent Programming 13
+networked communications systems Distributed programming 30
+networked communications systems Parallel programming 14
+networked communications systems Sequential Programming 14
+networked communications systems Object-oriented Programming 3
+networked communications systems Logic Programming 15
+networked communications systems Visual Programming 14
+networked communications systems Miscellaneousnetworked communications systems SOFTWARE ENGINEERING 36
+networked communications systems General 24
+networked communications systems Protection mechanisms 13
+networked communications systems Standards 9
+networked communications systems Requirements/Specifications 62
+networked communications systems Elicitation methods 21
+networked communications systems Languages 8
+networked communications systems Methodologies 2
+networked communications systems Tools 11
+networked communications systems Design Tools and Techniques 52
+networked communications systems Computer-aided software engineering 1
+networked communications systems Decision tables 8
+networked communications systems Evolutionary prototyping 5
+networked communications systems Flow charts 7
+networked communications systems Modules and interfaces 18
+networked communications systems Object-oriented design methods 3
+networked communications systems Petri nets 1
+networked communications systems Programmer workbench 2
+networked communications systems Software libraries 23
+networked communications systems State diagrams 21
+networked communications systems Structured programming 31
+networked communications systems Top-down programming 2
+networked communications systems User interfaces 20
+networked communications systems Coding Tools and Techniques 6
+networked communications systems Object-oriented programming 3
+networked communications systems Pretty printersnetworked communications systems Program editors 13
+networked communications systems Reentrant code 4
+networked communications systems Standards 9
+networked communications systems Structured programming 31
+networked communications systems Top-down programming 2
+networked communications systems Software/Program Verification 6
+networked communications systems Assertion checkersnetworked communications systems Class invariants 3
+networked communications systems Correctness proofs 4
+networked communications systems Formal methods 22
+networked communications systems Model checking 26
+networked communications systems Programming by contract 5
+networked communications systems Reliability 11
+networked communications systems Statistical methods 22
+networked communications systems Validation 4
+networked communications systems Testing and Debugging 7
+networked communications systems Code inspections and walk-throughsnetworked communications systems Debugging aidsnetworked communications systems Diagnosticsnetworked communications systems Distributed debugging 21
+networked communications systems Dumpsnetworked communications systems Error handling and recovery 1
+networked communications systems Monitors 4
+networked communications systems Symbolic execution 6
+networked communications systems Testing tools 17
+networked communications systems Tracingnetworked communications systems Programming Environments 25
+networked communications systems Graphical environments 15
+networked communications systems Integrated environments 38
+networked communications systems Interactive environments 21
+networked communications systems Programmer workbench 2
+networked communications systems Distribution, Maintenance, and Enhancement 2
+networked communications systems Corrections 2
+networked communications systems Documentation 1
+networked communications systems Enhancement 3
+networked communications systems Extensibility 7
+networked communications systems Portability 2
+networked communications systems Restructuring, reverse engineering, and reengineeringnetworked communications systems Version control 22
+networked communications systems Metrics 3
+networked communications systems Complexity measures 18
+networked communications systems Performance measures 102
+networked communications systems Process metrics 32
+networked communications systems Product metrics 4
+networked communications systems Software science 42
+networked communications systems Management 9
+networked communications systems Copyrightsnetworked communications systems Cost estimation 26
+networked communications systems Life cycle 4
+networked communications systems Productivity 1
+networked communications systems Programming teams 13
+networked communications systems Software configuration management 4
+networked communications systems Software process models 31
+networked communications systems Software quality assurance 2
+networked communications systems Time estimation 39
+networked communications systems Design 45
+networked communications systems Methodologies 2
+networked communications systems Representation 3
+networked communications systems Software Architectures 55
+networked communications systems Data abstraction 35
+networked communications systems Domain-specific architectures 6
+networked communications systems Information hiding 28
+networked communications systems Languages 8
+networked communications systems Patterns 6
+networked communications systems Interoperabilitynetworked communications systems Data mapping 41
+networked communications systems Distributed objects 25
+networked communications systems Interface definition languages 1
+networked communications systems Reusable Software 19
+networked communications systems Domain engineering 9
+networked communications systems Reusable libraries 2
+networked communications systems Reuse models 25
+networked communications systems Miscellaneousnetworked communications systems Rapid 1
+networked communications systems Reusable 1
+networked communications systems PROGRAMMING LANGUAGES 16
+networked communications systems General 24
+networked communications systems Standards 9
+networked communications systems Formal Definitions and Theory 1
+networked communications systems Semantics 2
+networked communications systems Syntaxnetworked communications systems Language Classifications 8
+networked communications systems Applicative 43
+networked communications systems Concurrent, distributed, and parallel languagesnetworked communications systems Constraint and logic languagesnetworked communications systems Data-flow languages 4
+networked communications systems Design languages 81
+networked communications systems Extensible languages 14
+networked communications systems Microprogramming languages 8
+networked communications systems Multiparadigm languages 8
+networked communications systems Nondeterministic languages 8
+networked communications systems Nonprocedural languages 8
+networked communications systems Object-oriented languages 2
+networked communications systems Specialized application languages 10
+networked communications systems Very high-level languages 2
+networked communications systems Language Constructs and Features 1
+networked communications systems Abstract data types 8
+networked communications systems Classes and objects 8
+networked communications systems Concurrent programming structures 3
+networked communications systems Constraints 1
+networked communications systems Control structures 39
+networked communications systems Coroutinesnetworked communications systems Data types and structures 15
+networked communications systems Dynamic storage management 3
+networked communications systems Frameworks 10
+networked communications systems Inheritancenetworked communications systems Input/output 6
+networked communications systems Modules, packages 17
+networked communications systems Patterns 6
+networked communications systems Polymorphismnetworked communications systems Procedures, functions, and subroutines 1
+networked communications systems Recursionnetworked communications systems Processors 3
+networked communications systems Code generation 31
+networked communications systems Compilers 2
+networked communications systems Debuggers 1
+networked communications systems Incremental compilers 3
+networked communications systems Interpreters 1
+networked communications systems Memory management 14
+networked communications systems Optimization 16
+networked communications systems Parsingnetworked communications systems Preprocessorsnetworked communications systems Retargetable compilers 2
+networked communications systems Run-time environments 10
+networked communications systems Translator writing systems and compiler generatorsnetworked communications systems Miscellaneousnetworked communications systems OPERATING SYSTEMS 542
+networked communications systems General 24
+networked communications systems Process Management 39
+networked communications systems Concurrency 1
+networked communications systems Deadlocksnetworked communications systems Multiprocessing/multiprogramming/multitaskingnetworked communications systems Mutual exclusion 2
+networked communications systems Scheduling 1
+networked communications systems Synchronization 2
+networked communications systems Threads 2
+networked communications systems Storage Management 12
+networked communications systems Allocation/deallocation strategiesnetworked communications systems Distributed memories 21
+networked communications systems Garbage collection 4
+networked communications systems Main memory 10
+networked communications systems Secondary storage 1
+networked communications systems Segmentation 1
+networked communications systems Storage hierarchies 1
+networked communications systems Swapping 4
+networked communications systems Virtual memory 9
+networked communications systems File Systems Management 13
+networked communications systems Access methods 25
+networked communications systems Directory structures 18
+networked communications systems Distributed file systems 25
+networked communications systems File organization 8
+networked communications systems Maintenancenetworked communications systems Communications Management 89
+networked communications systems Buffering 2
+networked communications systems Input/output 6
+networked communications systems Message sending 14
+networked communications systems Network communication 106
+networked communications systems Terminal management 12
+networked communications systems Reliability 11
+networked communications systems Backup procedures 1
+networked communications systems Checkpoint/restartnetworked communications systems Fault-tolerance 5
+networked communications systems Verification 1
+networked communications systems Security and Protection 25
+networked communications systems Access controls 25
+networked communications systems Authenticationnetworked communications systems Cryptographic controls 21
+networked communications systems Information flow controls 8
+networked communications systems Invasive software 19
+networked communications systems Security kernels 14
+networked communications systems Verification 1
+networked communications systems Organization and Design 46
+networked communications systems Batch processing systems 29
+networked communications systems Distributed systems 97
+networked communications systems Hierarchical design 50
+networked communications systems Interactive systems 89
+networked communications systems Real-time systems and embedded systems 14
+networked communications systems Performance 28
+networked communications systems Measurements 7
+networked communications systems Modeling and prediction 39
+networked communications systems Monitors 4
+networked communications systems Operational analysis 162
+networked communications systems Queueing theory 7
+networked communications systems Simulation 24
+networked communications systems Stochastic analysis 18
+networked communications systems Command and control languages 5
+networked communications systems Linkersnetworked communications systems Loadersnetworked communications systems Window managers 10
+networked communications systems Miscellaneousnetworked communications systems MISCELLANEOUSnetworked communications systems Software 19
+networked communications systems GENERAL 24
+networked communications systems DATA STRUCTURES 51
+networked communications systems Arrays 4
+networked communications systems Distributed data structures 18
+networked communications systems Graphs and networks 89
+networked communications systems Lists, stacks, and queuesnetworked communications systems Records 1
+networked communications systems Tables 2
+networked communications systems Trees 4
+networked communications systems DATA STORAGE REPRESENTATIONS 3
+networked communications systems Composite structures 19
+networked communications systems Contiguous representations 3
+networked communications systems Hash-table representationsnetworked communications systems Linked representations 16
+networked communications systems Object representation 7
+networked communications systems Primitive data items 2
+networked communications systems DATA ENCRYPTION 36
+networked communications systems Code breaking 5
+networked communications systems Data encryption standard 7
+networked communications systems Public key cryptosystemsnetworked communications systems Standards 9
+networked communications systems CODING AND INFORMATION THEORY 5
+networked communications systems Data compaction and compressionnetworked communications systems Error control codes 6
+networked communications systems Formal models of communication 23
+networked communications systems Nonsecret encoding schemesnetworked communications systems FILES 4
+networked communications systems Backup/recovery 2
+networked communications systems Optimization 16
+networked communications systems Organization/structure 23
+networked communications systems Sorting/searching 1
+networked communications systems MISCELLANEOUSnetworked communications systems GENERAL 24
+networked communications systems COMPUTATION BY ABSTRACT DEVICES 5
+networked communications systems General 24
+networked communications systems Models of Computation 90
+networked communications systems Automatanetworked communications systems Bounded-action devices 1
+networked communications systems Computability theory 38
+networked communications systems Relations between models 15
+networked communications systems Self-modifying machinesnetworked communications systems Unbounded-action devicesnetworked communications systems Modes of Computation 36
+networked communications systems Alternation and nondeterminism 4
+networked communications systems Interactive and reactive computation 4
+networked communications systems Online computation 34
+networked communications systems Parallelism and concurrency 4
+networked communications systems Probabilistic computation 34
+networked communications systems Relations among modes 4
+networked communications systems Relativized computation 34
+networked communications systems Complexity Measures and Classes 2
+networked communications systems Complexity hierarchies 11
+networked communications systems Machine-independent complexity 1
+networked communications systems Reducibility and completeness 13
+networked communications systems Relations among complexity classes 1
+networked communications systems Relations among complexity measures 1
+networked communications systems Miscellaneousnetworked communications systems ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 8
+networked communications systems General 24
+networked communications systems Numerical Algorithms and Problems 11
+networked communications systems Computation of transforms 35
+networked communications systems Computations in finite fields 5
+networked communications systems Computations on matrices 32
+networked communications systems Computations on polynomials 32
+networked communications systems Number-theoretic computations 9
+networked communications systems Nonnumerical Algorithms and Problems 9
+networked communications systems Computations on discrete structures 8
+networked communications systems Geometrical problems and computations 14
+networked communications systems Pattern matching 9
+networked communications systems Routing and layout 11
+networked communications systems Sequencing and scheduling 2
+networked communications systems Sorting and searching 1
+networked communications systems Tradeoffs between Complexity Measuresnetworked communications systems Miscellaneousnetworked communications systems LOGICS AND MEANINGS OF PROGRAMS 2
+networked communications systems General 24
+networked communications systems Assertionsnetworked communications systems Invariantsnetworked communications systems Logics of programs 15
+networked communications systems Mechanical verification 8
+networked communications systems Pre- and post-conditionsnetworked communications systems Specification techniques 36
+networked communications systems Semantics of Programming Languages 5
+networked communications systems Algebraic approaches to semantics 1
+networked communications systems Denotational semantics 3
+networked communications systems Operational semantics 31
+networked communications systems Partial evaluation 13
+networked communications systems Process models 49
+networked communications systems Program analysis 30
+networked communications systems Studies of Program Constructs 6
+networked communications systems Control primitives 20
+networked communications systems Functional constructs 27
+networked communications systems Object-oriented constructs 2
+networked communications systems Program and recursion schemesnetworked communications systems Type structure 28
+networked communications systems Miscellaneousnetworked communications systems MATHEMATICAL LOGIC AND FORMAL LANGUAGESnetworked communications systems General 24
+networked communications systems Mathematical Logic 3
+networked communications systems Computability theory 38
+networked communications systems Computational logic 34
+networked communications systems Lambda calculus and related systems 1
+networked communications systems Logic and constraint programmingnetworked communications systems Mechanical theorem provingnetworked communications systems Modal logic 2
+networked communications systems Model theory 39
+networked communications systems Proof theory 8
+networked communications systems Recursive function theory 1
+networked communications systems Set theory 17
+networked communications systems Temporal logic 4
+networked communications systems Grammars and Other Rewriting Systemsnetworked communications systems Decision problems 26
+networked communications systems Grammar types 10
+networked communications systems Parallel rewriting systems 4
+networked communications systems Parsingnetworked communications systems Thue systems 88
+networked communications systems Formal Languages 8
+networked communications systems Algebraic language theorynetworked communications systems Classes defined by grammars or automatanetworked communications systems Decision problems 26
+networked communications systems Operations on languages 30
+networked communications systems Miscellaneousnetworked communications systems MISCELLANEOUSnetworked communications systems GENERAL 24
+networked communications systems NUMERICAL ANALYSIS 20
+networked communications systems General 24
+networked communications systems Computer arithmetic 34
+networked communications systems Conditioning 5
+networked communications systems Error analysis 23
+networked communications systems Interval arithmeticnetworked communications systems Multiple precision arithmeticnetworked communications systems Numerical algorithms 23
+networked communications systems Parallel algorithms 22
+networked communications systems Stability 2
+networked communications systems Interpolationnetworked communications systems Difference formulas 19
+networked communications systems Extrapolationnetworked communications systems Interpolation formulas 1
+networked communications systems Smoothing 1
+networked communications systems Approximation 7
+networked communications systems Chebyshev approximation and theory 1
+networked communications systems Elementary function approximation 1
+networked communications systems Fast Fourier transforms 1
+networked communications systems Least squares approximationnetworked communications systems Linear approximation 8
+networked communications systems Minimax approximation and algorithms 4
+networked communications systems Nonlinear approximation 8
+networked communications systems Rational approximation 8
+networked communications systems Special function approximations 2
+networked communications systems Spline and piecewise polynomial approximationnetworked communications systems Wavelets and fractalsnetworked communications systems Numerical Linear Algebranetworked communications systems Conditioning 5
+networked communications systems Determinants 6
+networked communications systems Eigenvalues and eigenvectorsnetworked communications systems Error analysis 23
+networked communications systems Linear systems 98
+networked communications systems Matrix inversion 1
+networked communications systems Pseudoinversesnetworked communications systems Singular value decompositionnetworked communications systems Sparse, structured, and very large systems 1
+networked communications systems Quadrature and Numerical Differentiationnetworked communications systems Automatic differentiation 8
+networked communications systems Error analysis 23
+networked communications systems Finite difference methods 5
+networked communications systems Gaussian quadraturenetworked communications systems Iterative methods 25
+networked communications systems Multidimensional 2
+networked communications systems Roots of Nonlinear Equationsnetworked communications systems Continuation 5
+networked communications systems Convergence 2
+networked communications systems Error analysis 23
+networked communications systems Iterative methods 25
+networked communications systems Polynomials, methods for 17
+networked communications systems Systems of equationsnetworked communications systems Optimization 16
+networked communications systems Constrained optimization 16
+networked communications systems Convex programming 13
+networked communications systems Global optimization 19
+networked communications systems Gradient methods 22
+networked communications systems Integer programming 13
+networked communications systems Least squares methods 1
+networked communications systems Linear programming 14
+networked communications systems Nonlinear programming 14
+networked communications systems Quadratic programming methods 3
+networked communications systems Simulated annealing 24
+networked communications systems Stochastic programming 16
+networked communications systems Unconstrained optimization 16
+networked communications systems Ordinary Differential Equations 2
+networked communications systems Boundary value problems 3
+networked communications systems Chaotic systems 91
+networked communications systems Convergence and stability 4
+networked communications systems Differential-algebraic equations 2
+networked communications systems Error analysis 23
+networked communications systems Finite difference methods 5
+networked communications systems Initial value problems 8
+networked communications systems Multistep and multivalue methodsnetworked communications systems One-step 96
+networked communications systems Stiff equations 5
+networked communications systems Partial Differential Equations 3
+networked communications systems Domain decomposition methods 1
+networked communications systems Elliptic equations 5
+networked communications systems Finite difference methods 5
+networked communications systems Finite element methods 4
+networked communications systems Finite volume methods 1
+networked communications systems Hyperbolic equations 5
+networked communications systems Inverse problems 20
+networked communications systems Iterative solution techniques 8
+networked communications systems Method of lines 27
+networked communications systems Multigrid and multilevel methodsnetworked communications systems Parabolic equations 5
+networked communications systems Spectral methods 22
+networked communications systems Integral Equations 25
+networked communications systems Delay equations 17
+networked communications systems Fredholm equations 5
+networked communications systems Integro-differential equations 2
+networked communications systems Volterra equations 6
+networked communications systems Applications 43
+networked communications systems Miscellaneousnetworked communications systems DISCRETE MATHEMATICS 6
+networked communications systems General 24
+networked communications systems Combinatoricsnetworked communications systems Combinatorial algorithms 18
+networked communications systems Counting problems 21
+networked communications systems Generating functions 43
+networked communications systems Permutations and combinations 11
+networked communications systems Recurrences and difference equations 2
+networked communications systems Graph Theory 13
+networked communications systems Graph algorithms 24
+networked communications systems Graph labeling 10
+networked communications systems Hypergraphsnetworked communications systems Network problems 96
+networked communications systems Path and circuit problems 5
+networked communications systems Trees 4
+networked communications systems Applications 43
+networked communications systems Miscellaneousnetworked communications systems PROBABILITY AND STATISTICS 6
+networked communications systems Contingency table analysis 1
+networked communications systems Correlation and regression analysis 2
+networked communications systems Distribution functions 37
+networked communications systems Experimental design 55
+networked communications systems Markov processes 31
+networked communications systems Multivariate statistics 2
+networked communications systems Nonparametric statistics 2
+networked communications systems Probabilistic algorithms 19
+networked communications systems Queueing theory 7
+networked communications systems Random number generation 5
+networked communications systems Reliability and life testingnetworked communications systems Renewal theory 6
+networked communications systems Robust regression 4
+networked communications systems Statistical computing 37
+networked communications systems Statistical software 21
+networked communications systems Stochastic processes 29
+networked communications systems Survival analysis 24
+networked communications systems Time series analysis 7
+networked communications systems MATHEMATICAL SOFTWARE 20
+networked communications systems Algorithm design and analysis 14
+networked communications systems Certification and testing 7
+networked communications systems Documentation 1
+networked communications systems Efficiency 10
+networked communications systems Parallel and vector implementationsnetworked communications systems Portability 2
+networked communications systems Reliability and robustness 16
+networked communications systems User interfaces 20
+networked communications systems Verification 1
+networked communications systems MISCELLANEOUSnetworked communications systems Queueing 1
+networked communications systems GENERAL 24
+networked communications systems MODELS AND PRINCIPLES 33
+networked communications systems General 24
+networked communications systems Systems and Information Theory 32
+networked communications systems General systems theory 30
+networked communications systems Information theory 35
+networked communications systems Value of information 32
+networked communications systems User/Machine Systems 21
+networked communications systems Human factors 8
+networked communications systems Human information processing 14
+networked communications systems Software psychology 19
+networked communications systems Miscellaneousnetworked communications systems DATABASE MANAGEMENT 15
+networked communications systems General 24
+networked communications systems Security, integrity, and protection 8
+networked communications systems Logical Design 46
+networked communications systems Data models 54
+networked communications systems Normal forms 11
+networked communications systems Schema and subschemanetworked communications systems Physical Design 49
+networked communications systems Access methods 25
+networked communications systems Deadlock avoidance 2
+networked communications systems Recovery and restart 2
+networked communications systems Languages 8
+networked communications systems Data description languages 5
+networked communications systems Data manipulation languages 4
+networked communications systems Database 5
+networked communications systems Query languages 12
+networked communications systems Report writers 6
+networked communications systems Systems 88
+networked communications systems Concurrency 1
+networked communications systems Distributed databases 25
+networked communications systems Multimedia databases 6
+networked communications systems Object-oriented databases 1
+networked communications systems Parallel databases 9
+networked communications systems Query processing 33
+networked communications systems Relational databases 15
+networked communications systems Rule-based databases 2
+networked communications systems Textual databases 6
+networked communications systems Transaction processing 30
+networked communications systems Heterogeneous Databases 9
+networked communications systems Data translation 35
+networked communications systems Program translation 13
+networked communications systems Database Machines 11
+networked communications systems Database Administration 8
+networked communications systems Data dictionary/directorynetworked communications systems Data warehouse and repositorynetworked communications systems Logging and recovery 5
+networked communications systems Security, integrity, and protection 8
+networked communications systems Database Applications 50
+networked communications systems Data mining 34
+networked communications systems Image databases 8
+networked communications systems Scientific databases 6
+networked communications systems Spatial databases and GISnetworked communications systems Statistical databases 8
+networked communications systems Miscellaneousnetworked communications systems INFORMATION STORAGE AND RETRIEVAL 1
+networked communications systems General 24
+networked communications systems Content Analysis and Indexing 2
+networked communications systems Abstracting methods 25
+networked communications systems Dictionariesnetworked communications systems Indexing methods 24
+networked communications systems Linguistic processing 29
+networked communications systems Thesaurusesnetworked communications systems Information Storage 30
+networked communications systems File organization 8
+networked communications systems Record classification 1
+networked communications systems Information Search and Retrieval 3
+networked communications systems Clustering 6
+networked communications systems Information filtering 31
+networked communications systems Query formulation 9
+networked communications systems Relevance feedback 3
+networked communications systems Retrieval models 27
+networked communications systems Search process 30
+networked communications systems Selection process 32
+networked communications systems Systems and Software 88
+networked communications systems Current awareness systems 10
+networked communications systems Distributed systems 97
+networked communications systems Information networks 99
+networked communications systems Performance evaluation 108
+networked communications systems Question-answering 3
+networked communications systems Online Information Services 11
+networked communications systems Commercial services 22
+networked communications systems Data sharing 39
+networked communications systems Web-based services 11
+networked communications systems Library Automation 4
+networked communications systems Large text archivesnetworked communications systems Digital Libraries 10
+networked communications systems Collection 4
+networked communications systems Disseminationnetworked communications systems Standards 9
+networked communications systems Systems issues 92
+networked communications systems User issues 24
+networked communications systems Miscellaneousnetworked communications systems INFORMATION SYSTEMS APPLICATIONS 62
+networked communications systems General 24
+networked communications systems Office Automation 3
+networked communications systems Desktop publishing 2
+networked communications systems Equipment 7
+networked communications systems Groupwarenetworked communications systems Spreadsheetsnetworked communications systems Time management 36
+networked communications systems Word processing 30
+networked communications systems Workflow management 9
+networked communications systems Types of Systems 94
+networked communications systems Decision support 27
+networked communications systems Logisticsnetworked communications systems Communications Applications 91
+networked communications systems Bulletin boards 5
+networked communications systems Computer conferencing, teleconferencing, and videoconferencingnetworked communications systems Electronic mail 16
+networked communications systems Information browsers 28
+networked communications systems Videotexnetworked communications systems Miscellaneousnetworked communications systems INFORMATION INTERFACES AND PRESENTATION 14
+networked communications systems General 24
+networked communications systems Multimedia Information Systems 30
+networked communications systems Animationsnetworked communications systems Artificial, augmented, and virtual realitiesnetworked communications systems Audio input/output 1
+networked communications systems Evaluation/methodology 14
+networked communications systems Video 2
+networked communications systems User Interfaces 20
+networked communications systems Auditorynetworked communications systems Benchmarkingnetworked communications systems Ergonomicsnetworked communications systems Evaluation/methodology 14
+networked communications systems Graphical user interfaces 4
+networked communications systems Haptic I/O 5
+networked communications systems Input devices and strategies 1
+networked communications systems Interaction styles 7
+networked communications systems Natural language 14
+networked communications systems Prototyping 4
+networked communications systems Screen design 45
+networked communications systems Standardization 9
+networked communications systems Style guides 2
+networked communications systems Theory and methods 26
+networked communications systems Training, help, and documentationnetworked communications systems User-centered design 13
+networked communications systems User interface management systems 5
+networked communications systems Voice I/O 5
+networked communications systems Windowing systems 89
+networked communications systems Group and Organization Interfaces 1
+networked communications systems Asynchronous interaction 9
+networked communications systems Collaborative computing 36
+networked communications systems Computer-supported cooperative work 9
+networked communications systems Evaluation/methodology 14
+networked communications systems Organizational design 46
+networked communications systems Synchronous interaction 10
+networked communications systems Theory and models 29
+networked communications systems Web-based interaction 7
+networked communications systems Hypertext/Hypermedia 1
+networked communications systems Architectures 22
+networked communications systems Navigationnetworked communications systems Theory 5
+networked communications systems User issues 24
+networked communications systems Sound and Music Computingnetworked communications systems Methodologies and techniques 19
+networked communications systems Modeling 24
+networked communications systems Systems 88
+networked communications systems Miscellaneousnetworked communications systems MISCELLANEOUSnetworked communications systems GENERAL 24
+networked communications systems SYMBOLIC AND ALGEBRAIC MANIPULATIONnetworked communications systems General 24
+networked communications systems Expressions and Their Representation 1
+networked communications systems Representations 3
+networked communications systems Simplification of expressions 2
+networked communications systems Algorithms 18
+networked communications systems Algebraic algorithms 18
+networked communications systems Analysis of algorithms 38
+networked communications systems Nonalgebraic algorithms 18
+networked communications systems Languages and Systems 86
+networked communications systems Evaluation strategies 14
+networked communications systems Nonprocedural languages 8
+networked communications systems Special-purpose algebraic systems 2
+networked communications systems Special-purpose hardware 2
+networked communications systems Substitution mechanisms 7
+networked communications systems Applications 43
+networked communications systems Miscellaneousnetworked communications systems ARTIFICIAL INTELLIGENCE 13
+networked communications systems General 24
+networked communications systems Cognitive simulation 26
+networked communications systems Philosophical foundations 1
+networked communications systems Applications and Expert Systems 44
+networked communications systems Cartographynetworked communications systems Gamesnetworked communications systems Industrial automation 6
+networked communications systems Law 2
+networked communications systems Medicine and science 14
+networked communications systems Natural language interfacesnetworked communications systems Office automation 3
+networked communications systems Automatic Programming 17
+networked communications systems Automatic analysis of algorithms 8
+networked communications systems Program modification 16
+networked communications systems Program synthesis 13
+networked communications systems Program transformation 13
+networked communications systems Program verification 15
+networked communications systems Deduction and Theorem Provingnetworked communications systems Answer/reason extractionnetworked communications systems Deductionnetworked communications systems Inference engines 7
+networked communications systems Logic programming 15
+networked communications systems Mathematical induction 2
+networked communications systems Metatheorynetworked communications systems Nonmonotonic reasoning and belief revisionnetworked communications systems Resolution 1
+networked communications systems Knowledge Representation Formalisms and Methods 2
+networked communications systems Frames and scripts 6
+networked communications systems Modal logic 2
+networked communications systems Predicate logic 2
+networked communications systems Relation systems 97
+networked communications systems Representation languages 11
+networked communications systems Representations 3
+networked communications systems Semantic networks 89
+networked communications systems Temporal logic 4
+networked communications systems Programming Languages and Software 9
+networked communications systems Expert system tools and techniques 5
+networked communications systems Learning 1
+networked communications systems Analogiesnetworked communications systems Concept learning 6
+networked communications systems Connectionism and neural netsnetworked communications systems Induction 1
+networked communications systems Knowledge acquisition 8
+networked communications systems Language acquisition 14
+networked communications systems Parameter learning 9
+networked communications systems Natural Language Processing 5
+networked communications systems Discoursenetworked communications systems Language generation 29
+networked communications systems Language models 32
+networked communications systems Language parsing and understandingnetworked communications systems Machine translation 8
+networked communications systems Speech recognition and synthesis 1
+networked communications systems Text analysis 18
+networked communications systems Problem Solving, Control Methods, and Searchnetworked communications systems Backtrackingnetworked communications systems Control theory 28
+networked communications systems Dynamic programming 26
+networked communications systems Graph and tree search strategiesnetworked communications systems Heuristic methods 22
+networked communications systems Plan execution, formation, and generationnetworked communications systems Scheduling 1
+networked communications systems Robotics 3
+networked communications systems Autonomous vehicles 6
+networked communications systems Kinematics and dynamics 14
+networked communications systems Manipulatorsnetworked communications systems Operator interfaces 56
+networked communications systems Propelling mechanisms 7
+networked communications systems Sensors 6
+networked communications systems Vision and Scene Understanding 1
+networked communications systems Architecture and control structures 11
+networked communications systems Motion 1
+networked communications systems Perceptual reasoning 4
+networked communications systems Shape 3
+networked communications systems Texturenetworked communications systems Video analysis 18
+networked communications systems Distributed Artificial Intelligence 4
+networked communications systems Coherence and coordination 5
+networked communications systems Intelligent agents 12
+networked communications systems Languages and structures 24
+networked communications systems Multiagent systems 88
+networked communications systems Miscellaneousnetworked communications systems COMPUTER GRAPHICS 35
+networked communications systems General 24
+networked communications systems Hardware Architecture 33
+networked communications systems Graphics processors 5
+networked communications systems Hardcopy devices 14
+networked communications systems Input devices 18
+networked communications systems Parallel processing 30
+networked communications systems Raster display devices 2
+networked communications systems Storage devices 17
+networked communications systems Three-dimensional displaysnetworked communications systems Vector display devices 3
+networked communications systems Graphics Systems 89
+networked communications systems Distributed/network graphics 22
+networked communications systems Remote systems 90
+networked communications systems Stand-alone systemsnetworked communications systems Picture/Image Generation 3
+networked communications systems Antialiasingnetworked communications systems Bitmap and framebuffer operationsnetworked communications systems Digitizing and scanning 9
+networked communications systems Display algorithms 21
+networked communications systems Line and curve generationnetworked communications systems Viewing algorithms 21
+networked communications systems Graphics Utilities 8
+networked communications systems Application packages 54
+networked communications systems Device drivers 17
+networked communications systems Graphics editors 2
+networked communications systems Graphics packages 3
+networked communications systems Meta files 4
+networked communications systems Paint systems 88
+networked communications systems Picture description languages 2
+networked communications systems Software support 51
+networked communications systems Virtual device interfaces 1
+networked communications systems Computational Geometry and Object Modeling 1
+networked communications systems Boundary representations 3
+networked communications systems Constructive solid geometrynetworked communications systems Curve, surface, solid, and object representationsnetworked communications systems Geometric algorithms, languages, and systems 1
+networked communications systems Hierarchy and geometric transformationsnetworked communications systems Modeling packages 28
+networked communications systems Object hierarchies 4
+networked communications systems Physically based modeling 20
+networked communications systems Splinesnetworked communications systems Methodology and Techniques 19
+networked communications systems Device independence 18
+networked communications systems Ergonomicsnetworked communications systems Graphics data structures and data types 3
+networked communications systems Interaction techniques 24
+networked communications systems Languages 8
+networked communications systems Standards 9
+networked communications systems Three-Dimensional Graphics and Realismnetworked communications systems Animationnetworked communications systems Color, shading, shadowing, and texturenetworked communications systems Fractalsnetworked communications systems Hidden line/surface removalnetworked communications systems Radiositynetworked communications systems Raytracingnetworked communications systems Virtual reality 4
+networked communications systems Visible line/surface algorithmsnetworked communications systems Applications 43
+networked communications systems Miscellaneousnetworked communications systems IMAGE PROCESSING AND COMPUTER VISION 1
+networked communications systems General 24
+networked communications systems Image displays 9
+networked communications systems Image processing software 13
+networked communications systems Digitization and Image Capture 2
+networked communications systems Camera calibrationnetworked communications systems Imaging geometry 4
+networked communications systems Quantizationnetworked communications systems Radiometrynetworked communications systems Reflectancenetworked communications systems Sampling 4
+networked communications systems Scanningnetworked communications systems Compression 3
+networked communications systems Approximate methods 28
+networked communications systems Exact coding 5
+networked communications systems Enhancement 3
+networked communications systems Filtering 2
+networked communications systems Geometric correction 3
+networked communications systems Grayscale manipulationnetworked communications systems Registrationnetworked communications systems Sharpening and deblurringnetworked communications systems Smoothing 1
+networked communications systems Restorationnetworked communications systems Inverse filtering 2
+networked communications systems Kalman filtering 3
+networked communications systems Pseudoinverse restorationnetworked communications systems Wiener filtering 2
+networked communications systems Reconstructionnetworked communications systems Series expansion methodsnetworked communications systems Summation methods 21
+networked communications systems Transform methods 21
+networked communications systems Segmentation 1
+networked communications systems Edge and feature detectionnetworked communications systems Pixel classification 1
+networked communications systems Region growing, partitioning 1
+networked communications systems Relaxationnetworked communications systems Feature Measurement 12
+networked communications systems Feature representation 8
+networked communications systems Invariantsnetworked communications systems Moments 1
+networked communications systems Projections 4
+networked communications systems Size and shape 8
+networked communications systems Texturenetworked communications systems Scene Analysis 16
+networked communications systems Colornetworked communications systems Depth cuesnetworked communications systems Motion 1
+networked communications systems Object recognition 4
+networked communications systems Photometrynetworked communications systems Range data 42
+networked communications systems Sensor fusion 7
+networked communications systems Shadingnetworked communications systems Shape 3
+networked communications systems Stereonetworked communications systems Surface fitting 2
+networked communications systems Time-varying imagery 1
+networked communications systems Tracking 2
+networked communications systems Applications 43
+networked communications systems Image Representation 6
+networked communications systems Hierarchical 6
+networked communications systems Morphologicalnetworked communications systems Multidimensional 2
+networked communications systems Statistical 2
+networked communications systems Volumetricnetworked communications systems Miscellaneousnetworked communications systems PATTERN RECOGNITION 6
+networked communications systems General 24
+networked communications systems Models 24
+networked communications systems Deterministic 1
+networked communications systems Fuzzy set 14
+networked communications systems Geometric 1
+networked communications systems Neural nets 3
+networked communications systems Statistical 2
+networked communications systems Structural 18
+networked communications systems Design Methodology 92
+networked communications systems Classifier design and evaluation 5
+networked communications systems Feature evaluation and selection 1
+networked communications systems Pattern analysis 28
+networked communications systems Clustering 6
+networked communications systems Algorithms 18
+networked communications systems Similarity measures 12
+networked communications systems Applications 43
+networked communications systems Computer vision 37
+networked communications systems Signal processing 46
+networked communications systems Text processing 31
+networked communications systems Waveform analysis 17
+networked communications systems Implementation 19
+networked communications systems Interactive systems 89
+networked communications systems Special architectures 26
+networked communications systems Miscellaneousnetworked communications systems SIMULATION AND MODELING 91
+networked communications systems General 24
+networked communications systems Simulation Theory 36
+networked communications systems Model classification 25
+networked communications systems Systems theory 92
+networked communications systems Types of simulationnetworked communications systems Simulation Languages 36
+networked communications systems Applications 43
+networked communications systems Model Validation and Analysis 12
+networked communications systems Model Development 75
+networked communications systems Modeling methodologies 32
+networked communications systems Simulation Output Analysis 14
+networked communications systems Simulation Support Systems 56
+networked communications systems Environments 15
+networked communications systems Types of Simulation 30
+networked communications systems Animationnetworked communications systems Combined 11
+networked communications systems Continuous 5
+networked communications systems Discrete event 7
+networked communications systems Distributed 21
+networked communications systems Gamingnetworked communications systems Monte Carlo 4
+networked communications systems Parallel 4
+networked communications systems Visual 1
+networked communications systems Miscellaneousnetworked communications systems DOCUMENT AND TEXT PROCESSING 2
+networked communications systems General 24
+networked communications systems Document and Text Editingnetworked communications systems Document management 15
+networked communications systems Languages 8
+networked communications systems Spellingnetworked communications systems Version control 22
+networked communications systems Document Preparation 10
+networked communications systems Desktop publishing 2
+networked communications systems Format and notation 3
+networked communications systems Hypertext/hypermedia 1
+networked communications systems Index generation 27
+networked communications systems Languages and systems 86
+networked communications systems Markup languages 9
+networked communications systems Multi/mixed media 2
+networked communications systems Scripting languages 8
+networked communications systems Standards 9
+networked communications systems Index Generation 27
+networked communications systems Electronic Publishing 16
+networked communications systems Document Capture 8
+networked communications systems Document analysis 22
+networked communications systems Optical character recognitionnetworked communications systems Scanningnetworked communications systems Miscellaneousnetworked communications systems MISCELLANEOUSnetworked communications systems GENERAL 24
+networked communications systems ADMINISTRATIVE DATA PROCESSING 20
+networked communications systems Business 2
+networked communications systems Educationnetworked communications systems Financial 1
+networked communications systems Governmentnetworked communications systems Law 2
+networked communications systems Manufacturing 2
+networked communications systems Marketing 4
+networked communications systems Military 4
+networked communications systems PHYSICAL SCIENCES AND ENGINEERINGnetworked communications systems Aerospacenetworked communications systems Archaeologynetworked communications systems Astronomy 2
+networked communications systems Chemistrynetworked communications systems Earth and atmospheric sciences 1
+networked communications systems Electronics 14
+networked communications systems Engineering 6
+networked communications systems Mathematics and statistics 3
+networked communications systems Physics 8
+networked communications systems LIFE AND MEDICAL SCIENCESnetworked communications systems Biology and genetics 3
+networked communications systems Health 1
+networked communications systems Medical information systems 28
+networked communications systems SOCIAL AND BEHAVIORAL SCIENCES 2
+networked communications systems Economics 2
+networked communications systems Psychologynetworked communications systems Sociologynetworked communications systems ARTS AND HUMANITIES 5
+networked communications systems Architecture 22
+networked communications systems Fine arts 3
+networked communications systems Language translation 8
+networked communications systems Linguisticsnetworked communications systems Literature 1
+networked communications systems Music 1
+networked communications systems Performing arts 35
+networked communications systems COMPUTER-AIDED ENGINEERING 2
+networked communications systems Computer-aided design 22
+networked communications systems Computer-aided manufacturing 2
+networked communications systems COMPUTERS IN OTHER SYSTEMS 48
+networked communications systems Command and control 25
+networked communications systems Consumer products 6
+networked communications systems Industrial control 23
+networked communications systems Military 4
+networked communications systems Process control 44
+networked communications systems Publishing 2
+networked communications systems Real time 35
+networked communications systems MISCELLANEOUSnetworked communications systems GENERAL 24
+networked communications systems THE COMPUTER INDUSTRY 70
+networked communications systems Markets 4
+networked communications systems Standards 9
+networked communications systems Statistics 2
+networked communications systems Suppliers 1
+networked communications systems HISTORY OF COMPUTING 34
+networked communications systems Hardware 14
+networked communications systems Peoplenetworked communications systems Software 19
+networked communications systems Systems 88
+networked communications systems Theory 5
+networked communications systems COMPUTERS AND EDUCATION 36
+networked communications systems General 24
+networked communications systems Computer Uses in Education 23
+networked communications systems Collaborative learning 1
+networked communications systems Computer-assisted instructionnetworked communications systems Computer-managed instruction 5
+networked communications systems Distance learning 9
+networked communications systems Computer and Information Science Education 4
+networked communications systems Accreditationnetworked communications systems Computer science education 6
+networked communications systems Curriculumnetworked communications systems Information systems education 28
+networked communications systems Literacynetworked communications systems Self-assessment 6
+networked communications systems Miscellaneousnetworked communications systems Accreditationnetworked communications systems Computer 34
+networked communications systems COMPUTERS AND SOCIETY 39
+networked communications systems General 24
+networked communications systems Public Policy Issuesnetworked communications systems Computer-related health issues 2
+networked communications systems Ethicsnetworked communications systems Human safety 4
+networked communications systems Intellectual property rightsnetworked communications systems Privacynetworked communications systems Regulation 3
+networked communications systems Transborder data flownetworked communications systems Social Issues 12
+networked communications systems Assistive technologies for persons with disabilitiesnetworked communications systems Employmentnetworked communications systems Handicapped persons/special needsnetworked communications systems Organizational Impacts 1
+networked communications systems Automation 3
+networked communications systems Computer-supported collaborative work 7
+networked communications systems Employmentnetworked communications systems Reengineeringnetworked communications systems Electronic Commerce 14
+networked communications systems Electronic data interchange 6
+networked communications systems Intellectual property 5
+networked communications systems Payment schemes 3
+networked communications systems Security 12
+networked communications systems Miscellaneousnetworked communications systems LEGAL ASPECTS OF COMPUTINGnetworked communications systems General 24
+networked communications systems Hardware/Software Protection 7
+networked communications systems Copyrightsnetworked communications systems Licensingnetworked communications systems Patentsnetworked communications systems Proprietary rights 3
+networked communications systems Trade secrets 1
+networked communications systems Governmental Issues 9
+networked communications systems Censorshipnetworked communications systems Regulation 3
+networked communications systems Taxationnetworked communications systems Miscellaneousnetworked communications systems Contractsnetworked communications systems Hardware 14
+networked communications systems MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 22
+networked communications systems General 24
+networked communications systems Economics 2
+networked communications systems Project and People Managementnetworked communications systems Life cycle 4
+networked communications systems Management techniques 29
+networked communications systems Staffing 1
+networked communications systems Strategic information systems planning 1
+networked communications systems Systems analysis and design 55
+networked communications systems Systems development 101
+networked communications systems Trainingnetworked communications systems Installation Management 13
+networked communications systems Benchmarksnetworked communications systems Computer selection 39
+networked communications systems Pricing and resource allocation 1
+networked communications systems Software Management 41
+networked communications systems Software development 69
+networked communications systems Software maintenance 20
+networked communications systems Software process 65
+networked communications systems Software selection 28
+networked communications systems System Management 92
+networked communications systems Centralization/decentralization 6
+networked communications systems Management audit 9
+networked communications systems Quality assurance 8
+networked communications systems Security and Protection 25
+networked communications systems Authenticationnetworked communications systems Insurancenetworked communications systems Invasive software 19
+networked communications systems Physical security 18
+networked communications systems Unauthorized access 7
+networked communications systems Miscellaneousnetworked communications systems Insurancenetworked communications systems Security 12
+networked communications systems THE COMPUTING PROFESSION 35
+networked communications systems General 24
+networked communications systems Occupationsnetworked communications systems Organizations 3
+networked communications systems Testing, Certification, and Licensingnetworked communications systems Professional Ethicsnetworked communications systems Codes of ethics 4
+networked communications systems Codes of good practice 2
+networked communications systems Ethical dilemmasnetworked communications systems Miscellaneousnetworked communications systems Codes 4
+networked communications systems Ethicsnetworked communications systems PERSONAL COMPUTING 35
+networked communications systems Gamesnetworked communications systems General 24
+networked communications systems Gamesnetworked communications systems Application Packages 54
+networked communications systems Data communications 119
+networked communications systems Database processing 36
+networked communications systems Freeware/sharewarenetworked communications systems Graphics 1
+networked communications systems Spreadsheetsnetworked communications systems Word processing 30
+networked communications systems Hardware 14
+networked communications systems Management/Maintenance 9
+networked communications systems Miscellaneousnetworked communications systems MISCELLANEOUSbandwidth sharing networks GENERAL 13
+bandwidth sharing networks Biographies autobiographiesbandwidth sharing networks Conference proceedings 3
+bandwidth sharing networks INTRODUCTORY AND SURVEY 1
+bandwidth sharing networks REFERENCE 3
+bandwidth sharing networks MISCELLANEOUSbandwidth sharing networks GENERAL 13
+bandwidth sharing networks CONTROL STRUCTURES AND MICROPROGRAMMINGbandwidth sharing networks General 13
+bandwidth sharing networks Control Design Styles 1
+bandwidth sharing networks Hardwired control 7
+bandwidth sharing networks Writable control storebandwidth sharing networks Automatic synthesisbandwidth sharing networks Formal models 22
+bandwidth sharing networks Simulation 4
+bandwidth sharing networks Control Structure Reliability, Testing, and Fault-Tolerancebandwidth sharing networks Diagnosticsbandwidth sharing networks Error-checkingbandwidth sharing networks Redundant design 2
+bandwidth sharing networks Test generation 13
+bandwidth sharing networks Firmware engineering 2
+bandwidth sharing networks Languages and compilersbandwidth sharing networks Optimization 20
+bandwidth sharing networks Verificationbandwidth sharing networks Direct data manipulation 1
+bandwidth sharing networks Instruction set interpretationbandwidth sharing networks Peripheral control 7
+bandwidth sharing networks Special-purpose 10
+bandwidth sharing networks Miscellaneousbandwidth sharing networks General 13
+bandwidth sharing networks Design Styles 2
+bandwidth sharing networks Calculator 3
+bandwidth sharing networks Parallel 1
+bandwidth sharing networks Pipelinebandwidth sharing networks Performance Analysis and Design Aids 1
+bandwidth sharing networks Simulation 4
+bandwidth sharing networks Verificationbandwidth sharing networks Worst-case analysis 7
+bandwidth sharing networks Reliability, Testing, and Fault-Tolerancebandwidth sharing networks Diagnosticsbandwidth sharing networks Error-checkingbandwidth sharing networks Redundant design 2
+bandwidth sharing networks Test generation 13
+bandwidth sharing networks High-Speed Arithmeticbandwidth sharing networks Algorithms 2
+bandwidth sharing networks Cost/performance 23
+bandwidth sharing networks Miscellaneousbandwidth sharing networks MEMORY STRUCTURES 5
+bandwidth sharing networks General 13
+bandwidth sharing networks Semiconductor Memoriesbandwidth sharing networks Dynamic memory 14
+bandwidth sharing networks Read-only memorybandwidth sharing networks Static memory 1
+bandwidth sharing networks Design Styles 2
+bandwidth sharing networks Associative memories 3
+bandwidth sharing networks Cache memories 1
+bandwidth sharing networks Interleaved memoriesbandwidth sharing networks Mass storage 1
+bandwidth sharing networks Primary memorybandwidth sharing networks Sequential-access memorybandwidth sharing networks Shared memory 40
+bandwidth sharing networks Virtual memorybandwidth sharing networks Performance Analysis and Design Aids 1
+bandwidth sharing networks Formal models 22
+bandwidth sharing networks Simulation 4
+bandwidth sharing networks Worst-case analysis 7
+bandwidth sharing networks Reliability, Testing, and Fault-Tolerancebandwidth sharing networks Diagnosticsbandwidth sharing networks Error-checkingbandwidth sharing networks Redundant design 2
+bandwidth sharing networks Test generation 13
+bandwidth sharing networks Miscellaneousbandwidth sharing networks INPUT/OUTPUT AND DATA COMMUNICATIONS 1
+bandwidth sharing networks General 13
+bandwidth sharing networks Data Communications Devices 1
+bandwidth sharing networks Processors 8
+bandwidth sharing networks Receivers 2
+bandwidth sharing networks Transmittersbandwidth sharing networks Input/Output Devicesbandwidth sharing networks Channels and controllers 1
+bandwidth sharing networks Image displaybandwidth sharing networks Voice 2
+bandwidth sharing networks Interconnectionsbandwidth sharing networks Asynchronous/synchronous operationbandwidth sharing networks Fiber opticsbandwidth sharing networks Interfacesbandwidth sharing networks Parallel I/O 1
+bandwidth sharing networks Physical structures 6
+bandwidth sharing networks Topology 8
+bandwidth sharing networks Performance Analysis and Design Aids 1
+bandwidth sharing networks Formal models 22
+bandwidth sharing networks Simulation 4
+bandwidth sharing networks Verificationbandwidth sharing networks Worst-case analysis 7
+bandwidth sharing networks Reliability, Testing, and Fault-Tolerancebandwidth sharing networks Built-in tests 2
+bandwidth sharing networks Diagnosticsbandwidth sharing networks Error-checkingbandwidth sharing networks Hardware reliabilitybandwidth sharing networks Redundant design 2
+bandwidth sharing networks Test generation 13
+bandwidth sharing networks Miscellaneousbandwidth sharing networks REGISTER-TRANSFER-LEVEL IMPLEMENTATIONbandwidth sharing networks General 13
+bandwidth sharing networks Design 2
+bandwidth sharing networks Arithmetic and logic unitsbandwidth sharing networks Control design 8
+bandwidth sharing networks Data-path design 5
+bandwidth sharing networks Memory design 3
+bandwidth sharing networks Stylesbandwidth sharing networks Design Aids 2
+bandwidth sharing networks Automatic synthesisbandwidth sharing networks Hardware description languagesbandwidth sharing networks Optimization 20
+bandwidth sharing networks Simulation 4
+bandwidth sharing networks Verificationbandwidth sharing networks Reliability and Testing 2
+bandwidth sharing networks Built-in tests 2
+bandwidth sharing networks Error-checkingbandwidth sharing networks Redundant design 2
+bandwidth sharing networks Test generation 13
+bandwidth sharing networks Testabilitybandwidth sharing networks Miscellaneousbandwidth sharing networks LOGIC DESIGN 2
+bandwidth sharing networks General 13
+bandwidth sharing networks Design Styles 2
+bandwidth sharing networks Combinational logic 2
+bandwidth sharing networks Logic arraysbandwidth sharing networks Parallel circuits 1
+bandwidth sharing networks Sequential circuitsbandwidth sharing networks Reliability and Testing 2
+bandwidth sharing networks Built-in tests 2
+bandwidth sharing networks Error-checkingbandwidth sharing networks Redundant design 2
+bandwidth sharing networks Test generation 13
+bandwidth sharing networks Testabilitybandwidth sharing networks Design Aids 2
+bandwidth sharing networks Automatic synthesisbandwidth sharing networks Hardware description languagesbandwidth sharing networks Optimization 20
+bandwidth sharing networks Simulation 4
+bandwidth sharing networks Switching theory 7
+bandwidth sharing networks Verificationbandwidth sharing networks Miscellaneousbandwidth sharing networks INTEGRATED CIRCUITS 1
+bandwidth sharing networks General 13
+bandwidth sharing networks Types and Design Stylesbandwidth sharing networks Advanced technologies 21
+bandwidth sharing networks Algorithms implemented in hardware 1
+bandwidth sharing networks Gate arraysbandwidth sharing networks Input/output circuitsbandwidth sharing networks Memory technologies 22
+bandwidth sharing networks Microprocessors and microcomputersbandwidth sharing networks Standard cells 8
+bandwidth sharing networks VLSIbandwidth sharing networks Design Aids 2
+bandwidth sharing networks Graphics 2
+bandwidth sharing networks Layoutbandwidth sharing networks Placement and routing 6
+bandwidth sharing networks Simulation 4
+bandwidth sharing networks Verificationbandwidth sharing networks Reliability and Testing 2
+bandwidth sharing networks Built-in tests 2
+bandwidth sharing networks Error-checkingbandwidth sharing networks Redundant design 2
+bandwidth sharing networks Test generation 13
+bandwidth sharing networks Testabilitybandwidth sharing networks Miscellaneousbandwidth sharing networks PERFORMANCE AND RELIABILITY 22
+bandwidth sharing networks General 13
+bandwidth sharing networks Reliability, Testing, and Fault-Tolerancebandwidth sharing networks Performance Analysis and Design Aids 1
+bandwidth sharing networks Miscellaneousbandwidth sharing networks MISCELLANEOUSbandwidth sharing networks Design 2
+bandwidth sharing networks GENERAL 13
+bandwidth sharing networks Hardware/software interfacesbandwidth sharing networks Instruction set designbandwidth sharing networks Modeling of computer architecture 9
+bandwidth sharing networks System architectures 19
+bandwidth sharing networks Systems specification methodology 2
+bandwidth sharing networks PROCESSOR ARCHITECTURES 12
+bandwidth sharing networks General 13
+bandwidth sharing networks Single Data Stream Architectures 2
+bandwidth sharing networks Pipeline processors 8
+bandwidth sharing networks RISC/CISC, VLIW architecturesbandwidth sharing networks Von Neumann architecturesbandwidth sharing networks Multiple Data Stream Architecturesbandwidth sharing networks Array and vector processors 3
+bandwidth sharing networks Associative processors 8
+bandwidth sharing networks Connection machines 2
+bandwidth sharing networks Interconnection architectures 8
+bandwidth sharing networks Multiple-instruction-stream, multiple-data-stream processorsbandwidth sharing networks Parallel processors 8
+bandwidth sharing networks Pipeline processors 8
+bandwidth sharing networks Single-instruction-stream, multiple-data-stream processorsbandwidth sharing networks Other Architecture Styles 3
+bandwidth sharing networks Adaptable architectures 9
+bandwidth sharing networks Analog computers 9
+bandwidth sharing networks Capability architectures 8
+bandwidth sharing networks Cellular architecture 7
+bandwidth sharing networks Data-flow architectures 13
+bandwidth sharing networks Heterogeneousbandwidth sharing networks High-level language architecturesbandwidth sharing networks Neural netsbandwidth sharing networks Pipeline processors 8
+bandwidth sharing networks Stack-oriented processorsbandwidth sharing networks Parallel Architectures 7
+bandwidth sharing networks Distributed architectures 19
+bandwidth sharing networks Mobile processors 8
+bandwidth sharing networks Miscellaneousbandwidth sharing networks Analogbandwidth sharing networks Hybridbandwidth sharing networks COMPUTER-COMMUNICATION NETWORKS 15
+bandwidth sharing networks General 13
+bandwidth sharing networks Data communications 16
+bandwidth sharing networks Open Systems Interconnection reference modelbandwidth sharing networks Security and protectionbandwidth sharing networks Network Architecture and Design 9
+bandwidth sharing networks Asynchronous Transfer Modebandwidth sharing networks Centralized networks 39
+bandwidth sharing networks Circuit-switching networks 4
+bandwidth sharing networks Distributed networks 41
+bandwidth sharing networks Frame relay networksbandwidth sharing networks ISDNbandwidth sharing networks Network communications 39
+bandwidth sharing networks Network topology 39
+bandwidth sharing networks Packet-switching networks 7
+bandwidth sharing networks Store and forward networks 1
+bandwidth sharing networks Wireless communication 9
+bandwidth sharing networks Network Protocols 39
+bandwidth sharing networks Applications 5
+bandwidth sharing networks Protocol architecture 9
+bandwidth sharing networks Protocol verification 2
+bandwidth sharing networks Routing protocols 9
+bandwidth sharing networks Network Operations 39
+bandwidth sharing networks Network management 39
+bandwidth sharing networks Network monitoring 39
+bandwidth sharing networks Public networks 39
+bandwidth sharing networks Distributed Systems 28
+bandwidth sharing networks Client/server 7
+bandwidth sharing networks Distributed applications 18
+bandwidth sharing networks Distributed databases 16
+bandwidth sharing networks Network operating systems 20
+bandwidth sharing networks Local and Wide-Area Networksbandwidth sharing networks Access schemes 6
+bandwidth sharing networks Busesbandwidth sharing networks Ethernetbandwidth sharing networks High-speed 5
+bandwidth sharing networks Internet 6
+bandwidth sharing networks Token ringsbandwidth sharing networks Internetworkingbandwidth sharing networks Routers 1
+bandwidth sharing networks Standards 8
+bandwidth sharing networks Miscellaneousbandwidth sharing networks SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 2
+bandwidth sharing networks Microprocessor/microcomputer applicationsbandwidth sharing networks Process control systems 12
+bandwidth sharing networks Real-time and embedded systems 2
+bandwidth sharing networks Signal processing systems 13
+bandwidth sharing networks Smartcardsbandwidth sharing networks PERFORMANCE OF SYSTEMS 30
+bandwidth sharing networks Design studies 16
+bandwidth sharing networks Fault tolerancebandwidth sharing networks Measurement techniques 9
+bandwidth sharing networks Modeling techniques 23
+bandwidth sharing networks Performance attributes 23
+bandwidth sharing networks Reliability, availability, and serviceability 3
+bandwidth sharing networks COMPUTER SYSTEM IMPLEMENTATION 5
+bandwidth sharing networks General 13
+bandwidth sharing networks Large and Medium 13
+bandwidth sharing networks Superbandwidth sharing networks Minicomputersbandwidth sharing networks Microcomputersbandwidth sharing networks Microprocessorsbandwidth sharing networks Personal computers 9
+bandwidth sharing networks Portable devicesbandwidth sharing networks Workstationsbandwidth sharing networks VLSI Systems 18
+bandwidth sharing networks Servers 7
+bandwidth sharing networks Miscellaneousbandwidth sharing networks MISCELLANEOUSbandwidth sharing networks GENERAL 13
+bandwidth sharing networks PROGRAMMING TECHNIQUES 3
+bandwidth sharing networks General 13
+bandwidth sharing networks Applicative 5
+bandwidth sharing networks Automatic Programmingbandwidth sharing networks Concurrent Programmingbandwidth sharing networks Distributed programming 17
+bandwidth sharing networks Parallel programming 1
+bandwidth sharing networks Sequential Programmingbandwidth sharing networks Object-oriented Programmingbandwidth sharing networks Logic Programmingbandwidth sharing networks Visual Programming 2
+bandwidth sharing networks Miscellaneousbandwidth sharing networks SOFTWARE ENGINEERING 2
+bandwidth sharing networks General 13
+bandwidth sharing networks Protection mechanisms 13
+bandwidth sharing networks Standards 8
+bandwidth sharing networks Requirements/Specifications 14
+bandwidth sharing networks Elicitation methods 2
+bandwidth sharing networks Languagesbandwidth sharing networks Methodologiesbandwidth sharing networks Toolsbandwidth sharing networks Design Tools and Techniquesbandwidth sharing networks Computer-aided software engineeringbandwidth sharing networks Decision tablesbandwidth sharing networks Evolutionary prototyping 2
+bandwidth sharing networks Flow charts 22
+bandwidth sharing networks Modules and interfacesbandwidth sharing networks Object-oriented design methodsbandwidth sharing networks Petri netsbandwidth sharing networks Programmer workbenchbandwidth sharing networks Software librariesbandwidth sharing networks State diagrams 7
+bandwidth sharing networks Structured programming 3
+bandwidth sharing networks Top-down programmingbandwidth sharing networks User interfaces 14
+bandwidth sharing networks Coding Tools and Techniquesbandwidth sharing networks Object-oriented programmingbandwidth sharing networks Pretty printersbandwidth sharing networks Program editorsbandwidth sharing networks Reentrant codebandwidth sharing networks Standards 8
+bandwidth sharing networks Structured programming 3
+bandwidth sharing networks Top-down programmingbandwidth sharing networks Software/Program Verificationbandwidth sharing networks Assertion checkersbandwidth sharing networks Class invariants 21
+bandwidth sharing networks Correctness proofs 5
+bandwidth sharing networks Formal methods 4
+bandwidth sharing networks Model checking 22
+bandwidth sharing networks Programming by contractbandwidth sharing networks Reliabilitybandwidth sharing networks Statistical methods 3
+bandwidth sharing networks Validation 4
+bandwidth sharing networks Testing and Debugging 2
+bandwidth sharing networks Code inspections and walk-throughsbandwidth sharing networks Debugging aidsbandwidth sharing networks Diagnosticsbandwidth sharing networks Distributed debugging 16
+bandwidth sharing networks Dumpsbandwidth sharing networks Error handling and recoverybandwidth sharing networks Monitorsbandwidth sharing networks Symbolic execution 1
+bandwidth sharing networks Testing tools 2
+bandwidth sharing networks Tracing 1
+bandwidth sharing networks Programming Environmentsbandwidth sharing networks Graphical environments 2
+bandwidth sharing networks Integrated environments 1
+bandwidth sharing networks Interactive environments 12
+bandwidth sharing networks Programmer workbenchbandwidth sharing networks Distribution, Maintenance, and Enhancementbandwidth sharing networks Correctionsbandwidth sharing networks Documentationbandwidth sharing networks Enhancementbandwidth sharing networks Extensibility 9
+bandwidth sharing networks Portabilitybandwidth sharing networks Restructuring, reverse engineering, and reengineeringbandwidth sharing networks Version control 10
+bandwidth sharing networks Metrics 6
+bandwidth sharing networks Complexity measures 11
+bandwidth sharing networks Performance measures 24
+bandwidth sharing networks Process metrics 19
+bandwidth sharing networks Product metrics 7
+bandwidth sharing networks Software science 4
+bandwidth sharing networks Management 2
+bandwidth sharing networks Copyrightsbandwidth sharing networks Cost estimation 1
+bandwidth sharing networks Life cyclebandwidth sharing networks Productivity 1
+bandwidth sharing networks Programming teamsbandwidth sharing networks Software configuration managementbandwidth sharing networks Software process models 9
+bandwidth sharing networks Software quality assurancebandwidth sharing networks Time estimation 16
+bandwidth sharing networks Design 2
+bandwidth sharing networks Methodologiesbandwidth sharing networks Representation 3
+bandwidth sharing networks Software Architectures 7
+bandwidth sharing networks Data abstraction 14
+bandwidth sharing networks Domain-specific architectures 3
+bandwidth sharing networks Information hiding 3
+bandwidth sharing networks Languagesbandwidth sharing networks Patterns 1
+bandwidth sharing networks Interoperabilitybandwidth sharing networks Data mapping 9
+bandwidth sharing networks Distributed objects 16
+bandwidth sharing networks Interface definition languagesbandwidth sharing networks Reusable Softwarebandwidth sharing networks Domain engineering 3
+bandwidth sharing networks Reusable librariesbandwidth sharing networks Reuse models 22
+bandwidth sharing networks Miscellaneousbandwidth sharing networks Rapidbandwidth sharing networks Reusablebandwidth sharing networks PROGRAMMING LANGUAGESbandwidth sharing networks General 13
+bandwidth sharing networks Standards 8
+bandwidth sharing networks Formal Definitions and Theory 1
+bandwidth sharing networks Semanticsbandwidth sharing networks Syntaxbandwidth sharing networks Language Classificationsbandwidth sharing networks Applicative 5
+bandwidth sharing networks Concurrent, distributed, and parallel languagesbandwidth sharing networks Constraint and logic languagesbandwidth sharing networks Data-flow languages 9
+bandwidth sharing networks Design languages 2
+bandwidth sharing networks Extensible languages 9
+bandwidth sharing networks Microprogramming languagesbandwidth sharing networks Multiparadigm languagesbandwidth sharing networks Nondeterministic languagesbandwidth sharing networks Nonprocedural languagesbandwidth sharing networks Object-oriented languagesbandwidth sharing networks Specialized application languages 3
+bandwidth sharing networks Very high-level languagesbandwidth sharing networks Language Constructs and Features 1
+bandwidth sharing networks Abstract data types 3
+bandwidth sharing networks Classes and objects 20
+bandwidth sharing networks Concurrent programming structuresbandwidth sharing networks Constraints 2
+bandwidth sharing networks Control structures 11
+bandwidth sharing networks Coroutinesbandwidth sharing networks Data types and structures 4
+bandwidth sharing networks Dynamic storage management 1
+bandwidth sharing networks Frameworks 15
+bandwidth sharing networks Inheritancebandwidth sharing networks Input/output 2
+bandwidth sharing networks Modules, packagesbandwidth sharing networks Patterns 1
+bandwidth sharing networks Polymorphismbandwidth sharing networks Procedures, functions, and subroutinesbandwidth sharing networks Recursionbandwidth sharing networks Processors 8
+bandwidth sharing networks Code generation 15
+bandwidth sharing networks Compilersbandwidth sharing networks Debuggersbandwidth sharing networks Incremental compilersbandwidth sharing networks Interpretersbandwidth sharing networks Memory management 3
+bandwidth sharing networks Optimization 20
+bandwidth sharing networks Parsingbandwidth sharing networks Preprocessorsbandwidth sharing networks Retargetable compilersbandwidth sharing networks Run-time environments 2
+bandwidth sharing networks Translator writing systems and compiler generatorsbandwidth sharing networks Miscellaneousbandwidth sharing networks OPERATING SYSTEMS 20
+bandwidth sharing networks General 13
+bandwidth sharing networks Process Management 15
+bandwidth sharing networks Concurrencybandwidth sharing networks Deadlocksbandwidth sharing networks Multiprocessing/multiprogramming/multitaskingbandwidth sharing networks Mutual exclusionbandwidth sharing networks Scheduling 17
+bandwidth sharing networks Synchronizationbandwidth sharing networks Threadsbandwidth sharing networks Storage Management 7
+bandwidth sharing networks Allocation/deallocation strategies 4
+bandwidth sharing networks Distributed memories 16
+bandwidth sharing networks Garbage collectionbandwidth sharing networks Main memory 4
+bandwidth sharing networks Secondary storagebandwidth sharing networks Segmentationbandwidth sharing networks Storage hierarchiesbandwidth sharing networks Swappingbandwidth sharing networks Virtual memorybandwidth sharing networks File Systems Management 7
+bandwidth sharing networks Access methods 7
+bandwidth sharing networks Directory structures 3
+bandwidth sharing networks Distributed file systems 11
+bandwidth sharing networks File organization 2
+bandwidth sharing networks Maintenancebandwidth sharing networks Communications Management 10
+bandwidth sharing networks Bufferingbandwidth sharing networks Input/output 2
+bandwidth sharing networks Message sendingbandwidth sharing networks Network communication 39
+bandwidth sharing networks Terminal management 2
+bandwidth sharing networks Reliabilitybandwidth sharing networks Backup proceduresbandwidth sharing networks Checkpoint/restartbandwidth sharing networks Fault-tolerancebandwidth sharing networks Verificationbandwidth sharing networks Security and Protectionbandwidth sharing networks Access controls 9
+bandwidth sharing networks Authenticationbandwidth sharing networks Cryptographic controls 7
+bandwidth sharing networks Information flow controls 7
+bandwidth sharing networks Invasive softwarebandwidth sharing networks Security kernelsbandwidth sharing networks Verificationbandwidth sharing networks Organization and Design 2
+bandwidth sharing networks Batch processing systems 12
+bandwidth sharing networks Distributed systems 28
+bandwidth sharing networks Hierarchical design 2
+bandwidth sharing networks Interactive systems 23
+bandwidth sharing networks Real-time systems and embedded systems 1
+bandwidth sharing networks Performance 22
+bandwidth sharing networks Measurements 8
+bandwidth sharing networks Modeling and prediction 21
+bandwidth sharing networks Monitorsbandwidth sharing networks Operational analysis 16
+bandwidth sharing networks Queueing theory 11
+bandwidth sharing networks Simulation 4
+bandwidth sharing networks Stochastic analysis 13
+bandwidth sharing networks Command and control languages 1
+bandwidth sharing networks Linkersbandwidth sharing networks Loadersbandwidth sharing networks Window managers 2
+bandwidth sharing networks Miscellaneousbandwidth sharing networks MISCELLANEOUSbandwidth sharing networks Softwarebandwidth sharing networks GENERAL 13
+bandwidth sharing networks DATA STRUCTURES 13
+bandwidth sharing networks Arraysbandwidth sharing networks Distributed data structures 9
+bandwidth sharing networks Graphs and networks 32
+bandwidth sharing networks Lists, stacks, and queuesbandwidth sharing networks Recordsbandwidth sharing networks Tablesbandwidth sharing networks Trees 3
+bandwidth sharing networks DATA STORAGE REPRESENTATIONSbandwidth sharing networks Composite structures 3
+bandwidth sharing networks Contiguous representations 3
+bandwidth sharing networks Hash-table representationsbandwidth sharing networks Linked representations 15
+bandwidth sharing networks Object representation 5
+bandwidth sharing networks Primitive data itemsbandwidth sharing networks DATA ENCRYPTION 10
+bandwidth sharing networks Code breakingbandwidth sharing networks Data encryption standard 4
+bandwidth sharing networks Public key cryptosystemsbandwidth sharing networks Standards 8
+bandwidth sharing networks CODING AND INFORMATION THEORY 1
+bandwidth sharing networks Data compaction and compressionbandwidth sharing networks Error control codesbandwidth sharing networks Formal models of communication 7
+bandwidth sharing networks Nonsecret encoding schemesbandwidth sharing networks FILES 2
+bandwidth sharing networks Backup/recovery 1
+bandwidth sharing networks Optimization 20
+bandwidth sharing networks Organization/structure 3
+bandwidth sharing networks Sorting/searching 1
+bandwidth sharing networks MISCELLANEOUSbandwidth sharing networks GENERAL 13
+bandwidth sharing networks COMPUTATION BY ABSTRACT DEVICES 1
+bandwidth sharing networks General 13
+bandwidth sharing networks Models of Computation 28
+bandwidth sharing networks Automatabandwidth sharing networks Bounded-action devicesbandwidth sharing networks Computability theory 12
+bandwidth sharing networks Relations between models 10
+bandwidth sharing networks Self-modifying machinesbandwidth sharing networks Unbounded-action devicesbandwidth sharing networks Modes of Computation 9
+bandwidth sharing networks Alternation and nondeterminism 2
+bandwidth sharing networks Interactive and reactive computation 2
+bandwidth sharing networks Online computation 9
+bandwidth sharing networks Parallelism and concurrency 1
+bandwidth sharing networks Probabilistic computation 12
+bandwidth sharing networks Relations among modes 2
+bandwidth sharing networks Relativized computation 9
+bandwidth sharing networks Complexity Measures and Classes 10
+bandwidth sharing networks Complexity hierarchies 5
+bandwidth sharing networks Machine-independent complexity 2
+bandwidth sharing networks Reducibility and completeness 5
+bandwidth sharing networks Relations among complexity classes 4
+bandwidth sharing networks Relations among complexity measures 2
+bandwidth sharing networks Miscellaneousbandwidth sharing networks ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 1
+bandwidth sharing networks General 13
+bandwidth sharing networks Numerical Algorithms and Problems 3
+bandwidth sharing networks Computation of transforms 9
+bandwidth sharing networks Computations in finite fieldsbandwidth sharing networks Computations on matrices 6
+bandwidth sharing networks Computations on polynomials 7
+bandwidth sharing networks Number-theoretic computations 3
+bandwidth sharing networks Nonnumerical Algorithms and Problems 2
+bandwidth sharing networks Computations on discrete structures 2
+bandwidth sharing networks Geometrical problems and computations 1
+bandwidth sharing networks Pattern matching 2
+bandwidth sharing networks Routing and layout 6
+bandwidth sharing networks Sequencing and scheduling 16
+bandwidth sharing networks Sorting and searching 1
+bandwidth sharing networks Tradeoffs between Complexity Measuresbandwidth sharing networks Miscellaneousbandwidth sharing networks LOGICS AND MEANINGS OF PROGRAMSbandwidth sharing networks General 13
+bandwidth sharing networks Assertionsbandwidth sharing networks Invariants 1
+bandwidth sharing networks Logics of programsbandwidth sharing networks Mechanical verification 13
+bandwidth sharing networks Pre- and post-conditionsbandwidth sharing networks Specification techniques 6
+bandwidth sharing networks Semantics of Programming Languagesbandwidth sharing networks Algebraic approaches to semanticsbandwidth sharing networks Denotational semantics 3
+bandwidth sharing networks Operational semantics 8
+bandwidth sharing networks Partial evaluation 10
+bandwidth sharing networks Process models 27
+bandwidth sharing networks Program analysis 12
+bandwidth sharing networks Studies of Program Constructs 3
+bandwidth sharing networks Control primitives 7
+bandwidth sharing networks Functional constructs 8
+bandwidth sharing networks Object-oriented constructs 1
+bandwidth sharing networks Program and recursion schemesbandwidth sharing networks Type structure 9
+bandwidth sharing networks Miscellaneousbandwidth sharing networks MATHEMATICAL LOGIC AND FORMAL LANGUAGESbandwidth sharing networks General 13
+bandwidth sharing networks Mathematical Logic 3
+bandwidth sharing networks Computability theory 12
+bandwidth sharing networks Computational logic 9
+bandwidth sharing networks Lambda calculus and related systemsbandwidth sharing networks Logic and constraint programmingbandwidth sharing networks Mechanical theorem proving 6
+bandwidth sharing networks Modal logicbandwidth sharing networks Model theory 23
+bandwidth sharing networks Proof theory 7
+bandwidth sharing networks Recursive function theory 4
+bandwidth sharing networks Set theory 13
+bandwidth sharing networks Temporal logicbandwidth sharing networks Grammars and Other Rewriting Systemsbandwidth sharing networks Decision problems 6
+bandwidth sharing networks Grammar types 6
+bandwidth sharing networks Parallel rewriting systems 1
+bandwidth sharing networks Parsingbandwidth sharing networks Thue systems 18
+bandwidth sharing networks Formal Languages 2
+bandwidth sharing networks Algebraic language theorybandwidth sharing networks Classes defined by grammars or automatabandwidth sharing networks Decision problems 6
+bandwidth sharing networks Operations on languages 8
+bandwidth sharing networks Miscellaneousbandwidth sharing networks MISCELLANEOUSbandwidth sharing networks GENERAL 13
+bandwidth sharing networks NUMERICAL ANALYSIS 16
+bandwidth sharing networks General 13
+bandwidth sharing networks Computer arithmetic 9
+bandwidth sharing networks Conditioning 18
+bandwidth sharing networks Error analysis 12
+bandwidth sharing networks Interval arithmetic 1
+bandwidth sharing networks Multiple precision arithmeticbandwidth sharing networks Numerical algorithms 11
+bandwidth sharing networks Parallel algorithms 3
+bandwidth sharing networks Stability 20
+bandwidth sharing networks Interpolationbandwidth sharing networks Difference formulas 9
+bandwidth sharing networks Extrapolationbandwidth sharing networks Interpolation formulasbandwidth sharing networks Smoothingbandwidth sharing networks Approximation 11
+bandwidth sharing networks Chebyshev approximation and theory 3
+bandwidth sharing networks Elementary function approximation 4
+bandwidth sharing networks Fast Fourier transformsbandwidth sharing networks Least squares approximation 5
+bandwidth sharing networks Linear approximation 21
+bandwidth sharing networks Minimax approximation and algorithms 2
+bandwidth sharing networks Nonlinear approximation 11
+bandwidth sharing networks Rational approximation 11
+bandwidth sharing networks Special function approximations 8
+bandwidth sharing networks Spline and piecewise polynomial approximationbandwidth sharing networks Wavelets and fractalsbandwidth sharing networks Numerical Linear Algebra 8
+bandwidth sharing networks Conditioning 18
+bandwidth sharing networks Determinants 11
+bandwidth sharing networks Eigenvalues and eigenvectorsbandwidth sharing networks Error analysis 12
+bandwidth sharing networks Linear systems 23
+bandwidth sharing networks Matrix inversion 1
+bandwidth sharing networks Pseudoinversesbandwidth sharing networks Singular value decomposition 1
+bandwidth sharing networks Sparse, structured, and very large systemsbandwidth sharing networks Quadrature and Numerical Differentiationbandwidth sharing networks Automatic differentiation 1
+bandwidth sharing networks Error analysis 12
+bandwidth sharing networks Finite difference methods 3
+bandwidth sharing networks Gaussian quadraturebandwidth sharing networks Iterative methods 2
+bandwidth sharing networks Multidimensionalbandwidth sharing networks Roots of Nonlinear Equationsbandwidth sharing networks Continuation 5
+bandwidth sharing networks Convergence 3
+bandwidth sharing networks Error analysis 12
+bandwidth sharing networks Iterative methods 2
+bandwidth sharing networks Polynomials, methods for 3
+bandwidth sharing networks Systems of equations 19
+bandwidth sharing networks Optimization 20
+bandwidth sharing networks Constrained optimization 21
+bandwidth sharing networks Convex programmingbandwidth sharing networks Global optimization 21
+bandwidth sharing networks Gradient methods 2
+bandwidth sharing networks Integer programming 1
+bandwidth sharing networks Least squares methods 1
+bandwidth sharing networks Linear programming 15
+bandwidth sharing networks Nonlinear programmingbandwidth sharing networks Quadratic programming methodsbandwidth sharing networks Simulated annealing 4
+bandwidth sharing networks Stochastic programming 9
+bandwidth sharing networks Unconstrained optimization 20
+bandwidth sharing networks Ordinary Differential Equations 1
+bandwidth sharing networks Boundary value problems 3
+bandwidth sharing networks Chaotic systems 18
+bandwidth sharing networks Convergence and stability 21
+bandwidth sharing networks Differential-algebraic equations 1
+bandwidth sharing networks Error analysis 12
+bandwidth sharing networks Finite difference methods 3
+bandwidth sharing networks Initial value problems 3
+bandwidth sharing networks Multistep and multivalue methodsbandwidth sharing networks One-step 26
+bandwidth sharing networks Stiff equations 4
+bandwidth sharing networks Partial Differential Equations 2
+bandwidth sharing networks Domain decomposition methods 1
+bandwidth sharing networks Elliptic equations 4
+bandwidth sharing networks Finite difference methods 3
+bandwidth sharing networks Finite element methods 1
+bandwidth sharing networks Finite volume methods 2
+bandwidth sharing networks Hyperbolic equations 4
+bandwidth sharing networks Inverse problems 6
+bandwidth sharing networks Iterative solution techniques 1
+bandwidth sharing networks Method of lines 4
+bandwidth sharing networks Multigrid and multilevel methodsbandwidth sharing networks Parabolic equations 4
+bandwidth sharing networks Spectral methods 2
+bandwidth sharing networks Integral Equations 4
+bandwidth sharing networks Delay equations 23
+bandwidth sharing networks Fredholm equations 4
+bandwidth sharing networks Integro-differential equations 1
+bandwidth sharing networks Volterra equations 4
+bandwidth sharing networks Applications 5
+bandwidth sharing networks Miscellaneousbandwidth sharing networks DISCRETE MATHEMATICS 4
+bandwidth sharing networks General 13
+bandwidth sharing networks Combinatoricsbandwidth sharing networks Combinatorial algorithms 2
+bandwidth sharing networks Counting problems 6
+bandwidth sharing networks Generating functions 14
+bandwidth sharing networks Permutations and combinations 2
+bandwidth sharing networks Recurrences and difference equations 3
+bandwidth sharing networks Graph Theory 6
+bandwidth sharing networks Graph algorithms 2
+bandwidth sharing networks Graph labeling 2
+bandwidth sharing networks Hypergraphsbandwidth sharing networks Network problems 39
+bandwidth sharing networks Path and circuit problems 3
+bandwidth sharing networks Trees 3
+bandwidth sharing networks Applications 5
+bandwidth sharing networks Miscellaneousbandwidth sharing networks PROBABILITY AND STATISTICS 7
+bandwidth sharing networks Contingency table analysisbandwidth sharing networks Correlation and regression analysis 2
+bandwidth sharing networks Distribution functions 17
+bandwidth sharing networks Experimental design 4
+bandwidth sharing networks Markov processes 14
+bandwidth sharing networks Multivariate statistics 2
+bandwidth sharing networks Nonparametric statistics 2
+bandwidth sharing networks Probabilistic algorithms 4
+bandwidth sharing networks Queueing theory 11
+bandwidth sharing networks Random number generation 11
+bandwidth sharing networks Reliability and life testingbandwidth sharing networks Renewal theory 6
+bandwidth sharing networks Robust regressionbandwidth sharing networks Statistical computing 10
+bandwidth sharing networks Statistical software 2
+bandwidth sharing networks Stochastic processes 17
+bandwidth sharing networks Survival analysis 12
+bandwidth sharing networks Time series analysis 8
+bandwidth sharing networks MATHEMATICAL SOFTWARE 3
+bandwidth sharing networks Algorithm design and analysis 2
+bandwidth sharing networks Certification and testing 2
+bandwidth sharing networks Documentationbandwidth sharing networks Efficiency 8
+bandwidth sharing networks Parallel and vector implementationsbandwidth sharing networks Portabilitybandwidth sharing networks Reliability and robustnessbandwidth sharing networks User interfaces 14
+bandwidth sharing networks Verificationbandwidth sharing networks MISCELLANEOUSbandwidth sharing networks Queueing 10
+bandwidth sharing networks GENERAL 13
+bandwidth sharing networks MODELS AND PRINCIPLES 22
+bandwidth sharing networks General 13
+bandwidth sharing networks Systems and Information Theory 8
+bandwidth sharing networks General systems theory 10
+bandwidth sharing networks Information theory 7
+bandwidth sharing networks Value of information 8
+bandwidth sharing networks User/Machine Systems 12
+bandwidth sharing networks Human factors 5
+bandwidth sharing networks Human information processing 2
+bandwidth sharing networks Software psychologybandwidth sharing networks Miscellaneousbandwidth sharing networks DATABASE MANAGEMENT 2
+bandwidth sharing networks General 13
+bandwidth sharing networks Security, integrity, and protectionbandwidth sharing networks Logical Design 2
+bandwidth sharing networks Data models 25
+bandwidth sharing networks Normal forms 7
+bandwidth sharing networks Schema and subschemabandwidth sharing networks Physical Design 5
+bandwidth sharing networks Access methods 7
+bandwidth sharing networks Deadlock avoidance 2
+bandwidth sharing networks Recovery and restart 1
+bandwidth sharing networks Languagesbandwidth sharing networks Data description languagesbandwidth sharing networks Data manipulation languagesbandwidth sharing networks Databasebandwidth sharing networks Query languagesbandwidth sharing networks Report writers 1
+bandwidth sharing networks Systems 18
+bandwidth sharing networks Concurrencybandwidth sharing networks Distributed databases 16
+bandwidth sharing networks Multimedia databases 1
+bandwidth sharing networks Object-oriented databasesbandwidth sharing networks Parallel databases 1
+bandwidth sharing networks Query processing 14
+bandwidth sharing networks Relational databases 3
+bandwidth sharing networks Rule-based databases 1
+bandwidth sharing networks Textual databasesbandwidth sharing networks Transaction processing 15
+bandwidth sharing networks Heterogeneous Databasesbandwidth sharing networks Data translation 10
+bandwidth sharing networks Program translation 1
+bandwidth sharing networks Database Machinesbandwidth sharing networks Database Administrationbandwidth sharing networks Data dictionary/directorybandwidth sharing networks Data warehouse and repositorybandwidth sharing networks Logging and recovery 2
+bandwidth sharing networks Security, integrity, and protectionbandwidth sharing networks Database Applications 5
+bandwidth sharing networks Data mining 9
+bandwidth sharing networks Image databasesbandwidth sharing networks Scientific databasesbandwidth sharing networks Spatial databases and GISbandwidth sharing networks Statistical databases 2
+bandwidth sharing networks Miscellaneousbandwidth sharing networks INFORMATION STORAGE AND RETRIEVALbandwidth sharing networks General 13
+bandwidth sharing networks Content Analysis and Indexing 1
+bandwidth sharing networks Abstracting methods 4
+bandwidth sharing networks Dictionariesbandwidth sharing networks Indexing methods 2
+bandwidth sharing networks Linguistic processing 14
+bandwidth sharing networks Thesaurusesbandwidth sharing networks Information Storage 4
+bandwidth sharing networks File organization 2
+bandwidth sharing networks Record classificationbandwidth sharing networks Information Search and Retrievalbandwidth sharing networks Clusteringbandwidth sharing networks Information filtering 3
+bandwidth sharing networks Query formulation 1
+bandwidth sharing networks Relevance feedback 3
+bandwidth sharing networks Retrieval models 22
+bandwidth sharing networks Search process 15
+bandwidth sharing networks Selection process 14
+bandwidth sharing networks Systems and Software 20
+bandwidth sharing networks Current awareness systems 1
+bandwidth sharing networks Distributed systems 28
+bandwidth sharing networks Information networks 44
+bandwidth sharing networks Performance evaluation 22
+bandwidth sharing networks Question-answeringbandwidth sharing networks Online Information Services 2
+bandwidth sharing networks Commercial services 11
+bandwidth sharing networks Data sharing 46
+bandwidth sharing networks Web-based services 8
+bandwidth sharing networks Library Automationbandwidth sharing networks Large text archivesbandwidth sharing networks Digital Librariesbandwidth sharing networks Collectionbandwidth sharing networks Disseminationbandwidth sharing networks Standards 8
+bandwidth sharing networks Systems issues 23
+bandwidth sharing networks User issues 20
+bandwidth sharing networks Miscellaneousbandwidth sharing networks INFORMATION SYSTEMS APPLICATIONS 10
+bandwidth sharing networks General 13
+bandwidth sharing networks Office Automationbandwidth sharing networks Desktop publishingbandwidth sharing networks Equipmentbandwidth sharing networks Groupwarebandwidth sharing networks Spreadsheetsbandwidth sharing networks Time management 16
+bandwidth sharing networks Word processing 14
+bandwidth sharing networks Workflow management 2
+bandwidth sharing networks Types of Systems 20
+bandwidth sharing networks Decision support 5
+bandwidth sharing networks Logisticsbandwidth sharing networks Communications Applications 10
+bandwidth sharing networks Bulletin boardsbandwidth sharing networks Computer conferencing, teleconferencing, and videoconferencingbandwidth sharing networks Electronic mailbandwidth sharing networks Information browsers 3
+bandwidth sharing networks Videotexbandwidth sharing networks Miscellaneousbandwidth sharing networks INFORMATION INTERFACES AND PRESENTATION 2
+bandwidth sharing networks General 13
+bandwidth sharing networks Multimedia Information Systems 3
+bandwidth sharing networks Animationsbandwidth sharing networks Artificial, augmented, and virtual realitiesbandwidth sharing networks Audio input/outputbandwidth sharing networks Evaluation/methodology 8
+bandwidth sharing networks Video 1
+bandwidth sharing networks User Interfaces 14
+bandwidth sharing networks Auditorybandwidth sharing networks Benchmarking 2
+bandwidth sharing networks Ergonomicsbandwidth sharing networks Evaluation/methodology 8
+bandwidth sharing networks Graphical user interfacesbandwidth sharing networks Haptic I/Obandwidth sharing networks Input devices and strategiesbandwidth sharing networks Interaction styles 12
+bandwidth sharing networks Natural language 13
+bandwidth sharing networks Prototyping 2
+bandwidth sharing networks Screen design 2
+bandwidth sharing networks Standardization 8
+bandwidth sharing networks Style guidesbandwidth sharing networks Theory and methods 6
+bandwidth sharing networks Training, help, and documentationbandwidth sharing networks User-centered designbandwidth sharing networks User interface management systems 1
+bandwidth sharing networks Voice I/O 1
+bandwidth sharing networks Windowing systems 18
+bandwidth sharing networks Group and Organization Interfacesbandwidth sharing networks Asynchronous interaction 12
+bandwidth sharing networks Collaborative computing 9
+bandwidth sharing networks Computer-supported cooperative workbandwidth sharing networks Evaluation/methodology 8
+bandwidth sharing networks Organizational design 2
+bandwidth sharing networks Synchronous interaction 12
+bandwidth sharing networks Theory and models 22
+bandwidth sharing networks Web-based interaction 10
+bandwidth sharing networks Hypertext/Hypermediabandwidth sharing networks Architectures 7
+bandwidth sharing networks Navigationbandwidth sharing networks Theory 5
+bandwidth sharing networks User issues 20
+bandwidth sharing networks Sound and Music Computingbandwidth sharing networks Methodologies and techniques 3
+bandwidth sharing networks Modeling 22
+bandwidth sharing networks Systems 18
+bandwidth sharing networks Miscellaneousbandwidth sharing networks MISCELLANEOUSbandwidth sharing networks GENERAL 13
+bandwidth sharing networks SYMBOLIC AND ALGEBRAIC MANIPULATIONbandwidth sharing networks General 13
+bandwidth sharing networks Expressions and Their Representation 2
+bandwidth sharing networks Representations 3
+bandwidth sharing networks Simplification of expressions 1
+bandwidth sharing networks Algorithms 2
+bandwidth sharing networks Algebraic algorithms 2
+bandwidth sharing networks Analysis of algorithms 13
+bandwidth sharing networks Nonalgebraic algorithms 2
+bandwidth sharing networks Languages and Systems 18
+bandwidth sharing networks Evaluation strategies 15
+bandwidth sharing networks Nonprocedural languagesbandwidth sharing networks Special-purpose algebraic systems 1
+bandwidth sharing networks Special-purpose hardware 1
+bandwidth sharing networks Substitution mechanisms 13
+bandwidth sharing networks Applications 5
+bandwidth sharing networks Miscellaneousbandwidth sharing networks ARTIFICIAL INTELLIGENCEbandwidth sharing networks General 13
+bandwidth sharing networks Cognitive simulation 4
+bandwidth sharing networks Philosophical foundationsbandwidth sharing networks Applications and Expert Systems 5
+bandwidth sharing networks Cartographybandwidth sharing networks Gamesbandwidth sharing networks Industrial automationbandwidth sharing networks Law 2
+bandwidth sharing networks Medicine and science 4
+bandwidth sharing networks Natural language interfacesbandwidth sharing networks Office automationbandwidth sharing networks Automatic Programmingbandwidth sharing networks Automatic analysis of algorithms 1
+bandwidth sharing networks Program modification 2
+bandwidth sharing networks Program synthesisbandwidth sharing networks Program transformationbandwidth sharing networks Program verificationbandwidth sharing networks Deduction and Theorem Proving 4
+bandwidth sharing networks Answer/reason extractionbandwidth sharing networks Deductionbandwidth sharing networks Inference engines 2
+bandwidth sharing networks Logic programmingbandwidth sharing networks Mathematical induction 3
+bandwidth sharing networks Metatheorybandwidth sharing networks Nonmonotonic reasoning and belief revisionbandwidth sharing networks Resolutionbandwidth sharing networks Knowledge Representation Formalisms and Methodsbandwidth sharing networks Frames and scriptsbandwidth sharing networks Modal logicbandwidth sharing networks Predicate logicbandwidth sharing networks Relation systems 18
+bandwidth sharing networks Representation languages 3
+bandwidth sharing networks Representations 3
+bandwidth sharing networks Semantic networks 39
+bandwidth sharing networks Temporal logicbandwidth sharing networks Programming Languages and Softwarebandwidth sharing networks Expert system tools and techniquesbandwidth sharing networks Learningbandwidth sharing networks Analogiesbandwidth sharing networks Concept learning 3
+bandwidth sharing networks Connectionism and neural netsbandwidth sharing networks Inductionbandwidth sharing networks Knowledge acquisition 1
+bandwidth sharing networks Language acquisitionbandwidth sharing networks Parameter learning 5
+bandwidth sharing networks Natural Language Processing 3
+bandwidth sharing networks Discoursebandwidth sharing networks Language generation 13
+bandwidth sharing networks Language models 22
+bandwidth sharing networks Language parsing and understandingbandwidth sharing networks Machine translation 1
+bandwidth sharing networks Speech recognition and synthesisbandwidth sharing networks Text analysis 12
+bandwidth sharing networks Problem Solving, Control Methods, and Searchbandwidth sharing networks Backtrackingbandwidth sharing networks Control theory 8
+bandwidth sharing networks Dynamic programming 14
+bandwidth sharing networks Graph and tree search strategies 1
+bandwidth sharing networks Heuristic methods 3
+bandwidth sharing networks Plan execution, formation, and generationbandwidth sharing networks Scheduling 17
+bandwidth sharing networks Roboticsbandwidth sharing networks Autonomous vehiclesbandwidth sharing networks Kinematics and dynamics 14
+bandwidth sharing networks Manipulatorsbandwidth sharing networks Operator interfaces 8
+bandwidth sharing networks Propelling mechanisms 13
+bandwidth sharing networks Sensorsbandwidth sharing networks Vision and Scene Understandingbandwidth sharing networks Architecture and control structures 2
+bandwidth sharing networks Motionbandwidth sharing networks Perceptual reasoningbandwidth sharing networks Shapebandwidth sharing networks Texturebandwidth sharing networks Video analysis 12
+bandwidth sharing networks Distributed Artificial Intelligencebandwidth sharing networks Coherence and coordination 2
+bandwidth sharing networks Intelligent agentsbandwidth sharing networks Languages and structures 3
+bandwidth sharing networks Multiagent systems 18
+bandwidth sharing networks Miscellaneousbandwidth sharing networks COMPUTER GRAPHICS 9
+bandwidth sharing networks General 13
+bandwidth sharing networks Hardware Architecture 7
+bandwidth sharing networks Graphics processors 11
+bandwidth sharing networks Hardcopy devicesbandwidth sharing networks Input devices 1
+bandwidth sharing networks Parallel processing 14
+bandwidth sharing networks Raster display devicesbandwidth sharing networks Storage devices 1
+bandwidth sharing networks Three-dimensional displaysbandwidth sharing networks Vector display devicesbandwidth sharing networks Graphics Systems 20
+bandwidth sharing networks Distributed/network graphics 17
+bandwidth sharing networks Remote systems 18
+bandwidth sharing networks Stand-alone systemsbandwidth sharing networks Picture/Image Generationbandwidth sharing networks Antialiasingbandwidth sharing networks Bitmap and framebuffer operationsbandwidth sharing networks Digitizing and scanningbandwidth sharing networks Display algorithms 2
+bandwidth sharing networks Line and curve generation 4
+bandwidth sharing networks Viewing algorithms 3
+bandwidth sharing networks Graphics Utilities 6
+bandwidth sharing networks Application packages 5
+bandwidth sharing networks Device driversbandwidth sharing networks Graphics editors 2
+bandwidth sharing networks Graphics packages 2
+bandwidth sharing networks Meta files 2
+bandwidth sharing networks Paint systems 18
+bandwidth sharing networks Picture description languagesbandwidth sharing networks Software support 5
+bandwidth sharing networks Virtual device interfacesbandwidth sharing networks Computational Geometry and Object Modelingbandwidth sharing networks Boundary representations 3
+bandwidth sharing networks Constructive solid geometrybandwidth sharing networks Curve, surface, solid, and object representationsbandwidth sharing networks Geometric algorithms, languages, and systemsbandwidth sharing networks Hierarchy and geometric transformationsbandwidth sharing networks Modeling packages 22
+bandwidth sharing networks Object hierarchies 2
+bandwidth sharing networks Physically based modeling 13
+bandwidth sharing networks Splinesbandwidth sharing networks Methodology and Techniques 3
+bandwidth sharing networks Device independence 7
+bandwidth sharing networks Ergonomicsbandwidth sharing networks Graphics data structures and data typesbandwidth sharing networks Interaction techniques 13
+bandwidth sharing networks Languagesbandwidth sharing networks Standards 8
+bandwidth sharing networks Three-Dimensional Graphics and Realismbandwidth sharing networks Animationbandwidth sharing networks Color, shading, shadowing, and texturebandwidth sharing networks Fractalsbandwidth sharing networks Hidden line/surface removalbandwidth sharing networks Radiositybandwidth sharing networks Raytracingbandwidth sharing networks Virtual realitybandwidth sharing networks Visible line/surface algorithmsbandwidth sharing networks Applications 5
+bandwidth sharing networks Miscellaneousbandwidth sharing networks IMAGE PROCESSING AND COMPUTER VISIONbandwidth sharing networks General 13
+bandwidth sharing networks Image displaysbandwidth sharing networks Image processing softwarebandwidth sharing networks Digitization and Image Capturebandwidth sharing networks Camera calibrationbandwidth sharing networks Imaging geometrybandwidth sharing networks Quantizationbandwidth sharing networks Radiometrybandwidth sharing networks Reflectance 2
+bandwidth sharing networks Sampling 3
+bandwidth sharing networks Scanningbandwidth sharing networks Compressionbandwidth sharing networks Approximate methods 12
+bandwidth sharing networks Exact coding 3
+bandwidth sharing networks Enhancementbandwidth sharing networks Filteringbandwidth sharing networks Geometric correction 1
+bandwidth sharing networks Grayscale manipulationbandwidth sharing networks Registrationbandwidth sharing networks Sharpening and deblurringbandwidth sharing networks Smoothingbandwidth sharing networks Restoration 1
+bandwidth sharing networks Inverse filteringbandwidth sharing networks Kalman filteringbandwidth sharing networks Pseudoinverse restoration 1
+bandwidth sharing networks Wiener filteringbandwidth sharing networks Reconstructionbandwidth sharing networks Series expansion methodsbandwidth sharing networks Summation methods 2
+bandwidth sharing networks Transform methods 2
+bandwidth sharing networks Segmentationbandwidth sharing networks Edge and feature detectionbandwidth sharing networks Pixel classificationbandwidth sharing networks Region growing, partitioningbandwidth sharing networks Relaxation 1
+bandwidth sharing networks Feature Measurement 8
+bandwidth sharing networks Feature representation 4
+bandwidth sharing networks Invariants 1
+bandwidth sharing networks Moments 3
+bandwidth sharing networks Projectionsbandwidth sharing networks Size and shape 19
+bandwidth sharing networks Texturebandwidth sharing networks Scene Analysis 12
+bandwidth sharing networks Colorbandwidth sharing networks Depth cuesbandwidth sharing networks Motionbandwidth sharing networks Object recognition 2
+bandwidth sharing networks Photometrybandwidth sharing networks Range data 12
+bandwidth sharing networks Sensor fusionbandwidth sharing networks Shadingbandwidth sharing networks Shapebandwidth sharing networks Stereobandwidth sharing networks Surface fittingbandwidth sharing networks Time-varying imagery 2
+bandwidth sharing networks Tracking 1
+bandwidth sharing networks Applications 5
+bandwidth sharing networks Image Representation 3
+bandwidth sharing networks Hierarchicalbandwidth sharing networks Morphologicalbandwidth sharing networks Multidimensionalbandwidth sharing networks Statistical 2
+bandwidth sharing networks Volumetricbandwidth sharing networks Miscellaneousbandwidth sharing networks PATTERN RECOGNITION 1
+bandwidth sharing networks General 13
+bandwidth sharing networks Models 22
+bandwidth sharing networks Deterministic 2
+bandwidth sharing networks Fuzzy set 11
+bandwidth sharing networks Geometric 1
+bandwidth sharing networks Neural netsbandwidth sharing networks Statistical 2
+bandwidth sharing networks Structural 3
+bandwidth sharing networks Design Methodology 2
+bandwidth sharing networks Classifier design and evaluationbandwidth sharing networks Feature evaluation and selectionbandwidth sharing networks Pattern analysis 12
+bandwidth sharing networks Clusteringbandwidth sharing networks Algorithms 2
+bandwidth sharing networks Similarity measures 10
+bandwidth sharing networks Applications 5
+bandwidth sharing networks Computer vision 9
+bandwidth sharing networks Signal processing 14
+bandwidth sharing networks Text processing 14
+bandwidth sharing networks Waveform analysis 12
+bandwidth sharing networks Implementationbandwidth sharing networks Interactive systems 23
+bandwidth sharing networks Special architectures 15
+bandwidth sharing networks Miscellaneousbandwidth sharing networks SIMULATION AND MODELING 21
+bandwidth sharing networks General 13
+bandwidth sharing networks Simulation Theory 8
+bandwidth sharing networks Model classification 22
+bandwidth sharing networks Systems theory 19
+bandwidth sharing networks Types of simulation 9
+bandwidth sharing networks Simulation Languages 4
+bandwidth sharing networks Applications 5
+bandwidth sharing networks Model Validation and Analysis 12
+bandwidth sharing networks Model Development 24
+bandwidth sharing networks Modeling methodologies 22
+bandwidth sharing networks Simulation Output Analysis 2
+bandwidth sharing networks Simulation Support Systems 5
+bandwidth sharing networks Environmentsbandwidth sharing networks Types of Simulation 9
+bandwidth sharing networks Animationbandwidth sharing networks Combined 2
+bandwidth sharing networks Continuous 5
+bandwidth sharing networks Discrete event 4
+bandwidth sharing networks Distributed 16
+bandwidth sharing networks Gamingbandwidth sharing networks Monte Carlobandwidth sharing networks Parallel 1
+bandwidth sharing networks Visual 2
+bandwidth sharing networks Miscellaneousbandwidth sharing networks DOCUMENT AND TEXT PROCESSING 2
+bandwidth sharing networks General 13
+bandwidth sharing networks Document and Text Editingbandwidth sharing networks Document management 5
+bandwidth sharing networks Languagesbandwidth sharing networks Spellingbandwidth sharing networks Version control 10
+bandwidth sharing networks Document Preparation 3
+bandwidth sharing networks Desktop publishingbandwidth sharing networks Format and notation 1
+bandwidth sharing networks Hypertext/hypermediabandwidth sharing networks Index generation 14
+bandwidth sharing networks Languages and systems 18
+bandwidth sharing networks Markup languagesbandwidth sharing networks Multi/mixed mediabandwidth sharing networks Scripting languagesbandwidth sharing networks Standards 8
+bandwidth sharing networks Index Generation 14
+bandwidth sharing networks Electronic Publishingbandwidth sharing networks Document Capture 5
+bandwidth sharing networks Document analysis 13
+bandwidth sharing networks Optical character recognitionbandwidth sharing networks Scanningbandwidth sharing networks Miscellaneousbandwidth sharing networks MISCELLANEOUSbandwidth sharing networks GENERAL 13
+bandwidth sharing networks ADMINISTRATIVE DATA PROCESSING 3
+bandwidth sharing networks Business 2
+bandwidth sharing networks Educationbandwidth sharing networks Financialbandwidth sharing networks Government 1
+bandwidth sharing networks Law 2
+bandwidth sharing networks Manufacturingbandwidth sharing networks Marketingbandwidth sharing networks Militarybandwidth sharing networks PHYSICAL SCIENCES AND ENGINEERING 2
+bandwidth sharing networks Aerospacebandwidth sharing networks Archaeologybandwidth sharing networks Astronomybandwidth sharing networks Chemistrybandwidth sharing networks Earth and atmospheric sciencesbandwidth sharing networks Electronicsbandwidth sharing networks Engineering 2
+bandwidth sharing networks Mathematics and statistics 5
+bandwidth sharing networks Physics 3
+bandwidth sharing networks LIFE AND MEDICAL SCIENCES 1
+bandwidth sharing networks Biology and geneticsbandwidth sharing networks Healthbandwidth sharing networks Medical information systems 3
+bandwidth sharing networks SOCIAL AND BEHAVIORAL SCIENCES 1
+bandwidth sharing networks Economicsbandwidth sharing networks Psychologybandwidth sharing networks Sociologybandwidth sharing networks ARTS AND HUMANITIES 1
+bandwidth sharing networks Architecture 7
+bandwidth sharing networks Fine arts 1
+bandwidth sharing networks Language translation 1
+bandwidth sharing networks Linguisticsbandwidth sharing networks Literature 5
+bandwidth sharing networks Musicbandwidth sharing networks Performing arts 22
+bandwidth sharing networks COMPUTER-AIDED ENGINEERINGbandwidth sharing networks Computer-aided designbandwidth sharing networks Computer-aided manufacturingbandwidth sharing networks COMPUTERS IN OTHER SYSTEMS 10
+bandwidth sharing networks Command and control 8
+bandwidth sharing networks Consumer products 1
+bandwidth sharing networks Industrial control 7
+bandwidth sharing networks Militarybandwidth sharing networks Process control 16
+bandwidth sharing networks Publishingbandwidth sharing networks Real time 16
+bandwidth sharing networks MISCELLANEOUSbandwidth sharing networks GENERAL 13
+bandwidth sharing networks THE COMPUTER INDUSTRY 13
+bandwidth sharing networks Marketsbandwidth sharing networks Standards 8
+bandwidth sharing networks Statistics 2
+bandwidth sharing networks Suppliersbandwidth sharing networks HISTORY OF COMPUTING 9
+bandwidth sharing networks Hardwarebandwidth sharing networks Peoplebandwidth sharing networks Softwarebandwidth sharing networks Systems 18
+bandwidth sharing networks Theory 5
+bandwidth sharing networks COMPUTERS AND EDUCATION 8
+bandwidth sharing networks General 13
+bandwidth sharing networks Computer Uses in Education 4
+bandwidth sharing networks Collaborative learningbandwidth sharing networks Computer-assisted instructionbandwidth sharing networks Computer-managed instruction 2
+bandwidth sharing networks Distance learning 1
+bandwidth sharing networks Computer and Information Science Educationbandwidth sharing networks Accreditationbandwidth sharing networks Computer science education 1
+bandwidth sharing networks Curriculumbandwidth sharing networks Information systems education 3
+bandwidth sharing networks Literacybandwidth sharing networks Self-assessment 4
+bandwidth sharing networks Miscellaneousbandwidth sharing networks Accreditationbandwidth sharing networks Computer 9
+bandwidth sharing networks COMPUTERS AND SOCIETY 8
+bandwidth sharing networks General 13
+bandwidth sharing networks Public Policy Issues 5
+bandwidth sharing networks Computer-related health issues 1
+bandwidth sharing networks Ethicsbandwidth sharing networks Human safetybandwidth sharing networks Intellectual property rightsbandwidth sharing networks Privacybandwidth sharing networks Regulation 1
+bandwidth sharing networks Transborder data flow 9
+bandwidth sharing networks Social Issues 7
+bandwidth sharing networks Assistive technologies for persons with disabilitiesbandwidth sharing networks Employmentbandwidth sharing networks Handicapped persons/special needsbandwidth sharing networks Organizational Impacts 2
+bandwidth sharing networks Automationbandwidth sharing networks Computer-supported collaborative workbandwidth sharing networks Employmentbandwidth sharing networks Reengineeringbandwidth sharing networks Electronic Commercebandwidth sharing networks Electronic data interchangebandwidth sharing networks Intellectual property 9
+bandwidth sharing networks Payment schemes 4
+bandwidth sharing networks Securitybandwidth sharing networks Miscellaneousbandwidth sharing networks LEGAL ASPECTS OF COMPUTINGbandwidth sharing networks General 13
+bandwidth sharing networks Hardware/Software Protectionbandwidth sharing networks Copyrightsbandwidth sharing networks Licensingbandwidth sharing networks Patentsbandwidth sharing networks Proprietary rightsbandwidth sharing networks Trade secrets 1
+bandwidth sharing networks Governmental Issues 7
+bandwidth sharing networks Censorshipbandwidth sharing networks Regulation 1
+bandwidth sharing networks Taxationbandwidth sharing networks Miscellaneousbandwidth sharing networks Contractsbandwidth sharing networks Hardwarebandwidth sharing networks MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 2
+bandwidth sharing networks General 13
+bandwidth sharing networks Economicsbandwidth sharing networks Project and People Managementbandwidth sharing networks Life cyclebandwidth sharing networks Management techniques 5
+bandwidth sharing networks Staffingbandwidth sharing networks Strategic information systems planningbandwidth sharing networks Systems analysis and design 12
+bandwidth sharing networks Systems development 22
+bandwidth sharing networks Trainingbandwidth sharing networks Installation Management 2
+bandwidth sharing networks Benchmarks 2
+bandwidth sharing networks Computer selection 10
+bandwidth sharing networks Pricing and resource allocation 6
+bandwidth sharing networks Software Management 2
+bandwidth sharing networks Software development 4
+bandwidth sharing networks Software maintenancebandwidth sharing networks Software process 14
+bandwidth sharing networks Software selection 1
+bandwidth sharing networks System Management 20
+bandwidth sharing networks Centralization/decentralization 1
+bandwidth sharing networks Management audit 2
+bandwidth sharing networks Quality assurance 2
+bandwidth sharing networks Security and Protectionbandwidth sharing networks Authenticationbandwidth sharing networks Insurancebandwidth sharing networks Invasive softwarebandwidth sharing networks Physical security 3
+bandwidth sharing networks Unauthorized access 4
+bandwidth sharing networks Miscellaneousbandwidth sharing networks Insurancebandwidth sharing networks Securitybandwidth sharing networks THE COMPUTING PROFESSION 7
+bandwidth sharing networks General 13
+bandwidth sharing networks Occupationsbandwidth sharing networks Organizationsbandwidth sharing networks Testing, Certification, and Licensingbandwidth sharing networks Professional Ethicsbandwidth sharing networks Codes of ethicsbandwidth sharing networks Codes of good practicebandwidth sharing networks Ethical dilemmasbandwidth sharing networks Miscellaneousbandwidth sharing networks Codesbandwidth sharing networks Ethicsbandwidth sharing networks PERSONAL COMPUTING 9
+bandwidth sharing networks Gamesbandwidth sharing networks General 13
+bandwidth sharing networks Gamesbandwidth sharing networks Application Packages 5
+bandwidth sharing networks Data communications 16
+bandwidth sharing networks Database processing 14
+bandwidth sharing networks Freeware/sharewarebandwidth sharing networks Graphics 2
+bandwidth sharing networks Spreadsheetsbandwidth sharing networks Word processing 14
+bandwidth sharing networks Hardwarebandwidth sharing networks Management/Maintenance 2
+bandwidth sharing networks Miscellaneousbandwidth sharing networks MISCELLANEOUSmultihop networks GENERAL 293
+multihop networks Biographies autobiographiesmultihop networks Conference proceedings 4
+multihop networks INTRODUCTORY AND SURVEY 20
+multihop networks REFERENCE 168
+multihop networks MISCELLANEOUSmultihop networks GENERAL 293
+multihop networks CONTROL STRUCTURES AND MICROPROGRAMMING 35
+multihop networks General 293
+multihop networks Control Design Styles 158
+multihop networks Hardwired controlmultihop networks Writable control store 5
+multihop networks Automatic synthesis 1
+multihop networks Formal models 8
+multihop networks Simulation 427
+multihop networks Control Structure Reliability, Testing, and Fault-Tolerance 2
+multihop networks Diagnostics 1
+multihop networks Error-checking 1
+multihop networks Redundant design 4
+multihop networks Test generation 20
+multihop networks Firmware engineeringmultihop networks Languages and compilers 14
+multihop networks Optimization 345
+multihop networks Verification 6
+multihop networks Direct data manipulation 64
+multihop networks Instruction set interpretation 12
+multihop networks Peripheral control

@@ -1,0 +1,148 @@
+software systems Architecture 6425
+software systems Fine arts 27
+software systems Language translation 691
+software systems Linguistics 209
+software systems Literature 1686
+software systems Music 111
+software systems Performing arts 285
+software systems COMPUTER-AIDED ENGINEERING 4193
+software systems Computer-aided design 5763
+software systems Computer-aided manufacturing 1122
+software systems COMPUTERS IN OTHER SYSTEMS 15647
+software systems Command and control 5411
+software systems Consumer products 233
+software systems Industrial control 697
+software systems Military 229
+software systems Process control 2513
+software systems Publishing 916
+software systems Real time 2695
+software systems MISCELLANEOUS 13
+software systems GENERAL 9324
+software systems THE COMPUTER INDUSTRY 15418
+software systems Markets 778
+software systems Standards 3530
+software systems Statistics 1332
+software systems Suppliers 149
+software systems HISTORY OF COMPUTING 10236
+software systems Hardware 3284
+software systems People 832
+software systems Software 25267
+software systems Systems 25267
+software systems Theory 2173
+software systems COMPUTERS AND EDUCATION 10195
+software systems General 9324
+software systems Computer Uses in Education 8048
+software systems Collaborative learning 221
+software systems Computer-assisted instruction 948
+software systems Computer-managed instruction 2611
+software systems Distance learning 118
+software systems Computer and Information Science Education 1109
+software systems Accreditation 26
+software systems Computer science education 2519
+software systems Curriculum 146
+software systems Information systems education 8468
+software systems Literacy 11
+software systems Self-assessment 130
+software systems Miscellaneous 13
+software systems Accreditation 26
+software systems Computer 9873
+software systems COMPUTERS AND SOCIETY 10118
+software systems General 9324
+software systems Public Policy Issues 480
+software systems Computer-related health issues 668
+software systems Ethics 46
+software systems Human safety 106
+software systems Intellectual property rights 208
+software systems Privacy 185
+software systems Regulation 275
+software systems Transborder data flow 1050
+software systems Social Issues 192
+software systems Assistive technologies for persons with disabilities 68
+software systems Employment 72
+software systems Handicapped persons/special needs 38
+software systems Organizational Impacts 83
+software systems Automation 3335
+software systems Computer-supported collaborative work 2205
+software systems Employment 72
+software systems Reengineering 533
+software systems Electronic Commerce 108
+software systems Electronic data interchange 611
+software systems Intellectual property 58
+software systems Payment schemes 5
+software systems Security 1643
+software systems Miscellaneous 13
+software systems LEGAL ASPECTS OF COMPUTING 1613
+software systems General 9324
+software systems Hardware/Software Protection 3701
+software systems Copyrights 59
+software systems Licensing 118
+software systems Patents 26
+software systems Proprietary rights 3
+software systems Trade secrets 2
+software systems Governmental Issues 3
+software systems Censorship 3
+software systems Regulation 275
+software systems Taxation 1
+software systems Miscellaneous 13
+software systems Contracts 550
+software systems Hardware 3284
+software systems MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 6566
+software systems General 9324
+software systems Economics 657
+software systems Project and People Management 2148
+software systems Life cycle 945
+software systems Management techniques 1935
+software systems Staffing 22
+software systems Strategic information systems planning 1005
+software systems Systems analysis and design 15672
+software systems Systems development 15327
+software systems Training 788
+software systems Installation Management 148
+software systems Benchmarks 507
+software systems Computer selection 1232
+software systems Pricing and resource allocation 357
+software systems Software Management 5612
+software systems Software development 15327
+software systems Software maintenance 2573
+software systems Software process 10756
+software systems Software selection 2972
+software systems System Management 5612
+software systems Centralization/decentralization 61
+software systems Management audit 63
+software systems Quality assurance 424
+software systems Security and Protection 2796
+software systems Authentication 195
+software systems Insurance 89
+software systems Invasive software 88
+software systems Physical security 99
+software systems Unauthorized access 18
+software systems Miscellaneous 13
+software systems Insurance 89
+software systems Security 1643
+software systems THE COMPUTING PROFESSION 9743
+software systems General 9324
+software systems Occupations 43
+software systems Organizations 2662
+software systems Testing, Certification, and Licensing 126
+software systems Professional Ethics 9
+software systems Codes of ethics 5666
+software systems Codes of good practice 1917
+software systems Ethical dilemmas 1
+software systems Miscellaneous 13
+software systems Codes 5645
+software systems Ethics 46
+software systems PERSONAL COMPUTING 441
+software systems Games 274
+software systems General 9324
+software systems Games 274
+software systems Application Packages 591
+software systems Data communications 1961
+software systems Database processing 1047
+software systems Freeware/shareware 1
+software systems Graphics 1779
+software systems Spreadsheets 66
+software systems Word processing 353
+software systems Hardware 3284
+software systems Management/Maintenance 820
+software systems Miscellaneous 13
+software systems MISCELLANEOUS 13

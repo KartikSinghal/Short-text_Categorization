@@ -1,0 +1,1075 @@
+recommender systems Stereo 1
+recommender systems Surface fitting 2
+recommender systems Time-varying imagery 27
+recommender systems Tracking 230
+recommender systems Applications 2063
+recommender systems Image Representation 36
+recommender systems Hierarchical 188
+recommender systems Morphological 6
+recommender systems Multidimensional 127
+recommender systems Statistical 498
+recommender systems Volumetric 1
+recommender systems Miscellaneous 1
+recommender systems PATTERN RECOGNITION 45
+recommender systems General 2208
+recommender systems Models 2488
+recommender systems Deterministic 23
+recommender systems Fuzzy set 162
+recommender systems Geometric 15
+recommender systems Neural nets 12
+recommender systems Statistical 498
+recommender systems Structural 800
+recommender systems Design Methodology 145
+recommender systems Classifier design and evaluation 828
+recommender systems Feature evaluation and selection 1107
+recommender systems Pattern analysis 235
+recommender systems Clustering 939
+recommender systems Algorithms 2457
+recommender systems Similarity measures 950
+recommender systems Applications 2063
+recommender systems Computer vision 46
+recommender systems Signal processing 55
+recommender systems Text processing 204
+recommender systems Waveform analysisrecommender systems Implementation 493
+recommender systems Interactive systems 1062
+recommender systems Special architectures 49
+recommender systems Miscellaneous 1
+recommender systems SIMULATION AND MODELING 9245
+recommender systems General 2208
+recommender systems Simulation Theory 42
+recommender systems Model classification 340
+recommender systems Systems theory 469
+recommender systems Types of simulation 1340
+recommender systems Simulation Languages 19
+recommender systems Applications 2063
+recommender systems Model Validation and Analysis 2082
+recommender systems Model Development 982
+recommender systems Modeling methodologies 226
+recommender systems Simulation Output Analysis 616
+recommender systems Simulation Support Systems 2767
+recommender systems Environments 734
+recommender systems Types of Simulation 1340
+recommender systems Animation 19
+recommender systems Combined 1379
+recommender systems Continuous 259
+recommender systems Discrete event 5
+recommender systems Distributed 716
+recommender systems Gaming 80
+recommender systems Monte Carlo 15
+recommender systems Parallel 129
+recommender systems Visual 231
+recommender systems Miscellaneous 1
+recommender systems DOCUMENT AND TEXT PROCESSING 571
+recommender systems General 2208
+recommender systems Document and Text Editing 252
+recommender systems Document management 142
+recommender systems Languages 378
+recommender systems Spelling 13
+recommender systems Version control 29
+recommender systems Document Preparation 17
+recommender systems Desktop publishing 1
+recommender systems Format and notation 280
+recommender systems Hypertext/hypermedia 8
+recommender systems Index generation 211
+recommender systems Languages and systems 7305
+recommender systems Markup languages 18
+recommender systems Multi/mixed media 51
+recommender systems Scripting languages 1
+recommender systems Standards 594
+recommender systems Index Generation 211
+recommender systems Electronic Publishing 19
+recommender systems Document Capture 89
+recommender systems Document analysis 274
+recommender systems Optical character recognition 10
+recommender systems Scanning 26
+recommender systems Miscellaneous 1
+recommender systems MISCELLANEOUS 1
+recommender systems GENERAL 2208
+recommender systems ADMINISTRATIVE DATA PROCESSING 1486
+recommender systems Business 406
+recommender systems Education 230
+recommender systems Financial 50
+recommender systems Government 76
+recommender systems Law 73
+recommender systems Manufacturing 44
+recommender systems Marketing 390
+recommender systems Military 17
+recommender systems PHYSICAL SCIENCES AND ENGINEERING 240
+recommender systems Aerospace 5
+recommender systems Archaeologyrecommender systems Astronomy 7
+recommender systems Chemistry 3
+recommender systems Earth and atmospheric sciences 18
+recommender systems Electronics 483
+recommender systems Engineering 812
+recommender systems Mathematics and statistics 622
+recommender systems Physics 152
+recommender systems LIFE AND MEDICAL SCIENCES 83
+recommender systems Biology and genetics 2093
+recommender systems Health 86
+recommender systems Medical information systems 3509
+recommender systems SOCIAL AND BEHAVIORAL SCIENCES 471
+recommender systems Economics 178
+recommender systems Psychology 56
+recommender systems Sociology 17
+recommender systems ARTS AND HUMANITIES 733
+recommender systems Architecture 483
+recommender systems Fine arts 1
+recommender systems Language translation 16
+recommender systems Linguistics 96
+recommender systems Literature 523
+recommender systems Music 464
+recommender systems Performing arts 149
+recommender systems COMPUTER-AIDED ENGINEERING 522
+recommender systems Computer-aided design 877
+recommender systems Computer-aided manufacturing 105
+recommender systems COMPUTERS IN OTHER SYSTEMS 5239
+recommender systems Command and control 522
+recommender systems Consumer products 245
+recommender systems Industrial control 23
+recommender systems Military 17
+recommender systems Process control 125
+recommender systems Publishing 229
+recommender systems Real time 480
+recommender systems MISCELLANEOUS 1
+recommender systems GENERAL 2208
+recommender systems THE COMPUTER INDUSTRY 7221
+recommender systems Markets 390
+recommender systems Standards 594
+recommender systems Statistics 498
+recommender systems Suppliers 19
+recommender systems HISTORY OF COMPUTING 2310
+recommender systems Hardware 33
+recommender systems People 763
+recommender systems Software 435
+recommender systems Systems 5566
+recommender systems Theory 469
+recommender systems COMPUTERS AND EDUCATION 2282
+recommender systems General 2208
+recommender systems Computer Uses in Education 1975
+recommender systems Collaborative learning 784
+recommender systems Computer-assisted instruction 218
+recommender systems Computer-managed instruction 352
+recommender systems Distance learning 150
+recommender systems Computer and Information Science Education 414
+recommender systems Accreditation 3
+recommender systems Computer science education 586
+recommender systems Curriculum 14
+recommender systems Information systems education 3540
+recommender systems Literacy 4
+recommender systems Self-assessment 22
+recommender systems Miscellaneous 1
+recommender systems Accreditation 3
+recommender systems Computer 2059
+recommender systems COMPUTERS AND SOCIETY 2212
+recommender systems General 2208
+recommender systems Public Policy Issues 95
+recommender systems Computer-related health issues 187
+recommender systems Ethics 10
+recommender systems Human safety 4
+recommender systems Intellectual property rights 27
+recommender systems Privacy 224
+recommender systems Regulation 20
+recommender systems Transborder data flow 55
+recommender systems Social Issues 201
+recommender systems Assistive technologies for persons with disabilities 100
+recommender systems Employment 16
+recommender systems Handicapped persons/special needs 46
+recommender systems Organizational Impacts 7
+recommender systems Automation 345
+recommender systems Computer-supported collaborative work 1021
+recommender systems Employment 16
+recommender systems Reengineering 4
+recommender systems Electronic Commerce 248
+recommender systems Electronic data interchange 254
+recommender systems Intellectual property 1
+recommender systems Payment schemes 3
+recommender systems Security 158
+recommender systems Miscellaneous 1
+recommender systems LEGAL ASPECTS OF COMPUTING 237
+recommender systems General 2208
+recommender systems Hardware/Software Protection 55
+recommender systems Copyrights 18
+recommender systems Licensing 6
+recommender systems Patents 8
+recommender systems Proprietary rights 2
+recommender systems Trade secrets 1
+recommender systems Governmental Issues 1
+recommender systems Censorshiprecommender systems Regulation 20
+recommender systems Taxationrecommender systems Miscellaneous 1
+recommender systems Contracts 16
+recommender systems Hardware 33
+recommender systems MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 2517
+recommender systems General 2208
+recommender systems Economics 178
+recommender systems Project and People Management 340
+recommender systems Life cycle 14
+recommender systems Management techniques 332
+recommender systems Staffing 3
+recommender systems Strategic information systems planning 230
+recommender systems Systems analysis and design 2381
+recommender systems Systems development 1839
+recommender systems Training 401
+recommender systems Installation Management 6
+recommender systems Benchmarks 120
+recommender systems Computer selection 560
+recommender systems Pricing and resource allocation 54
+recommender systems Software Management 98
+recommender systems Software development 237
+recommender systems Software maintenance 17
+recommender systems Software process 167
+recommender systems Software selection 104
+recommender systems System Management 733
+recommender systems Centralization/decentralization 25
+recommender systems Management audit 3
+recommender systems Quality assurance 6
+recommender systems Security and Protection 1239
+recommender systems Authentication 25
+recommender systems Insurance 11
+recommender systems Invasive software 3
+recommender systems Physical security 6
+recommender systems Unauthorized accessrecommender systems Miscellaneous 1
+recommender systems Insurance 11
+recommender systems Security 158
+recommender systems THE COMPUTING PROFESSION 2090
+recommender systems General 2208
+recommender systems Occupations 30
+recommender systems Organizations 418
+recommender systems Testing, Certification, and Licensing 5
+recommender systems Professional Ethicsrecommender systems Codes of ethics 171
+recommender systems Codes of good practice 171
+recommender systems Ethical dilemmas 1
+recommender systems Miscellaneous 1
+recommender systems Codes 159
+recommender systems Ethics 10
+recommender systems PERSONAL COMPUTING 874
+recommender systems Games 80
+recommender systems General 2208
+recommender systems Games 80
+recommender systems Application Packages 40
+recommender systems Data communications 614
+recommender systems Database processing 278
+recommender systems Freeware/sharewarerecommender systems Graphics 120
+recommender systems Spreadsheets 3
+recommender systems Word processing 212
+recommender systems Hardware 33
+recommender systems Management/Maintenance 15
+recommender systems Miscellaneous 1
+recommender systems MISCELLANEOUS 1
+temporal dynamics GENERAL 1847
+temporal dynamics Biographies autobiographiestemporal dynamics Conference proceedings 6
+temporal dynamics INTRODUCTORY AND SURVEY 221
+temporal dynamics REFERENCE 492
+temporal dynamics MISCELLANEOUStemporal dynamics GENERAL 1847
+temporal dynamics CONTROL STRUCTURES AND MICROPROGRAMMING 285
+temporal dynamics General 1847
+temporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Stylestemporal dynamics Control Design Styles 177
+temporal dynamics Hardwired control 1
+temporal dynamics Writable control store 31
+temporal dynamics Automatic synthesis 3
+temporal dynamics Formal models 89
+temporal dynamics Simulation 1036
+temporal dynamics Control Structure Reliability, Testing, and Fault-Tolerancetemporal dynamics Diagnostics 79
+temporal dynamics Error-checking 7
+temporal dynamics Redundant design 7
+temporal dynamics Test generation 368
+temporal dynamics Firmware engineeringtemporal dynamics Languages and compilers 231
+temporal dynamics Optimization 373
+temporal dynamics Verification 27
+temporal dynamics Direct data manipulation 470
+temporal dynamics Instruction set interpretation 171
+temporal dynamics Peripheral control 33
+temporal dynamics Special-purpose 17
+temporal dynamics Miscellaneoustemporal dynamics General 1847
+temporal dynamics Design Styles 5
+temporal dynamics Calculator 630
+temporal dynamics Parallel 211
+temporal dynamics Pipeline 5
+temporal dynamics Performance Analysis and Design Aids 147
+temporal dynamics Simulation 1036
+temporal dynamics Verification 27
+temporal dynamics Worst-case analysis 394
+temporal dynamics Reliability, Testing, and Fault-Tolerance 2
+temporal dynamics Diagnostics 79
+temporal dynamics Error-checking 7
+temporal dynamics Redundant design 7
+temporal dynamics Test generation 368
+temporal dynamics High-Speed Arithmetic 142
+temporal dynamics Algorithms 519
+temporal dynamics Cost/performance 80
+temporal dynamics Miscellaneoustemporal dynamics MEMORY STRUCTURES 84
+temporal dynamics General 1847
+temporal dynamics Semiconductor Memories 1
+temporal dynamics Dynamic memory 306
+temporal dynamics Read-only memory 153
+temporal dynamics Static memory 17
+temporal dynamics Design Styles 5
+temporal dynamics Associative memories 120
+temporal dynamics Cache memoriestemporal dynamics Interleaved memories 1
+temporal dynamics Mass storage 21
+temporal dynamics Primary memory 29
+temporal dynamics Sequential-access memory 58
+temporal dynamics Shared memory 21
+temporal dynamics Virtual memory 10
+temporal dynamics Performance Analysis and Design Aids 147
+temporal dynamics Formal models 89
+temporal dynamics Simulation 1036
+temporal dynamics Worst-case analysis 394
+temporal dynamics Reliability, Testing, and Fault-Tolerance 2
+temporal dynamics Diagnostics 79
+temporal dynamics Error-checking 7
+temporal dynamics Redundant design 7
+temporal dynamics Test generation 368
+temporal dynamics Miscellaneoustemporal dynamics INPUT/OUTPUT AND DATA COMMUNICATIONS 138
+temporal dynamics General 1847
+temporal dynamics Data Communications Devices 421
+temporal dynamics Processors 33
+temporal dynamics Receivers 241
+temporal dynamics Transmitters 30
+temporal dynamics Input/Output Devices 201
+temporal dynamics Channels and controllers 827
+temporal dynamics Image display 57
+temporal dynamics Voice 26
+temporal dynamics Interconnections 60
+temporal dynamics Asynchronous/synchronous operation 46
+temporal dynamics Fiber optics 39
+temporal dynamics Interfaces 147
+temporal dynamics Parallel I/O 231
+temporal dynamics Physical structures 280
+temporal dynamics Topology 53
+temporal dynamics Performance Analysis and Design Aids 147
+temporal dynamics Formal models 89
+temporal dynamics Simulation 1036
+temporal dynamics Verification 27
+temporal dynamics Worst-case analysis 394
+temporal dynamics Reliability, Testing, and Fault-Tolerance 2
+temporal dynamics Built-in tests 881
+temporal dynamics Diagnostics 79
+temporal dynamics Error-checking 7
+temporal dynamics Hardware reliability 4
+temporal dynamics Redundant design 7
+temporal dynamics Test generation 368
+temporal dynamics Miscellaneoustemporal dynamics REGISTER-TRANSFER-LEVEL IMPLEMENTATION 7
+temporal dynamics General 1847
+temporal dynamics Design 576
+temporal dynamics Arithmetic and logic units 19
+temporal dynamics Control design 157
+temporal dynamics Data-path design 452
+temporal dynamics Memory design 58
+temporal dynamics Styles 42
+temporal dynamics Design Aids 18
+temporal dynamics Automatic synthesis 3
+temporal dynamics Hardware description languages 30
+temporal dynamics Optimization 373
+temporal dynamics Simulation 1036
+temporal dynamics Verification 27
+temporal dynamics Reliability and Testing 1006
+temporal dynamics Built-in tests 881
+temporal dynamics Error-checking 7
+temporal dynamics Redundant design 7
+temporal dynamics Test generation 368
+temporal dynamics Testability 12
+temporal dynamics Miscellaneoustemporal dynamics LOGIC DESIGN 26
+temporal dynamics General 1847
+temporal dynamics Design Styles 5
+temporal dynamics Combinational logic 21
+temporal dynamics Logic arrays 5
+temporal dynamics Parallel circuits 18
+temporal dynamics Sequential circuits 7
+temporal dynamics Reliability and Testing 1006
+temporal dynamics Built-in tests 881
+temporal dynamics Error-checking 7
+temporal dynamics Redundant design 7
+temporal dynamics Test generation 368
+temporal dynamics Testability 12
+temporal dynamics Design Aids 18
+temporal dynamics Automatic synthesis 3
+temporal dynamics Hardware description languages 30
+temporal dynamics Optimization 373
+temporal dynamics Simulation 1036
+temporal dynamics Switching theory 28
+temporal dynamics Verification 27
+temporal dynamics Miscellaneoustemporal dynamics INTEGRATED CIRCUITS 48
+temporal dynamics General 1847
+temporal dynamics Types and Design Styles 210
+temporal dynamics Advanced technologies 88
+temporal dynamics Algorithms implemented in hardware 104
+temporal dynamics Gate arrays 6
+temporal dynamics Input/output circuits 233
+temporal dynamics Memory technologies 39
+temporal dynamics Microprocessors and microcomputers 2
+temporal dynamics Standard cells 85
+temporal dynamics VLSI 20
+temporal dynamics Design Aids 18
+temporal dynamics Graphics 61
+temporal dynamics Layout 14
+temporal dynamics Placement and routing 129
+temporal dynamics Simulation 1036
+temporal dynamics Verification 27
+temporal dynamics Reliability and Testing 1006
+temporal dynamics Built-in tests 881
+temporal dynamics Error-checking 7
+temporal dynamics Redundant design 7
+temporal dynamics Test generation 368
+temporal dynamics Testability 12
+temporal dynamics Miscellaneoustemporal dynamics PERFORMANCE AND RELIABILITY 1720
+temporal dynamics General 1847
+temporal dynamics Reliability, Testing, and Fault-Tolerance 2
+temporal dynamics Performance Analysis and Design Aids 147
+temporal dynamics Miscellaneoustemporal dynamics MISCELLANEOUStemporal dynamics Design 576
+temporal dynamics GENERAL 1847
+temporal dynamics Hardware/software interfaces 33
+temporal dynamics Instruction set design 293
+temporal dynamics Modeling of computer architecture 1095
+temporal dynamics System architectures 86
+temporal dynamics Systems specification methodology 977
+temporal dynamics PROCESSOR ARCHITECTURES 8
+temporal dynamics General 1847
+temporal dynamics Single Data Stream Architectures 58
+temporal dynamics Pipeline processorstemporal dynamics RISC/CISC, VLIW architecturestemporal dynamics Von Neumann architectures 12
+temporal dynamics Multiple Data Stream Architectures 47
+temporal dynamics Array and vector processors 36
+temporal dynamics Associative processors 4
+temporal dynamics Connection machines 13
+temporal dynamics Interconnection architectures 8
+temporal dynamics Multiple-instruction-stream, multiple-data-stream processorstemporal dynamics Parallel processors 17
+temporal dynamics Pipeline processorstemporal dynamics Single-instruction-stream, multiple-data-stream processorstemporal dynamics Other Architecture Styles 84
+temporal dynamics Adaptable architectures 32
+temporal dynamics Analog computers 55
+temporal dynamics Capability architectures 29
+temporal dynamics Cellular architecture 30
+temporal dynamics Data-flow architectures 446
+temporal dynamics Heterogeneous 341
+temporal dynamics High-level language architectures 54
+temporal dynamics Neural nets 20
+temporal dynamics Pipeline processorstemporal dynamics Stack-oriented processors 7
+temporal dynamics Parallel Architectures 30
+temporal dynamics Distributed architectures 43
+temporal dynamics Mobile processors 1
+temporal dynamics Miscellaneoustemporal dynamics Analog 147
+temporal dynamics Hybrid 126
+temporal dynamics COMPUTER-COMMUNICATION NETWORKS 523
+temporal dynamics General 1847
+temporal dynamics Data communications 291
+temporal dynamics Open Systems Interconnection reference model 29
+temporal dynamics Security and protection 299
+temporal dynamics Network Architecture and Design 490
+temporal dynamics Asynchronous Transfer Mode 26
+temporal dynamics Centralized networks 118
+temporal dynamics Circuit-switching networks 179
+temporal dynamics Distributed networks 270
+temporal dynamics Frame relay networks 60
+temporal dynamics ISDNtemporal dynamics Network communications 122
+temporal dynamics Network topology 41
+temporal dynamics Packet-switching networks 110
+temporal dynamics Store and forward networks 89
+temporal dynamics Wireless communication 26
+temporal dynamics Network Protocols 31
+temporal dynamics Applications 846
+temporal dynamics Protocol architecture 4
+temporal dynamics Protocol verification 1
+temporal dynamics Routing protocols 11
+temporal dynamics Network Operations 113
+temporal dynamics Network management 72
+temporal dynamics Network monitoring 79
+temporal dynamics Public networks 22
+temporal dynamics Distributed Systems 582
+temporal dynamics Client/server 4
+temporal dynamics Distributed applications 250
+temporal dynamics Distributed databases 50
+temporal dynamics Network operating systems 1217
+temporal dynamics Local and Wide-Area Networks 237
+temporal dynamics Access schemes 10
+temporal dynamics Buses 3
+temporal dynamics Ethernettemporal dynamics High-speed 134
+temporal dynamics Internet 21
+temporal dynamics Token ringstemporal dynamics Internetworking 2
+temporal dynamics Routers 6
+temporal dynamics Standards 432
+temporal dynamics Miscellaneoustemporal dynamics SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 56
+temporal dynamics Microprocessor/microcomputer applications 1
+temporal dynamics Process control systems 2765
+temporal dynamics Real-time and embedded systems 271
+temporal dynamics Signal processing systems 1599
+temporal dynamics Smartcardstemporal dynamics PERFORMANCE OF SYSTEMS 7920
+temporal dynamics Design studies 376
+temporal dynamics Fault tolerance 2
+temporal dynamics Measurement techniques 429
+temporal dynamics Modeling techniques 535
+temporal dynamics Performance attributes 96
+temporal dynamics Reliability, availability, and serviceability 95
+temporal dynamics COMPUTER SYSTEM IMPLEMENTATION 701
+temporal dynamics General 1847
+temporal dynamics Large and Medium 1448
+temporal dynamics Super 39
+temporal dynamics Minicomputerstemporal dynamics Microcomputers 1
+temporal dynamics Microprocessors 1
+temporal dynamics Personal computers 45
+temporal dynamics Portable devices 4
+temporal dynamics Workstations 3
+temporal dynamics VLSI Systems 14
+temporal dynamics Servers 14
+temporal dynamics Miscellaneoustemporal dynamics MISCELLANEOUStemporal dynamics GENERAL 1847
+temporal dynamics PROGRAMMING TECHNIQUES 63
+temporal dynamics General 1847
+temporal dynamics Applicative 846
+temporal dynamics Automatic Programming 25
+temporal dynamics Concurrent Programming 6
+temporal dynamics Distributed programming 79
+temporal dynamics Parallel programming 15
+temporal dynamics Sequential Programming 19
+temporal dynamics Object-oriented Programming 267
+temporal dynamics Logic Programming 13
+temporal dynamics Visual Programming 40
+temporal dynamics Miscellaneoustemporal dynamics SOFTWARE ENGINEERING 18
+temporal dynamics General 1847
+temporal dynamics Protection mechanisms 38
+temporal dynamics Standards 432
+temporal dynamics Requirements/Specifications 264
+temporal dynamics Elicitation methods 46
+temporal dynamics Languages 121
+temporal dynamics Methodologies 221
+temporal dynamics Tools 410
+temporal dynamics Design Tools and Techniques 332
+temporal dynamics Computer-aided software engineering 17
+temporal dynamics Decision tables 22
+temporal dynamics Evolutionary prototyping 2
+temporal dynamics Flow chartstemporal dynamics Modules and interfaces 643
+temporal dynamics Object-oriented design methods 140
+temporal dynamics Petri nets 3
+temporal dynamics Programmer workbenchtemporal dynamics Software libraries 9
+temporal dynamics State diagrams 22
+temporal dynamics Structured programming 106
+temporal dynamics Top-down programming 129
+temporal dynamics User interfaces 11
+temporal dynamics Coding Tools and Techniques 286
+temporal dynamics Object-oriented programming 267
+temporal dynamics Pretty printerstemporal dynamics Program editorstemporal dynamics Reentrant code 1
+temporal dynamics Standards 432
+temporal dynamics Structured programming 106
+temporal dynamics Top-down programming 129
+temporal dynamics Software/Program Verification 52
+temporal dynamics Assertion checkerstemporal dynamics Class invariants 17
+temporal dynamics Correctness proofs 7
+temporal dynamics Formal methods 42
+temporal dynamics Model checking 29
+temporal dynamics Programming by contract 520
+temporal dynamics Reliability 218
+temporal dynamics Statistical methods 299
+temporal dynamics Validation 338
+temporal dynamics Testing and Debugging 812
+temporal dynamics Code inspections and walk-throughs 2
+temporal dynamics Debugging aidstemporal dynamics Diagnostics 79
+temporal dynamics Distributed debuggingtemporal dynamics Dumps 1
+temporal dynamics Error handling and recovery 35
+temporal dynamics Monitors 501
+temporal dynamics Symbolic execution 4
+temporal dynamics Testing tools 86
+temporal dynamics Tracing 152
+temporal dynamics Programming Environments 54
+temporal dynamics Graphical environments 11
+temporal dynamics Integrated environments 135
+temporal dynamics Interactive environments 208
+temporal dynamics Programmer workbenchtemporal dynamics Distribution, Maintenance, and Enhancement 205
+temporal dynamics Corrections 295
+temporal dynamics Documentation 7
+temporal dynamics Enhancement 515
+temporal dynamics Extensibility 441
+temporal dynamics Portability 10
+temporal dynamics Restructuring, reverse engineering, and reengineeringtemporal dynamics Version control 60
+temporal dynamics Metrics 124
+temporal dynamics Complexity measures 417
+temporal dynamics Performance measures 461
+temporal dynamics Process metrics 73
+temporal dynamics Product metrics 21
+temporal dynamics Software science 34
+temporal dynamics Management 541
+temporal dynamics Copyrights 26
+temporal dynamics Cost estimation 75
+temporal dynamics Life cycle 78
+temporal dynamics Productivity 686
+temporal dynamics Programming teams 5
+temporal dynamics Software configuration management 102
+temporal dynamics Software process models 1534
+temporal dynamics Software quality assurance 25
+temporal dynamics Time estimation 697
+temporal dynamics Design 576
+temporal dynamics Methodologies 221
+temporal dynamics Representation 430
+temporal dynamics Software Architectures 13
+temporal dynamics Data abstraction 71
+temporal dynamics Domain-specific architectures 182
+temporal dynamics Information hiding 6
+temporal dynamics Languages 121
+temporal dynamics Patterns 1639
+temporal dynamics Interoperability 1
+temporal dynamics Data mapping 385
+temporal dynamics Distributed objects 167
+temporal dynamics Interface definition languages 31
+temporal dynamics Reusable Softwaretemporal dynamics Domain engineering 33
+temporal dynamics Reusable librariestemporal dynamics Reuse models 4
+temporal dynamics Miscellaneoustemporal dynamics Rapid 383
+temporal dynamics Reusabletemporal dynamics PROGRAMMING LANGUAGES 12
+temporal dynamics General 1847
+temporal dynamics Standards 432
+temporal dynamics Formal Definitions and Theory 75
+temporal dynamics Semantics 102
+temporal dynamics Syntax 6
+temporal dynamics Language Classifications 11
+temporal dynamics Applicative 846
+temporal dynamics Concurrent, distributed, and parallel languages 12
+temporal dynamics Constraint and logic languages 168
+temporal dynamics Data-flow languages 420
+temporal dynamics Design languages 23
+temporal dynamics Extensible languages 26
+temporal dynamics Microprogramming languagestemporal dynamics Multiparadigm languagestemporal dynamics Nondeterministic languages 1
+temporal dynamics Nonprocedural languagestemporal dynamics Object-oriented languages 281
+temporal dynamics Specialized application languages 101
+temporal dynamics Very high-level languages 185
+temporal dynamics Language Constructs and Features 155
+temporal dynamics Abstract data types 655
+temporal dynamics Classes and objects 982
+temporal dynamics Concurrent programming structures 148
+temporal dynamics Constraints 189
+temporal dynamics Control structures 285
+temporal dynamics Coroutinestemporal dynamics Data types and structures 1629
+temporal dynamics Dynamic storage management 667
+temporal dynamics Frameworks 459
+temporal dynamics Inheritance 20
+temporal dynamics Input/output 162
+temporal dynamics Modules, packages 4
+temporal dynamics Patterns 1639
+temporal dynamics Polymorphism 38
+temporal dynamics Procedures, functions, and subroutines 186
+temporal dynamics Recursion 23
+temporal dynamics Processors 33
+temporal dynamics Code generation 97
+temporal dynamics Compilers 25
+temporal dynamics Debuggerstemporal dynamics Incremental compilerstemporal dynamics Interpreters 413
+temporal dynamics Memory management 15
+temporal dynamics Optimization 373
+temporal dynamics Parsing 10
+temporal dynamics Preprocessors 2
+temporal dynamics Retargetable compilerstemporal dynamics Run-time environments 615
+temporal dynamics Translator writing systems and compiler generators 6
+temporal dynamics Miscellaneoustemporal dynamics OPERATING SYSTEMS 285
+temporal dynamics General 1847
+temporal dynamics Process Management 240
+temporal dynamics Concurrency 76
+temporal dynamics Deadlocks 3
+temporal dynamics Multiprocessing/multiprogramming/multitaskingtemporal dynamics Mutual exclusion 4
+temporal dynamics Scheduling 37
+temporal dynamics Synchronization 204
+temporal dynamics Threads 7
+temporal dynamics Storage Management 33
+temporal dynamics Allocation/deallocation strategies 26
+temporal dynamics Distributed memories 86
+temporal dynamics Garbage collectiontemporal dynamics Main memory 22
+temporal dynamics Secondary storage 8
+temporal dynamics Segmentation 201
+temporal dynamics Storage hierarchiestemporal dynamics Swapping 1
+temporal dynamics Virtual memory 10
+temporal dynamics File Systems Management 313
+temporal dynamics Access methods 64
+temporal dynamics Directory structurestemporal dynamics Distributed file systems 669
+temporal dynamics File organization 10
+temporal dynamics Maintenance 110
+temporal dynamics Communications Management 117
+temporal dynamics Buffering 68
+temporal dynamics Input/output 162
+temporal dynamics Message sending 2
+temporal dynamics Network communication 122
+temporal dynamics Terminal management 7
+temporal dynamics Reliability 218
+temporal dynamics Backup procedurestemporal dynamics Checkpoint/restarttemporal dynamics Fault-tolerance 2
+temporal dynamics Verification 27
+temporal dynamics Security and Protection 299
+temporal dynamics Access controls 53
+temporal dynamics Authentication 6
+temporal dynamics Cryptographic controlstemporal dynamics Information flow controls 607
+temporal dynamics Invasive software 9
+temporal dynamics Security kernelstemporal dynamics Verification 27
+temporal dynamics Organization and Design 1415
+temporal dynamics Batch processing systems 1014
+temporal dynamics Distributed systems 582
+temporal dynamics Hierarchical design 23
+temporal dynamics Interactive systems 566
+temporal dynamics Real-time systems and embedded systems 266
+temporal dynamics Performance 1099
+temporal dynamics Measurements 1702
+temporal dynamics Modeling and prediction 11291
+temporal dynamics Monitors 501
+temporal dynamics Operational analysis 206
+temporal dynamics Queueing theory 2
+temporal dynamics Simulation 1036
+temporal dynamics Stochastic analysis 129
+temporal dynamics Command and control languages 48
+temporal dynamics Linkers 4
+temporal dynamics Loaderstemporal dynamics Window managers 15
+temporal dynamics Miscellaneoustemporal dynamics MISCELLANEOUStemporal dynamics Software 162
+temporal dynamics GENERAL 1847
+temporal dynamics DATA STRUCTURES 653
+temporal dynamics Arrays 177
+temporal dynamics Distributed data structures 1728
+temporal dynamics Graphs and networks 1074
+temporal dynamics Lists, stacks, and queues 2
+temporal dynamics Records 642
+temporal dynamics Tables 249
+temporal dynamics Trees 254
+temporal dynamics DATA STORAGE REPRESENTATIONS 356
+temporal dynamics Composite structures 162
+temporal dynamics Contiguous representations 3
+temporal dynamics Hash-table representations 35
+temporal dynamics Linked representations 58
+temporal dynamics Object representation 105
+temporal dynamics Primitive data items 74
+temporal dynamics DATA ENCRYPTION 1
+temporal dynamics Code breaking 5
+temporal dynamics Data encryption standard 255
+temporal dynamics Public key cryptosystems 18
+temporal dynamics Standards 432
+temporal dynamics CODING AND INFORMATION THEORY 350
+temporal dynamics Data compaction and compression 52
+temporal dynamics Error control codes 174
+temporal dynamics Formal models of communication 394
+temporal dynamics Nonsecret encoding schemes 16
+temporal dynamics FILES 30
+temporal dynamics Backup/recovery 1
+temporal dynamics Optimization 373
+temporal dynamics Organization/structure 296
+temporal dynamics Sorting/searching 3
+temporal dynamics MISCELLANEOUStemporal dynamics GENERAL 1847
+temporal dynamics COMPUTATION BY ABSTRACT DEVICES 99
+temporal dynamics General 1847
+temporal dynamics Models of Computation 12664
+temporal dynamics Automata 54
+temporal dynamics Bounded-action devices 28
+temporal dynamics Computability theory 153
+temporal dynamics Relations between models 2629
+temporal dynamics Self-modifying machines 46
+temporal dynamics Unbounded-action devices 10
+temporal dynamics Modes of Computation 1443
+temporal dynamics Alternation and nondeterminism 395
+temporal dynamics Interactive and reactive computation 264
+temporal dynamics Online computation 19
+temporal dynamics Parallelism and concurrency 310
+temporal dynamics Probabilistic computation 50
+temporal dynamics Relations among modes 351
+temporal dynamics Relativized computationtemporal dynamics Complexity Measures and Classes 580
+temporal dynamics Complexity hierarchies 27
+temporal dynamics Machine-independent complexity 190
+temporal dynamics Reducibility and completeness 1061
+temporal dynamics Relations among complexity classes 156
+temporal dynamics Relations among complexity measures 338
+temporal dynamics Miscellaneoustemporal dynamics ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 401
+temporal dynamics General 1847
+temporal dynamics Numerical Algorithms and Problems 323
+temporal dynamics Computation of transforms 1246
+temporal dynamics Computations in finite fields 350
+temporal dynamics Computations on matrices 828
+temporal dynamics Computations on polynomials 813
+temporal dynamics Number-theoretic computations 443
+temporal dynamics Nonnumerical Algorithms and Problems 177
+temporal dynamics Computations on discrete structures 417
+temporal dynamics Geometrical problems and computations 303
+temporal dynamics Pattern matching 122
+temporal dynamics Routing and layout 118
+temporal dynamics Sequencing and scheduling 488
+temporal dynamics Sorting and searching 221
+temporal dynamics Tradeoffs between Complexity Measures 290
+temporal dynamics Miscellaneoustemporal dynamics LOGICS AND MEANINGS OF PROGRAMS 442
+temporal dynamics General 1847
+temporal dynamics Assertions 16
+temporal dynamics Invariants 103
+temporal dynamics Logics of programs 2145
+temporal dynamics Mechanical verification 5
+temporal dynamics Pre- and post-conditions 197
+temporal dynamics Specification techniques 236
+temporal dynamics Semantics of Programming Languages 232
+temporal dynamics Algebraic approaches to semantics 72
+temporal dynamics Denotational semantics 3
+temporal dynamics Operational semantics 18
+temporal dynamics Partial evaluation 33
+temporal dynamics Process models 1256
+temporal dynamics Program analysis 103
+temporal dynamics Studies of Program Constructs 439
+temporal dynamics Control primitives 9
+temporal dynamics Functional constructs 146
+temporal dynamics Object-oriented constructs 201
+temporal dynamics Program and recursion schemes 241
+temporal dynamics Type structure 460
+temporal dynamics Miscellaneoustemporal dynamics MATHEMATICAL LOGIC AND FORMAL LANGUAGES 14
+temporal dynamics General 1847
+temporal dynamics Mathematical Logic 12
+temporal dynamics Computability theory 153
+temporal dynamics Computational logic 30
+temporal dynamics Lambda calculus and related systems 2
+temporal dynamics Logic and constraint programming 372
+temporal dynamics Mechanical theorem proving 71
+temporal dynamics Modal logic 7
+temporal dynamics Model theory 392
+temporal dynamics Proof theory 4
+temporal dynamics Recursive function theory 229
+temporal dynamics Set theory 184
+temporal dynamics Temporal logic 66
+temporal dynamics Grammars and Other Rewriting Systems 7
+temporal dynamics Decision problems 74
+temporal dynamics Grammar types 5
+temporal dynamics Parallel rewriting systems 125
+temporal dynamics Parsing 10
+temporal dynamics Thue systemstemporal dynamics Formal Languages 16
+temporal dynamics Algebraic language theory 40
+temporal dynamics Classes defined by grammars or automata 1
+temporal dynamics Decision problems 74
+temporal dynamics Operations on languages 742
+temporal dynamics Miscellaneoustemporal dynamics MISCELLANEOUStemporal dynamics GENERAL 1847
+temporal dynamics NUMERICAL ANALYSIS 253
+temporal dynamics General 1847
+temporal dynamics Computer arithmetic 9
+temporal dynamics Conditioning 1401
+temporal dynamics Error analysis 151
+temporal dynamics Interval arithmetic 7
+temporal dynamics Multiple precision arithmetic 21
+temporal dynamics Numerical algorithms 77
+temporal dynamics Parallel algorithms 33
+temporal dynamics Stability 383
+temporal dynamics Interpolation 73
+temporal dynamics Difference formulas 45
+temporal dynamics Extrapolation 37
+temporal dynamics Interpolation formulas 1
+temporal dynamics Smoothing 111
+temporal dynamics Approximation 562
+temporal dynamics Chebyshev approximation and theory 108
+temporal dynamics Elementary function approximation 261
+temporal dynamics Fast Fourier transforms 86
+temporal dynamics Least squares approximation 136
+temporal dynamics Linear approximation 140
+temporal dynamics Minimax approximation and algorithms 96
+temporal dynamics Nonlinear approximation 104
+temporal dynamics Rational approximation 3
+temporal dynamics Special function approximations 339
+temporal dynamics Spline and piecewise polynomial approximation 7
+temporal dynamics Wavelets and fractals 124
+temporal dynamics Numerical Linear Algebra 151
+temporal dynamics Conditioning 1401
+temporal dynamics Determinants 1121
+temporal dynamics Eigenvalues and eigenvectors 44
+temporal dynamics Error analysis 151
+temporal dynamics Linear systems 348
+temporal dynamics Matrix inversion 18
+temporal dynamics Pseudoinverses 1
+temporal dynamics Singular value decomposition 78
+temporal dynamics Sparse, structured, and very large systems 98
+temporal dynamics Quadrature and Numerical Differentiation 104
+temporal dynamics Automatic differentiation 32
+temporal dynamics Error analysis 151
+temporal dynamics Finite difference methods 981
+temporal dynamics Gaussian quadrature 3
+temporal dynamics Iterative methods 56
+temporal dynamics Multidimensional 40
+temporal dynamics Roots of Nonlinear Equations 268
+temporal dynamics Continuation 656
+temporal dynamics Convergence 159
+temporal dynamics Error analysis 151
+temporal dynamics Iterative methods 56
+temporal dynamics Polynomials, methods for 1330
+temporal dynamics Systems of equations 17492
+temporal dynamics Optimization 373
+temporal dynamics Constrained optimization 30
+temporal dynamics Convex programming 2
+temporal dynamics Global optimization 55
+temporal dynamics Gradient methods 108
+temporal dynamics Integer programming 6
+temporal dynamics Least squares methods 220
+temporal dynamics Linear programming 42
+temporal dynamics Nonlinear programming 23
+temporal dynamics Quadratic programming methods 113
+temporal dynamics Simulated annealing 4
+temporal dynamics Stochastic programming 19
+temporal dynamics Unconstrained optimization 3
+temporal dynamics Ordinary Differential Equations 209
+temporal dynamics Boundary value problems 448
+temporal dynamics Chaotic systems 113
+temporal dynamics Convergence and stability 566
+temporal dynamics Differential-algebraic equations 205
+temporal dynamics Error analysis 151
+temporal dynamics Finite difference methods 981
+temporal dynamics Initial value problems 454
+temporal dynamics Multistep and multivalue methods 1
+temporal dynamics One-step 317
+temporal dynamics Stiff equations 10
+temporal dynamics Partial Differential Equations 258
+temporal dynamics Domain decomposition methods 311
+temporal dynamics Elliptic equations 2
+temporal dynamics Finite difference methods 981
+temporal dynamics Finite element methods 623
+temporal dynamics Finite volume methods 189
+temporal dynamics Hyperbolic equations 3
+temporal dynamics Inverse problems 44
+temporal dynamics Iterative solution techniques 155
+temporal dynamics Method of lines 1911
+temporal dynamics Multigrid and multilevel methods 10
+temporal dynamics Parabolic equations 17
+temporal dynamics Spectral methods 118
+temporal dynamics Integral Equations 125
+temporal dynamics Delay equations 57
+temporal dynamics Fredholm equations 1
+temporal dynamics Integro-differential equations 194
+temporal dynamics Volterra equations 7
+temporal dynamics Applications 846
+temporal dynamics Miscellaneoustemporal dynamics DISCRETE MATHEMATICS 43
+temporal dynamics General 1847
+temporal dynamics Combinatoricstemporal dynamics Combinatorial algorithms 2
+temporal dynamics Counting problems 21
+temporal dynamics Generating functions 701
+temporal dynamics Permutations and combinations 858
+temporal dynamics Recurrences and difference equations 384
+temporal dynamics Graph Theory 14
+temporal dynamics Graph algorithms 35
+temporal dynamics Graph labeling 7
+temporal dynamics Hypergraphs 1
+temporal dynamics Network problems 173
+temporal dynamics Path and circuit problems 65
+temporal dynamics Trees 254
+temporal dynamics Applications 846
+temporal dynamics Miscellaneoustemporal dynamics PROBABILITY AND STATISTICS 987
+temporal dynamics Contingency table analysis 138
+temporal dynamics Correlation and regression analysis 602
+temporal dynamics Distribution functions 487
+temporal dynamics Experimental design 156
+temporal dynamics Markov processes 65
+temporal dynamics Multivariate statistics 34
+temporal dynamics Nonparametric statistics 11
+temporal dynamics Probabilistic algorithms 35
+temporal dynamics Queueing theory 2
+temporal dynamics Random number generation 811
+temporal dynamics Reliability and life testing 143
+temporal dynamics Renewal theory 10
+temporal dynamics Robust regression 15
+temporal dynamics Statistical computing 185
+temporal dynamics Statistical software 51
+temporal dynamics Stochastic processes 146
+temporal dynamics Survival analysis 64
+temporal dynamics Time series analysis 1633
+temporal dynamics MATHEMATICAL SOFTWARE 16
+temporal dynamics Algorithm design and analysis 572
+temporal dynamics Certification and testing 793
+temporal dynamics Documentation 7
+temporal dynamics Efficiency 492
+temporal dynamics Parallel and vector implementations 66
+temporal dynamics Portability 10
+temporal dynamics Reliability and robustness 432
+temporal dynamics User interfaces 11
+temporal dynamics Verification 27
+temporal dynamics MISCELLANEOUStemporal dynamics Queueing 5
+temporal dynamics GENERAL 1847
+temporal dynamics MODELS AND PRINCIPLES 4842
+temporal dynamics General 1847
+temporal dynamics Systems and Information Theory 3105
+temporal dynamics General systems theory 1422
+temporal dynamics Information theory 185
+temporal dynamics Value of information 2057
+temporal dynamics User/Machine Systems 167
+temporal dynamics Human factors 202
+temporal dynamics Human information processing 1089
+temporal dynamics Software psychology 5
+temporal dynamics Miscellaneoustemporal dynamics DATABASE MANAGEMENT 28
+temporal dynamics General 1847
+temporal dynamics Security, integrity, and protection 73
+temporal dynamics Logical Design 26
+temporal dynamics Data models 1232
+temporal dynamics Normal forms 128
+temporal dynamics Schema and subschema 4
+temporal dynamics Physical Design 88
+temporal dynamics Access methods 64
+temporal dynamics Deadlock avoidance 1
+temporal dynamics Recovery and restart 135
+temporal dynamics Languages 121
+temporal dynamics Data description languages 337
+temporal dynamics Data manipulation languages 227
+temporal dynamics Database 152
+temporal dynamics Query languages 7
+temporal dynamics Report writers 1
+temporal dynamics Systems 2148
+temporal dynamics Concurrency 76
+temporal dynamics Distributed databases 50
+temporal dynamics Multimedia databases 3
+temporal dynamics Object-oriented databases 223
+temporal dynamics Parallel databases 10
+temporal dynamics Query processing 18
+temporal dynamics Relational databases 47
+temporal dynamics Rule-based databases 271
+temporal dynamics Textual databasestemporal dynamics Transaction processing 51
+temporal dynamics Heterogeneous Databases 10
+temporal dynamics Data translation 48
+temporal dynamics Program translation 10
+temporal dynamics Database Machines 13
+temporal dynamics Database Administration 6
+temporal dynamics Data dictionary/directory 3
+temporal dynamics Data warehouse and repository 25
+temporal dynamics Logging and recovery 246
+temporal dynamics Security, integrity, and protection 73
+temporal dynamics Database Applications 41
+temporal dynamics Data mining 55
+temporal dynamics Image databases 48
+temporal dynamics Scientific databases 7
+temporal dynamics Spatial databases and GIS 189
+temporal dynamics Statistical databases 45
+temporal dynamics Miscellaneoustemporal dynamics INFORMATION STORAGE AND RETRIEVAL 185
+temporal dynamics General 1847
+temporal dynamics Content Analysis and Indexing 372
+temporal dynamics Abstracting methods 56
+temporal dynamics Dictionaries 4
+temporal dynamics Indexing methods 160
+temporal dynamics Linguistic processing 22
+temporal dynamics Thesaurusestemporal dynamics Information Storage 48
+temporal dynamics File organization 10
+temporal dynamics Record classification 39
+temporal dynamics Information Search and Retrieval 293
+temporal dynamics Clustering 324
+temporal dynamics Information filtering 116
+temporal dynamics Query formulation 7
+temporal dynamics Relevance feedback 35
+temporal dynamics Retrieval models 105
+temporal dynamics Search process 91
+temporal dynamics Selection process 437
+temporal dynamics Systems and Software 3683
+temporal dynamics Current awareness systems 460
+temporal dynamics Distributed systems 582
+temporal dynamics Information networks 323
+temporal dynamics Performance evaluation 215
+temporal dynamics Question-answering 44
+temporal dynamics Online Information Services 95
+temporal dynamics Commercial services 7
+temporal dynamics Data sharing 64
+temporal dynamics Web-based services 525
+temporal dynamics Library Automation 4
+temporal dynamics Large text archives 30
+temporal dynamics Digital Libraries 1
+temporal dynamics Collection 457
+temporal dynamics Dissemination 14
+temporal dynamics Standards 432
+temporal dynamics Systems issues 178
+temporal dynamics User issues 18
+temporal dynamics Miscellaneoustemporal dynamics INFORMATION SYSTEMS APPLICATIONS 2017
+temporal dynamics General 1847
+temporal dynamics Office Automationtemporal dynamics Desktop publishing 1
+temporal dynamics Equipment 50
+temporal dynamics Groupwaretemporal dynamics Spreadsheets 1
+temporal dynamics Time management 281
+temporal dynamics Word processing 122
+temporal dynamics Workflow management 1
+temporal dynamics Types of Systems 3250
+temporal dynamics Decision support 101
+temporal dynamics Logistics 65
+temporal dynamics Communications Applications 111
+temporal dynamics Bulletin boardstemporal dynamics Computer conferencing, teleconferencing, and videoconferencingtemporal dynamics Electronic mail 1
+temporal dynamics Information browsers 3
+temporal dynamics Videotextemporal dynamics Miscellaneoustemporal dynamics INFORMATION INTERFACES AND PRESENTATION 759
+temporal dynamics General 1847
+temporal dynamics Multimedia Information Systems 699
+temporal dynamics Animations 310
+temporal dynamics Artificial, augmented, and virtual realitiestemporal dynamics Audio input/output 179
+temporal dynamics Evaluation/methodology 50
+temporal dynamics Video 136
+temporal dynamics User Interfaces 11
+temporal dynamics Auditory

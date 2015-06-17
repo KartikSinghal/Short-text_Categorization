@@ -1,0 +1,1587 @@
+multihop networks Concurrent Programming 6
+multihop networks Distributed programming 33
+multihop networks Parallel programming 4
+multihop networks Sequential Programming 1
+multihop networks Object-oriented Programming 35
+multihop networks Logic Programming 2
+multihop networks Visual Programmingmultihop networks Miscellaneousmultihop networks SOFTWARE ENGINEERING 7
+multihop networks General 293
+multihop networks Protection mechanisms 9
+multihop networks Standards 123
+multihop networks Requirements/Specifications 64
+multihop networks Elicitation methodsmultihop networks Languages 9
+multihop networks Methodologies 25
+multihop networks Tools 48
+multihop networks Design Tools and Techniques 445
+multihop networks Computer-aided software engineering 22
+multihop networks Decision tables 7
+multihop networks Evolutionary prototypingmultihop networks Flow chartsmultihop networks Modules and interfaces 164
+multihop networks Object-oriented design methods 21
+multihop networks Petri netsmultihop networks Programmer workbenchmultihop networks Software libraries 1
+multihop networks State diagrams 5
+multihop networks Structured programming 10
+multihop networks Top-down programming 4
+multihop networks User interfaces 12
+multihop networks Coding Tools and Techniques 145
+multihop networks Object-oriented programming 35
+multihop networks Pretty printersmultihop networks Program editorsmultihop networks Reentrant codemultihop networks Standards 123
+multihop networks Structured programming 10
+multihop networks Top-down programming 4
+multihop networks Software/Program Verification 18
+multihop networks Assertion checkersmultihop networks Class invariants 1
+multihop networks Correctness proofs 3
+multihop networks Formal methods 3
+multihop networks Model checking 7
+multihop networks Programming by contract 63
+multihop networks Reliability 117
+multihop networks Statistical methods 21
+multihop networks Validation 75
+multihop networks Testing and Debugging 64
+multihop networks Code inspections and walk-throughsmultihop networks Debugging aidsmultihop networks Diagnostics 1
+multihop networks Distributed debugging 1
+multihop networks Dumps 1
+multihop networks Error handling and recovery 21
+multihop networks Monitors 54
+multihop networks Symbolic executionmultihop networks Testing tools 6
+multihop networks Tracing 11
+multihop networks Programming Environments 12
+multihop networks Graphical environmentsmultihop networks Integrated environments 24
+multihop networks Interactive environments 23
+multihop networks Programmer workbenchmultihop networks Distribution, Maintenance, and Enhancement 67
+multihop networks Corrections 43
+multihop networks Documentation 1
+multihop networks Enhancement 118
+multihop networks Extensibility 149
+multihop networks Portability 12
+multihop networks Restructuring, reverse engineering, and reengineeringmultihop networks Version control 38
+multihop networks Metrics 112
+multihop networks Complexity measures 32
+multihop networks Performance measures 111
+multihop networks Process metrics 38
+multihop networks Product metrics 7
+multihop networks Software science 2
+multihop networks Management 81
+multihop networks Copyrights 1
+multihop networks Cost estimation 27
+multihop networks Life cyclemultihop networks Productivity 27
+multihop networks Programming teamsmultihop networks Software configuration management 36
+multihop networks Software process models 259
+multihop networks Software quality assurance 11
+multihop networks Time estimation 73
+multihop networks Design 300
+multihop networks Methodologies 25
+multihop networks Representation 9
+multihop networks Software Architectures 7
+multihop networks Data abstraction 6
+multihop networks Domain-specific architectures 122
+multihop networks Information hiding 2
+multihop networks Languages 9
+multihop networks Patterns 75
+multihop networks Interoperability 4
+multihop networks Data mapping 14
+multihop networks Distributed objects 42
+multihop networks Interface definition languages 15
+multihop networks Reusable Softwaremultihop networks Domain engineering 2
+multihop networks Reusable librariesmultihop networks Reuse models 46
+multihop networks Miscellaneousmultihop networks Rapid 9
+multihop networks Reusablemultihop networks PROGRAMMING LANGUAGESmultihop networks General 293
+multihop networks Standards 123
+multihop networks Formal Definitions and Theory 24
+multihop networks Semantics 4
+multihop networks Syntaxmultihop networks Language Classificationsmultihop networks Applicative 264
+multihop networks Concurrent, distributed, and parallel languages 7
+multihop networks Constraint and logic languages 6
+multihop networks Data-flow languages 85
+multihop networks Design languages 8
+multihop networks Extensible languages 3
+multihop networks Microprogramming languagesmultihop networks Multiparadigm languagesmultihop networks Nondeterministic languagesmultihop networks Nonprocedural languagesmultihop networks Object-oriented languages 12
+multihop networks Specialized application languages 28
+multihop networks Very high-level languages 25
+multihop networks Language Constructs and Features 17
+multihop networks Abstract data types 69
+multihop networks Classes and objects 138
+multihop networks Concurrent programming structures 22
+multihop networks Constraints 146
+multihop networks Control structures 35
+multihop networks Coroutinesmultihop networks Data types and structures 397
+multihop networks Dynamic storage management 52
+multihop networks Frameworks 119
+multihop networks Inheritance 8
+multihop networks Input/output 22
+multihop networks Modules, packages 1
+multihop networks Patterns 75
+multihop networks Polymorphismmultihop networks Procedures, functions, and subroutines 17
+multihop networks Recursion 12
+multihop networks Processors 21
+multihop networks Code generation 62
+multihop networks Compilers 2
+multihop networks Debuggersmultihop networks Incremental compilersmultihop networks Interpreters 13
+multihop networks Memory management 5
+multihop networks Optimization 345
+multihop networks Parsingmultihop networks Preprocessorsmultihop networks Retargetable compilersmultihop networks Run-time environments 169
+multihop networks Translator writing systems and compiler generatorsmultihop networks Miscellaneousmultihop networks OPERATING SYSTEMS 88
+multihop networks General 293
+multihop networks Process Management 19
+multihop networks Concurrency 34
+multihop networks Deadlocks 1
+multihop networks Multiprocessing/multiprogramming/multitaskingmultihop networks Mutual exclusion 1
+multihop networks Scheduling 209
+multihop networks Synchronization 78
+multihop networks Threads 2
+multihop networks Storage Management 4
+multihop networks Allocation/deallocation strategies 35
+multihop networks Distributed memories 12
+multihop networks Garbage collectionmultihop networks Main memory 4
+multihop networks Secondary storagemultihop networks Segmentation 28
+multihop networks Storage hierarchiesmultihop networks Swapping 6
+multihop networks Virtual memory 2
+multihop networks File Systems Management 186
+multihop networks Access methods 92
+multihop networks Directory structuresmultihop networks Distributed file systems 237
+multihop networks File organizationmultihop networks Maintenance 24
+multihop networks Communications Management 52
+multihop networks Buffering 56
+multihop networks Input/output 22
+multihop networks Message sending 32
+multihop networks Network communication 550
+multihop networks Terminal management 8
+multihop networks Reliability 117
+multihop networks Backup procedures 1
+multihop networks Checkpoint/restartmultihop networks Fault-tolerance 19
+multihop networks Verification 6
+multihop networks Security and Protection 1334
+multihop networks Access controls 161
+multihop networks Authentication 14
+multihop networks Cryptographic controls 1
+multihop networks Information flow controls 258
+multihop networks Invasive softwaremultihop networks Security kernels 1
+multihop networks Verification 6
+multihop networks Organization and Design 586
+multihop networks Batch processing systems 114
+multihop networks Distributed systems 183
+multihop networks Hierarchical design 16
+multihop networks Interactive systems 25
+multihop networks Real-time systems and embedded systems 80
+multihop networks Performance 587
+multihop networks Measurements 147
+multihop networks Modeling and prediction 7778
+multihop networks Monitors 54
+multihop networks Operational analysis 71
+multihop networks Queueing theory 21
+multihop networks Simulation 427
+multihop networks Stochastic analysis 20
+multihop networks Command and control languages 7
+multihop networks Linkersmultihop networks Loadersmultihop networks Window managers 7
+multihop networks Miscellaneousmultihop networks MISCELLANEOUSmultihop networks Software 25
+multihop networks GENERAL 293
+multihop networks DATA STRUCTURES 37
+multihop networks Arrays 32
+multihop networks Distributed data structures 265
+multihop networks Graphs and networks 1753
+multihop networks Lists, stacks, and queues 1
+multihop networks Records 7
+multihop networks Tables 60
+multihop networks Trees 70
+multihop networks DATA STORAGE REPRESENTATIONS 31
+multihop networks Composite structures 1
+multihop networks Contiguous representationsmultihop networks Hash-table representations 1
+multihop networks Linked representations 3
+multihop networks Object representationmultihop networks Primitive data items 8
+multihop networks DATA ENCRYPTION 5
+multihop networks Code breaking 3
+multihop networks Data encryption standard 78
+multihop networks Public key cryptosystems 10
+multihop networks Standards 123
+multihop networks CODING AND INFORMATION THEORY 822
+multihop networks Data compaction and compression 21
+multihop networks Error control codes 152
+multihop networks Formal models of communication 277
+multihop networks Nonsecret encoding schemes 19
+multihop networks FILES 13
+multihop networks Backup/recovery 7
+multihop networks Optimization 345
+multihop networks Organization/structure 11
+multihop networks Sorting/searchingmultihop networks MISCELLANEOUSmultihop networks GENERAL 293
+multihop networks COMPUTATION BY ABSTRACT DEVICES 68
+multihop networks General 293
+multihop networks Models of Computation 10446
+multihop networks Automatamultihop networks Bounded-action devices 16
+multihop networks Computability theory 41
+multihop networks Relations between models 482
+multihop networks Self-modifying machines 12
+multihop networks Unbounded-action devices 3
+multihop networks Modes of Computation 410
+multihop networks Alternation and nondeterminism 85
+multihop networks Interactive and reactive computation 43
+multihop networks Online computation 6
+multihop networks Parallelism and concurrency 106
+multihop networks Probabilistic computation 15
+multihop networks Relations among modes 51
+multihop networks Relativized computationmultihop networks Complexity Measures and Classes 65
+multihop networks Complexity hierarchies 1
+multihop networks Machine-independent complexity 28
+multihop networks Reducibility and completeness 315
+multihop networks Relations among complexity classes 16
+multihop networks Relations among complexity measures 37
+multihop networks Miscellaneousmultihop networks ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 436
+multihop networks General 293
+multihop networks Numerical Algorithms and Problems 371
+multihop networks Computation of transforms 604
+multihop networks Computations in finite fields 65
+multihop networks Computations on matrices 337
+multihop networks Computations on polynomials 376
+multihop networks Number-theoretic computations 207
+multihop networks Nonnumerical Algorithms and Problems 246
+multihop networks Computations on discrete structures 95
+multihop networks Geometrical problems and computations 196
+multihop networks Pattern matching 6
+multihop networks Routing and layout 452
+multihop networks Sequencing and scheduling 252
+multihop networks Sorting and searching 44
+multihop networks Tradeoffs between Complexity Measures 38
+multihop networks Miscellaneousmultihop networks LOGICS AND MEANINGS OF PROGRAMS 19
+multihop networks General 293
+multihop networks Assertionsmultihop networks Invariants 13
+multihop networks Logics of programs 116
+multihop networks Mechanical verification 4
+multihop networks Pre- and post-conditions 9
+multihop networks Specification techniques 45
+multihop networks Semantics of Programming Languages 9
+multihop networks Algebraic approaches to semantics 7
+multihop networks Denotational semantics 1
+multihop networks Operational semantics 2
+multihop networks Partial evaluation 6
+multihop networks Process models 129
+multihop networks Program analysis 23
+multihop networks Studies of Program Constructs 94
+multihop networks Control primitives 3
+multihop networks Functional constructs 26
+multihop networks Object-oriented constructs 25
+multihop networks Program and recursion schemes 46
+multihop networks Type structure 8
+multihop networks Miscellaneousmultihop networks MATHEMATICAL LOGIC AND FORMAL LANGUAGESmultihop networks General 293
+multihop networks Mathematical Logicmultihop networks Computability theory 41
+multihop networks Computational logic 17
+multihop networks Lambda calculus and related systemsmultihop networks Logic and constraint programming 30
+multihop networks Mechanical theorem proving 60
+multihop networks Modal logicmultihop networks Model theory 74
+multihop networks Proof theory 19
+multihop networks Recursive function theory 53
+multihop networks Set theory 42
+multihop networks Temporal logic 1
+multihop networks Grammars and Other Rewriting Systems 1
+multihop networks Decision problems 30
+multihop networks Grammar typesmultihop networks Parallel rewriting systems 37
+multihop networks Parsingmultihop networks Thue systemsmultihop networks Formal Languagesmultihop networks Algebraic language theory 5
+multihop networks Classes defined by grammars or automatamultihop networks Decision problems 30
+multihop networks Operations on languages 491
+multihop networks Miscellaneousmultihop networks MISCELLANEOUSmultihop networks GENERAL 293
+multihop networks NUMERICAL ANALYSIS 45
+multihop networks General 293
+multihop networks Computer arithmeticmultihop networks Conditioning 188
+multihop networks Error analysis 64
+multihop networks Interval arithmeticmultihop networks Multiple precision arithmetic 4
+multihop networks Numerical algorithms 56
+multihop networks Parallel algorithms 34
+multihop networks Stability 50
+multihop networks Interpolation 4
+multihop networks Difference formulas 16
+multihop networks Extrapolation 5
+multihop networks Interpolation formulasmultihop networks Smoothing 9
+multihop networks Approximation 147
+multihop networks Chebyshev approximation and theory 35
+multihop networks Elementary function approximation 65
+multihop networks Fast Fourier transforms 3
+multihop networks Least squares approximation 39
+multihop networks Linear approximation 25
+multihop networks Minimax approximation and algorithms 78
+multihop networks Nonlinear approximation 8
+multihop networks Rational approximation 3
+multihop networks Special function approximations 96
+multihop networks Spline and piecewise polynomial approximationmultihop networks Wavelets and fractals 5
+multihop networks Numerical Linear Algebra 28
+multihop networks Conditioning 188
+multihop networks Determinants 154
+multihop networks Eigenvalues and eigenvectors 5
+multihop networks Error analysis 64
+multihop networks Linear systems 50
+multihop networks Matrix inversion 1
+multihop networks Pseudoinversesmultihop networks Singular value decomposition 7
+multihop networks Sparse, structured, and very large systems 5
+multihop networks Quadrature and Numerical Differentiation 4
+multihop networks Automatic differentiationmultihop networks Error analysis 64
+multihop networks Finite difference methods 146
+multihop networks Gaussian quadraturemultihop networks Iterative methods 21
+multihop networks Multidimensional 3
+multihop networks Roots of Nonlinear Equations 4
+multihop networks Continuation 62
+multihop networks Convergence 68
+multihop networks Error analysis 64
+multihop networks Iterative methods 21
+multihop networks Polynomials, methods for 257
+multihop networks Systems of equations 878
+multihop networks Optimization 345
+multihop networks Constrained optimization 32
+multihop networks Convex programming 16
+multihop networks Global optimization 65
+multihop networks Gradient methods 13
+multihop networks Integer programming 9
+multihop networks Least squares methods 47
+multihop networks Linear programming 27
+multihop networks Nonlinear programming 10
+multihop networks Quadratic programming methods 36
+multihop networks Simulated annealing 8
+multihop networks Stochastic programming 2
+multihop networks Unconstrained optimization 3
+multihop networks Ordinary Differential Equations 8
+multihop networks Boundary value problems 115
+multihop networks Chaotic systemsmultihop networks Convergence and stability 195
+multihop networks Differential-algebraic equations 7
+multihop networks Error analysis 64
+multihop networks Finite difference methods 146
+multihop networks Initial value problems 181
+multihop networks Multistep and multivalue methods 1
+multihop networks One-step 57
+multihop networks Stiff equationsmultihop networks Partial Differential Equations 11
+multihop networks Domain decomposition methods 37
+multihop networks Elliptic equationsmultihop networks Finite difference methods 146
+multihop networks Finite element methods 32
+multihop networks Finite volume methods 19
+multihop networks Hyperbolic equationsmultihop networks Inverse problems 5
+multihop networks Iterative solution techniques 97
+multihop networks Method of lines 495
+multihop networks Multigrid and multilevel methodsmultihop networks Parabolic equationsmultihop networks Spectral methods 11
+multihop networks Integral Equations 3
+multihop networks Delay equations 16
+multihop networks Fredholm equationsmultihop networks Integro-differential equations 11
+multihop networks Volterra equationsmultihop networks Applications 264
+multihop networks Miscellaneousmultihop networks DISCRETE MATHEMATICS 3
+multihop networks General 293
+multihop networks Combinatoricsmultihop networks Combinatorial algorithms 3
+multihop networks Counting problems 21
+multihop networks Generating functions 100
+multihop networks Permutations and combinations 156
+multihop networks Recurrences and difference equations 21
+multihop networks Graph Theory 26
+multihop networks Graph algorithms 81
+multihop networks Graph labeling 4
+multihop networks Hypergraphs 4
+multihop networks Network problems 424
+multihop networks Path and circuit problems 172
+multihop networks Trees 70
+multihop networks Applications 264
+multihop networks Miscellaneousmultihop networks PROBABILITY AND STATISTICS 276
+multihop networks Contingency table analysis 25
+multihop networks Correlation and regression analysis 41
+multihop networks Distribution functions 147
+multihop networks Experimental design 29
+multihop networks Markov processes 22
+multihop networks Multivariate statisticsmultihop networks Nonparametric statisticsmultihop networks Probabilistic algorithms 15
+multihop networks Queueing theory 21
+multihop networks Random number generation 289
+multihop networks Reliability and life testing 35
+multihop networks Renewal theory 5
+multihop networks Robust regression 1
+multihop networks Statistical computing 19
+multihop networks Statistical software 1
+multihop networks Stochastic processes 23
+multihop networks Survival analysis 3
+multihop networks Time series analysis 198
+multihop networks MATHEMATICAL SOFTWAREmultihop networks Algorithm design and analysis 446
+multihop networks Certification and testing 62
+multihop networks Documentation 1
+multihop networks Efficiency 328
+multihop networks Parallel and vector implementations 41
+multihop networks Portability 12
+multihop networks Reliability and robustness 248
+multihop networks User interfaces 12
+multihop networks Verification 6
+multihop networks MISCELLANEOUSmultihop networks Queueing 85
+multihop networks GENERAL 293
+multihop networks MODELS AND PRINCIPLES 2021
+multihop networks General 293
+multihop networks Systems and Information Theory 540
+multihop networks General systems theory 305
+multihop networks Information theory 48
+multihop networks Value of information 433
+multihop networks User/Machine Systems 141
+multihop networks Human factors 1
+multihop networks Human information processing 100
+multihop networks Software psychologymultihop networks Miscellaneousmultihop networks DATABASE MANAGEMENT 1
+multihop networks General 293
+multihop networks Security, integrity, and protection 323
+multihop networks Logical Design 14
+multihop networks Data models 156
+multihop networks Normal forms 27
+multihop networks Schema and subschema 3
+multihop networks Physical Design 78
+multihop networks Access methods 92
+multihop networks Deadlock avoidancemultihop networks Recovery and restart 28
+multihop networks Languages 9
+multihop networks Data description languages 54
+multihop networks Data manipulation languages 33
+multihop networks Database 5
+multihop networks Query languagesmultihop networks Report writersmultihop networks Systems 395
+multihop networks Concurrency 34
+multihop networks Distributed databasesmultihop networks Multimedia databases 2
+multihop networks Object-oriented databases 14
+multihop networks Parallel databasesmultihop networks Query processing 6
+multihop networks Relational databases 1
+multihop networks Rule-based databases 34
+multihop networks Textual databasesmultihop networks Transaction processing 26
+multihop networks Heterogeneous Databasesmultihop networks Data translation 5
+multihop networks Program translation 1
+multihop networks Database Machinesmultihop networks Database Administrationmultihop networks Data dictionary/directorymultihop networks Data warehouse and repository 5
+multihop networks Logging and recovery 68
+multihop networks Security, integrity, and protection 323
+multihop networks Database Applications 2
+multihop networks Data mining 6
+multihop networks Image databasesmultihop networks Scientific databasesmultihop networks Spatial databases and GIS 6
+multihop networks Statistical databases 2
+multihop networks Miscellaneousmultihop networks INFORMATION STORAGE AND RETRIEVAL 33
+multihop networks General 293
+multihop networks Content Analysis and Indexing 61
+multihop networks Abstracting methods 4
+multihop networks Dictionariesmultihop networks Indexing methods 10
+multihop networks Linguistic processingmultihop networks Thesaurusesmultihop networks Information Storage 5
+multihop networks File organizationmultihop networks Record classificationmultihop networks Information Search and Retrieval 109
+multihop networks Clustering 69
+multihop networks Information filtering 6
+multihop networks Query formulation 2
+multihop networks Relevance feedback 1
+multihop networks Retrieval models 1
+multihop networks Search process 9
+multihop networks Selection process 42
+multihop networks Systems and Software 1644
+multihop networks Current awareness systems 112
+multihop networks Distributed systems 183
+multihop networks Information networks 283
+multihop networks Performance evaluation 194
+multihop networks Question-answering 7
+multihop networks Online Information Services 80
+multihop networks Commercial services 4
+multihop networks Data sharing 50
+multihop networks Web-based services 194
+multihop networks Library Automationmultihop networks Large text archives 1
+multihop networks Digital Librariesmultihop networks Collection 50
+multihop networks Dissemination 27
+multihop networks Standards 123
+multihop networks Systems issues 83
+multihop networks User issues 29
+multihop networks Miscellaneousmultihop networks INFORMATION SYSTEMS APPLICATIONS 893
+multihop networks General 293
+multihop networks Office Automation 2
+multihop networks Desktop publishingmultihop networks Equipment 46
+multihop networks Groupwaremultihop networks Spreadsheetsmultihop networks Time management 46
+multihop networks Word processing 5
+multihop networks Workflow management 1
+multihop networks Types of Systems 874
+multihop networks Decision support 10
+multihop networks Logistics 1
+multihop networks Communications Applications 182
+multihop networks Bulletin boardsmultihop networks Computer conferencing, teleconferencing, and videoconferencingmultihop networks Electronic mailmultihop networks Information browsersmultihop networks Videotexmultihop networks Miscellaneousmultihop networks INFORMATION INTERFACES AND PRESENTATION 274
+multihop networks General 293
+multihop networks Multimedia Information Systems 290
+multihop networks Animationsmultihop networks Artificial, augmented, and virtual realities 1
+multihop networks Audio input/output 27
+multihop networks Evaluation/methodology 11
+multihop networks Video 39
+multihop networks User Interfaces 12
+multihop networks Auditorymultihop networks Benchmarking 5
+multihop networks Ergonomicsmultihop networks Evaluation/methodology 11
+multihop networks Graphical user interfaces 44
+multihop networks Haptic I/O 31
+multihop networks Input devices and strategies 24
+multihop networks Interaction styles 1
+multihop networks Natural language 2
+multihop networks Prototyping 18
+multihop networks Screen designmultihop networks Standardization 123
+multihop networks Style guidesmultihop networks Theory and methods 1465
+multihop networks Training, help, and documentation 1
+multihop networks User-centered design 106
+multihop networks User interface management systems 65
+multihop networks Voice I/O 39
+multihop networks Windowing systems 31
+multihop networks Group and Organization Interfaces 14
+multihop networks Asynchronous interaction 2
+multihop networks Collaborative computing 12
+multihop networks Computer-supported cooperative work 104
+multihop networks Evaluation/methodology 11
+multihop networks Organizational designmultihop networks Synchronous interaction 5
+multihop networks Theory and models 2139
+multihop networks Web-based interaction 109
+multihop networks Hypertext/Hypermediamultihop networks Architectures 116
+multihop networks Navigation 2
+multihop networks Theory 102
+multihop networks User issues 29
+multihop networks Sound and Music Computing 2
+multihop networks Methodologies and techniques 354
+multihop networks Modeling 416
+multihop networks Systems 395
+multihop networks Miscellaneousmultihop networks MISCELLANEOUSmultihop networks GENERAL 293
+multihop networks SYMBOLIC AND ALGEBRAIC MANIPULATIONmultihop networks General 293
+multihop networks Expressions and Their Representation 51
+multihop networks Representations 9
+multihop networks Simplification of expressions 106
+multihop networks Algorithms 404
+multihop networks Algebraic algorithms 2
+multihop networks Analysis of algorithms 2467
+multihop networks Nonalgebraic algorithmsmultihop networks Languages and Systems 511
+multihop networks Evaluation strategies 34
+multihop networks Nonprocedural languagesmultihop networks Special-purpose algebraic systems 7
+multihop networks Special-purpose hardware 19
+multihop networks Substitution mechanisms 3
+multihop networks Applications 264
+multihop networks Miscellaneousmultihop networks ARTIFICIAL INTELLIGENCEmultihop networks General 293
+multihop networks Cognitive simulation 5
+multihop networks Philosophical foundationsmultihop networks Applications and Expert Systems 273
+multihop networks Cartographymultihop networks Games 16
+multihop networks Industrial automation 1
+multihop networks Law 19
+multihop networks Medicine and science 99
+multihop networks Natural language interfaces 11
+multihop networks Office automation 2
+multihop networks Automatic Programming 2
+multihop networks Automatic analysis of algorithms 174
+multihop networks Program modification 2
+multihop networks Program synthesismultihop networks Program transformation 7
+multihop networks Program verificationmultihop networks Deduction and Theorem Proving 30
+multihop networks Answer/reason extraction 7
+multihop networks Deduction 1
+multihop networks Inference engines 1
+multihop networks Logic programming 2
+multihop networks Mathematical inductionmultihop networks Metatheorymultihop networks Nonmonotonic reasoning and belief revisionmultihop networks Resolution 21
+multihop networks Knowledge Representation Formalisms and Methods 8
+multihop networks Frames and scripts 77
+multihop networks Modal logicmultihop networks Predicate logicmultihop networks Relation systems 57
+multihop networks Representation languagesmultihop networks Representations 9
+multihop networks Semantic networks 4
+multihop networks Temporal logic 1
+multihop networks Programming Languages and Software 66
+multihop networks Expert system tools and techniques 24
+multihop networks Learning 13
+multihop networks Analogies 4
+multihop networks Concept learning 3
+multihop networks Connectionism and neural netsmultihop networks Induction 3
+multihop networks Knowledge acquisitionmultihop networks Language acquisitionmultihop networks Parameter learning 5
+multihop networks Natural Language Processing 32
+multihop networks Discoursemultihop networks Language generation 2
+multihop networks Language models 7
+multihop networks Language parsing and understandingmultihop networks Machine translationmultihop networks Speech recognition and synthesis 4
+multihop networks Text analysismultihop networks Problem Solving, Control Methods, and Search 48
+multihop networks Backtracking 1
+multihop networks Control theory 33
+multihop networks Dynamic programming 22
+multihop networks Graph and tree search strategies 12
+multihop networks Heuristic methods 21
+multihop networks Plan execution, formation, and generation 2
+multihop networks Scheduling 209
+multihop networks Robotics 11
+multihop networks Autonomous vehicles 3
+multihop networks Kinematics and dynamics 171
+multihop networks Manipulators 6
+multihop networks Operator interfaces 16
+multihop networks Propelling mechanismsmultihop networks Sensors 181
+multihop networks Vision and Scene Understanding 1
+multihop networks Architecture and control structures 719
+multihop networks Motion 5
+multihop networks Perceptual reasoningmultihop networks Shape 23
+multihop networks Texturemultihop networks Video analysis 12
+multihop networks Distributed Artificial Intelligence 22
+multihop networks Coherence and coordination 102
+multihop networks Intelligent agentsmultihop networks Languages and structures 153
+multihop networks Multiagent systemsmultihop networks Miscellaneousmultihop networks COMPUTER GRAPHICS 2
+multihop networks General 293
+multihop networks Hardware Architecture 9
+multihop networks Graphics processorsmultihop networks Hardcopy devicesmultihop networks Input devices 2
+multihop networks Parallel processing 28
+multihop networks Raster display devicesmultihop networks Storage devices 3
+multihop networks Three-dimensional displays 14
+multihop networks Vector display devices 7
+multihop networks Graphics Systems 4
+multihop networks Distributed/network graphics 437
+multihop networks Remote systems 5
+multihop networks Stand-alone systems 13
+multihop networks Picture/Image Generation 3
+multihop networks Antialiasingmultihop networks Bitmap and framebuffer operationsmultihop networks Digitizing and scanning 31
+multihop networks Display algorithms 2
+multihop networks Line and curve generation 40
+multihop networks Viewing algorithms 26
+multihop networks Graphics Utilities 1
+multihop networks Application packagesmultihop networks Device drivers 2
+multihop networks Graphics editorsmultihop networks Graphics packagesmultihop networks Meta filesmultihop networks Paint systemsmultihop networks Picture description languages 4
+multihop networks Software support 10
+multihop networks Virtual device interfaces 67
+multihop networks Computational Geometry and Object Modeling 28
+multihop networks Boundary representationsmultihop networks Constructive solid geometry 6
+multihop networks Curve, surface, solid, and object representationsmultihop networks Geometric algorithms, languages, and systems 20
+multihop networks Hierarchy and geometric transformations 4
+multihop networks Modeling packages 1
+multihop networks Object hierarchies 3
+multihop networks Physically based modeling 405
+multihop networks Splinesmultihop networks Methodology and Techniques 354
+multihop networks Device independence 11
+multihop networks Ergonomicsmultihop networks Graphics data structures and data types 11
+multihop networks Interaction techniques 24
+multihop networks Languages 9
+multihop networks Standards 123
+multihop networks Three-Dimensional Graphics and Realism 1
+multihop networks Animationmultihop networks Color, shading, shadowing, and texturemultihop networks Fractals 2
+multihop networks Hidden line/surface removalmultihop networks Radiositymultihop networks Raytracingmultihop networks Virtual reality 3
+multihop networks Visible line/surface algorithms 2
+multihop networks Applications 264
+multihop networks Miscellaneousmultihop networks IMAGE PROCESSING AND COMPUTER VISION 9
+multihop networks General 293
+multihop networks Image displaysmultihop networks Image processing software 23
+multihop networks Digitization and Image Capture 10
+multihop networks Camera calibrationmultihop networks Imaging geometrymultihop networks Quantization 7
+multihop networks Radiometrymultihop networks Reflectance 15
+multihop networks Sampling 23
+multihop networks Scanning 1
+multihop networks Compression 9
+multihop networks Approximate methods 55
+multihop networks Exact coding 2
+multihop networks Enhancement 118
+multihop networks Filtering 19
+multihop networks Geometric correction 3
+multihop networks Grayscale manipulationmultihop networks Registrationmultihop networks Sharpening and deblurring 1
+multihop networks Smoothing 9
+multihop networks Restoration 4
+multihop networks Inverse filtering 1
+multihop networks Kalman filtering 4
+multihop networks Pseudoinverse restorationmultihop networks Wiener filtering 1
+multihop networks Reconstruction 7
+multihop networks Series expansion methods 5
+multihop networks Summation methods 3
+multihop networks Transform methods 11
+multihop networks Segmentation 28
+multihop networks Edge and feature detection 29
+multihop networks Pixel classificationmultihop networks Region growing, partitioning 16
+multihop networks Relaxation 24
+multihop networks Feature Measurement 15
+multihop networks Feature representation 2
+multihop networks Invariants 13
+multihop networks Moments 13
+multihop networks Projections 30
+multihop networks Size and shape 274
+multihop networks Texturemultihop networks Scene Analysismultihop networks Color 12
+multihop networks Depth cuesmultihop networks Motion 5
+multihop networks Object recognitionmultihop networks Photometrymultihop networks Range data 86
+multihop networks Sensor fusion 9
+multihop networks Shading 2
+multihop networks Shape 23
+multihop networks Stereo 1
+multihop networks Surface fittingmultihop networks Time-varying imagery 39
+multihop networks Tracking 24
+multihop networks Applications 264
+multihop networks Image Representationmultihop networks Hierarchical 31
+multihop networks Morphologicalmultihop networks Multidimensional 3
+multihop networks Statistical 63
+multihop networks Volumetricmultihop networks Miscellaneousmultihop networks PATTERN RECOGNITION 1
+multihop networks General 293
+multihop networks Models 416
+multihop networks Deterministic 38
+multihop networks Fuzzy setmultihop networks Geometric 38
+multihop networks Neural netsmultihop networks Statistical 63
+multihop networks Structural 86
+multihop networks Design Methodology 9
+multihop networks Classifier design and evaluation 211
+multihop networks Feature evaluation and selection 120
+multihop networks Pattern analysis 30
+multihop networks Clustering 69
+multihop networks Algorithms 404
+multihop networks Similarity measures 41
+multihop networks Applications 264
+multihop networks Computer vision 2
+multihop networks Signal processing 69
+multihop networks Text processingmultihop networks Waveform analysis 1
+multihop networks Implementation 137
+multihop networks Interactive systems 25
+multihop networks Special architectures 15
+multihop networks Miscellaneousmultihop networks SIMULATION AND MODELING 4907
+multihop networks General 293
+multihop networks Simulation Theory 48
+multihop networks Model classification 4
+multihop networks Systems theory 58
+multihop networks Types of simulation 666
+multihop networks Simulation Languages 7
+multihop networks Applications 264
+multihop networks Model Validation and Analysis 1360
+multihop networks Model Development 131
+multihop networks Modeling methodologies 19
+multihop networks Simulation Output Analysis 351
+multihop networks Simulation Support Systems 1153
+multihop networks Environments 186
+multihop networks Types of Simulation 666
+multihop networks Animationmultihop networks Combined 153
+multihop networks Continuous 62
+multihop networks Discrete event 12
+multihop networks Distributed 396
+multihop networks Gaming 16
+multihop networks Monte Carlo 6
+multihop networks Parallel 64
+multihop networks Visual 8
+multihop networks Miscellaneousmultihop networks DOCUMENT AND TEXT PROCESSING 12
+multihop networks General 293
+multihop networks Document and Text Editing 2
+multihop networks Document management 2
+multihop networks Languages 9
+multihop networks Spellingmultihop networks Version control 38
+multihop networks Document Preparationmultihop networks Desktop publishingmultihop networks Format and notation 65
+multihop networks Hypertext/hypermediamultihop networks Index generation 13
+multihop networks Languages and systems 511
+multihop networks Markup languagesmultihop networks Multi/mixed media 12
+multihop networks Scripting languagesmultihop networks Standards 123
+multihop networks Index Generation 13
+multihop networks Electronic Publishingmultihop networks Document Capture 1
+multihop networks Document analysis 8
+multihop networks Optical character recognition 2
+multihop networks Scanning 1
+multihop networks Miscellaneousmultihop networks MISCELLANEOUSmultihop networks GENERAL 293
+multihop networks ADMINISTRATIVE DATA PROCESSING 209
+multihop networks Business 38
+multihop networks Education 4
+multihop networks Financialmultihop networks Government 4
+multihop networks Law 19
+multihop networks Manufacturing 3
+multihop networks Marketing 5
+multihop networks Military 29
+multihop networks PHYSICAL SCIENCES AND ENGINEERING 25
+multihop networks Aerospace 2
+multihop networks Archaeologymultihop networks Astronomymultihop networks Chemistrymultihop networks Earth and atmospheric sciences 1
+multihop networks Electronics 37
+multihop networks Engineering 28
+multihop networks Mathematics and statistics 105
+multihop networks Physics 164
+multihop networks LIFE AND MEDICAL SCIENCES 10
+multihop networks Biology and genetics 32
+multihop networks Health 10
+multihop networks Medical information systems 170
+multihop networks SOCIAL AND BEHAVIORAL SCIENCES 27
+multihop networks Economics 16
+multihop networks Psychologymultihop networks Sociology 1
+multihop networks ARTS AND HUMANITIES 35
+multihop networks Architecture 116
+multihop networks Fine artsmultihop networks Language translationmultihop networks Linguisticsmultihop networks Literature 130
+multihop networks Music 1
+multihop networks Performing arts 13
+multihop networks COMPUTER-AIDED ENGINEERING 48
+multihop networks Computer-aided design 196
+multihop networks Computer-aided manufacturing 11
+multihop networks COMPUTERS IN OTHER SYSTEMS 1394
+multihop networks Command and control 347
+multihop networks Consumer products 5
+multihop networks Industrial control 2
+multihop networks Military 29
+multihop networks Process control 76
+multihop networks Publishing 28
+multihop networks Real time 118
+multihop networks MISCELLANEOUSmultihop networks GENERAL 293
+multihop networks THE COMPUTER INDUSTRY 1554
+multihop networks Markets 5
+multihop networks Standards 123
+multihop networks Statistics 63
+multihop networks Suppliersmultihop networks HISTORY OF COMPUTING 333
+multihop networks Hardware 38
+multihop networks People 3
+multihop networks Software 25
+multihop networks Systems 395
+multihop networks Theory 102
+multihop networks COMPUTERS AND EDUCATION 540
+multihop networks General 293
+multihop networks Computer Uses in Education 410
+multihop networks Collaborative learning 2
+multihop networks Computer-assisted instruction 19
+multihop networks Computer-managed instruction 59
+multihop networks Distance learning 1
+multihop networks Computer and Information Science Education 47
+multihop networks Accreditationmultihop networks Computer science education 93
+multihop networks Curriculum 1
+multihop networks Information systems education 218
+multihop networks Literacymultihop networks Self-assessment 1
+multihop networks Miscellaneousmultihop networks Accreditationmultihop networks Computer 328
+multihop networks COMPUTERS AND SOCIETY 425
+multihop networks General 293
+multihop networks Public Policy Issues 24
+multihop networks Computer-related health issues 16
+multihop networks Ethicsmultihop networks Human safetymultihop networks Intellectual property rights 5
+multihop networks Privacy 9
+multihop networks Regulation 13
+multihop networks Transborder data flow 59
+multihop networks Social Issues 1
+multihop networks Assistive technologies for persons with disabilities 1
+multihop networks Employment 1
+multihop networks Handicapped persons/special needs 1
+multihop networks Organizational Impactsmultihop networks Automation 8
+multihop networks Computer-supported collaborative work 119
+multihop networks Employment 1
+multihop networks Reengineeringmultihop networks Electronic Commercemultihop networks Electronic data interchange 14
+multihop networks Intellectual propertymultihop networks Payment schemes 1
+multihop networks Security 46
+multihop networks Miscellaneousmultihop networks LEGAL ASPECTS OF COMPUTING 19
+multihop networks General 293
+multihop networks Hardware/Software Protection 18
+multihop networks Copyrights 1
+multihop networks Licensing 5
+multihop networks Patentsmultihop networks Proprietary rightsmultihop networks Trade secretsmultihop networks Governmental Issuesmultihop networks Censorshipmultihop networks Regulation 13
+multihop networks Taxationmultihop networks Miscellaneousmultihop networks Contracts 6
+multihop networks Hardware 38
+multihop networks MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 976
+multihop networks General 293
+multihop networks Economics 16
+multihop networks Project and People Management 21
+multihop networks Life cyclemultihop networks Management techniques 31
+multihop networks Staffingmultihop networks Strategic information systems planning 6
+multihop networks Systems analysis and design 1180
+multihop networks Systems development 121
+multihop networks Training 8
+multihop networks Installation Management 1
+multihop networks Benchmarks 5
+multihop networks Computer selection 78
+multihop networks Pricing and resource allocation 101
+multihop networks Software Management 6
+multihop networks Software development 16
+multihop networks Software maintenance 1
+multihop networks Software process 7
+multihop networks Software selection 3
+multihop networks System Management 39
+multihop networks Centralization/decentralization 4
+multihop networks Management auditmultihop networks Quality assurance 3
+multihop networks Security and Protection 1334
+multihop networks Authentication 14
+multihop networks Insurancemultihop networks Invasive softwaremultihop networks Physical security 8
+multihop networks Unauthorized accessmultihop networks Miscellaneousmultihop networks Insurancemultihop networks Security 46
+multihop networks THE COMPUTING PROFESSION 329
+multihop networks General 293
+multihop networks Occupations 7
+multihop networks Organizations 55
+multihop networks Testing, Certification, and Licensingmultihop networks Professional Ethicsmultihop networks Codes of ethics 155
+multihop networks Codes of good practice 142
+multihop networks Ethical dilemmasmultihop networks Miscellaneousmultihop networks Codes 154
+multihop networks Ethicsmultihop networks PERSONAL COMPUTING 8
+multihop networks Games 16
+multihop networks General 293
+multihop networks Games 16
+multihop networks Application Packagesmultihop networks Data communications 204
+multihop networks Database processing 1
+multihop networks Freeware/sharewaremultihop networks Graphics 6
+multihop networks Spreadsheetsmultihop networks Word processing 5
+multihop networks Hardware 38
+multihop networks Management/Maintenance 5
+multihop networks Miscellaneousmultihop networks MISCELLANEOUSerror estimating codes GENERAL 4
+error estimating codes Biographies autobiographieserror estimating codes Conference proceedings 2
+error estimating codes INTRODUCTORY AND SURVEYerror estimating codes REFERENCE 1
+error estimating codes MISCELLANEOUSerror estimating codes GENERAL 4
+error estimating codes CONTROL STRUCTURES AND MICROPROGRAMMINGerror estimating codes General 4
+error estimating codes Control Design Styleserror estimating codes Hardwired controlerror estimating codes Writable control storeerror estimating codes Automatic synthesis 1
+error estimating codes Formal models 2
+error estimating codes Simulation 1
+error estimating codes Control Structure Reliability, Testing, and Fault-Toleranceerror estimating codes Diagnosticserror estimating codes Error-checking 11
+error estimating codes Redundant design 7
+error estimating codes Test generation 6
+error estimating codes Firmware engineeringerror estimating codes Languages and compilerserror estimating codes Optimization 4
+error estimating codes Verificationerror estimating codes Direct data manipulation 1
+error estimating codes Instruction set interpretationerror estimating codes Peripheral controlerror estimating codes Special-purpose 2
+error estimating codes Miscellaneouserror estimating codes General 4
+error estimating codes Design Styles 5
+error estimating codes Calculatorerror estimating codes Parallelerror estimating codes Pipelineerror estimating codes Performance Analysis and Design Aids 1
+error estimating codes Simulation 1
+error estimating codes Verificationerror estimating codes Worst-case analysiserror estimating codes Reliability, Testing, and Fault-Toleranceerror estimating codes Diagnosticserror estimating codes Error-checking 11
+error estimating codes Redundant design 7
+error estimating codes Test generation 6
+error estimating codes High-Speed Arithmeticerror estimating codes Algorithms 8
+error estimating codes Cost/performance 4
+error estimating codes Miscellaneouserror estimating codes MEMORY STRUCTURES 1
+error estimating codes General 4
+error estimating codes Semiconductor Memorieserror estimating codes Dynamic memory 1
+error estimating codes Read-only memoryerror estimating codes Static memory 1
+error estimating codes Design Styles 5
+error estimating codes Associative memories 1
+error estimating codes Cache memorieserror estimating codes Interleaved memorieserror estimating codes Mass storage 2
+error estimating codes Primary memoryerror estimating codes Sequential-access memoryerror estimating codes Shared memoryerror estimating codes Virtual memory 1
+error estimating codes Performance Analysis and Design Aids 1
+error estimating codes Formal models 2
+error estimating codes Simulation 1
+error estimating codes Worst-case analysiserror estimating codes Reliability, Testing, and Fault-Toleranceerror estimating codes Diagnosticserror estimating codes Error-checking 11
+error estimating codes Redundant design 7
+error estimating codes Test generation 6
+error estimating codes Miscellaneouserror estimating codes INPUT/OUTPUT AND DATA COMMUNICATIONS 1
+error estimating codes General 4
+error estimating codes Data Communications Devices 2
+error estimating codes Processorserror estimating codes Receivers 5
+error estimating codes Transmitterserror estimating codes Input/Output Devices 1
+error estimating codes Channels and controllers 3
+error estimating codes Image display 1
+error estimating codes Voiceerror estimating codes Interconnectionserror estimating codes Asynchronous/synchronous operationerror estimating codes Fiber opticserror estimating codes Interfaceserror estimating codes Parallel I/Oerror estimating codes Physical structures 2
+error estimating codes Topologyerror estimating codes Performance Analysis and Design Aids 1
+error estimating codes Formal models 2
+error estimating codes Simulation 1
+error estimating codes Verificationerror estimating codes Worst-case analysiserror estimating codes Reliability, Testing, and Fault-Toleranceerror estimating codes Built-in tests 1
+error estimating codes Diagnosticserror estimating codes Error-checking 11
+error estimating codes Hardware reliability 1
+error estimating codes Redundant design 7
+error estimating codes Test generation 6
+error estimating codes Miscellaneouserror estimating codes REGISTER-TRANSFER-LEVEL IMPLEMENTATION 1
+error estimating codes General 4
+error estimating codes Design 5
+error estimating codes Arithmetic and logic unitserror estimating codes Control design 5
+error estimating codes Data-path design 4
+error estimating codes Memory design 5
+error estimating codes Styleserror estimating codes Design Aids 5
+error estimating codes Automatic synthesis 1
+error estimating codes Hardware description languageserror estimating codes Optimization 4
+error estimating codes Simulation 1
+error estimating codes Verificationerror estimating codes Reliability and Testing 1
+error estimating codes Built-in tests 1
+error estimating codes Error-checking 11
+error estimating codes Redundant design 7
+error estimating codes Test generation 6
+error estimating codes Testabilityerror estimating codes Miscellaneouserror estimating codes LOGIC DESIGN 5
+error estimating codes General 4
+error estimating codes Design Styles 5
+error estimating codes Combinational logic 1
+error estimating codes Logic arrayserror estimating codes Parallel circuitserror estimating codes Sequential circuitserror estimating codes Reliability and Testing 1
+error estimating codes Built-in tests 1
+error estimating codes Error-checking 11
+error estimating codes Redundant design 7
+error estimating codes Test generation 6
+error estimating codes Testabilityerror estimating codes Design Aids 5
+error estimating codes Automatic synthesis 1
+error estimating codes Hardware description languageserror estimating codes Optimization 4
+error estimating codes Simulation 1
+error estimating codes Switching theory 1
+error estimating codes Verificationerror estimating codes Miscellaneouserror estimating codes INTEGRATED CIRCUITS 1
+error estimating codes General 4
+error estimating codes Types and Design Styleserror estimating codes Advanced technologies 6
+error estimating codes Algorithms implemented in hardware 4
+error estimating codes Gate arrayserror estimating codes Input/output circuitserror estimating codes Memory technologies 5
+error estimating codes Microprocessors and microcomputerserror estimating codes Standard cells 1
+error estimating codes VLSIerror estimating codes Design Aids 5
+error estimating codes Graphicserror estimating codes Layouterror estimating codes Placement and routing 1
+error estimating codes Simulation 1
+error estimating codes Verificationerror estimating codes Reliability and Testing 1
+error estimating codes Built-in tests 1
+error estimating codes Error-checking 11
+error estimating codes Redundant design 7
+error estimating codes Test generation 6
+error estimating codes Testabilityerror estimating codes Miscellaneouserror estimating codes PERFORMANCE AND RELIABILITY 8
+error estimating codes General 4
+error estimating codes Reliability, Testing, and Fault-Toleranceerror estimating codes Performance Analysis and Design Aids 1
+error estimating codes Miscellaneouserror estimating codes MISCELLANEOUSerror estimating codes Design 5
+error estimating codes GENERAL 4
+error estimating codes Hardware/software interfaceserror estimating codes Instruction set design 1
+error estimating codes Modeling of computer architectureerror estimating codes System architectures 4
+error estimating codes Systems specification methodology 1
+error estimating codes PROCESSOR ARCHITECTURESerror estimating codes General 4
+error estimating codes Single Data Stream Architectureserror estimating codes Pipeline processorserror estimating codes RISC/CISC, VLIW architectureserror estimating codes Von Neumann architectureserror estimating codes Multiple Data Stream Architectures 1
+error estimating codes Array and vector processorserror estimating codes Associative processors 1
+error estimating codes Connection machines 1
+error estimating codes Interconnection architectureserror estimating codes Multiple-instruction-stream, multiple-data-stream processors 1
+error estimating codes Parallel processorserror estimating codes Pipeline processorserror estimating codes Single-instruction-stream, multiple-data-stream processorserror estimating codes Other Architecture Styleserror estimating codes Adaptable architectures 7
+error estimating codes Analog computers 8
+error estimating codes Capability architectureserror estimating codes Cellular architectureerror estimating codes Data-flow architectureserror estimating codes Heterogeneouserror estimating codes High-level language architectureserror estimating codes Neural nets 1
+error estimating codes Pipeline processorserror estimating codes Stack-oriented processorserror estimating codes Parallel Architectureserror estimating codes Distributed architectures 2
+error estimating codes Mobile processors 1
+error estimating codes Miscellaneouserror estimating codes Analogerror estimating codes Hybriderror estimating codes COMPUTER-COMMUNICATION NETWORKS 5
+error estimating codes General 4
+error estimating codes Data communications 6
+error estimating codes Open Systems Interconnection reference modelerror estimating codes Security and protection 1
+error estimating codes Network Architecture and Design 4
+error estimating codes Asynchronous Transfer Mode 1
+error estimating codes Centralized networks 7
+error estimating codes Circuit-switching networkserror estimating codes Distributed networks 9
+error estimating codes Frame relay networks 1
+error estimating codes ISDNerror estimating codes Network communications 9
+error estimating codes Network topology 7
+error estimating codes Packet-switching networks 7
+error estimating codes Store and forward networks 1
+error estimating codes Wireless communication 9
+error estimating codes Network Protocols 7
+error estimating codes Applications 8
+error estimating codes Protocol architecture 1
+error estimating codes Protocol verification 1
+error estimating codes Routing protocols 1
+error estimating codes Network Operations 7
+error estimating codes Network management 7
+error estimating codes Network monitoring 7
+error estimating codes Public networks 7
+error estimating codes Distributed Systems 6
+error estimating codes Client/servererror estimating codes Distributed applications 8
+error estimating codes Distributed databases 2
+error estimating codes Network operating systems 4
+error estimating codes Local and Wide-Area Networks 1
+error estimating codes Access schemes 3
+error estimating codes Buseserror estimating codes Etherneterror estimating codes High-speed 1
+error estimating codes Internet 1
+error estimating codes Token ringserror estimating codes Internetworkingerror estimating codes Routers 1
+error estimating codes Standards 1
+error estimating codes Miscellaneouserror estimating codes SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 1
+error estimating codes Microprocessor/microcomputer applicationserror estimating codes Process control systems 1
+error estimating codes Real-time and embedded systems 4
+error estimating codes Signal processing systems 1
+error estimating codes Smartcardserror estimating codes PERFORMANCE OF SYSTEMS 15
+error estimating codes Design studies 7
+error estimating codes Fault tolerance 1
+error estimating codes Measurement techniques 5
+error estimating codes Modeling techniques 13
+error estimating codes Performance attributes 4
+error estimating codes Reliability, availability, and serviceability 1
+error estimating codes COMPUTER SYSTEM IMPLEMENTATION 5
+error estimating codes General 4
+error estimating codes Large and Medium 1
+error estimating codes Supererror estimating codes Minicomputerserror estimating codes Microcomputerserror estimating codes Microprocessorserror estimating codes Personal computers 6
+error estimating codes Portable devices 1
+error estimating codes Workstationserror estimating codes VLSI Systems 4
+error estimating codes Serverserror estimating codes Miscellaneouserror estimating codes MISCELLANEOUSerror estimating codes GENERAL 4
+error estimating codes PROGRAMMING TECHNIQUES 3
+error estimating codes General 4
+error estimating codes Applicative 8
+error estimating codes Automatic Programming 1
+error estimating codes Concurrent Programmingerror estimating codes Distributed programming 2
+error estimating codes Parallel programmingerror estimating codes Sequential Programmingerror estimating codes Object-oriented Programmingerror estimating codes Logic Programmingerror estimating codes Visual Programming 1
+error estimating codes Miscellaneouserror estimating codes SOFTWARE ENGINEERING 1
+error estimating codes General 4
+error estimating codes Protection mechanisms 2
+error estimating codes Standards 1
+error estimating codes Requirements/Specifications 2
+error estimating codes Elicitation methods 2
+error estimating codes Languageserror estimating codes Methodologieserror estimating codes Tools 3
+error estimating codes Design Tools and Techniques 5
+error estimating codes Computer-aided software engineeringerror estimating codes Decision tables 1
+error estimating codes Evolutionary prototypingerror estimating codes Flow charts 1
+error estimating codes Modules and interfaces 1
+error estimating codes Object-oriented design methodserror estimating codes Petri netserror estimating codes Programmer workbencherror estimating codes Software librarieserror estimating codes State diagramserror estimating codes Structured programming 1
+error estimating codes Top-down programmingerror estimating codes User interfaceserror estimating codes Coding Tools and Techniques 5
+error estimating codes Object-oriented programmingerror estimating codes Pretty printerserror estimating codes Program editorserror estimating codes Reentrant code 10
+error estimating codes Standards 1
+error estimating codes Structured programming 1
+error estimating codes Top-down programmingerror estimating codes Software/Program Verificationerror estimating codes Assertion checkers 3
+error estimating codes Class invariantserror estimating codes Correctness proofs 4
+error estimating codes Formal methods 3
+error estimating codes Model checking 5
+error estimating codes Programming by contracterror estimating codes Reliabilityerror estimating codes Statistical methods 3
+error estimating codes Validationerror estimating codes Testing and Debugging 2
+error estimating codes Code inspections and walk-throughserror estimating codes Debugging aidserror estimating codes Diagnosticserror estimating codes Distributed debugging 2
+error estimating codes Dumpserror estimating codes Error handling and recovery 3
+error estimating codes Monitorserror estimating codes Symbolic execution 1
+error estimating codes Testing tools 4
+error estimating codes Tracingerror estimating codes Programming Environments 1
+error estimating codes Graphical environments 1
+error estimating codes Integrated environments 2
+error estimating codes Interactive environments 1
+error estimating codes Programmer workbencherror estimating codes Distribution, Maintenance, and Enhancementerror estimating codes Corrections 4
+error estimating codes Documentationerror estimating codes Enhancement 1
+error estimating codes Extensibility 3
+error estimating codes Portabilityerror estimating codes Restructuring, reverse engineering, and reengineeringerror estimating codes Version controlerror estimating codes Metricserror estimating codes Complexity measures 3
+error estimating codes Performance measures 10
+error estimating codes Process metrics 1
+error estimating codes Product metricserror estimating codes Software science 3
+error estimating codes Managementerror estimating codes Copyrightserror estimating codes Cost estimation 12
+error estimating codes Life cycleerror estimating codes Productivityerror estimating codes Programming teamserror estimating codes Software configuration managementerror estimating codes Software process modelserror estimating codes Software quality assuranceerror estimating codes Time estimation 14
+error estimating codes Design 5
+error estimating codes Methodologieserror estimating codes Representationerror estimating codes Software Architectureserror estimating codes Data abstraction 2
+error estimating codes Domain-specific architectureserror estimating codes Information hiding 8
+error estimating codes Languageserror estimating codes Patternserror estimating codes Interoperabilityerror estimating codes Data mapping 3
+error estimating codes Distributed objects 2
+error estimating codes Interface definition languageserror estimating codes Reusable Softwareerror estimating codes Domain engineeringerror estimating codes Reusable librarieserror estimating codes Reuse models 1
+error estimating codes Miscellaneouserror estimating codes Rapiderror estimating codes Reusableerror estimating codes PROGRAMMING LANGUAGESerror estimating codes General 4
+error estimating codes Standards 1
+error estimating codes Formal Definitions and Theoryerror estimating codes Semanticserror estimating codes Syntaxerror estimating codes Language Classificationserror estimating codes Applicative 8
+error estimating codes Concurrent, distributed, and parallel languageserror estimating codes Constraint and logic languageserror estimating codes Data-flow languageserror estimating codes Design languages 5
+error estimating codes Extensible languages 3
+error estimating codes Microprogramming languageserror estimating codes Multiparadigm languageserror estimating codes Nondeterministic languageserror estimating codes Nonprocedural languageserror estimating codes Object-oriented languageserror estimating codes Specialized application languages 2
+error estimating codes Very high-level languageserror estimating codes Language Constructs and Featureserror estimating codes Abstract data typeserror estimating codes Classes and objectserror estimating codes Concurrent programming structureserror estimating codes Constraintserror estimating codes Control structures 1
+error estimating codes Coroutineserror estimating codes Data types and structures 1
+error estimating codes Dynamic storage managementerror estimating codes Frameworks 1
+error estimating codes Inheritanceerror estimating codes Input/output 1
+error estimating codes Modules, packages 1
+error estimating codes Patternserror estimating codes Polymorphismerror estimating codes Procedures, functions, and subroutineserror estimating codes Recursionerror estimating codes Processorserror estimating codes Code generation 10
+error estimating codes Compilerserror estimating codes Debuggerserror estimating codes Incremental compilers 1
+error estimating codes Interpreterserror estimating codes Memory managementerror estimating codes Optimization 4
+error estimating codes Parsingerror estimating codes Preprocessorserror estimating codes Retargetable compilerserror estimating codes Run-time environments 2
+error estimating codes Translator writing systems and compiler generatorserror estimating codes Miscellaneouserror estimating codes OPERATING SYSTEMS 4
+error estimating codes General 4
+error estimating codes Process Management 2
+error estimating codes Concurrencyerror estimating codes Deadlockserror estimating codes Multiprocessing/multiprogramming/multitaskingerror estimating codes Mutual exclusionerror estimating codes Schedulingerror estimating codes Synchronizationerror estimating codes Threadserror estimating codes Storage Management 1
+error estimating codes Allocation/deallocation strategieserror estimating codes Distributed memories 2
+error estimating codes Garbage collection 1
+error estimating codes Main memory 1
+error estimating codes Secondary storage 1
+error estimating codes Segmentationerror estimating codes Storage hierarchies 1
+error estimating codes Swappingerror estimating codes Virtual memory 1
+error estimating codes File Systems Managementerror estimating codes Access methods 3
+error estimating codes Directory structures 1
+error estimating codes Distributed file systemserror estimating codes File organizationerror estimating codes Maintenanceerror estimating codes Communications Management 5
+error estimating codes Bufferingerror estimating codes Input/output 1
+error estimating codes Message sending 1
+error estimating codes Network communication 9
+error estimating codes Terminal managementerror estimating codes Reliabilityerror estimating codes Backup procedures 1
+error estimating codes Checkpoint/restarterror estimating codes Fault-tolerance 1
+error estimating codes Verificationerror estimating codes Security and Protection 1
+error estimating codes Access controls 1
+error estimating codes Authenticationerror estimating codes Cryptographic controlserror estimating codes Information flow controlserror estimating codes Invasive softwareerror estimating codes Security kernels 1
+error estimating codes Verificationerror estimating codes Organization and Design 5
+error estimating codes Batch processing systems 1
+error estimating codes Distributed systems 6
+error estimating codes Hierarchical design 5
+error estimating codes Interactive systems 4
+error estimating codes Real-time systems and embedded systems 4
+error estimating codes Performance 4
+error estimating codes Measurements 2
+error estimating codes Modeling and prediction 5
+error estimating codes Monitorserror estimating codes Operational analysis 4
+error estimating codes Queueing theory 1
+error estimating codes Simulation 1
+error estimating codes Stochastic analysis 4
+error estimating codes Command and control languageserror estimating codes Linkerserror estimating codes Loaderserror estimating codes Window managerserror estimating codes Miscellaneouserror estimating codes MISCELLANEOUSerror estimating codes Softwareerror estimating codes GENERAL 4
+error estimating codes DATA STRUCTURES 3
+error estimating codes Arrayserror estimating codes Distributed data structures 1
+error estimating codes Graphs and networks 8
+error estimating codes Lists, stacks, and queueserror estimating codes Recordserror estimating codes Tables 1
+error estimating codes Treeserror estimating codes DATA STORAGE REPRESENTATIONS 1
+error estimating codes Composite structures 1
+error estimating codes Contiguous representationserror estimating codes Hash-table representationserror estimating codes Linked representations 2
+error estimating codes Object representationerror estimating codes Primitive data itemserror estimating codes DATA ENCRYPTION 2
+error estimating codes Code breaking 10
+error estimating codes Data encryption standard 1
+error estimating codes Public key cryptosystemserror estimating codes Standards 1
+error estimating codes CODING AND INFORMATION THEORY 8
+error estimating codes Data compaction and compressionerror estimating codes Error control codes 10
+error estimating codes Formal models of communication 2
+error estimating codes Nonsecret encoding schemes 1
+error estimating codes FILESerror estimating codes Backup/recovery 2
+error estimating codes Optimization 4
+error estimating codes Organization/structure 1
+error estimating codes Sorting/searchingerror estimating codes MISCELLANEOUSerror estimating codes GENERAL 4
+error estimating codes COMPUTATION BY ABSTRACT DEVICES 1
+error estimating codes General 4
+error estimating codes Models of Computation 13
+error estimating codes Automataerror estimating codes Bounded-action devices 1
+error estimating codes Computability theory 8
+error estimating codes Relations between models 2
+error estimating codes Self-modifying machineserror estimating codes Unbounded-action deviceserror estimating codes Modes of Computation 6
+error estimating codes Alternation and nondeterminism 1
+error estimating codes Interactive and reactive computation 1
+error estimating codes Online computation 6
+error estimating codes Parallelism and concurrencyerror estimating codes Probabilistic computation 6
+error estimating codes Relations among modeserror estimating codes Relativized computation 6
+error estimating codes Complexity Measures and Classeserror estimating codes Complexity hierarchies 1
+error estimating codes Machine-independent complexityerror estimating codes Reducibility and completeness 1
+error estimating codes Relations among complexity classeserror estimating codes Relations among complexity measureserror estimating codes Miscellaneouserror estimating codes ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 1
+error estimating codes General 4
+error estimating codes Numerical Algorithms and Problems 9
+error estimating codes Computation of transforms 6
+error estimating codes Computations in finite fields 2
+error estimating codes Computations on matrices 4
+error estimating codes Computations on polynomials 6
+error estimating codes Number-theoretic computations 3
+error estimating codes Nonnumerical Algorithms and Problems 3
+error estimating codes Computations on discrete structures 1
+error estimating codes Geometrical problems and computations 2
+error estimating codes Pattern matchingerror estimating codes Routing and layout 1
+error estimating codes Sequencing and scheduling 1
+error estimating codes Sorting and searchingerror estimating codes Tradeoffs between Complexity Measureserror estimating codes Miscellaneouserror estimating codes LOGICS AND MEANINGS OF PROGRAMSerror estimating codes General 4
+error estimating codes Assertions 3
+error estimating codes Invariantserror estimating codes Logics of programserror estimating codes Mechanical verification 2
+error estimating codes Pre- and post-conditions 1
+error estimating codes Specification techniques 3
+error estimating codes Semantics of Programming Languageserror estimating codes Algebraic approaches to semanticserror estimating codes Denotational semantics 1
+error estimating codes Operational semanticserror estimating codes Partial evaluation 7
+error estimating codes Process models 3
+error estimating codes Program analysis 4
+error estimating codes Studies of Program Constructserror estimating codes Control primitiveserror estimating codes Functional constructs 3
+error estimating codes Object-oriented constructserror estimating codes Program and recursion schemeserror estimating codes Type structure 3
+error estimating codes Miscellaneouserror estimating codes MATHEMATICAL LOGIC AND FORMAL LANGUAGESerror estimating codes General 4
+error estimating codes Mathematical Logicerror estimating codes Computability theory 8
+error estimating codes Computational logic 6
+error estimating codes Lambda calculus and related systemserror estimating codes Logic and constraint programmingerror estimating codes Mechanical theorem provingerror estimating codes Modal logicerror estimating codes Model theory 2
+error estimating codes Proof theory 2
+error estimating codes Recursive function theoryerror estimating codes Set theory 2
+error estimating codes Temporal logicerror estimating codes Grammars and Other Rewriting Systemserror estimating codes Decision problems 3
+error estimating codes Grammar types 1
+error estimating codes Parallel rewriting systemserror estimating codes Parsingerror estimating codes Thue systems 4
+error estimating codes Formal Languages 1
+error estimating codes Algebraic language theoryerror estimating codes Classes defined by grammars or automataerror estimating codes Decision problems 3
+error estimating codes Operations on languageserror estimating codes Miscellaneouserror estimating codes MISCELLANEOUSerror estimating codes GENERAL 4
+error estimating codes NUMERICAL ANALYSIS 16
+error estimating codes General 4
+error estimating codes Computer arithmetic 7
+error estimating codes Conditioning 1
+error estimating codes Error analysis 21
+error estimating codes Interval arithmetic 1
+error estimating codes Multiple precision arithmeticerror estimating codes Numerical algorithms 16
+error estimating codes Parallel algorithms 8
+error estimating codes Stability 1
+error estimating codes Interpolationerror estimating codes Difference formulas 1
+error estimating codes Extrapolationerror estimating codes Interpolation formulaserror estimating codes Smoothingerror estimating codes Approximation 1
+error estimating codes Chebyshev approximation and theoryerror estimating codes Elementary function approximationerror estimating codes Fast Fourier transformserror estimating codes Least squares approximationerror estimating codes Linear approximation 1
+error estimating codes Minimax approximation and algorithmserror estimating codes Nonlinear approximation 2
+error estimating codes Rational approximation 1
+error estimating codes Special function approximations 1
+error estimating codes Spline and piecewise polynomial approximationerror estimating codes Wavelets and fractalserror estimating codes Numerical Linear Algebraerror estimating codes Conditioning 1
+error estimating codes Determinants 1
+error estimating codes Eigenvalues and eigenvectorserror estimating codes Error analysis 21
+error estimating codes Linear systems 4
+error estimating codes Matrix inversionerror estimating codes Pseudoinverseserror estimating codes Singular value decompositionerror estimating codes Sparse, structured, and very large systemserror estimating codes Quadrature and Numerical Differentiationerror estimating codes Automatic differentiation 2
+error estimating codes Error analysis 21
+error estimating codes Finite difference methods 1
+error estimating codes Gaussian quadratureerror estimating codes Iterative methods 5
+error estimating codes Multidimensionalerror estimating codes Roots of Nonlinear Equationserror estimating codes Continuationerror estimating codes Convergenceerror estimating codes Error analysis 21
+error estimating codes Iterative methods 5
+error estimating codes Polynomials, methods for 3
+error estimating codes Systems of equations 8
+error estimating codes Optimization 4
+error estimating codes Constrained optimization 4
+error estimating codes Convex programmingerror estimating codes Global optimization 4
+error estimating codes Gradient methods 2
+error estimating codes Integer programmingerror estimating codes Least squares methods 1
+error estimating codes Linear programmingerror estimating codes Nonlinear programmingerror estimating codes Quadratic programming methodserror estimating codes Simulated annealing 1
+error estimating codes Stochastic programmingerror estimating codes Unconstrained optimization 4
+error estimating codes Ordinary Differential Equationserror estimating codes Boundary value problems 1
+error estimating codes Chaotic systems 4
+error estimating codes Convergence and stability 3
+error estimating codes Differential-algebraic equationserror estimating codes Error analysis 21
+error estimating codes Finite difference methods 1
+error estimating codes Initial value problems 2
+error estimating codes Multistep and multivalue methodserror estimating codes One-step 19
+error estimating codes Stiff equations 2
+error estimating codes Partial Differential Equationserror estimating codes Domain decomposition methodserror estimating codes Elliptic equations 3
+error estimating codes Finite difference methods 1
+error estimating codes Finite element methods 3
+error estimating codes Finite volume methods 1
+error estimating codes Hyperbolic equations 1
+error estimating codes Inverse problems 3
+error estimating codes Iterative solution techniques 5
+error estimating codes Method of lines 7
+error estimating codes Multigrid and multilevel methodserror estimating codes Parabolic equations 1
+error estimating codes Spectral methods 3
+error estimating codes Integral Equations 2
+error estimating codes Delay equations 2
+error estimating codes Fredholm equations 1
+error estimating codes Integro-differential equationserror estimating codes Volterra equations 1
+error estimating codes Applications 8
+error estimating codes Miscellaneouserror estimating codes DISCRETE MATHEMATICSerror estimating codes General 4
+error estimating codes Combinatoricserror estimating codes Combinatorial algorithms 8
+error estimating codes Counting problems 3
+error estimating codes Generating functions 6
+error estimating codes Permutations and combinations 1
+error estimating codes Recurrences and difference equationserror estimating codes Graph Theory 2
+error estimating codes Graph algorithms 10
+error estimating codes Graph labelingerror estimating codes Hypergraphserror estimating codes Network problems 9
+error estimating codes Path and circuit problemserror estimating codes Treeserror estimating codes Applications 8
+error estimating codes Miscellaneouserror estimating codes PROBABILITY AND STATISTICS 3
+error estimating codes Contingency table analysiserror estimating codes Correlation and regression analysiserror estimating codes Distribution functions 3
+error estimating codes Experimental design 6
+error estimating codes Markov processes 1
+error estimating codes Multivariate statistics 2
+error estimating codes Nonparametric statistics 2
+error estimating codes Probabilistic algorithms 8
+error estimating codes Queueing theory 1
+error estimating codes Random number generation 4
+error estimating codes Reliability and life testingerror estimating codes Renewal theory 1
+error estimating codes Robust regression 2
+error estimating codes Statistical computing 7
+error estimating codes Statistical software 2
+error estimating codes Stochastic processes 1
+error estimating codes Survival analysis 4
+error estimating codes Time series analysis 1
+error estimating codes MATHEMATICAL SOFTWAREerror estimating codes Algorithm design and analysis 8
+error estimating codes Certification and testing 1
+error estimating codes Documentationerror estimating codes Efficiency 4
+error estimating codes Parallel and vector implementationserror estimating codes Portabilityerror estimating codes Reliability and robustness 4
+error estimating codes User interfaceserror estimating codes Verificationerror estimating codes MISCELLANEOUSerror estimating codes Queueingerror estimating codes GENERAL 4
+error estimating codes MODELS AND PRINCIPLES 3
+error estimating codes General 4
+error estimating codes Systems and Information Theory 5
+error estimating codes General systems theory 1
+error estimating codes Information theory 8
+error estimating codes Value of information 8
+error estimating codes User/Machine Systemserror estimating codes Human factors 2
+error estimating codes Human information processing 1
+error estimating codes Software psychologyerror estimating codes Miscellaneouserror estimating codes DATABASE MANAGEMENTerror estimating codes General 4
+error estimating codes Security, integrity, and protectionerror estimating codes Logical Design 5
+error estimating codes Data models 3
+error estimating codes Normal formserror estimating codes Schema and subschemaerror estimating codes Physical Design 5
+error estimating codes Access methods 3
+error estimating codes Deadlock avoidance 2
+error estimating codes Recovery and restart 2
+error estimating codes Languageserror estimating codes Data description languageserror estimating codes Data manipulation languageserror estimating codes Databaseerror estimating codes Query languages 1
+error estimating codes Report writers 1
+error estimating codes Systems 4
+error estimating codes Concurrencyerror estimating codes Distributed databases 2
+error estimating codes Multimedia databases 1
+error estimating codes Object-oriented databaseserror estimating codes Parallel databaseserror estimating codes Query processing 1
+error estimating codes Relational databases 1
+error estimating codes Rule-based databaseserror estimating codes Textual databaseserror estimating codes Transaction processing 2
+error estimating codes Heterogeneous Databaseserror estimating codes Data translation 2
+error estimating codes Program translationerror estimating codes Database Machineserror estimating codes Database Administrationerror estimating codes Data dictionary/directoryerror estimating codes Data warehouse and repositoryerror estimating codes Logging and recovery 3
+error estimating codes Security, integrity, and protectionerror estimating codes Database Applications 8
+error estimating codes Data mining 2
+error estimating codes Image databases 1
+error estimating codes Scientific databaseserror estimating codes Spatial databases and GISerror estimating codes Statistical databases 2
+error estimating codes Miscellaneouserror estimating codes INFORMATION STORAGE AND RETRIEVAL 1
+error estimating codes General 4
+error estimating codes Content Analysis and Indexingerror estimating codes Abstracting methods 2
+error estimating codes Dictionarieserror estimating codes Indexing methods 2
+error estimating codes Linguistic processing 1
+error estimating codes Thesauruseserror estimating codes Information Storage 8
+error estimating codes File organizationerror estimating codes Record classificationerror estimating codes Information Search and Retrievalerror estimating codes Clusteringerror estimating codes Information filtering 8
+error estimating codes Query formulation 1
+error estimating codes Relevance feedback 1
+error estimating codes Retrieval models 2
+error estimating codes Search process 1
+error estimating codes Selection process 3
+error estimating codes Systems and Software 4
+error estimating codes Current awareness systemserror estimating codes Distributed systems 6
+error estimating codes Information networks 8
+error estimating codes Performance evaluation 12
+error estimating codes Question-answeringerror estimating codes Online Information Services 1
+error estimating codes Commercial services 1
+error estimating codes Data sharing 2
+error estimating codes Web-based services 1
+error estimating codes Library Automationerror estimating codes Large text archiveserror estimating codes Digital Librarieserror estimating codes Collection 1
+error estimating codes Disseminationerror estimating codes Standards 1
+error estimating codes Systems issues 4
+error estimating codes User issueserror estimating codes Miscellaneouserror estimating codes INFORMATION SYSTEMS APPLICATIONS 8
+error estimating codes General 4
+error estimating codes Office Automationerror estimating codes Desktop publishingerror estimating codes Equipmenterror estimating codes Groupwareerror estimating codes Spreadsheetserror estimating codes Time management 6
+error estimating codes Word processing 1
+error estimating codes Workflow managementerror estimating codes Types of Systems 6
+error estimating codes Decision support 4
+error estimating codes Logisticserror estimating codes Communications Applications 10
+error estimating codes Bulletin boardserror estimating codes Computer conferencing, teleconferencing, and videoconferencingerror estimating codes Electronic mail 1
+error estimating codes Information browsers 8
+error estimating codes Videotexerror estimating codes Miscellaneouserror estimating codes INFORMATION INTERFACES AND PRESENTATION 2
+error estimating codes General 4
+error estimating codes Multimedia Information Systems 4
+error estimating codes Animationserror estimating codes Artificial, augmented, and virtual realitieserror estimating codes Audio input/outputerror estimating codes Evaluation/methodology 4
+error estimating codes Video 5
+error estimating codes User Interfaceserror estimating codes Auditoryerror estimating codes Benchmarkingerror estimating codes Ergonomicserror estimating codes Evaluation/methodology 4
+error estimating codes Graphical user interfaceserror estimating codes Haptic I/Oerror estimating codes Input devices and strategieserror estimating codes Interaction styles 1
+error estimating codes Natural language 1
+error estimating codes Prototypingerror estimating codes Screen design 5
+error estimating codes Standardization 1
+error estimating codes Style guideserror estimating codes Theory and methods 14
+error estimating codes Training, help, and documentation 1
+error estimating codes User-centered designerror estimating codes User interface management systemserror estimating codes Voice I/Oerror estimating codes Windowing systems 5
+error estimating codes Group and Organization Interfaceserror estimating codes Asynchronous interaction 1
+error estimating codes Collaborative computing 6
+error estimating codes Computer-supported cooperative work 1
+error estimating codes Evaluation/methodology 4
+error estimating codes Organizational design 5
+error estimating codes Synchronous interaction 1
+error estimating codes Theory and models 7
+error estimating codes Web-based interaction 1
+error estimating codes Hypertext/Hypermediaerror estimating codes Architectureserror estimating codes Navigationerror estimating codes Theory 1
+error estimating codes User issueserror estimating codes Sound and Music Computingerror estimating codes Methodologies and techniques 5
+error estimating codes Modeling 1
+error estimating codes Systems 4
+error estimating codes Miscellaneouserror estimating codes MISCELLANEOUSerror estimating codes GENERAL 4
+error estimating codes SYMBOLIC AND ALGEBRAIC MANIPULATIONerror estimating codes General 4
+error estimating codes Expressions and Their Representation 1
+error estimating codes Representationserror estimating codes Simplification of expressionserror estimating codes Algorithms 8
+error estimating codes Algebraic algorithms 8
+error estimating codes Analysis of algorithms 10
+error estimating codes Nonalgebraic algorithms 8
+error estimating codes Languages and Systems 4
+error estimating codes Evaluation strategies 5
+error estimating codes Nonprocedural languageserror estimating codes Special-purpose algebraic systems 1
+error estimating codes Special-purpose hardware 1
+error estimating codes Substitution mechanisms 2
+error estimating codes Applications 8
+error estimating codes Miscellaneouserror estimating codes ARTIFICIAL INTELLIGENCEerror estimating codes General 4
+error estimating codes Cognitive simulation 1
+error estimating codes Philosophical foundationserror estimating codes Applications and Expert Systems 4
+error estimating codes Cartographyerror estimating codes Gameserror estimating codes Industrial automationerror estimating codes Lawerror estimating codes Medicine and science 1
+error estimating codes Natural language interfaceserror estimating codes Office automationerror estimating codes Automatic Programming 1
+error estimating codes Automatic analysis of algorithms 7
+error estimating codes Program modificationerror estimating codes Program synthesiserror estimating codes Program transformationerror estimating codes Program verificationerror estimating codes Deduction and Theorem Provingerror estimating codes Answer/reason extractionerror estimating codes Deductionerror estimating codes Inference engineserror estimating codes Logic programmingerror estimating codes Mathematical inductionerror estimating codes Metatheoryerror estimating codes Nonmonotonic reasoning and belief revisionerror estimating codes Resolutionerror estimating codes Knowledge Representation Formalisms and Methodserror estimating codes Frames and scripts 1
+error estimating codes Modal logicerror estimating codes Predicate logicerror estimating codes Relation systems 8
+error estimating codes Representation languageserror estimating codes Representationserror estimating codes Semantic networks 7
+error estimating codes Temporal logicerror estimating codes Programming Languages and Softwareerror estimating codes Expert system tools and techniqueserror estimating codes Learning 1
+error estimating codes Analogieserror estimating codes Concept learning 6
+error estimating codes Connectionism and neural netserror estimating codes Inductionerror estimating codes Knowledge acquisitionerror estimating codes Language acquisitionerror estimating codes Parameter learning 2
+error estimating codes Natural Language Processing 1
+error estimating codes Discourseerror estimating codes Language generation 4
+error estimating codes Language models 1
+error estimating codes Language parsing and understandingerror estimating codes Machine translationerror estimating codes Speech recognition and synthesiserror estimating codes Text analysis 4
+error estimating codes Problem Solving, Control Methods, and Searcherror estimating codes Backtrackingerror estimating codes Control theory 1
+error estimating codes Dynamic programming 1
+error estimating codes Graph and tree search strategieserror estimating codes Heuristic methods 2
+error estimating codes Plan execution, formation, and generationerror estimating codes Schedulingerror estimating codes Roboticserror estimating codes Autonomous vehicleserror estimating codes Kinematics and dynamics 1
+error estimating codes Manipulatorserror estimating codes Operator interfaceserror estimating codes Propelling mechanisms 2
+error estimating codes Sensors 2
+error estimating codes Vision and Scene Understandingerror estimating codes Architecture and control structureserror estimating codes Motionerror estimating codes Perceptual reasoning 1
+error estimating codes Shapeerror estimating codes Textureerror estimating codes Video analysis 8
+error estimating codes Distributed Artificial Intelligenceerror estimating codes Coherence and coordination 1
+error estimating codes Intelligent agentserror estimating codes Languages and structures 1
+error estimating codes Multiagent systems 4
+error estimating codes Miscellaneouserror estimating codes COMPUTER GRAPHICS 6
+error estimating codes General 4
+error estimating codes Hardware Architecture 1
+error estimating codes Graphics processorserror estimating codes Hardcopy devices 1
+error estimating codes Input devices 1
+error estimating codes Parallel processing 1
+error estimating codes Raster display deviceserror estimating codes Storage devices 1
+error estimating codes Three-dimensional displayserror estimating codes Vector display deviceserror estimating codes Graphics Systems 4
+error estimating codes Distributed/network graphicserror estimating codes Remote systems 4
+error estimating codes Stand-alone systemserror estimating codes Picture/Image Generation 1
+error estimating codes Antialiasingerror estimating codes Bitmap and framebuffer operationserror estimating codes Digitizing and scanningerror estimating codes Display algorithms 8
+error estimating codes Line and curve generationerror estimating codes Viewing algorithms 8
+error estimating codes Graphics Utilities 5
+error estimating codes Application packages 8
+error estimating codes Device drivers 1
+error estimating codes Graphics editorserror estimating codes Graphics packageserror estimating codes Meta files 4
+error estimating codes Paint systems 4
+error estimating codes Picture description languageserror estimating codes Software support 6
+error estimating codes Virtual device interfaces 1
+error estimating codes Computational Geometry and Object Modelingerror estimating codes Boundary representationserror estimating codes Constructive solid geometryerror estimating codes Curve, surface, solid, and object representationserror estimating codes Geometric algorithms, languages, and systemserror estimating codes Hierarchy and geometric transformationserror estimating codes Modeling packages 2
+error estimating codes Object hierarchieserror estimating codes Physically based modeling 3
+error estimating codes Splineserror estimating codes Methodology and Techniques 5
+error estimating codes Device independence 2
+error estimating codes Ergonomicserror estimating codes Graphics data structures and data typeserror estimating codes Interaction techniques 3
+error estimating codes Languageserror estimating codes Standards 1
+error estimating codes Three-Dimensional Graphics and Realismerror estimating codes Animationerror estimating codes Color, shading, shadowing, and textureerror estimating codes Fractalserror estimating codes Hidden line/surface removalerror estimating codes Radiosityerror estimating codes Raytracingerror estimating codes Virtual reality 1
+error estimating codes Visible line/surface algorithmserror estimating codes Applications 8
+error estimating codes Miscellaneouserror estimating codes IMAGE PROCESSING AND COMPUTER VISION 1
+error estimating codes General 4
+error estimating codes Image displays 1
+error estimating codes Image processing software 1
+error estimating codes Digitization and Image Capture 1
+error estimating codes Camera calibration 1
+error estimating codes Imaging geometry 1
+error estimating codes Quantizationerror estimating codes Radiometryerror estimating codes Reflectanceerror estimating codes Sampling 2
+error estimating codes Scanningerror estimating codes Compression 1
+error estimating codes Approximate methods 2
+error estimating codes Exact coding 10
+error estimating codes Enhancement 1
+error estimating codes Filteringerror estimating codes Geometric correction 4
+error estimating codes Grayscale manipulationerror estimating codes Registrationerror estimating codes Sharpening and deblurringerror estimating codes Smoothingerror estimating codes Restorationerror estimating codes Inverse filteringerror estimating codes Kalman filteringerror estimating codes Pseudoinverse restorationerror estimating codes Wiener filteringerror estimating codes Reconstructionerror estimating codes Series expansion methods 1
+error estimating codes Summation methods 2
+error estimating codes Transform methods 2
+error estimating codes Segmentationerror estimating codes Edge and feature detectionerror estimating codes Pixel classificationerror estimating codes Region growing, partitioningerror estimating codes Relaxationerror estimating codes Feature Measurement 3
+error estimating codes Feature representation 1
+error estimating codes Invariantserror estimating codes Momentserror estimating codes Projectionserror estimating codes Size and shapeerror estimating codes Textureerror estimating codes Scene Analysis 4
+error estimating codes Colorerror estimating codes Depth cues 2
+error estimating codes Motionerror estimating codes Object recognitionerror estimating codes Photometryerror estimating codes Range data 2
+error estimating codes Sensor fusion 2
+error estimating codes Shadingerror estimating codes Shapeerror estimating codes Stereoerror estimating codes Surface fittingerror estimating codes Time-varying imagery 1
+error estimating codes Trackingerror estimating codes Applications 8
+error estimating codes Image Representation 1
+error estimating codes Hierarchicalerror estimating codes Morphologicalerror estimating codes Multidimensionalerror estimating codes Statistical 2
+error estimating codes Volumetricerror estimating codes Miscellaneouserror estimating codes PATTERN RECOGNITION 1
+error estimating codes General 4
+error estimating codes Models 1
+error estimating codes Deterministicerror estimating codes Fuzzy set 3
+error estimating codes Geometricerror estimating codes Neural nets 1
+error estimating codes Statistical 2
+error estimating codes Structural 1
+error estimating codes Design Methodology 5
+error estimating codes Classifier design and evaluation 4
+error estimating codes Feature evaluation and selection 1
+error estimating codes Pattern analysis 4
+error estimating codes Clusteringerror estimating codes Algorithms 8
+error estimating codes Similarity measures 5
+error estimating codes Applications 8
+error estimating codes Computer vision 6
+error estimating codes Signal processing 1
+error estimating codes Text processing 1
+error estimating codes Waveform analysis 4
+error estimating codes Implementation 1
+error estimating codes Interactive systems 4
+error estimating codes Special architectures 2
+error estimating codes Miscellaneouserror estimating codes SIMULATION AND MODELING 5
+error estimating codes General 4
+error estimating codes Simulation Theory 2
+error estimating codes Model classification 3
+error estimating codes Systems theory 7
+error estimating codes Types of simulation 3
+error estimating codes Simulation Languages 2
+error estimating codes Applications 8
+error estimating codes Model Validation and Analysis 4
+error estimating codes Model Development 13
+error estimating codes Modeling methodologies 3
+error estimating codes Simulation Output Analysis 1
+error estimating codes Simulation Support Systems 1
+error estimating codes Environments 1
+error estimating codes Types of Simulation 3
+error estimating codes Animationerror estimating codes Combined 1
+error estimating codes Continuouserror estimating codes Discrete event 1
+error estimating codes Distributed 2
+error estimating codes Gamingerror estimating codes Monte Carlo 2
+error estimating codes Parallelerror estimating codes Visual 1
+error estimating codes Miscellaneouserror estimating codes DOCUMENT AND TEXT PROCESSINGerror estimating codes General 4
+error estimating codes Document and Text Editingerror estimating codes Document managementerror estimating codes Languageserror estimating codes Spellingerror estimating codes Version controlerror estimating codes Document Preparationerror estimating codes Desktop publishingerror estimating codes Format and notationerror estimating codes Hypertext/hypermediaerror estimating codes Index generation 4
+error estimating codes Languages and systems 4
+error estimating codes Markup languageserror estimating codes Multi/mixed mediaerror estimating codes Scripting languageserror estimating codes Standards 1
+error estimating codes Index Generation 4
+error estimating codes Electronic Publishing 1
+error estimating codes Document Capture 2
+error estimating codes Document analysis 4
+error estimating codes Optical character recognitionerror estimating codes Scanningerror estimating codes Miscellaneouserror estimating codes MISCELLANEOUSerror estimating codes GENERAL 4
+error estimating codes ADMINISTRATIVE DATA PROCESSING 1
+error estimating codes Businesserror estimating codes Educationerror estimating codes Financialerror estimating codes Governmenterror estimating codes Lawerror estimating codes Manufacturingerror estimating codes Marketingerror estimating codes Militaryerror estimating codes PHYSICAL SCIENCES AND ENGINEERINGerror estimating codes Aerospaceerror estimating codes Archaeologyerror estimating codes Astronomyerror estimating codes Chemistryerror estimating codes Earth and atmospheric scienceserror estimating codes Electronics 1
+error estimating codes Engineeringerror estimating codes Mathematics and statistics 2
+error estimating codes Physics 1
+error estimating codes LIFE AND MEDICAL SCIENCESerror estimating codes Biology and geneticserror estimating codes Health 1
+error estimating codes Medical information systems 4
+error estimating codes SOCIAL AND BEHAVIORAL SCIENCESerror estimating codes Economicserror estimating codes Psychologyerror estimating codes Sociologyerror estimating codes ARTS AND HUMANITIESerror estimating codes Architectureerror estimating codes Fine arts 1
+error estimating codes Language translationerror estimating codes Linguisticserror estimating codes Literatureerror estimating codes Musicerror estimating codes Performing arts 4
+error estimating codes COMPUTER-AIDED ENGINEERINGerror estimating codes Computer-aided design 2
+error estimating codes Computer-aided manufacturingerror estimating codes COMPUTERS IN OTHER SYSTEMS 4
+error estimating codes Command and controlerror estimating codes Consumer productserror estimating codes Industrial controlerror estimating codes Militaryerror estimating codes Process control 1
+error estimating codes Publishingerror estimating codes Real time 6
+error estimating codes MISCELLANEOUSerror estimating codes GENERAL 4
+error estimating codes THE COMPUTER INDUSTRY 9
+error estimating codes Marketserror estimating codes Standards 1
+error estimating codes Statistics 2
+error estimating codes Supplierserror estimating codes HISTORY OF COMPUTING 6
+error estimating codes Hardware 1
+error estimating codes Peopleerror estimating codes Softwareerror estimating codes Systems 4
+error estimating codes Theory 1
+error estimating codes COMPUTERS AND EDUCATION 6
+error estimating codes General 4
+error estimating codes Computer Uses in Education 3
+error estimating codes Collaborative learning 1
+error estimating codes Computer-assisted instructionerror estimating codes Computer-managed instructionerror estimating codes Distance learning 3
+error estimating codes Computer and Information Science Educationerror estimating codes Accreditationerror estimating codes Computer science educationerror estimating codes Curriculumerror estimating codes Information systems education 4
+error estimating codes Literacyerror estimating codes Self-assessmenterror estimating codes Miscellaneouserror estimating codes Accreditationerror estimating codes Computer 6
+error estimating codes COMPUTERS AND SOCIETY 6
+error estimating codes General 4
+error estimating codes Public Policy Issueserror estimating codes Computer-related health issues 1
+error estimating codes Ethicserror estimating codes Human safetyerror estimating codes Intellectual property rightserror estimating codes Privacyerror estimating codes Regulationerror estimating codes Transborder data flowerror estimating codes Social Issueserror estimating codes Assistive technologies for persons with disabilitieserror estimating codes Employmenterror estimating codes Handicapped persons/special needserror estimating codes Organizational Impactserror estimating codes Automationerror estimating codes Computer-supported collaborative work 1
+error estimating codes Employmenterror estimating codes Reengineeringerror estimating codes Electronic Commerce 1
+error estimating codes Electronic data interchangeerror estimating codes Intellectual propertyerror estimating codes Payment schemes 3
+error estimating codes Security 1
+error estimating codes Miscellaneouserror estimating codes LEGAL ASPECTS OF COMPUTING 1
+error estimating codes General 4
+error estimating codes Hardware/Software Protectionerror estimating codes Copyrightserror estimating codes Licensingerror estimating codes Patentserror estimating codes Proprietary rightserror estimating codes Trade secretserror estimating codes Governmental Issueserror estimating codes Censorshiperror estimating codes Regulationerror estimating codes Taxationerror estimating codes Miscellaneouserror estimating codes Contractserror estimating codes Hardware 1
+error estimating codes MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 4
+error estimating codes General 4
+error estimating codes Economicserror estimating codes Project and People Managementerror estimating codes Life cycleerror estimating codes Management techniques 3
+error estimating codes Staffingerror estimating codes Strategic information systems planningerror estimating codes Systems analysis and design 6
+error estimating codes Systems development 6
+error estimating codes Training 1
+error estimating codes Installation Managementerror estimating codes Benchmarkserror estimating codes Computer selection 6
+error estimating codes Pricing and resource allocationerror estimating codes Software Managementerror estimating codes Software development 3
+error estimating codes Software maintenanceerror estimating codes Software process 3
+error estimating codes Software selection 3
+error estimating codes System Management 4
+error estimating codes Centralization/decentralizationerror estimating codes Management auditerror estimating codes Quality assurance 5
+error estimating codes Security and Protection 1
+error estimating codes Authenticationerror estimating codes Insuranceerror estimating codes Invasive softwareerror estimating codes Physical security 1
+error estimating codes Unauthorized access 1
+error estimating codes Miscellaneouserror estimating codes Insuranceerror estimating codes Security 1
+error estimating codes THE COMPUTING PROFESSION 6
+error estimating codes General 4
+error estimating codes Occupationserror estimating codes Organizationserror estimating codes Testing, Certification, and Licensingerror estimating codes Professional Ethicserror estimating codes Codes of ethics 10
+error estimating codes Codes of good practice 2
+error estimating codes Ethical dilemmaserror estimating codes Miscellaneouserror estimating codes Codes 10
+error estimating codes Ethicserror estimating codes PERSONAL COMPUTING 6
+error estimating codes Gameserror estimating codes General 4
+error estimating codes Gameserror estimating codes Application Packages 8
+error estimating codes Data communications 6
+error estimating codes Database processing 1
+error estimating codes Freeware/sharewareerror estimating codes Graphicserror estimating codes Spreadsheetserror estimating codes Word processing 1
+error estimating codes Hardware 1
+error estimating codes Management/Maintenanceerror estimating codes Miscellaneouserror estimating codes MISCELLANEOUS

@@ -1,0 +1,1981 @@
+temporal dynamics User Interfaces 11
+temporal dynamics Auditory 138
+temporal dynamics Benchmarking 31
+temporal dynamics Ergonomics 2
+temporal dynamics Evaluation/methodology 50
+temporal dynamics Graphical user interfaces 77
+temporal dynamics Haptic I/O 146
+temporal dynamics Input devices and strategies 83
+temporal dynamics Interaction styles 15
+temporal dynamics Natural language 47
+temporal dynamics Prototyping 66
+temporal dynamics Screen design 14
+temporal dynamics Standardization 432
+temporal dynamics Style guidestemporal dynamics Theory and methods 2627
+temporal dynamics Training, help, and documentation 24
+temporal dynamics User-centered design 96
+temporal dynamics User interface management systems 71
+temporal dynamics Voice I/O 162
+temporal dynamics Windowing systems 89
+temporal dynamics Group and Organization Interfaces 178
+temporal dynamics Asynchronous interaction 12
+temporal dynamics Collaborative computing 14
+temporal dynamics Computer-supported cooperative work 92
+temporal dynamics Evaluation/methodology 50
+temporal dynamics Organizational design 7
+temporal dynamics Synchronous interaction 60
+temporal dynamics Theory and models 4244
+temporal dynamics Web-based interaction 763
+temporal dynamics Hypertext/Hypermediatemporal dynamics Architectures 140
+temporal dynamics Navigation 36
+temporal dynamics Theory 567
+temporal dynamics User issues 18
+temporal dynamics Sound and Music Computing 62
+temporal dynamics Methodologies and techniques 1114
+temporal dynamics Modeling 2643
+temporal dynamics Systems 2148
+temporal dynamics Miscellaneoustemporal dynamics MISCELLANEOUStemporal dynamics GENERAL 1847
+temporal dynamics SYMBOLIC AND ALGEBRAIC MANIPULATION 9
+temporal dynamics General 1847
+temporal dynamics Expressions and Their Representation 416
+temporal dynamics Representations 430
+temporal dynamics Simplification of expressions 463
+temporal dynamics Algorithms 519
+temporal dynamics Algebraic algorithms 9
+temporal dynamics Analysis of algorithms 3625
+temporal dynamics Nonalgebraic algorithmstemporal dynamics Languages and Systems 2386
+temporal dynamics Evaluation strategies 71
+temporal dynamics Nonprocedural languagestemporal dynamics Special-purpose algebraic systems 20
+temporal dynamics Special-purpose hardware 23
+temporal dynamics Substitution mechanisms 19
+temporal dynamics Applications 846
+temporal dynamics Miscellaneoustemporal dynamics ARTIFICIAL INTELLIGENCE 18
+temporal dynamics General 1847
+temporal dynamics Cognitive simulation 39
+temporal dynamics Philosophical foundationstemporal dynamics Applications and Expert Systems 492
+temporal dynamics Cartography 2
+temporal dynamics Games 35
+temporal dynamics Industrial automation 5
+temporal dynamics Law 172
+temporal dynamics Medicine and science 1118
+temporal dynamics Natural language interfaces 148
+temporal dynamics Office automationtemporal dynamics Automatic Programming 25
+temporal dynamics Automatic analysis of algorithms 348
+temporal dynamics Program modification 9
+temporal dynamics Program synthesis 8
+temporal dynamics Program transformation 32
+temporal dynamics Program verification 4
+temporal dynamics Deduction and Theorem Proving 16
+temporal dynamics Answer/reason extraction 52
+temporal dynamics Deduction 5
+temporal dynamics Inference engines 14
+temporal dynamics Logic programming 13
+temporal dynamics Mathematical induction 6
+temporal dynamics Metatheorytemporal dynamics Nonmonotonic reasoning and belief revision 2
+temporal dynamics Resolution 611
+temporal dynamics Knowledge Representation Formalisms and Methods 66
+temporal dynamics Frames and scripts 175
+temporal dynamics Modal logic 7
+temporal dynamics Predicate logic 5
+temporal dynamics Relation systems 606
+temporal dynamics Representation languages 37
+temporal dynamics Representations 430
+temporal dynamics Semantic networks 26
+temporal dynamics Temporal logic 66
+temporal dynamics Programming Languages and Software 177
+temporal dynamics Expert system tools and techniques 98
+temporal dynamics Learning 316
+temporal dynamics Analogies 43
+temporal dynamics Concept learning 47
+temporal dynamics Connectionism and neural nets 22
+temporal dynamics Induction 86
+temporal dynamics Knowledge acquisition 14
+temporal dynamics Language acquisition 5
+temporal dynamics Parameter learning 80
+temporal dynamics Natural Language Processing 777
+temporal dynamics Discourse 6
+temporal dynamics Language generation 55
+temporal dynamics Language models 76
+temporal dynamics Language parsing and understanding 35
+temporal dynamics Machine translation 6
+temporal dynamics Speech recognition and synthesis 75
+temporal dynamics Text analysis 24
+temporal dynamics Problem Solving, Control Methods, and Search 36
+temporal dynamics Backtracking 3
+temporal dynamics Control theory 105
+temporal dynamics Dynamic programming 236
+temporal dynamics Graph and tree search strategies 18
+temporal dynamics Heuristic methods 17
+temporal dynamics Plan execution, formation, and generation 23
+temporal dynamics Scheduling 37
+temporal dynamics Robotics 39
+temporal dynamics Autonomous vehicles 7
+temporal dynamics Kinematics and dynamics 5690
+temporal dynamics Manipulators 181
+temporal dynamics Operator interfaces 23
+temporal dynamics Propelling mechanismstemporal dynamics Sensors 233
+temporal dynamics Vision and Scene Understanding 60
+temporal dynamics Architecture and control structures 363
+temporal dynamics Motion 294
+temporal dynamics Perceptual reasoning 18
+temporal dynamics Shape 387
+temporal dynamics Texture 89
+temporal dynamics Video analysis 67
+temporal dynamics Distributed Artificial Intelligence 108
+temporal dynamics Coherence and coordination 449
+temporal dynamics Intelligent agents 18
+temporal dynamics Languages and structures 1619
+temporal dynamics Multiagent systems 3
+temporal dynamics Miscellaneoustemporal dynamics COMPUTER GRAPHICS 27
+temporal dynamics General 1847
+temporal dynamics Hardware Architecture 11
+temporal dynamics Graphics processorstemporal dynamics Hardcopy devicestemporal dynamics Input devices 29
+temporal dynamics Parallel processing 139
+temporal dynamics Raster display devices 15
+temporal dynamics Storage devices 1
+temporal dynamics Three-dimensional displays 273
+temporal dynamics Vector display devices 38
+temporal dynamics Graphics Systems 39
+temporal dynamics Distributed/network graphics 305
+temporal dynamics Remote systems 118
+temporal dynamics Stand-alone systems 137
+temporal dynamics Picture/Image Generation 414
+temporal dynamics Antialiasingtemporal dynamics Bitmap and framebuffer operationstemporal dynamics Digitizing and scanning 239
+temporal dynamics Display algorithms 29
+temporal dynamics Line and curve generation 281
+temporal dynamics Viewing algorithms 76
+temporal dynamics Graphics Utilities 5
+temporal dynamics Application packages 10
+temporal dynamics Device driverstemporal dynamics Graphics editorstemporal dynamics Graphics packages 2
+temporal dynamics Meta files 2
+temporal dynamics Paint systems 6
+temporal dynamics Picture description languages 44
+temporal dynamics Software support 47
+temporal dynamics Virtual device interfaces 33
+temporal dynamics Computational Geometry and Object Modeling 139
+temporal dynamics Boundary representations 39
+temporal dynamics Constructive solid geometry 21
+temporal dynamics Curve, surface, solid, and object representations 5
+temporal dynamics Geometric algorithms, languages, and systems 44
+temporal dynamics Hierarchy and geometric transformations 21
+temporal dynamics Modeling packages 32
+temporal dynamics Object hierarchies 13
+temporal dynamics Physically based modeling 1787
+temporal dynamics Splines 23
+temporal dynamics Methodology and Techniques 1114
+temporal dynamics Device independence 19
+temporal dynamics Ergonomics 2
+temporal dynamics Graphics data structures and data types 270
+temporal dynamics Interaction techniques 219
+temporal dynamics Languages 121
+temporal dynamics Standards 432
+temporal dynamics Three-Dimensional Graphics and Realism 2
+temporal dynamics Animation 310
+temporal dynamics Color, shading, shadowing, and texture 1
+temporal dynamics Fractals 49
+temporal dynamics Hidden line/surface removal 10
+temporal dynamics Radiosity 1
+temporal dynamics Raytracing 1
+temporal dynamics Virtual reality 3
+temporal dynamics Visible line/surface algorithms 21
+temporal dynamics Applications 846
+temporal dynamics Miscellaneoustemporal dynamics IMAGE PROCESSING AND COMPUTER VISION 252
+temporal dynamics General 1847
+temporal dynamics Image displays 57
+temporal dynamics Image processing software 568
+temporal dynamics Digitization and Image Capture 177
+temporal dynamics Camera calibration 10
+temporal dynamics Imaging geometry 36
+temporal dynamics Quantization 20
+temporal dynamics Radiometrytemporal dynamics Reflectance 671
+temporal dynamics Sampling 798
+temporal dynamics Scanning 92
+temporal dynamics Compression 47
+temporal dynamics Approximate methods 210
+temporal dynamics Exact coding 6
+temporal dynamics Enhancement 515
+temporal dynamics Filtering 271
+temporal dynamics Geometric correction 18
+temporal dynamics Grayscale manipulationtemporal dynamics Registration 39
+temporal dynamics Sharpening and deblurring 10
+temporal dynamics Smoothing 111
+temporal dynamics Restoration 71
+temporal dynamics Inverse filtering 30
+temporal dynamics Kalman filtering 25
+temporal dynamics Pseudoinverse restorationtemporal dynamics Wiener filtering 5
+temporal dynamics Reconstruction 199
+temporal dynamics Series expansion methods 323
+temporal dynamics Summation methods 7
+temporal dynamics Transform methods 164
+temporal dynamics Segmentation 201
+temporal dynamics Edge and feature detection 276
+temporal dynamics Pixel classification 38
+temporal dynamics Region growing, partitioning 170
+temporal dynamics Relaxation 130
+temporal dynamics Feature Measurement 257
+temporal dynamics Feature representation 146
+temporal dynamics Invariants 103
+temporal dynamics Moments 107
+temporal dynamics Projections 288
+temporal dynamics Size and shape 915
+temporal dynamics Texture 89
+temporal dynamics Scene Analysis 44
+temporal dynamics Color 114
+temporal dynamics Depth cues 17
+temporal dynamics Motion 294
+temporal dynamics Object recognition 90
+temporal dynamics Photometry 1
+temporal dynamics Range data 567
+temporal dynamics Sensor fusion 6
+temporal dynamics Shading 41
+temporal dynamics Shape 387
+temporal dynamics Stereo 22
+temporal dynamics Surface fitting 44
+temporal dynamics Time-varying imagery 287
+temporal dynamics Tracking 241
+temporal dynamics Applications 846
+temporal dynamics Image Representation 129
+temporal dynamics Hierarchical 122
+temporal dynamics Morphological 86
+temporal dynamics Multidimensional 40
+temporal dynamics Statistical 624
+temporal dynamics Volumetric 22
+temporal dynamics Miscellaneoustemporal dynamics PATTERN RECOGNITION 118
+temporal dynamics General 1847
+temporal dynamics Models 2643
+temporal dynamics Deterministic 94
+temporal dynamics Fuzzy set 24
+temporal dynamics Geometric 101
+temporal dynamics Neural nets 20
+temporal dynamics Statistical 624
+temporal dynamics Structural 1446
+temporal dynamics Design Methodology 47
+temporal dynamics Classifier design and evaluation 202
+temporal dynamics Feature evaluation and selection 474
+temporal dynamics Pattern analysis 647
+temporal dynamics Clustering 324
+temporal dynamics Algorithms 519
+temporal dynamics Similarity measures 502
+temporal dynamics Applications 846
+temporal dynamics Computer vision 66
+temporal dynamics Signal processing 472
+temporal dynamics Text processing 23
+temporal dynamics Waveform analysis 38
+temporal dynamics Implementation 173
+temporal dynamics Interactive systems 566
+temporal dynamics Special architectures 9
+temporal dynamics Miscellaneoustemporal dynamics SIMULATION AND MODELING 25738
+temporal dynamics General 1847
+temporal dynamics Simulation Theory 178
+temporal dynamics Model classification 142
+temporal dynamics Systems theory 321
+temporal dynamics Types of simulation 2026
+temporal dynamics Simulation Languages 28
+temporal dynamics Applications 846
+temporal dynamics Model Validation and Analysis 2655
+temporal dynamics Model Development 1058
+temporal dynamics Modeling methodologies 153
+temporal dynamics Simulation Output Analysis 797
+temporal dynamics Simulation Support Systems 2248
+temporal dynamics Environments 744
+temporal dynamics Types of Simulation 2026
+temporal dynamics Animation 310
+temporal dynamics Combined 833
+temporal dynamics Continuous 656
+temporal dynamics Discrete event 52
+temporal dynamics Distributed 1332
+temporal dynamics Gaming 35
+temporal dynamics Monte Carlo 60
+temporal dynamics Parallel 211
+temporal dynamics Visual 673
+temporal dynamics Miscellaneoustemporal dynamics DOCUMENT AND TEXT PROCESSING 159
+temporal dynamics General 1847
+temporal dynamics Document and Text Editing 13
+temporal dynamics Document management 40
+temporal dynamics Languages 121
+temporal dynamics Spelling 3
+temporal dynamics Version control 60
+temporal dynamics Document Preparation 13
+temporal dynamics Desktop publishing 1
+temporal dynamics Format and notation 458
+temporal dynamics Hypertext/hypermediatemporal dynamics Index generation 189
+temporal dynamics Languages and systems 2386
+temporal dynamics Markup languages 1
+temporal dynamics Multi/mixed media 53
+temporal dynamics Scripting languages 3
+temporal dynamics Standards 432
+temporal dynamics Index Generation 189
+temporal dynamics Electronic Publishing 7
+temporal dynamics Document Capture 29
+temporal dynamics Document analysis 98
+temporal dynamics Optical character recognition 29
+temporal dynamics Scanning 92
+temporal dynamics Miscellaneoustemporal dynamics MISCELLANEOUStemporal dynamics GENERAL 1847
+temporal dynamics ADMINISTRATIVE DATA PROCESSING 1116
+temporal dynamics Business 25
+temporal dynamics Education 36
+temporal dynamics Financial 33
+temporal dynamics Government 227
+temporal dynamics Law 172
+temporal dynamics Manufacturing 23
+temporal dynamics Marketing 72
+temporal dynamics Military 41
+temporal dynamics PHYSICAL SCIENCES AND ENGINEERING 284
+temporal dynamics Aerospace 15
+temporal dynamics Archaeologytemporal dynamics Astronomy 22
+temporal dynamics Chemistry 91
+temporal dynamics Earth and atmospheric sciences 170
+temporal dynamics Electronics 304
+temporal dynamics Engineering 226
+temporal dynamics Mathematics and statistics 877
+temporal dynamics Physics 915
+temporal dynamics LIFE AND MEDICAL SCIENCES 132
+temporal dynamics Biology and genetics 459
+temporal dynamics Health 203
+temporal dynamics Medical information systems 749
+temporal dynamics SOCIAL AND BEHAVIORAL SCIENCES 283
+temporal dynamics Economics 215
+temporal dynamics Psychology 83
+temporal dynamics Sociology 9
+temporal dynamics ARTS AND HUMANITIES 826
+temporal dynamics Architecture 140
+temporal dynamics Fine arts 6
+temporal dynamics Language translation 5
+temporal dynamics Linguistics 30
+temporal dynamics Literature 369
+temporal dynamics Music 48
+temporal dynamics Performing arts 29
+temporal dynamics COMPUTER-AIDED ENGINEERING 106
+temporal dynamics Computer-aided design 200
+temporal dynamics Computer-aided manufacturing 30
+temporal dynamics COMPUTERS IN OTHER SYSTEMS 1558
+temporal dynamics Command and control 925
+temporal dynamics Consumer products 27
+temporal dynamics Industrial control 26
+temporal dynamics Military 41
+temporal dynamics Process control 474
+temporal dynamics Publishing 207
+temporal dynamics Real time 323
+temporal dynamics MISCELLANEOUStemporal dynamics GENERAL 1847
+temporal dynamics THE COMPUTER INDUSTRY 1205
+temporal dynamics Markets 72
+temporal dynamics Standards 432
+temporal dynamics Statistics 624
+temporal dynamics Suppliers 4
+temporal dynamics HISTORY OF COMPUTING 1135
+temporal dynamics Hardware 42
+temporal dynamics People 139
+temporal dynamics Software 162
+temporal dynamics Systems 2148
+temporal dynamics Theory 567
+temporal dynamics COMPUTERS AND EDUCATION 956
+temporal dynamics General 1847
+temporal dynamics Computer Uses in Education 773
+temporal dynamics Collaborative learning 6
+temporal dynamics Computer-assisted instruction 40
+temporal dynamics Computer-managed instruction 88
+temporal dynamics Distance learning 41
+temporal dynamics Computer and Information Science Education 73
+temporal dynamics Accreditationtemporal dynamics Computer science education 184
+temporal dynamics Curriculum 1
+temporal dynamics Information systems education 701
+temporal dynamics Literacytemporal dynamics Self-assessment 50
+temporal dynamics Miscellaneoustemporal dynamics Accreditationtemporal dynamics Computer 867
+temporal dynamics COMPUTERS AND SOCIETY 1061
+temporal dynamics General 1847
+temporal dynamics Public Policy Issues 67
+temporal dynamics Computer-related health issues 52
+temporal dynamics Ethics 9
+temporal dynamics Human safety 4
+temporal dynamics Intellectual property rights 67
+temporal dynamics Privacy 1
+temporal dynamics Regulation 315
+temporal dynamics Transborder data flow 286
+temporal dynamics Social Issues 31
+temporal dynamics Assistive technologies for persons with disabilities 3
+temporal dynamics Employment 16
+temporal dynamics Handicapped persons/special needs 4
+temporal dynamics Organizational Impacts 4
+temporal dynamics Automation 95
+temporal dynamics Computer-supported collaborative work 85
+temporal dynamics Employment 16
+temporal dynamics Reengineeringtemporal dynamics Electronic Commercetemporal dynamics Electronic data interchange 69
+temporal dynamics Intellectual property 2
+temporal dynamics Payment schemes 2
+temporal dynamics Security 37
+temporal dynamics Miscellaneoustemporal dynamics LEGAL ASPECTS OF COMPUTING 111
+temporal dynamics General 1847
+temporal dynamics Hardware/Software Protection 23
+temporal dynamics Copyrights 26
+temporal dynamics Licensing 8
+temporal dynamics Patents 2
+temporal dynamics Proprietary rights 1
+temporal dynamics Trade secretstemporal dynamics Governmental Issuestemporal dynamics Censorshiptemporal dynamics Regulation 315
+temporal dynamics Taxation 1
+temporal dynamics Miscellaneoustemporal dynamics Contracts 42
+temporal dynamics Hardware 42
+temporal dynamics MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 442
+temporal dynamics General 1847
+temporal dynamics Economics 215
+temporal dynamics Project and People Management 95
+temporal dynamics Life cycle 78
+temporal dynamics Management techniques 121
+temporal dynamics Staffing 2
+temporal dynamics Strategic information systems planning 72
+temporal dynamics Systems analysis and design 3728
+temporal dynamics Systems development 829
+temporal dynamics Training 224
+temporal dynamics Installation Management 13
+temporal dynamics Benchmarks 31
+temporal dynamics Computer selection 174
+temporal dynamics Pricing and resource allocation 162
+temporal dynamics Software Management 27
+temporal dynamics Software development 93
+temporal dynamics Software maintenance 4
+temporal dynamics Software process 90
+temporal dynamics Software selection 40
+temporal dynamics System Management 269
+temporal dynamics Centralization/decentralization 3
+temporal dynamics Management audittemporal dynamics Quality assurance 3
+temporal dynamics Security and Protection 299
+temporal dynamics Authentication 6
+temporal dynamics Insurance 16
+temporal dynamics Invasive software 9
+temporal dynamics Physical security 4
+temporal dynamics Unauthorized accesstemporal dynamics Miscellaneoustemporal dynamics Insurance 16
+temporal dynamics Security 37
+temporal dynamics THE COMPUTING PROFESSION 861
+temporal dynamics General 1847
+temporal dynamics Occupations 39
+temporal dynamics Organizations 772
+temporal dynamics Testing, Certification, and Licensing 2
+temporal dynamics Professional Ethicstemporal dynamics Codes of ethics 219
+temporal dynamics Codes of good practice 82
+temporal dynamics Ethical dilemmas 1
+temporal dynamics Miscellaneoustemporal dynamics Codes 209
+temporal dynamics Ethics 9
+temporal dynamics PERSONAL COMPUTING 45
+temporal dynamics Games 35
+temporal dynamics General 1847
+temporal dynamics Games 35
+temporal dynamics Application Packages 10
+temporal dynamics Data communications 291
+temporal dynamics Database processing 77
+temporal dynamics Freeware/sharewaretemporal dynamics Graphics 61
+temporal dynamics Spreadsheets 1
+temporal dynamics Word processing 122
+temporal dynamics Hardware 42
+temporal dynamics Management/Maintenance 18
+temporal dynamics Miscellaneoustemporal dynamics MISCELLANEOUShazard function GENERAL 468
+hazard function Biographies autobiographieshazard function Conference proceedingshazard function INTRODUCTORY AND SURVEY 73
+hazard function REFERENCE 126
+hazard function MISCELLANEOUShazard function GENERAL 468
+hazard function CONTROL STRUCTURES AND MICROPROGRAMMING 9
+hazard function General 468
+hazard function Control Design Styles 20
+hazard function Hardwired controlhazard function Writable control storehazard function Automatic synthesishazard function Formal models 24
+hazard function Simulation 308
+hazard function Control Structure Reliability, Testing, and Fault-Tolerancehazard function Diagnostics 28
+hazard function Error-checking 8
+hazard function Redundant design 6
+hazard function Test generation 105
+hazard function Firmware engineeringhazard function Languages and compilers 932
+hazard function Optimization 113
+hazard function Verification 4
+hazard function Direct data manipulation 57
+hazard function Instruction set interpretation 26
+hazard function Peripheral control 2
+hazard function Special-purpose 4
+hazard function Miscellaneoushazard function General 468
+hazard function Design Styleshazard function Calculator 135
+hazard function Parallel 30
+hazard function Pipeline 2
+hazard function Performance Analysis and Design Aids 49
+hazard function Simulation 308
+hazard function Verification 4
+hazard function Worst-case analysis 196
+hazard function Reliability, Testing, and Fault-Tolerance 6
+hazard function Diagnostics 28
+hazard function Error-checking 8
+hazard function Redundant design 6
+hazard function Test generation 105
+hazard function High-Speed Arithmetic 8
+hazard function Algorithms 118
+hazard function Cost/performance 22
+hazard function Miscellaneoushazard function MEMORY STRUCTURES 2
+hazard function General 468
+hazard function Semiconductor Memorieshazard function Dynamic memory 2
+hazard function Read-only memory 10
+hazard function Static memoryhazard function Design Styleshazard function Associative memories 7
+hazard function Cache memorieshazard function Interleaved memorieshazard function Mass storagehazard function Primary memory 3
+hazard function Sequential-access memory 2
+hazard function Shared memoryhazard function Virtual memory 1
+hazard function Performance Analysis and Design Aids 49
+hazard function Formal models 24
+hazard function Simulation 308
+hazard function Worst-case analysis 196
+hazard function Reliability, Testing, and Fault-Tolerance 6
+hazard function Diagnostics 28
+hazard function Error-checking 8
+hazard function Redundant design 6
+hazard function Test generation 105
+hazard function Miscellaneoushazard function INPUT/OUTPUT AND DATA COMMUNICATIONS 9
+hazard function General 468
+hazard function Data Communications Devices 80
+hazard function Processors 3
+hazard function Receivers 50
+hazard function Transmittershazard function Input/Output Devices 16
+hazard function Channels and controllers 71
+hazard function Image display 1
+hazard function Voicehazard function Interconnections 2
+hazard function Asynchronous/synchronous operation 3
+hazard function Fiber optics 1
+hazard function Interfaces 6
+hazard function Parallel I/O 36
+hazard function Physical structures 5
+hazard function Topology 5
+hazard function Performance Analysis and Design Aids 49
+hazard function Formal models 24
+hazard function Simulation 308
+hazard function Verification 4
+hazard function Worst-case analysis 196
+hazard function Reliability, Testing, and Fault-Tolerance 6
+hazard function Built-in tests 325
+hazard function Diagnostics 28
+hazard function Error-checking 8
+hazard function Hardware reliabilityhazard function Hardware reliabilityhazard function Hardware reliability 3
+hazard function Redundant design 6
+hazard function Test generation 105
+hazard function Miscellaneoushazard function REGISTER-TRANSFER-LEVEL IMPLEMENTATION 2
+hazard function General 468
+hazard function Design 110
+hazard function Arithmetic and logic units 5
+hazard function Control design 19
+hazard function Data-path design 101
+hazard function Memory design 2
+hazard function Styles 5
+hazard function Design Aids 3
+hazard function Automatic synthesishazard function Hardware description languages 14
+hazard function Optimization 113
+hazard function Simulation 308
+hazard function Verification 4
+hazard function Reliability and Testing 576
+hazard function Built-in tests 325
+hazard function Error-checking 8
+hazard function Redundant design 6
+hazard function Test generation 105
+hazard function Testability 4
+hazard function Miscellaneoushazard function LOGIC DESIGN 2
+hazard function General 468
+hazard function Design Styleshazard function Combinational logic 1
+hazard function Logic arrays 1
+hazard function Parallel circuitshazard function Sequential circuitshazard function Reliability and Testing 576
+hazard function Built-in tests 325
+hazard function Error-checking 8
+hazard function Redundant design 6
+hazard function Test generation 105
+hazard function Testability 4
+hazard function Design Aids 3
+hazard function Automatic synthesishazard function Hardware description languages 14
+hazard function Optimization 113
+hazard function Simulation 308
+hazard function Switching theory 1
+hazard function Verification 4
+hazard function Miscellaneoushazard function INTEGRATED CIRCUITS 3
+hazard function General 468
+hazard function Types and Design Styles 50
+hazard function Advanced technologies 7
+hazard function Algorithms implemented in hardware 16
+hazard function Gate arrayshazard function Input/output circuits 27
+hazard function Memory technologies 2
+hazard function Microprocessors and microcomputers 3
+hazard function Standard cells 6
+hazard function VLSIhazard function Design Aids 3
+hazard function Graphics 63
+hazard function Layouthazard function Placement and routing 9
+hazard function Simulation 308
+hazard function Verification 4
+hazard function Reliability and Testing 576
+hazard function Built-in tests 325
+hazard function Error-checking 8
+hazard function Redundant design 6
+hazard function Test generation 105
+hazard function Testability 4
+hazard function Miscellaneoushazard function PERFORMANCE AND RELIABILITY 737
+hazard function General 468
+hazard function Reliability, Testing, and Fault-Tolerance 6
+hazard function Performance Analysis and Design Aids 49
+hazard function Miscellaneoushazard function MISCELLANEOUShazard function Design 110
+hazard function GENERAL 468
+hazard function Hardware/software interfaces 16
+hazard function Instruction set design 47
+hazard function Modeling of computer architecture 415
+hazard function System architectures 7
+hazard function Systems specification methodology 128
+hazard function PROCESSOR ARCHITECTURES 2
+hazard function General 468
+hazard function Single Data Stream Architectureshazard function Pipeline processorshazard function RISC/CISC, VLIW architectureshazard function Von Neumann architectures 2
+hazard function Multiple Data Stream Architectures 2
+hazard function Array and vector processors 6
+hazard function Associative processors 1
+hazard function Connection machines 1
+hazard function Interconnection architectureshazard function Multiple-instruction-stream, multiple-data-stream processorshazard function Parallel processors 2
+hazard function Pipeline processorshazard function Single-instruction-stream, multiple-data-stream processorshazard function Other Architecture Styles 6
+hazard function Adaptable architectureshazard function Analog computers 12
+hazard function Capability architectureshazard function Cellular architecturehazard function Data-flow architectures 32
+hazard function Heterogeneous 131
+hazard function High-level language architectures 3
+hazard function Neural nets 4
+hazard function Pipeline processorshazard function Stack-oriented processors 1
+hazard function Parallel Architectures 4
+hazard function Distributed architectures 3
+hazard function Mobile processorshazard function Miscellaneoushazard function Analog 30
+hazard function Hybrid 11
+hazard function COMPUTER-COMMUNICATION NETWORKS 125
+hazard function General 468
+hazard function Data communications 61
+hazard function Open Systems Interconnection reference modelhazard function Security and protection 60
+hazard function Network Architecture and Design 142
+hazard function Asynchronous Transfer Mode 1
+hazard function Centralized networks 7
+hazard function Circuit-switching networks 21
+hazard function Distributed networks 24
+hazard function Frame relay networkshazard function ISDNhazard function Network communications 7
+hazard function Network topologyhazard function Packet-switching networks 7
+hazard function Store and forward networks 4
+hazard function Wireless communication 3
+hazard function Network Protocolshazard function Applications 294
+hazard function Protocol architecture 1
+hazard function Protocol verificationhazard function Routing protocolshazard function Network Operations 7
+hazard function Network management 6
+hazard function Network monitoring 2
+hazard function Public networkshazard function Distributed Systems 94
+hazard function Client/serverhazard function Distributed applications 178
+hazard function Distributed databases 12
+hazard function Network operating systems 399
+hazard function Local and Wide-Area Networks 7
+hazard function Access schemeshazard function Buses 1
+hazard function Ethernethazard function High-speed 5
+hazard function Internet 3
+hazard function Token ringshazard function Internetworkinghazard function Routershazard function Standards 174
+hazard function Miscellaneoushazard function SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 10
+hazard function Microprocessor/microcomputer applicationshazard function Process control systems 205
+hazard function Real-time and embedded systems 27
+hazard function Signal processing systems 141
+hazard function Smartcardshazard function PERFORMANCE OF SYSTEMS 1664
+hazard function Design studies 77
+hazard function Fault tolerance 4
+hazard function Measurement techniques 35
+hazard function Modeling techniques 121
+hazard function Performance attributes 8
+hazard function Reliability, availability, and serviceability 47
+hazard function COMPUTER SYSTEM IMPLEMENTATION 149
+hazard function General 468
+hazard function Large and Medium 250
+hazard function Super 5
+hazard function Minicomputers 1
+hazard function Microcomputers 3
+hazard function Microprocessorshazard function Personal computers 3
+hazard function Portable deviceshazard function Workstationshazard function VLSI Systemshazard function Servers 4
+hazard function Miscellaneoushazard function MISCELLANEOUShazard function GENERAL 468
+hazard function PROGRAMMING TECHNIQUES 12
+hazard function General 468
+hazard function Applicative 294
+hazard function Automatic Programminghazard function Concurrent Programminghazard function Distributed programming 26
+hazard function Parallel programming 4
+hazard function Sequential Programming 1
+hazard function Object-oriented Programming 84
+hazard function Logic Programminghazard function Visual Programming 2
+hazard function Miscellaneoushazard function SOFTWARE ENGINEERING 4
+hazard function General 468
+hazard function Protection mechanismshazard function Standards 174
+hazard function Requirements/Specifications 42
+hazard function Elicitation methods 5
+hazard function Languages 6
+hazard function Methodologies 105
+hazard function Tools 57
+hazard function Design Tools and Techniques 141
+hazard function Computer-aided software engineering 7
+hazard function Decision tables 2
+hazard function Evolutionary prototypinghazard function Flow chartshazard function Modules and interfaces 345
+hazard function Object-oriented design methods 55
+hazard function Petri netshazard function Programmer workbenchhazard function Software libraries 1
+hazard function State diagramshazard function Structured programming 10
+hazard function Top-down programming 2
+hazard function User interfaces 3
+hazard function Coding Tools and Techniques 44
+hazard function Object-oriented programming 84
+hazard function Pretty printershazard function Program editorshazard function Reentrant codehazard function Standards 174
+hazard function Structured programming 10
+hazard function Top-down programming 2
+hazard function Software/Program Verification 13
+hazard function Assertion checkershazard function Class invariants 2
+hazard function Correctness proofs 5
+hazard function Formal methods 12
+hazard function Model checking 33
+hazard function Programming by contract 106
+hazard function Reliability 196
+hazard function Statistical methods 292
+hazard function Validation 101
+hazard function Testing and Debugging 373
+hazard function Code inspections and walk-throughs 1
+hazard function Debugging aidshazard function Diagnostics 28
+hazard function Distributed debugginghazard function Dumps 1
+hazard function Error handling and recovery 9
+hazard function Monitors 34
+hazard function Symbolic executionhazard function Testing tools 12
+hazard function Tracing 8
+hazard function Programming Environments 5
+hazard function Graphical environments 3
+hazard function Integrated environments 8
+hazard function Interactive environments 7
+hazard function Programmer workbenchhazard function Distribution, Maintenance, and Enhancement 20
+hazard function Corrections 62
+hazard function Documentation 2
+hazard function Enhancement 22
+hazard function Extensibility 153
+hazard function Portabilityhazard function Restructuring, reverse engineering, and reengineering 1
+hazard function Version control 3
+hazard function Metrics 23
+hazard function Complexity measures 19
+hazard function Performance measures 66
+hazard function Process metrics 10
+hazard function Product metrics 5
+hazard function Software science 4
+hazard function Management 66
+hazard function Copyrights 57
+hazard function Cost estimation 45
+hazard function Life cycle 15
+hazard function Productivity 135
+hazard function Programming teams 1
+hazard function Software configuration management 8
+hazard function Software process models 375
+hazard function Software quality assurance 10
+hazard function Time estimation 522
+hazard function Design 110
+hazard function Methodologies 105
+hazard function Representation 62
+hazard function Software Architectures 3
+hazard function Data abstraction 22
+hazard function Domain-specific architectures 79
+hazard function Information hidinghazard function Languages 6
+hazard function Patterns 117
+hazard function Interoperability 1
+hazard function Data mapping 21
+hazard function Distributed objects 27
+hazard function Interface definition languages 31
+hazard function Reusable Softwarehazard function Domain engineering 1
+hazard function Reusable librarieshazard function Reuse models 3
+hazard function Miscellaneoushazard function Rapid 12
+hazard function Reusablehazard function PROGRAMMING LANGUAGES 1
+hazard function General 468
+hazard function Standards 174
+hazard function Formal Definitions and Theory 61
+hazard function Semanticshazard function Syntax 1
+hazard function Language Classificationshazard function Applicative 294
+hazard function Concurrent, distributed, and parallel languages 1
+hazard function Constraint and logic languages 26
+hazard function Data-flow languages 41
+hazard function Design languages 3
+hazard function Extensible languageshazard function Microprogramming languageshazard function Multiparadigm languageshazard function Nondeterministic languageshazard function Nonprocedural languageshazard function Object-oriented languages 82
+hazard function Specialized application languages 45
+hazard function Very high-level languages 14
+hazard function Language Constructs and Features 229
+hazard function Abstract data types 273
+hazard function Classes and objects 787
+hazard function Concurrent programming structures 14
+hazard function Constraints 36
+hazard function Control structures 8
+hazard function Coroutineshazard function Data types and structures 615
+hazard function Dynamic storage management 5
+hazard function Frameworks 123
+hazard function Inheritance 8
+hazard function Input/output 7
+hazard function Modules, packages 2
+hazard function Patterns 117
+hazard function Polymorphismhazard function Procedures, functions, and subroutines 217
+hazard function Recursion 7
+hazard function Processors 3
+hazard function Code generation 8
+hazard function Compilers 6
+hazard function Debuggershazard function Incremental compilershazard function Interpreters 78
+hazard function Memory management 1
+hazard function Optimization 113
+hazard function Parsinghazard function Preprocessorshazard function Retargetable compilershazard function Run-time environments 61
+hazard function Translator writing systems and compiler generatorshazard function Miscellaneoushazard function OPERATING SYSTEMS 42
+hazard function General 468
+hazard function Process Management 14
+hazard function Concurrency 5
+hazard function Deadlockshazard function Multiprocessing/multiprogramming/multitaskinghazard function Mutual exclusionhazard function Scheduling 20
+hazard function Synchronization 2
+hazard function Threadshazard function Storage Managementhazard function Allocation/deallocation strategies 1
+hazard function Distributed memories 15
+hazard function Garbage collectionhazard function Main memory 5
+hazard function Secondary storagehazard function Segmentation 26
+hazard function Storage hierarchieshazard function Swapping 2
+hazard function Virtual memory 1
+hazard function File Systems Management 27
+hazard function Access methods 6
+hazard function Directory structureshazard function Distributed file systems 103
+hazard function File organization 1
+hazard function Maintenance 38
+hazard function Communications Management 7
+hazard function Buffering 1
+hazard function Input/output 7
+hazard function Message sendinghazard function Network communication 7
+hazard function Terminal management 1
+hazard function Reliability 196
+hazard function Backup procedureshazard function Checkpoint/restarthazard function Fault-tolerance 4
+hazard function Verification 4
+hazard function Security and Protection 60
+hazard function Access controls 1
+hazard function Authenticationhazard function Cryptographic controlshazard function Information flow controls 68
+hazard function Invasive softwarehazard function Security kernelshazard function Verification 4
+hazard function Organization and Design 486
+hazard function Batch processing systems 66
+hazard function Distributed systems 94
+hazard function Hierarchical design 2
+hazard function Interactive systems 11
+hazard function Real-time systems and embedded systems 27
+hazard function Performance 278
+hazard function Measurements 226
+hazard function Modeling and prediction 3466
+hazard function Monitors 34
+hazard function Operational analysis 54
+hazard function Queueing theory 1
+hazard function Simulation 308
+hazard function Stochastic analysis 49
+hazard function Command and control languages 6
+hazard function Linkershazard function Loaders 8
+hazard function Window managers 1
+hazard function Miscellaneoushazard function MISCELLANEOUShazard function Software 44
+hazard function GENERAL 468
+hazard function DATA STRUCTURES 90
+hazard function Arrays 9
+hazard function Distributed data structures 555
+hazard function Graphs and networks 89
+hazard function Lists, stacks, and queueshazard function Records 73
+hazard function Tables 67
+hazard function Trees 21
+hazard function DATA STORAGE REPRESENTATIONS 55
+hazard function Composite structures 1
+hazard function Contiguous representationshazard function Hash-table representations 7
+hazard function Linked representations 3
+hazard function Object representation 2
+hazard function Primitive data items 12
+hazard function DATA ENCRYPTIONhazard function Code breakinghazard function Data encryption standard 125
+hazard function Public key cryptosystems 6
+hazard function Standards 174
+hazard function CODING AND INFORMATION THEORY 61
+hazard function Data compaction and compression 16
+hazard function Error control codes 19
+hazard function Formal models of communication 142
+hazard function Nonsecret encoding schemeshazard function FILES 6
+hazard function Backup/recoveryhazard function Optimization 113
+hazard function Organization/structure 2
+hazard function Sorting/searchinghazard function MISCELLANEOUShazard function GENERAL 468
+hazard function COMPUTATION BY ABSTRACT DEVICES 17
+hazard function General 468
+hazard function Models of Computation 3213
+hazard function Automatahazard function Bounded-action deviceshazard function Computability theory 39
+hazard function Relations between models 1926
+hazard function Self-modifying machines 7
+hazard function Unbounded-action deviceshazard function Modes of Computation 359
+hazard function Alternation and nondeterminism 143
+hazard function Interactive and reactive computation 17
+hazard function Online computation 1
+hazard function Parallelism and concurrency 58
+hazard function Probabilistic computation 2
+hazard function Relations among modes 103
+hazard function Relativized computationhazard function Complexity Measures and Classes 93
+hazard function Complexity hierarchieshazard function Machine-independent complexity 23
+hazard function Reducibility and completeness 304
+hazard function Relations among complexity classes 81
+hazard function Relations among complexity measures 138
+hazard function Miscellaneoushazard function ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 150
+hazard function General 468
+hazard function Numerical Algorithms and Problems 263
+hazard function Computation of transforms 501
+hazard function Computations in finite fields 83
+hazard function Computations on matrices 253
+hazard function Computations on polynomials 408
+hazard function Number-theoretic computations 91
+hazard function Nonnumerical Algorithms and Problems 34
+hazard function Computations on discrete structures 86
+hazard function Geometrical problems and computations 59
+hazard function Pattern matching 8
+hazard function Routing and layouthazard function Sequencing and scheduling 66
+hazard function Sorting and searching 54
+hazard function Tradeoffs between Complexity Measures 16
+hazard function Miscellaneoushazard function LOGICS AND MEANINGS OF PROGRAMS 157
+hazard function General 468
+hazard function Assertions 3
+hazard function Invariants 22
+hazard function Logics of programs 617
+hazard function Mechanical verification 1
+hazard function Pre- and post-conditions 35
+hazard function Specification techniques 41
+hazard function Semantics of Programming Languages 61
+hazard function Algebraic approaches to semantics 16
+hazard function Denotational semanticshazard function Operational semanticshazard function Partial evaluation 23
+hazard function Process models 289
+hazard function Program analysis 33
+hazard function Studies of Program Constructs 199
+hazard function Control primitiveshazard function Functional constructs 120
+hazard function Object-oriented constructs 47
+hazard function Program and recursion schemes 201
+hazard function Type structure 36
+hazard function Miscellaneoushazard function MATHEMATICAL LOGIC AND FORMAL LANGUAGEShazard function General 468
+hazard function Mathematical Logichazard function Computability theory 39
+hazard function Computational logic 2
+hazard function Lambda calculus and related systems 2
+hazard function Logic and constraint programming 194
+hazard function Mechanical theorem proving 46
+hazard function Modal logichazard function Model theory 165
+hazard function Proof theory 20
+hazard function Recursive function theory 239
+hazard function Set theory 64
+hazard function Temporal logichazard function Grammars and Other Rewriting Systems 2
+hazard function Decision problems 14
+hazard function Grammar typeshazard function Parallel rewriting systems 12
+hazard function Parsinghazard function Thue systemshazard function Formal Languageshazard function Algebraic language theory 26
+hazard function Classes defined by grammars or automatahazard function Decision problems 14
+hazard function Operations on languages 191
+hazard function Miscellaneoushazard function MISCELLANEOUShazard function GENERAL 468
+hazard function NUMERICAL ANALYSIS 45
+hazard function General 468
+hazard function Computer arithmetic 1
+hazard function Conditioning 370
+hazard function Error analysis 65
+hazard function Interval arithmetichazard function Multiple precision arithmetic 2
+hazard function Numerical algorithms 16
+hazard function Parallel algorithms 6
+hazard function Stability 21
+hazard function Interpolation 5
+hazard function Difference formulas 35
+hazard function Extrapolation 8
+hazard function Interpolation formulashazard function Smoothing 123
+hazard function Approximation 174
+hazard function Chebyshev approximation and theory 41
+hazard function Elementary function approximation 192
+hazard function Fast Fourier transforms 13
+hazard function Least squares approximation 74
+hazard function Linear approximation 41
+hazard function Minimax approximation and algorithms 33
+hazard function Nonlinear approximation 11
+hazard function Rational approximation 3
+hazard function Special function approximations 343
+hazard function Spline and piecewise polynomial approximation 13
+hazard function Wavelets and fractals 20
+hazard function Numerical Linear Algebra 42
+hazard function Conditioning 370
+hazard function Determinants 218
+hazard function Eigenvalues and eigenvectors 1
+hazard function Error analysis 65
+hazard function Linear systems 19
+hazard function Matrix inversion 7
+hazard function Pseudoinverseshazard function Singular value decomposition 18
+hazard function Sparse, structured, and very large systemshazard function Quadrature and Numerical Differentiation 12
+hazard function Automatic differentiation 1
+hazard function Error analysis 65
+hazard function Finite difference methods 283
+hazard function Gaussian quadrature 2
+hazard function Iterative methods 36
+hazard function Multidimensional 9
+hazard function Roots of Nonlinear Equations 8
+hazard function Continuation 172
+hazard function Convergence 121
+hazard function Error analysis 65
+hazard function Iterative methods 36
+hazard function Polynomials, methods for 655
+hazard function Systems of equations 556
+hazard function Optimization 113
+hazard function Constrained optimization 4
+hazard function Convex programming 3
+hazard function Global optimization 6
+hazard function Gradient methods 9
+hazard function Integer programming 5
+hazard function Least squares methods 116
+hazard function Linear programming 4
+hazard function Nonlinear programming 2
+hazard function Quadratic programming methods 40
+hazard function Simulated annealing 1
+hazard function Stochastic programming 4
+hazard function Unconstrained optimizationhazard function Ordinary Differential Equations 35
+hazard function Boundary value problems 150
+hazard function Chaotic systemshazard function Convergence and stability 180
+hazard function Differential-algebraic equations 93
+hazard function Error analysis 65
+hazard function Finite difference methods 283
+hazard function Initial value problems 120
+hazard function Multistep and multivalue methodshazard function One-step 55
+hazard function Stiff equationshazard function Partial Differential Equations 80
+hazard function Domain decomposition methods 37
+hazard function Elliptic equationshazard function Finite difference methods 283
+hazard function Finite element methods 114
+hazard function Finite volume methods 65
+hazard function Hyperbolic equations 2
+hazard function Inverse problems 14
+hazard function Iterative solution techniques 80
+hazard function Method of lines 1478
+hazard function Multigrid and multilevel methods 1
+hazard function Parabolic equationshazard function Spectral methods 3
+hazard function Integral Equations 26
+hazard function Delay equations 6
+hazard function Fredholm equations 1
+hazard function Integro-differential equations 52
+hazard function Volterra equations 1
+hazard function Applications 294
+hazard function Miscellaneoushazard function DISCRETE MATHEMATICS 10
+hazard function General 468
+hazard function Combinatoricshazard function Combinatorial algorithms 1
+hazard function Counting problems 15
+hazard function Generating functions 468
+hazard function Permutations and combinations 128
+hazard function Recurrences and difference equations 75
+hazard function Graph Theory 1
+hazard function Graph algorithms 3
+hazard function Graph labelinghazard function Hypergraphshazard function Network problems 9
+hazard function Path and circuit problems 22
+hazard function Trees 21
+hazard function Applications 294
+hazard function Miscellaneoushazard function PROBABILITY AND STATISTICS 868
+hazard function Contingency table analysis 53
+hazard function Correlation and regression analysis 288
+hazard function Distribution functions 650
+hazard function Experimental design 7
+hazard function Markov processes 42
+hazard function Multivariate statistics 47
+hazard function Nonparametric statistics 131
+hazard function Probabilistic algorithms 1
+hazard function Queueing theory 1
+hazard function Random number generation 233
+hazard function Reliability and life testing 120
+hazard function Renewal theory 9
+hazard function Robust regression 21
+hazard function Statistical computing 126
+hazard function Statistical software 25
+hazard function Stochastic processes 60
+hazard function Survival analysis 329
+hazard function Time series analysis 516
+hazard function MATHEMATICAL SOFTWARE 1
+hazard function Algorithm design and analysis 167
+hazard function Certification and testing 282
+hazard function Documentation 2
+hazard function Efficiency 114
+hazard function Parallel and vector implementations 8
+hazard function Portabilityhazard function Reliability and robustness 264
+hazard function User interfaces 3
+hazard function Verification 4
+hazard function MISCELLANEOUShazard function Queueing 3
+hazard function GENERAL 468
+hazard function MODELS AND PRINCIPLES 1418
+hazard function General 468
+hazard function Systems and Information Theory 213
+hazard function General systems theory 411
+hazard function Information theory 40
+hazard function Value of information 1136
+hazard function User/Machine Systems 28
+hazard function Human factors 21
+hazard function Human information processing 133
+hazard function Software psychology 1
+hazard function Miscellaneoushazard function DATABASE MANAGEMENT 4
+hazard function General 468
+hazard function Security, integrity, and protection 15
+hazard function Logical Design 2
+hazard function Data models 686
+hazard function Normal forms 50
+hazard function Schema and subschema 1
+hazard function Physical Design 8
+hazard function Access methods 6
+hazard function Deadlock avoidancehazard function Recovery and restart 13
+hazard function Languages 6
+hazard function Data description languages 69
+hazard function Data manipulation languages 30
+hazard function Database 29
+hazard function Query languageshazard function Report writershazard function Systems 178
+hazard function Concurrency 5
+hazard function Distributed databases 12
+hazard function Multimedia databaseshazard function Object-oriented databases 22
+hazard function Parallel databaseshazard function Query processinghazard function Relational databases 4
+hazard function Rule-based databases 33
+hazard function Textual databaseshazard function Transaction processing 10
+hazard function Heterogeneous Databases 6
+hazard function Data translation 2
+hazard function Program translationhazard function Database Machineshazard function Database Administration 2
+hazard function Data dictionary/directoryhazard function Data warehouse and repository 2
+hazard function Logging and recovery 165
+hazard function Security, integrity, and protection 15
+hazard function Database Applications 6
+hazard function Data mining 5
+hazard function Image databases 1
+hazard function Scientific databases 1
+hazard function Spatial databases and GIS 7
+hazard function Statistical databases 11
+hazard function Miscellaneoushazard function INFORMATION STORAGE AND RETRIEVAL 10
+hazard function General 468
+hazard function Content Analysis and Indexing 35
+hazard function Abstracting methods 16
+hazard function Dictionarieshazard function Indexing methods 32
+hazard function Linguistic processinghazard function Thesauruseshazard function Information Storage 1
+hazard function File organization 1
+hazard function Record classification 2
+hazard function Information Search and Retrieval 46
+hazard function Clustering 49
+hazard function Information filtering 1
+hazard function Query formulationhazard function Relevance feedbackhazard function Retrieval models 3
+hazard function Search process 14
+hazard function Selection process 55
+hazard function Systems and Software 452
+hazard function Current awareness systems 34
+hazard function Distributed systems 94
+hazard function Information networks 18
+hazard function Performance evaluation 75
+hazard function Question-answering 14
+hazard function Online Information Services 21
+hazard function Commercial serviceshazard function Data sharing 23
+hazard function Web-based services 56
+hazard function Library Automationhazard function Large text archives 3
+hazard function Digital Librarieshazard function Collection 65
+hazard function Dissemination 3
+hazard function Standards 174
+hazard function Systems issues 8
+hazard function User issues 3
+hazard function Miscellaneoushazard function INFORMATION SYSTEMS APPLICATIONS 422
+hazard function General 468
+hazard function Office Automationhazard function Desktop publishinghazard function Equipment 15
+hazard function Groupwarehazard function Spreadsheetshazard function Time management 43
+hazard function Word processing 7
+hazard function Workflow managementhazard function Types of Systems 1237
+hazard function Decision support 10
+hazard function Logistics 77
+hazard function Communications Applications 28
+hazard function Bulletin boards 1
+hazard function Computer conferencing, teleconferencing, and videoconferencinghazard function Electronic mailhazard function Information browsershazard function Videotexhazard function Miscellaneoushazard function INFORMATION INTERFACES AND PRESENTATION 145
+hazard function General 468
+hazard function Multimedia Information Systems 43
+hazard function Animations 23
+hazard function Artificial, augmented, and virtual realitieshazard function Audio input/output 11
+hazard function Evaluation/methodology 22
+hazard function Videohazard function User Interfaces 3
+hazard function Auditory 10
+hazard function Benchmarking 6
+hazard function Ergonomicshazard function Evaluation/methodology 22
+hazard function Graphical user interfaces 13
+hazard function Haptic I/O 17
+hazard function Input devices and strategies 3
+hazard function Interaction styleshazard function Natural language 1
+hazard function Prototyping 1
+hazard function Screen design 3
+hazard function Standardization 174
+hazard function Style guideshazard function Theory and methods 16554
+hazard function Training, help, and documentation 2
+hazard function User-centered design 22
+hazard function User interface management systems 16
+hazard function Voice I/O 18
+hazard function Windowing systems 2
+hazard function Group and Organization Interfaces 340
+hazard function Asynchronous interactionhazard function Collaborative computinghazard function Computer-supported cooperative work 10
+hazard function Evaluation/methodology 22
+hazard function Organizational design 1
+hazard function Synchronous interactionhazard function Theory and models 13274
+hazard function Web-based interaction 42
+hazard function Hypertext/Hypermediahazard function Architectures 9
+hazard function Navigation 1
+hazard function Theory 199
+hazard function User issues 3
+hazard function Sound and Music Computing 5
+hazard function Methodologies and techniques 288
+hazard function Modeling 1035
+hazard function Systems 178
+hazard function Miscellaneoushazard function MISCELLANEOUShazard function GENERAL 468
+hazard function SYMBOLIC AND ALGEBRAIC MANIPULATION 13
+hazard function General 468
+hazard function Expressions and Their Representation 114
+hazard function Representations 62
+hazard function Simplification of expressions 128
+hazard function Algorithms 118
+hazard function Algebraic algorithms 1
+hazard function Analysis of algorithms 2027
+hazard function Nonalgebraic algorithmshazard function Languages and Systems 1664
+hazard function Evaluation strategies 13
+hazard function Nonprocedural languageshazard function Special-purpose algebraic systems 1
+hazard function Special-purpose hardware 6
+hazard function Substitution mechanisms 4
+hazard function Applications 294
+hazard function Miscellaneoushazard function ARTIFICIAL INTELLIGENCE 1
+hazard function General 468
+hazard function Cognitive simulation 2
+hazard function Philosophical foundationshazard function Applications and Expert Systems 50
+hazard function Cartographyhazard function Games 5
+hazard function Industrial automation 2
+hazard function Law 48
+hazard function Medicine and science 158
+hazard function Natural language interfaces 11
+hazard function Office automationhazard function Automatic Programminghazard function Automatic analysis of algorithms 108
+hazard function Program modificationhazard function Program synthesishazard function Program transformation 3
+hazard function Program verificationhazard function Deduction and Theorem Proving 40
+hazard function Answer/reason extraction 3
+hazard function Deduction 1
+hazard function Inference engines 8
+hazard function Logic programminghazard function Mathematical induction 1
+hazard function Metatheoryhazard function Nonmonotonic reasoning and belief revisionhazard function Resolution 5
+hazard function Knowledge Representation Formalisms and Methods 12
+hazard function Frames and scripts 5
+hazard function Modal logichazard function Predicate logichazard function Relation systems 33
+hazard function Representation languages 1
+hazard function Representations 62
+hazard function Semantic networkshazard function Temporal logichazard function Programming Languages and Software 582
+hazard function Expert system tools and techniques 10
+hazard function Learning 25
+hazard function Analogies 2
+hazard function Concept learning 1
+hazard function Connectionism and neural nets 3
+hazard function Induction 12
+hazard function Knowledge acquisition 1
+hazard function Language acquisitionhazard function Parameter learning 5
+hazard function Natural Language Processing 70
+hazard function Discoursehazard function Language generation 4
+hazard function Language models 5
+hazard function Language parsing and understanding 6
+hazard function Machine translationhazard function Speech recognition and synthesis 1
+hazard function Text analysis 7
+hazard function Problem Solving, Control Methods, and Search 4
+hazard function Backtrackinghazard function Control theory 15
+hazard function Dynamic programming 8
+hazard function Graph and tree search strategies 1
+hazard function Heuristic methods 6
+hazard function Plan execution, formation, and generation 2
+hazard function Scheduling 20
+hazard function Robotics 2
+hazard function Autonomous vehicleshazard function Kinematics and dynamics 107
+hazard function Manipulators 4
+hazard function Operator interfaceshazard function Propelling mechanismshazard function Sensors 7
+hazard function Vision and Scene Understanding 1
+hazard function Architecture and control structures 104
+hazard function Motion 9
+hazard function Perceptual reasoning 1
+hazard function Shape 166
+hazard function Texture 1
+hazard function Video analysishazard function Distributed Artificial Intelligence 18
+hazard function Coherence and coordination 31
+hazard function Intelligent agentshazard function Languages and structures 994
+hazard function Multiagent systemshazard function Miscellaneoushazard function COMPUTER GRAPHICS 19
+hazard function General 468
+hazard function Hardware Architecture 1
+hazard function Graphics processorshazard function Hardcopy deviceshazard function Input deviceshazard function Parallel processing 9
+hazard function Raster display devices 1
+hazard function Storage deviceshazard function Three-dimensional displays 25
+hazard function Vector display devices 4
+hazard function Graphics Systems 6
+hazard function Distributed/network graphics 72
+hazard function Remote systems 3
+hazard function Stand-alone systems 5
+hazard function Picture/Image Generation 10
+hazard function Antialiasinghazard function Bitmap and framebuffer operationshazard function Digitizing and scanning 17
+hazard function Display algorithms 1
+hazard function Line and curve generation 58
+hazard function Viewing algorithms 8
+hazard function Graphics Utilities 2
+hazard function Application packages 7
+hazard function Device drivershazard function Graphics editors 1
+hazard function Graphics packages 2
+hazard function Meta fileshazard function Paint systemshazard function Picture description languages 2
+hazard function Software support 4
+hazard function Virtual device interfaces 3
+hazard function Computational Geometry and Object Modeling 27
+hazard function Boundary representationshazard function Constructive solid geometry 2
+hazard function Curve, surface, solid, and object representationshazard function Geometric algorithms, languages, and systems 2
+hazard function Hierarchy and geometric transformations 6
+hazard function Modeling packages 17
+hazard function Object hierarchieshazard function Physically based modeling 500
+hazard function Splines 62
+hazard function Methodology and Techniques 288
+hazard function Device independence 3
+hazard function Ergonomicshazard function Graphics data structures and data types 59
+hazard function Interaction techniques 9
+hazard function Languages 6
+hazard function Standards 174
+hazard function Three-Dimensional Graphics and Realism 2
+hazard function Animation 23
+hazard function Color, shading, shadowing, and texturehazard function Fractals 5
+hazard function Hidden line/surface removal 2
+hazard function Radiosityhazard function Raytracinghazard function Virtual realityhazard function Visible line/surface algorithmshazard function Applications 294
+hazard function Miscellaneoushazard function IMAGE PROCESSING AND COMPUTER VISION 27
+hazard function General 468
+hazard function Image displays 1
+hazard function Image processing software 163
+hazard function Digitization and Image Capture 3
+hazard function Camera calibrationhazard function Imaging geometry 1
+hazard function Quantizationhazard function Radiometryhazard function Reflectance 48
+hazard function Sampling 295
+hazard function Scanning 6
+hazard function Compression 2
+hazard function Approximate methods 105
+hazard function Exact coding 1
+hazard function Enhancement 22
+hazard function Filtering 15
+hazard function Geometric correction 3
+hazard function Grayscale manipulationhazard function Registration 4
+hazard function Sharpening and deblurring 1
+hazard function Smoothing 123
+hazard function Restoration 6
+hazard function Inverse filtering 1
+hazard function Kalman filtering 5
+hazard function Pseudoinverse restorationhazard function Wiener filteringhazard function Reconstruction 7
+hazard function Series expansion methods 133
+hazard function Summation methods 2
+hazard function Transform methods 50
+hazard function Segmentation 26
+hazard function Edge and feature detection 13
+hazard function Pixel classificationhazard function Region growing, partitioning 3
+hazard function Relaxation 17
+hazard function Feature Measurement 21
+hazard function Feature representation 4
+hazard function Invariants 22
+hazard function Moments 47
+hazard function Projections 29
+hazard function Size and shape 316
+hazard function Texture 1
+hazard function Scene Analysishazard function Color 8
+hazard function Depth cues 1
+hazard function Motion 9
+hazard function Object recognition 1
+hazard function Photometry 1
+hazard function Range data 54
+hazard function Sensor fusionhazard function Shading 2
+hazard function Shape 166
+hazard function Stereohazard function Surface fitting 2
+hazard function Time-varying imagery 55
+hazard function Tracking 7
+hazard function Applications 294
+hazard function Image Representationhazard function Hierarchical 20
+hazard function Morphological 1
+hazard function Multidimensional 9
+hazard function Statistical 579
+hazard function Volumetrichazard function Miscellaneoushazard function PATTERN RECOGNITION 7
+hazard function General 468
+hazard function Models 1035
+hazard function Deterministic 16
+hazard function Fuzzy sethazard function Geometric 27
+hazard function Neural nets 4
+hazard function Statistical 579
+hazard function Structural 142
+hazard function Design Methodology 21
+hazard function Classifier design and evaluation 64
+hazard function Feature evaluation and selection 122
+hazard function Pattern analysis 68
+hazard function Clustering 49
+hazard function Algorithms 118
+hazard function Similarity measures 59
+hazard function Applications 294
+hazard function Computer visionhazard function Signal processing 20
+hazard function Text processing 4
+hazard function Waveform analysishazard function Implementation 28
+hazard function Interactive systems 11
+hazard function Special architectures 2
+hazard function Miscellaneoushazard function SIMULATION AND MODELING 1898
+hazard function General 468
+hazard function Simulation Theory 54
+hazard function Model classification 16
+hazard function Systems theory 21
+hazard function Types of simulation 976
+hazard function Simulation Languages 3
+hazard function Applications 294
+hazard function Model Validation and Analysis 1015
+hazard function Model Development 296
+hazard function Modeling methodologies 89
+hazard function Simulation Output Analysis 234
+hazard function Simulation Support Systems 185
+hazard function Environments 46
+hazard function Types of Simulation 976
+hazard function Animation 23
+hazard function Combined 125
+hazard function Continuous 172
+hazard function Discrete event 20
+hazard function Distributed 650
+hazard function Gaming 5
+hazard function Monte Carlo 90
+hazard function Parallel 30
+hazard function Visual 30
+hazard function Miscellaneoushazard function DOCUMENT AND TEXT PROCESSING 14
+hazard function General 468
+hazard function Document and Text Editing 1
+hazard function Document management 3
+hazard function Languages 6
+hazard function Spelling 40
+hazard function Version control 3
+hazard function Document Preparationhazard function Desktop publishinghazard function Format and notation 25
+hazard function Hypertext/hypermediahazard function Index generation 24
+hazard function Languages and systems 1664
+hazard function Markup languageshazard function Multi/mixed media 3
+hazard function Scripting languageshazard function Standards 174
+hazard function Index Generation 24
+hazard function Electronic Publishinghazard function Document Capture 1
+hazard function Document analysis 10
+hazard function Optical character recognition 1
+hazard function Scanning 6
+hazard function Miscellaneoushazard function MISCELLANEOUShazard function GENERAL 468
+hazard function ADMINISTRATIVE DATA PROCESSING 233
+hazard function Business 30
+hazard function Education 32
+hazard function Financial 31
+hazard function Government 23
+hazard function Law 48
+hazard function Manufacturing 34
+hazard function Marketing 100
+hazard function Military 7
+hazard function PHYSICAL SCIENCES AND ENGINEERING 25
+hazard function Aerospacehazard function Archaeologyhazard function Astronomy 1
+hazard function Chemistryhazard function Earth and atmospheric sciences 110
+hazard function Electronics 15
+hazard function Engineering 76
+hazard function Mathematics and statistics 641
+hazard function Physics 51
+hazard function LIFE AND MEDICAL SCIENCES 59
+hazard function Biology and genetics 83
+hazard function Health 104
+hazard function Medical information systems 69
+hazard function SOCIAL AND BEHAVIORAL SCIENCES 38
+hazard function Economics 145
+hazard function Psychology 16
+hazard function Sociology 1
+hazard function ARTS AND HUMANITIES 75
+hazard function Architecture 9
+hazard function Fine arts 1
+hazard function Language translationhazard function Linguisticshazard function Literature 136
+hazard function Music 1
+hazard function Performing arts 1
+hazard function COMPUTER-AIDED ENGINEERING 36
+hazard function Computer-aided design 54
+hazard function Computer-aided manufacturing 10
+hazard function COMPUTERS IN OTHER SYSTEMS 372
+hazard function Command and control 94
+hazard function Consumer products 11
+hazard function Industrial control 7
+hazard function Military 7
+hazard function Process control 27
+hazard function Publishing 39
+hazard function Real time 103
+hazard function MISCELLANEOUShazard function GENERAL 468
+hazard function THE COMPUTER INDUSTRY 1021
+hazard function Markets 100
+hazard function Standards 174
+hazard function Statistics 579
+hazard function Suppliers 2
+hazard function HISTORY OF COMPUTING 294
+hazard function Hardware 4
+hazard function People 20
+hazard function Software 44
+hazard function Systems 178
+hazard function Theory 199
+hazard function COMPUTERS AND EDUCATION 278
+hazard function General 468
+hazard function Computer Uses in Education 210
+hazard function Collaborative learninghazard function Computer-assisted instruction 7
+hazard function Computer-managed instruction 19
+hazard function Distance learninghazard function Computer and Information Science Education 9
+hazard function Accreditation 1
+hazard function Computer science education 34
+hazard function Curriculumhazard function Information systems education 71
+hazard function Literacyhazard function Self-assessment 5
+hazard function Miscellaneoushazard function Accreditation 1
+hazard function Computer 227
+hazard function COMPUTERS AND SOCIETY 305
+hazard function General 468
+hazard function Public Policy Issues 16
+hazard function Computer-related health issues 18
+hazard function Ethics 1
+hazard function Human safety 6
+hazard function Intellectual property rights 43
+hazard function Privacyhazard function Regulation 9
+hazard function Transborder data flow 13
+hazard function Social Issues 3
+hazard function Assistive technologies for persons with disabilities 1
+hazard function Employment 35
+hazard function Handicapped persons/special needshazard function Organizational Impactshazard function Automation 10
+hazard function Computer-supported collaborative work 12
+hazard function Employment 35
+hazard function Reengineeringhazard function Electronic Commercehazard function Electronic data interchange 12
+hazard function Intellectual property 1
+hazard function Payment schemeshazard function Security 14
+hazard function Miscellaneoushazard function LEGAL ASPECTS OF COMPUTING 13
+hazard function General 468
+hazard function Hardware/Software Protection 7
+hazard function Copyrights 57
+hazard function Licensing 1
+hazard function Patents 3
+hazard function Proprietary rightshazard function Trade secretshazard function Governmental Issueshazard function Censorship 28
+hazard function Regulation 9
+hazard function Taxationhazard function Miscellaneoushazard function Contracts 22
+hazard function Hardware 4
+hazard function MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 47
+hazard function General 468
+hazard function Economics 145
+hazard function Project and People Management 19
+hazard function Life cycle 15
+hazard function Management techniques 10
+hazard function Staffinghazard function Strategic information systems planning 9
+hazard function Systems analysis and design 336
+hazard function Systems development 61
+hazard function Training 13
+hazard function Installation Management 1
+hazard function Benchmarks 6
+hazard function Computer selection 41
+hazard function Pricing and resource allocation 7
+hazard function Software Management 2
+hazard function Software development 15
+hazard function Software maintenancehazard function Software process 12
+hazard function Software selection 10
+hazard function System Management 22
+hazard function Centralization/decentralizationhazard function Management audithazard function Quality assurancehazard function Security and Protection 60
+hazard function Authenticationhazard function Insurance 22
+hazard function Invasive softwarehazard function Physical securityhazard function Unauthorized accesshazard function Miscellaneoushazard function Insurance 22
+hazard function Security 14
+hazard function THE COMPUTING PROFESSION 232
+hazard function General 468
+hazard function Occupations 14
+hazard function Organizations 40
+hazard function Testing, Certification, and Licensing 2
+hazard function Professional Ethicshazard function Codes of ethics 23
+hazard function Codes of good practice 27
+hazard function Ethical dilemmashazard function Miscellaneoushazard function Codes 21
+hazard function Ethics 1
+hazard function PERSONAL COMPUTING 3
+hazard function Games 5
+hazard function General 468
+hazard function Games 5
+hazard function Application Packages 7
+hazard function Data communications 61
+hazard function Database processing 6
+hazard function Freeware/sharewarehazard function Graphics 63
+hazard function Spreadsheetshazard function Word processing 7
+hazard function Hardware 4
+hazard function Management/Maintenance 8
+hazard function Miscellaneoushazard function MISCELLANEOUSUML component models GENERAL 2
+UML component models Biographies autobiographiesUML component models Conference proceedings 1
+UML component models INTRODUCTORY AND SURVEYUML component models REFERENCEUML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models CONTROL STRUCTURES AND MICROPROGRAMMINGUML component models General 2
+UML component models Control Design StylesUML component models Hardwired controlUML component models Writable control storeUML component models Automatic synthesis 1
+UML component models Formal models 10
+UML component models SimulationUML component models Control Structure Reliability, Testing, and Fault-ToleranceUML component models DiagnosticsUML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models Firmware engineering 2
+UML component models Languages and compilers 5
+UML component models OptimizationUML component models VerificationUML component models Direct data manipulationUML component models Instruction set interpretationUML component models Peripheral controlUML component models Special-purposeUML component models MiscellaneousUML component models General 2
+UML component models Design Styles 3
+UML component models Calculator 1
+UML component models ParallelUML component models PipelineUML component models Performance Analysis and Design Aids 1
+UML component models SimulationUML component models VerificationUML component models Worst-case analysisUML component models Reliability, Testing, and Fault-ToleranceUML component models DiagnosticsUML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models High-Speed ArithmeticUML component models AlgorithmsUML component models Cost/performance 3
+UML component models MiscellaneousUML component models MEMORY STRUCTURESUML component models General 2
+UML component models Semiconductor MemoriesUML component models Dynamic memory 1
+UML component models Read-only memoryUML component models Static memoryUML component models Design Styles 3
+UML component models Associative memories 1
+UML component models Cache memoriesUML component models Interleaved memoriesUML component models Mass storageUML component models Primary memoryUML component models Sequential-access memoryUML component models Shared memoryUML component models Virtual memoryUML component models Performance Analysis and Design Aids 1
+UML component models Formal models 10
+UML component models SimulationUML component models Worst-case analysisUML component models Reliability, Testing, and Fault-ToleranceUML component models DiagnosticsUML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models MiscellaneousUML component models INPUT/OUTPUT AND DATA COMMUNICATIONSUML component models General 2
+UML component models Data Communications DevicesUML component models Processors 1
+UML component models ReceiversUML component models TransmittersUML component models Input/Output DevicesUML component models Channels and controllers 1
+UML component models Image displayUML component models VoiceUML component models InterconnectionsUML component models Asynchronous/synchronous operationUML component models Fiber opticsUML component models Interfaces 1
+UML component models Parallel I/OUML component models Physical structures 3
+UML component models TopologyUML component models Performance Analysis and Design Aids 1
+UML component models Formal models 10
+UML component models SimulationUML component models VerificationUML component models Worst-case analysisUML component models Reliability, Testing, and Fault-ToleranceUML component models Built-in tests 1
+UML component models DiagnosticsUML component models Error-checking 2
+UML component models Hardware reliabilityUML component models Redundant design 3
+UML component models Test generation 4
+UML component models MiscellaneousUML component models REGISTER-TRANSFER-LEVEL IMPLEMENTATIONUML component models General 2
+UML component models Design 3
+UML component models Arithmetic and logic unitsUML component models Control design 3
+UML component models Data-path designUML component models Memory design 3
+UML component models StylesUML component models Design Aids 3
+UML component models Automatic synthesis 1
+UML component models Hardware description languagesUML component models OptimizationUML component models SimulationUML component models VerificationUML component models Reliability and TestingUML component models Built-in tests 1
+UML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models TestabilityUML component models MiscellaneousUML component models LOGIC DESIGN 3
+UML component models General 2
+UML component models Design Styles 3
+UML component models Combinational logic 1
+UML component models Logic arraysUML component models Parallel circuitsUML component models Sequential circuitsUML component models Reliability and TestingUML component models Built-in tests 1
+UML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models TestabilityUML component models Design Aids 3
+UML component models Automatic synthesis 1
+UML component models Hardware description languagesUML component models OptimizationUML component models SimulationUML component models Switching theoryUML component models VerificationUML component models MiscellaneousUML component models INTEGRATED CIRCUITSUML component models General 2
+UML component models Types and Design Styles 1
+UML component models Advanced technologies 2
+UML component models Algorithms implemented in hardwareUML component models Gate arrays 1
+UML component models Input/output circuitsUML component models Memory technologies 2
+UML component models Microprocessors and microcomputersUML component models Standard cellsUML component models VLSIUML component models Design Aids 3
+UML component models GraphicsUML component models LayoutUML component models Placement and routingUML component models SimulationUML component models VerificationUML component models Reliability and TestingUML component models Built-in tests 1
+UML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models TestabilityUML component models MiscellaneousUML component models PERFORMANCE AND RELIABILITY 3
+UML component models General 2
+UML component models Reliability, Testing, and Fault-ToleranceUML component models Performance Analysis and Design Aids 1
+UML component models MiscellaneousUML component models MISCELLANEOUSUML component models Design 3
+UML component models GENERAL 2
+UML component models Hardware/software interfaces 1
+UML component models Instruction set design 1
+UML component models Modeling of computer architecture 2
+UML component models System architectures 4
+UML component models Systems specification methodology 3
+UML component models PROCESSOR ARCHITECTURES 3
+UML component models General 2
+UML component models Single Data Stream ArchitecturesUML component models Pipeline processors 1
+UML component models RISC/CISC, VLIW architecturesUML component models Von Neumann architecturesUML component models Multiple Data Stream ArchitecturesUML component models Array and vector processorsUML component models Associative processors 1
+UML component models Connection machinesUML component models Interconnection architectures 2
+UML component models Multiple-instruction-stream, multiple-data-stream processorsUML component models Parallel processors 1
+UML component models Pipeline processors 1
+UML component models Single-instruction-stream, multiple-data-stream processorsUML component models Other Architecture Styles 1
+UML component models Adaptable architectures 4
+UML component models Analog computers 1
+UML component models Capability architectures 5
+UML component models Cellular architecture 2
+UML component models Data-flow architecturesUML component models HeterogeneousUML component models High-level language architecturesUML component models Neural netsUML component models Pipeline processors 1
+UML component models Stack-oriented processorsUML component models Parallel Architectures 3
+UML component models Distributed architectures 4
+UML component models Mobile processors 1
+UML component models MiscellaneousUML component models AnalogUML component models HybridUML component models COMPUTER-COMMUNICATION NETWORKS 1
+UML component models General 2
+UML component models Data communications 2
+UML component models Open Systems Interconnection reference modelUML component models Security and protectionUML component models Network Architecture and Design 3
+UML component models Asynchronous Transfer ModeUML component models Centralized networks 1
+UML component models Circuit-switching networksUML component models Distributed networks 1
+UML component models Frame relay networksUML component models ISDNUML component models Network communications 1
+UML component models Network topology 1
+UML component models Packet-switching networksUML component models Store and forward networksUML component models Wireless communication 1
+UML component models Network Protocols 1
+UML component models Applications 1
+UML component models Protocol architecture 2
+UML component models Protocol verificationUML component models Routing protocolsUML component models Network Operations 1
+UML component models Network management 1
+UML component models Network monitoring 1
+UML component models Public networks 1
+UML component models Distributed Systems 5
+UML component models Client/server 1
+UML component models Distributed applications 3
+UML component models Distributed databases 2
+UML component models Network operating systems 1
+UML component models Local and Wide-Area NetworksUML component models Access schemesUML component models BusesUML component models EthernetUML component models High-speedUML component models InternetUML component models Token ringsUML component models InternetworkingUML component models RoutersUML component models StandardsUML component models MiscellaneousUML component models SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMSUML component models Microprocessor/microcomputer applicationsUML component models Process control systems 1
+UML component models Real-time and embedded systems 1
+UML component models Signal processing systems 2
+UML component models SmartcardsUML component models PERFORMANCE OF SYSTEMS 11
+UML component models Design studies 8
+UML component models Fault tolerance 2
+UML component models Measurement techniques 2
+UML component models Modeling techniques 7
+UML component models Performance attributes 5
+UML component models Reliability, availability, and serviceabilityUML component models COMPUTER SYSTEM IMPLEMENTATION 1
+UML component models General 2
+UML component models Large and MediumUML component models SuperUML component models MinicomputersUML component models MicrocomputersUML component models MicroprocessorsUML component models Personal computersUML component models Portable devicesUML component models WorkstationsUML component models VLSI Systems 3
+UML component models Servers 1
+UML component models MiscellaneousUML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models PROGRAMMING TECHNIQUES 2
+UML component models General 2
+UML component models Applicative 1
+UML component models Automatic Programming 4
+UML component models Concurrent Programming 1
+UML component models Distributed programming 1
+UML component models Parallel programming 2
+UML component models Sequential Programming 1
+UML component models Object-oriented ProgrammingUML component models Logic Programming 1
+UML component models Visual Programming 1
+UML component models MiscellaneousUML component models SOFTWARE ENGINEERING 5
+UML component models General 2
+UML component models Protection mechanisms 1
+UML component models StandardsUML component models Requirements/Specifications 4
+UML component models Elicitation methodsUML component models Languages 3
+UML component models MethodologiesUML component models Tools 1
+UML component models Design Tools and Techniques 2
+UML component models Computer-aided software engineeringUML component models Decision tablesUML component models Evolutionary prototypingUML component models Flow chartsUML component models Modules and interfaces 1
+UML component models Object-oriented design methodsUML component models Petri netsUML component models Programmer workbenchUML component models Software libraries 4
+UML component models State diagrams 1
+UML component models Structured programming 3
+UML component models Top-down programmingUML component models User interfaces 2
+UML component models Coding Tools and Techniques 1
+UML component models Object-oriented programmingUML component models Pretty printersUML component models Program editors 1
+UML component models Reentrant code 1
+UML component models StandardsUML component models Structured programming 3
+UML component models Top-down programmingUML component models Software/Program Verification 1
+UML component models Assertion checkersUML component models Class invariants 1
+UML component models Correctness proofsUML component models Formal methods 3
+UML component models Model checking 6
+UML component models Programming by contract 1
+UML component models ReliabilityUML component models Statistical methodsUML component models ValidationUML component models Testing and DebuggingUML component models Code inspections and walk-throughsUML component models Debugging aidsUML component models DiagnosticsUML component models Distributed debuggingUML component models DumpsUML component models Error handling and recovery 1
+UML component models MonitorsUML component models Symbolic execution 1
+UML component models Testing tools 4
+UML component models TracingUML component models Programming Environments 1
+UML component models Graphical environmentsUML component models Integrated environmentsUML component models Interactive environments 1
+UML component models Programmer workbenchUML component models Distribution, Maintenance, and EnhancementUML component models CorrectionsUML component models DocumentationUML component models Enhancement 1
+UML component models Extensibility 2
+UML component models PortabilityUML component models Restructuring, reverse engineering, and reengineeringUML component models Version control 2
+UML component models MetricsUML component models Complexity measures 2
+UML component models Performance measures 3
+UML component models Process metricsUML component models Product metrics 2
+UML component models Software science 4
+UML component models ManagementUML component models CopyrightsUML component models Cost estimation 1
+UML component models Life cycleUML component models Productivity 2
+UML component models Programming teams 1
+UML component models Software configuration management 1
+UML component models Software process models 4
+UML component models Software quality assuranceUML component models Time estimation 2
+UML component models Design 3
+UML component models MethodologiesUML component models RepresentationUML component models Software Architectures 6
+UML component models Data abstraction 4
+UML component models Domain-specific architectures 4
+UML component models Information hidingUML component models Languages 3
+UML component models PatternsUML component models InteroperabilityUML component models Data mappingUML component models Distributed objects 2
+UML component models Interface definition languages 1
+UML component models Reusable Software 4
+UML component models Domain engineering 4
+UML component models Reusable libraries 1
+UML component models Reuse models 6
+UML component models MiscellaneousUML component models Rapid 2
+UML component models ReusableUML component models PROGRAMMING LANGUAGES 4
+UML component models General 2
+UML component models StandardsUML component models Formal Definitions and TheoryUML component models SemanticsUML component models SyntaxUML component models Language Classifications 3
+UML component models Applicative 1
+UML component models Concurrent, distributed, and parallel languagesUML component models Constraint and logic languages 1
+UML component models Data-flow languagesUML component models Design languages 7
+UML component models Extensible languages 6
+UML component models Microprogramming languages 3
+UML component models Multiparadigm languages 3
+UML component models Nondeterministic languages 3
+UML component models Nonprocedural languages 3
+UML component models Object-oriented languagesUML component models Specialized application languagesUML component models Very high-level languagesUML component models Language Constructs and Features 3
+UML component models Abstract data types 1
+UML component models Classes and objects 3
+UML component models Concurrent programming structuresUML component models Constraints 1
+UML component models Control structuresUML component models CoroutinesUML component models Data types and structuresUML component models Dynamic storage managementUML component models FrameworksUML component models InheritanceUML component models Input/outputUML component models Modules, packagesUML component models PatternsUML component models PolymorphismUML component models Procedures, functions, and subroutinesUML component models RecursionUML component models Processors 1
+UML component models Code generation 2
+UML component models CompilersUML component models DebuggersUML component models Incremental compilersUML component models InterpretersUML component models Memory managementUML component models OptimizationUML component models ParsingUML component models PreprocessorsUML component models Retargetable compilersUML component models Run-time environmentsUML component models Translator writing systems and compiler generatorsUML component models MiscellaneousUML component models OPERATING SYSTEMS 5
+UML component models General 2
+UML component models Process Management 1
+UML component models ConcurrencyUML component models DeadlocksUML component models Multiprocessing/multiprogramming/multitaskingUML component models Mutual exclusionUML component models SchedulingUML component models SynchronizationUML component models ThreadsUML component models Storage ManagementUML component models Allocation/deallocation strategiesUML component models Distributed memoriesUML component models Garbage collection 1
+UML component models Main memory 1
+UML component models Secondary storageUML component models SegmentationUML component models Storage hierarchiesUML component models SwappingUML component models Virtual memoryUML component models File Systems ManagementUML component models Access methods 1
+UML component models Directory structuresUML component models Distributed file systemsUML component models File organizationUML component models MaintenanceUML component models Communications Management 1
+UML component models BufferingUML component models Input/outputUML component models Message sending 1
+UML component models Network communication 1
+UML component models Terminal managementUML component models ReliabilityUML component models Backup proceduresUML component models Checkpoint/restartUML component models Fault-tolerance 2
+UML component models VerificationUML component models Security and ProtectionUML component models Access controlsUML component models AuthenticationUML component models Cryptographic controlsUML component models Information flow controlsUML component models Invasive software 4
+UML component models Security kernelsUML component models VerificationUML component models Organization and Design 3
+UML component models Batch processing systemsUML component models Distributed systems 5
+UML component models Hierarchical design 4
+UML component models Interactive systems 5
+UML component models Real-time systems and embedded systems 1
+UML component models Performance 2
+UML component models MeasurementsUML component models Modeling and prediction 4
+UML component models MonitorsUML component models Operational analysis 4
+UML component models Queueing theoryUML component models SimulationUML component models Stochastic analysis 3
+UML component models Command and control languagesUML component models LinkersUML component models LoadersUML component models Window managersUML component models MiscellaneousUML component models MISCELLANEOUSUML component models Software 4
+UML component models GENERAL 2
+UML component models DATA STRUCTURES 2
+UML component models ArraysUML component models Distributed data structuresUML component models Graphs and networks 1
+UML component models Lists, stacks, and queuesUML component models RecordsUML component models TablesUML component models Trees 1
+UML component models DATA STORAGE REPRESENTATIONSUML component models Composite structuresUML component models Contiguous representationsUML component models Hash-table representationsUML component models Linked representationsUML component models Object representationUML component models Primitive data itemsUML component models DATA ENCRYPTIONUML component models Code breaking 1
+UML component models Data encryption standardUML component models Public key cryptosystemsUML component models StandardsUML component models CODING AND INFORMATION THEORYUML component models Data compaction and compressionUML component models Error control codesUML component models Formal models of communication 2
+UML component models Nonsecret encoding schemesUML component models FILESUML component models Backup/recoveryUML component models OptimizationUML component models Organization/structureUML component models Sorting/searching 1
+UML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models COMPUTATION BY ABSTRACT DEVICESUML component models General 2
+UML component models Models of Computation 4
+UML component models AutomataUML component models Bounded-action devicesUML component models Computability theoryUML component models Relations between models 5
+UML component models Self-modifying machinesUML component models Unbounded-action devicesUML component models Modes of ComputationUML component models Alternation and nondeterminismUML component models Interactive and reactive computationUML component models Online computationUML component models Parallelism and concurrencyUML component models Probabilistic computationUML component models Relations among modesUML component models Relativized computationUML component models Complexity Measures and ClassesUML component models Complexity hierarchiesUML component models Machine-independent complexity 1
+UML component models Reducibility and completeness 1
+UML component models Relations among complexity classesUML component models Relations among complexity measuresUML component models MiscellaneousUML component models ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITYUML component models General 2
+UML component models Numerical Algorithms and ProblemsUML component models Computation of transformsUML component models Computations in finite fieldsUML component models Computations on matricesUML component models Computations on polynomialsUML component models Number-theoretic computationsUML component models Nonnumerical Algorithms and ProblemsUML component models Computations on discrete structuresUML component models Geometrical problems and computationsUML component models Pattern matching 1
+UML component models Routing and layoutUML component models Sequencing and schedulingUML component models Sorting and searching 1
+UML component models Tradeoffs between Complexity MeasuresUML component models MiscellaneousUML component models LOGICS AND MEANINGS OF PROGRAMSUML component models General 2
+UML component models AssertionsUML component models InvariantsUML component models Logics of programs 1
+UML component models Mechanical verification 1
+UML component models Pre- and post-conditionsUML component models Specification techniques 4
+UML component models Semantics of Programming Languages 2
+UML component models Algebraic approaches to semanticsUML component models Denotational semanticsUML component models Operational semanticsUML component models Partial evaluation 1
+UML component models Process models 12
+UML component models Program analysis 3
+UML component models Studies of Program Constructs 1
+UML component models Control primitivesUML component models Functional constructs 3
+UML component models Object-oriented constructsUML component models Program and recursion schemesUML component models Type structure 2
+UML component models MiscellaneousUML component models MATHEMATICAL LOGIC AND FORMAL LANGUAGESUML component models General 2
+UML component models Mathematical LogicUML component models Computability theoryUML component models Computational logicUML component models Lambda calculus and related systemsUML component models Logic and constraint programmingUML component models Mechanical theorem provingUML component models Modal logicUML component models Model theory 4
+UML component models Proof theoryUML component models Recursive function theoryUML component models Set theory 6
+UML component models Temporal logicUML component models Grammars and Other Rewriting SystemsUML component models Decision problems 1
+UML component models Grammar types 1
+UML component models Parallel rewriting systemsUML component models ParsingUML component models Thue systems 3
+UML component models Formal Languages 7
+UML component models Algebraic language theoryUML component models Classes defined by grammars or automataUML component models Decision problems 1
+UML component models Operations on languages 5
+UML component models MiscellaneousUML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models NUMERICAL ANALYSIS 2
+UML component models General 2
+UML component models Computer arithmeticUML component models ConditioningUML component models Error analysis 3
+UML component models Interval arithmeticUML component models Multiple precision arithmeticUML component models Numerical algorithmsUML component models Parallel algorithmsUML component models StabilityUML component models InterpolationUML component models Difference formulas 2
+UML component models ExtrapolationUML component models Interpolation formulasUML component models SmoothingUML component models ApproximationUML component models Chebyshev approximation and theoryUML component models Elementary function approximationUML component models Fast Fourier transformsUML component models Least squares approximationUML component models Linear approximationUML component models Minimax approximation and algorithmsUML component models Nonlinear approximationUML component models Rational approximationUML component models Special function approximationsUML component models Spline and piecewise polynomial approximationUML component models Wavelets and fractalsUML component models Numerical Linear AlgebraUML component models ConditioningUML component models DeterminantsUML component models Eigenvalues and eigenvectorsUML component models Error analysis 3
+UML component models Linear systems 4
+UML component models Matrix inversionUML component models PseudoinversesUML component models Singular value decompositionUML component models Sparse, structured, and very large systemsUML component models Quadrature and Numerical DifferentiationUML component models Automatic differentiation 1
+UML component models Error analysis 3
+UML component models Finite difference methodsUML component models Gaussian quadratureUML component models Iterative methodsUML component models MultidimensionalUML component models Roots of Nonlinear EquationsUML component models ContinuationUML component models ConvergenceUML component models Error analysis 3
+UML component models Iterative methodsUML component models Polynomials, methods forUML component models Systems of equations 6
+UML component models OptimizationUML component models Constrained optimizationUML component models Convex programming 1
+UML component models Global optimizationUML component models Gradient methodsUML component models Integer programming 1
+UML component models Least squares methodsUML component models Linear programming 1
+UML component models Nonlinear programming 1
+UML component models Quadratic programming methodsUML component models Simulated annealingUML component models Stochastic programming 2
+UML component models Unconstrained optimizationUML component models Ordinary Differential EquationsUML component models Boundary value problemsUML component models Chaotic systems 3
+UML component models Convergence and stabilityUML component models Differential-algebraic equationsUML component models Error analysis 3
+UML component models Finite difference methodsUML component models Initial value problemsUML component models Multistep and multivalue methodsUML component models One-step 8
+UML component models Stiff equationsUML component models Partial Differential EquationsUML component models Domain decomposition methodsUML component models Elliptic equationsUML component models Finite difference methodsUML component models Finite element methodsUML component models Finite volume methodsUML component models Hyperbolic equationsUML component models Inverse problems 1
+UML component models Iterative solution techniquesUML component models Method of lines 1
+UML component models Multigrid and multilevel methodsUML component models Parabolic equationsUML component models Spectral methodsUML component models Integral EquationsUML component models Delay equationsUML component models Fredholm equationsUML component models Integro-differential equationsUML component models Volterra equationsUML component models Applications 1
+UML component models MiscellaneousUML component models DISCRETE MATHEMATICSUML component models General 2
+UML component models CombinatoricsUML component models Combinatorial algorithmsUML component models Counting problems 1
+UML component models Generating functions 10
+UML component models Permutations and combinationsUML component models Recurrences and difference equationsUML component models Graph TheoryUML component models Graph algorithmsUML component models Graph labelingUML component models HypergraphsUML component models Network problems 2
+UML component models Path and circuit problemsUML component models Trees 1
+UML component models Applications 1
+UML component models MiscellaneousUML component models PROBABILITY AND STATISTICSUML component models Contingency table analysisUML component models Correlation and regression analysisUML component models Distribution functionsUML component models Experimental design 5
+UML component models Markov processesUML component models Multivariate statisticsUML component models Nonparametric statisticsUML component models Probabilistic algorithmsUML component models Queueing theoryUML component models Random number generationUML component models Reliability and life testingUML component models Renewal theoryUML component models Robust regressionUML component models Statistical computingUML component models Statistical software 4
+UML component models Stochastic processes 1
+UML component models Survival analysis 2
+UML component models Time series analysisUML component models MATHEMATICAL SOFTWARE 4
+UML component models Algorithm design and analysis 1
+UML component models Certification and testingUML component models DocumentationUML component models EfficiencyUML component models Parallel and vector implementationsUML component models PortabilityUML component models Reliability and robustnessUML component models User interfaces 2
+UML component models VerificationUML component models MISCELLANEOUSUML component models QueueingUML component models GENERAL 2
+UML component models MODELS AND PRINCIPLES 6
+UML component models General 2
+UML component models Systems and Information TheoryUML component models General systems theory 5
+UML component models Information theoryUML component models Value of informationUML component models User/Machine SystemsUML component models Human factors 2
+UML component models Human information processingUML component models Software psychology 4
+UML component models MiscellaneousUML component models DATABASE MANAGEMENTUML component models General 2
+UML component models Security, integrity, and protectionUML component models Logical Design 3
+UML component models Data models 9
+UML component models Normal formsUML component models Schema and subschema 1
+UML component models Physical Design 3
+UML component models Access methods 1
+UML component models Deadlock avoidanceUML component models Recovery and restartUML component models Languages 3
+UML component models Data description languagesUML component models Data manipulation languagesUML component models DatabaseUML component models Query languages 3
+UML component models Report writersUML component models Systems 3
+UML component models ConcurrencyUML component models Distributed databases 2
+UML component models Multimedia databasesUML component models Object-oriented databasesUML component models Parallel databasesUML component models Query processingUML component models Relational databases 3
+UML component models Rule-based databasesUML component models Textual databasesUML component models Transaction processingUML component models Heterogeneous DatabasesUML component models Data translationUML component models Program translation 1
+UML component models Database MachinesUML component models Database AdministrationUML component models Data dictionary/directoryUML component models Data warehouse and repositoryUML component models Logging and recoveryUML component models Security, integrity, and protectionUML component models Database Applications 1
+UML component models Data miningUML component models Image databasesUML component models Scientific databasesUML component models Spatial databases and GISUML component models Statistical databasesUML component models MiscellaneousUML component models INFORMATION STORAGE AND RETRIEVALUML component models General 2
+UML component models Content Analysis and IndexingUML component models Abstracting methods 4
+UML component models DictionariesUML component models Indexing methodsUML component models Linguistic processingUML component models ThesaurusesUML component models Information StorageUML component models File organizationUML component models Record classificationUML component models Information Search and RetrievalUML component models ClusteringUML component models Information filteringUML component models Query formulationUML component models Relevance feedbackUML component models Retrieval models 4
+UML component models Search processUML component models Selection processUML component models Systems and Software 7
+UML component models Current awareness systemsUML component models Distributed systems 5
+UML component models Information networks 1
+UML component models Performance evaluation 8
+UML component models Question-answeringUML component models Online Information ServicesUML component models Commercial services 1
+UML component models Data sharingUML component models Web-based services 1
+UML component models Library Automation 5
+UML component models Large text archivesUML component models Digital Libraries 1
+UML component models Collection 1
+UML component models DisseminationUML component models StandardsUML component models Systems issues 6
+UML component models User issuesUML component models MiscellaneousUML component models INFORMATION SYSTEMS APPLICATIONS 1
+UML component models General 2
+UML component models Office Automation 1
+UML component models Desktop publishingUML component models EquipmentUML component models GroupwareUML component models SpreadsheetsUML component models Time management 2
+UML component models Word processingUML component models Workflow managementUML component models Types of Systems 5
+UML component models Decision support 3
+UML component models LogisticsUML component models Communications Applications 3
+UML component models Bulletin boardsUML component models Computer conferencing, teleconferencing, and videoconferencingUML component models Electronic mailUML component models Information browsersUML component models VideotexUML component models MiscellaneousUML component models INFORMATION INTERFACES AND PRESENTATIONUML component models General 2
+UML component models Multimedia Information SystemsUML component models AnimationsUML component models Artificial, augmented, and virtual realitiesUML component models Audio input/outputUML component models Evaluation/methodology 1
+UML component models VideoUML component models User Interfaces 2
+UML component models AuditoryUML component models BenchmarkingUML component models ErgonomicsUML component models Evaluation/methodology 1
+UML component models Graphical user interfacesUML component models Haptic I/OUML component models Input devices and strategiesUML component models Interaction stylesUML component models Natural language 3
+UML component models PrototypingUML component models Screen design 3
+UML component models StandardizationUML component models Style guides 1
+UML component models Theory and methodsUML component models Training, help, and documentationUML component models User-centered designUML component models User interface management systemsUML component models Voice I/OUML component models Windowing systems 3
+UML component models Group and Organization InterfacesUML component models Asynchronous interactionUML component models Collaborative computingUML component models Computer-supported cooperative workUML component models Evaluation/methodology 1
+UML component models Organizational design 3
+UML component models Synchronous interactionUML component models Theory and models 5
+UML component models Web-based interaction 1
+UML component models Hypertext/HypermediaUML component models Architectures 2
+UML component models NavigationUML component models TheoryUML component models User issuesUML component models Sound and Music ComputingUML component models Methodologies and techniques 2
+UML component models Modeling 4
+UML component models Systems 3
+UML component models MiscellaneousUML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models SYMBOLIC AND ALGEBRAIC MANIPULATIONUML component models General 2
+UML component models Expressions and Their RepresentationUML component models RepresentationsUML component models Simplification of expressionsUML component models AlgorithmsUML component models Algebraic algorithmsUML component models Analysis of algorithms 2
+UML component models Nonalgebraic algorithmsUML component models Languages and Systems 28
+UML component models Evaluation strategies 1
+UML component models Nonprocedural languages 3
+UML component models Special-purpose algebraic systemsUML component models Special-purpose hardwareUML component models Substitution mechanisms 1
+UML component models Applications 1
+UML component models MiscellaneousUML component models ARTIFICIAL INTELLIGENCEUML component models General 2
+UML component models Cognitive simulationUML component models Philosophical foundationsUML component models Applications and Expert Systems 2
+UML component models CartographyUML component models GamesUML component models Industrial automation 3
+UML component models LawUML component models Medicine and scienceUML component models Natural language interfaces 1
+UML component models Office automation 1
+UML component models Automatic Programming 4
+UML component models Automatic analysis of algorithms 1
+UML component models Program modification 1
+UML component models Program synthesis 1
+UML component models Program transformation 1
+UML component models Program verification 1
+UML component models Deduction and Theorem ProvingUML component models Answer/reason extractionUML component models DeductionUML component models Inference engines 2
+UML component models Logic programming 1
+UML component models Mathematical inductionUML component models MetatheoryUML component models Nonmonotonic reasoning and belief revisionUML component models ResolutionUML component models Knowledge Representation Formalisms and MethodsUML component models Frames and scriptsUML component models Modal logicUML component models Predicate logicUML component models Relation systems 5
+UML component models Representation languages 4
+UML component models RepresentationsUML component models Semantic networks 3
+UML component models Temporal logicUML component models Programming Languages and Software 4
+UML component models Expert system tools and techniquesUML component models LearningUML component models AnalogiesUML component models Concept learning 2
+UML component models Connectionism and neural netsUML component models InductionUML component models Knowledge acquisition 1
+UML component models Language acquisition 3
+UML component models Parameter learning 2
+UML component models Natural Language ProcessingUML component models DiscourseUML component models Language generation 15
+UML component models Language models 32
+UML component models Language parsing and understandingUML component models Machine translation 1
+UML component models Speech recognition and synthesisUML component models Text analysis 2
+UML component models Problem Solving, Control Methods, and SearchUML component models BacktrackingUML component models Control theoryUML component models Dynamic programming 4
+UML component models Graph and tree search strategiesUML component models Heuristic methodsUML component models Plan execution, formation, and generationUML component models SchedulingUML component models RoboticsUML component models Autonomous vehiclesUML component models Kinematics and dynamics 1
+UML component models ManipulatorsUML component models Operator interfaces 1
+UML component models Propelling mechanisms 1
+UML component models SensorsUML component models Vision and Scene UnderstandingUML component models Architecture and control structures 1
+UML component models MotionUML component models Perceptual reasoning 2
+UML component models ShapeUML component models TextureUML component models Video analysis 2
+UML component models Distributed Artificial IntelligenceUML component models Coherence and coordinationUML component models Intelligent agentsUML component models Languages and structures 13
+UML component models Multiagent systems 3
+UML component models MiscellaneousUML component models COMPUTER GRAPHICSUML component models General 2
+UML component models Hardware Architecture 2
+UML component models Graphics processors 1
+UML component models Hardcopy devicesUML component models Input devicesUML component models Parallel processing 1
+UML component models Raster display devicesUML component models Storage devicesUML component models Three-dimensional displaysUML component models Vector display devicesUML component models Graphics Systems 3
+UML component models Distributed/network graphicsUML component models Remote systems 3
+UML component models Stand-alone systemsUML component models Picture/Image GenerationUML component models AntialiasingUML component models Bitmap and framebuffer operationsUML component models Digitizing and scanningUML component models Display algorithmsUML component models Line and curve generation 1
+UML component models Viewing algorithmsUML component models Graphics UtilitiesUML component models Application packages 2
+UML component models Device driversUML component models Graphics editorsUML component models Graphics packagesUML component models Meta filesUML component models Paint systems 3
+UML component models Picture description languagesUML component models Software support 6
+UML component models Virtual device interfacesUML component models Computational Geometry and Object ModelingUML component models Boundary representationsUML component models Constructive solid geometryUML component models Curve, surface, solid, and object representationsUML component models Geometric algorithms, languages, and systemsUML component models Hierarchy and geometric transformationsUML component models Modeling packages 4
+UML component models Object hierarchiesUML component models Physically based modeling 7
+UML component models SplinesUML component models Methodology and Techniques 2
+UML component models Device independenceUML component models ErgonomicsUML component models Graphics data structures and data typesUML component models Interaction techniques 2
+UML component models Languages 3
+UML component models StandardsUML component models Three-Dimensional Graphics and RealismUML component models AnimationUML component models Color, shading, shadowing, and textureUML component models FractalsUML component models Hidden line/surface removalUML component models RadiosityUML component models RaytracingUML component models Virtual realityUML component models Visible line/surface algorithmsUML component models Applications 1
+UML component models MiscellaneousUML component models IMAGE PROCESSING AND COMPUTER VISIONUML component models General 2
+UML component models Image displaysUML component models Image processing softwareUML component models Digitization and Image CaptureUML component models Camera calibration 2
+UML component models Imaging geometryUML component models QuantizationUML component models RadiometryUML component models ReflectanceUML component models SamplingUML component models ScanningUML component models CompressionUML component models Approximate methodsUML component models Exact coding 1
+UML component models Enhancement 1
+UML component models FilteringUML component models Geometric correctionUML component models Grayscale manipulationUML component models RegistrationUML component models Sharpening and deblurringUML component models SmoothingUML component models RestorationUML component models Inverse filteringUML component models Kalman filteringUML component models Pseudoinverse restorationUML component models Wiener filteringUML component models ReconstructionUML component models Series expansion methodsUML component models Summation methodsUML component models Transform methods 7
+UML component models SegmentationUML component models Edge and feature detectionUML component models Pixel classificationUML component models Region growing, partitioningUML component models RelaxationUML component models Feature Measurement 1
+UML component models Feature representation 2
+UML component models InvariantsUML component models MomentsUML component models ProjectionsUML component models Size and shapeUML component models TextureUML component models Scene Analysis 2
+UML component models ColorUML component models Depth cuesUML component models MotionUML component models Object recognitionUML component models PhotometryUML component models Range dataUML component models Sensor fusionUML component models ShadingUML component models ShapeUML component models StereoUML component models Surface fittingUML component models Time-varying imageryUML component models TrackingUML component models Applications 1
+UML component models Image RepresentationUML component models Hierarchical 2
+UML component models MorphologicalUML component models MultidimensionalUML component models StatisticalUML component models VolumetricUML component models MiscellaneousUML component models PATTERN RECOGNITIONUML component models General 2
+UML component models Models 4
+UML component models DeterministicUML component models Fuzzy set 3
+UML component models GeometricUML component models Neural nets

@@ -1,0 +1,865 @@
+UML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models MiscellaneousUML component models INPUT/OUTPUT AND DATA COMMUNICATIONSUML component models General 2
+UML component models Data Communications DevicesUML component models Processors 1
+UML component models ReceiversUML component models TransmittersUML component models Input/Output DevicesUML component models Channels and controllers 1
+UML component models Image displayUML component models VoiceUML component models InterconnectionsUML component models Asynchronous/synchronous operationUML component models Fiber opticsUML component models Interfaces 1
+UML component models Parallel I/OUML component models Physical structures 3
+UML component models TopologyUML component models Performance Analysis and Design Aids 1
+UML component models Formal models 10
+UML component models SimulationUML component models VerificationUML component models Worst-case analysisUML component models Reliability, Testing, and Fault-ToleranceUML component models Built-in tests 1
+UML component models DiagnosticsUML component models Error-checking 2
+UML component models Hardware reliabilityUML component models Redundant design 3
+UML component models Test generation 4
+UML component models MiscellaneousUML component models REGISTER-TRANSFER-LEVEL IMPLEMENTATIONUML component models General 2
+UML component models Design 3
+UML component models Arithmetic and logic unitsUML component models Control design 3
+UML component models Data-path designUML component models Memory design 3
+UML component models StylesUML component models Design Aids 3
+UML component models Automatic synthesis 1
+UML component models Hardware description languagesUML component models OptimizationUML component models SimulationUML component models VerificationUML component models Reliability and TestingUML component models Built-in tests 1
+UML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models TestabilityUML component models MiscellaneousUML component models LOGIC DESIGN 3
+UML component models General 2
+UML component models Design Styles 3
+UML component models Combinational logic 1
+UML component models Logic arraysUML component models Parallel circuitsUML component models Sequential circuitsUML component models Reliability and TestingUML component models Built-in tests 1
+UML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models TestabilityUML component models Design Aids 3
+UML component models Automatic synthesis 1
+UML component models Hardware description languagesUML component models OptimizationUML component models SimulationUML component models Switching theoryUML component models VerificationUML component models MiscellaneousUML component models INTEGRATED CIRCUITSUML component models General 2
+UML component models Types and Design Styles 1
+UML component models Advanced technologies 2
+UML component models Algorithms implemented in hardwareUML component models Gate arrays 1
+UML component models Input/output circuitsUML component models Memory technologies 2
+UML component models Microprocessors and microcomputersUML component models Standard cellsUML component models VLSIUML component models Design Aids 3
+UML component models GraphicsUML component models LayoutUML component models Placement and routingUML component models SimulationUML component models VerificationUML component models Reliability and TestingUML component models Built-in tests 1
+UML component models Error-checking 2
+UML component models Redundant design 3
+UML component models Test generation 4
+UML component models TestabilityUML component models MiscellaneousUML component models PERFORMANCE AND RELIABILITY 3
+UML component models General 2
+UML component models Reliability, Testing, and Fault-ToleranceUML component models Performance Analysis and Design Aids 1
+UML component models MiscellaneousUML component models MISCELLANEOUSUML component models Design 3
+UML component models GENERAL 2
+UML component models Hardware/software interfaces 1
+UML component models Instruction set design 1
+UML component models Modeling of computer architecture 2
+UML component models System architectures 4
+UML component models Systems specification methodology 3
+UML component models PROCESSOR ARCHITECTURES 3
+UML component models General 2
+UML component models Single Data Stream ArchitecturesUML component models Pipeline processors 1
+UML component models RISC/CISC, VLIW architecturesUML component models Von Neumann architecturesUML component models Multiple Data Stream ArchitecturesUML component models Array and vector processorsUML component models Associative processors 1
+UML component models Connection machinesUML component models Interconnection architectures 2
+UML component models Multiple-instruction-stream, multiple-data-stream processorsUML component models Parallel processors 1
+UML component models Pipeline processors 1
+UML component models Single-instruction-stream, multiple-data-stream processorsUML component models Other Architecture Styles 1
+UML component models Adaptable architectures 4
+UML component models Analog computers 1
+UML component models Capability architectures 5
+UML component models Cellular architecture 2
+UML component models Data-flow architecturesUML component models HeterogeneousUML component models High-level language architecturesUML component models Neural netsUML component models Pipeline processors 1
+UML component models Stack-oriented processorsUML component models Parallel Architectures 3
+UML component models Distributed architectures 4
+UML component models Mobile processors 1
+UML component models MiscellaneousUML component models AnalogUML component models HybridUML component models COMPUTER-COMMUNICATION NETWORKS 1
+UML component models General 2
+UML component models Data communications 2
+UML component models Open Systems Interconnection reference modelUML component models Security and protectionUML component models Network Architecture and Design 3
+UML component models Asynchronous Transfer ModeUML component models Centralized networks 1
+UML component models Circuit-switching networksUML component models Distributed networks 1
+UML component models Frame relay networksUML component models ISDNUML component models Network communications 1
+UML component models Network topology 1
+UML component models Packet-switching networksUML component models Store and forward networksUML component models Wireless communication 1
+UML component models Network Protocols 1
+UML component models Applications 1
+UML component models Protocol architecture 2
+UML component models Protocol verificationUML component models Routing protocolsUML component models Network Operations 1
+UML component models Network management 1
+UML component models Network monitoring 1
+UML component models Public networks 1
+UML component models Distributed Systems 5
+UML component models Client/server 1
+UML component models Distributed applications 3
+UML component models Distributed databases 2
+UML component models Network operating systems 1
+UML component models Local and Wide-Area NetworksUML component models Access schemesUML component models BusesUML component models EthernetUML component models High-speedUML component models InternetUML component models Token ringsUML component models InternetworkingUML component models RoutersUML component models StandardsUML component models MiscellaneousUML component models SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMSUML component models Microprocessor/microcomputer applicationsUML component models Process control systems 1
+UML component models Real-time and embedded systems 1
+UML component models Signal processing systems 2
+UML component models SmartcardsUML component models PERFORMANCE OF SYSTEMS 11
+UML component models Design studies 8
+UML component models Fault tolerance 2
+UML component models Measurement techniques 2
+UML component models Modeling techniques 7
+UML component models Performance attributes 5
+UML component models Reliability, availability, and serviceabilityUML component models COMPUTER SYSTEM IMPLEMENTATION 1
+UML component models General 2
+UML component models Large and MediumUML component models SuperUML component models MinicomputersUML component models MicrocomputersUML component models MicroprocessorsUML component models Personal computersUML component models Portable devicesUML component models WorkstationsUML component models VLSI Systems 3
+UML component models Servers 1
+UML component models MiscellaneousUML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models PROGRAMMING TECHNIQUES 2
+UML component models General 2
+UML component models Applicative 1
+UML component models Automatic Programming 4
+UML component models Concurrent Programming 1
+UML component models Distributed programming 1
+UML component models Parallel programming 2
+UML component models Sequential Programming 1
+UML component models Object-oriented ProgrammingUML component models Logic Programming 1
+UML component models Visual Programming 1
+UML component models MiscellaneousUML component models SOFTWARE ENGINEERING 5
+UML component models General 2
+UML component models Protection mechanisms 1
+UML component models StandardsUML component models Requirements/Specifications 4
+UML component models Elicitation methodsUML component models Languages 3
+UML component models MethodologiesUML component models Tools 1
+UML component models Design Tools and Techniques 2
+UML component models Computer-aided software engineeringUML component models Decision tablesUML component models Evolutionary prototypingUML component models Flow chartsUML component models Modules and interfaces 1
+UML component models Object-oriented design methodsUML component models Petri netsUML component models Programmer workbenchUML component models Software libraries 4
+UML component models State diagrams 1
+UML component models Structured programming 3
+UML component models Top-down programmingUML component models User interfaces 2
+UML component models Coding Tools and Techniques 1
+UML component models Object-oriented programmingUML component models Pretty printersUML component models Program editors 1
+UML component models Reentrant code 1
+UML component models StandardsUML component models Structured programming 3
+UML component models Top-down programmingUML component models Software/Program Verification 1
+UML component models Assertion checkersUML component models Class invariants 1
+UML component models Correctness proofsUML component models Formal methods 3
+UML component models Model checking 6
+UML component models Programming by contract 1
+UML component models ReliabilityUML component models Statistical methodsUML component models ValidationUML component models Testing and DebuggingUML component models Code inspections and walk-throughsUML component models Debugging aidsUML component models DiagnosticsUML component models Distributed debuggingUML component models DumpsUML component models Error handling and recovery 1
+UML component models MonitorsUML component models Symbolic execution 1
+UML component models Testing tools 4
+UML component models TracingUML component models Programming Environments 1
+UML component models Graphical environmentsUML component models Integrated environmentsUML component models Interactive environments 1
+UML component models Programmer workbenchUML component models Distribution, Maintenance, and EnhancementUML component models CorrectionsUML component models DocumentationUML component models Enhancement 1
+UML component models Extensibility 2
+UML component models PortabilityUML component models Restructuring, reverse engineering, and reengineeringUML component models Version control 2
+UML component models MetricsUML component models Complexity measures 2
+UML component models Performance measures 3
+UML component models Process metricsUML component models Product metrics 2
+UML component models Software science 4
+UML component models ManagementUML component models CopyrightsUML component models Cost estimation 1
+UML component models Life cycleUML component models Productivity 2
+UML component models Programming teams 1
+UML component models Software configuration management 1
+UML component models Software process models 4
+UML component models Software quality assuranceUML component models Time estimation 2
+UML component models Design 3
+UML component models MethodologiesUML component models RepresentationUML component models Software Architectures 6
+UML component models Data abstraction 4
+UML component models Domain-specific architectures 4
+UML component models Information hidingUML component models Languages 3
+UML component models PatternsUML component models InteroperabilityUML component models Data mappingUML component models Distributed objects 2
+UML component models Interface definition languages 1
+UML component models Reusable Software 4
+UML component models Domain engineering 4
+UML component models Reusable libraries 1
+UML component models Reuse models 6
+UML component models MiscellaneousUML component models Rapid 2
+UML component models ReusableUML component models PROGRAMMING LANGUAGES 4
+UML component models General 2
+UML component models StandardsUML component models Formal Definitions and TheoryUML component models SemanticsUML component models SyntaxUML component models Language Classifications 3
+UML component models Applicative 1
+UML component models Concurrent, distributed, and parallel languagesUML component models Constraint and logic languages 1
+UML component models Data-flow languagesUML component models Design languages 7
+UML component models Extensible languages 6
+UML component models Microprogramming languages 3
+UML component models Multiparadigm languages 3
+UML component models Nondeterministic languages 3
+UML component models Nonprocedural languages 3
+UML component models Object-oriented languagesUML component models Specialized application languagesUML component models Very high-level languagesUML component models Language Constructs and Features 3
+UML component models Abstract data types 1
+UML component models Classes and objects 3
+UML component models Concurrent programming structuresUML component models Constraints 1
+UML component models Control structuresUML component models CoroutinesUML component models Data types and structuresUML component models Dynamic storage managementUML component models FrameworksUML component models InheritanceUML component models Input/outputUML component models Modules, packagesUML component models PatternsUML component models PolymorphismUML component models Procedures, functions, and subroutinesUML component models RecursionUML component models Processors 1
+UML component models Code generation 2
+UML component models CompilersUML component models DebuggersUML component models Incremental compilersUML component models InterpretersUML component models Memory managementUML component models OptimizationUML component models ParsingUML component models PreprocessorsUML component models Retargetable compilersUML component models Run-time environmentsUML component models Translator writing systems and compiler generatorsUML component models MiscellaneousUML component models OPERATING SYSTEMS 5
+UML component models General 2
+UML component models Process Management 1
+UML component models ConcurrencyUML component models DeadlocksUML component models Multiprocessing/multiprogramming/multitaskingUML component models Mutual exclusionUML component models SchedulingUML component models SynchronizationUML component models ThreadsUML component models Storage ManagementUML component models Allocation/deallocation strategiesUML component models Distributed memoriesUML component models Garbage collection 1
+UML component models Main memory 1
+UML component models Secondary storageUML component models SegmentationUML component models Storage hierarchiesUML component models SwappingUML component models Virtual memoryUML component models File Systems ManagementUML component models Access methods 1
+UML component models Directory structuresUML component models Distributed file systemsUML component models File organizationUML component models MaintenanceUML component models Communications Management 1
+UML component models BufferingUML component models Input/outputUML component models Message sending 1
+UML component models Network communication 1
+UML component models Terminal managementUML component models ReliabilityUML component models Backup proceduresUML component models Checkpoint/restartUML component models Fault-tolerance 2
+UML component models VerificationUML component models Security and ProtectionUML component models Access controlsUML component models AuthenticationUML component models Cryptographic controlsUML component models Information flow controlsUML component models Invasive software 4
+UML component models Security kernelsUML component models VerificationUML component models Organization and Design 3
+UML component models Batch processing systemsUML component models Distributed systems 5
+UML component models Hierarchical design 4
+UML component models Interactive systems 5
+UML component models Real-time systems and embedded systems 1
+UML component models Performance 2
+UML component models MeasurementsUML component models Modeling and prediction 4
+UML component models MonitorsUML component models Operational analysis 4
+UML component models Queueing theoryUML component models SimulationUML component models Stochastic analysis 3
+UML component models Command and control languagesUML component models LinkersUML component models LoadersUML component models Window managersUML component models MiscellaneousUML component models MISCELLANEOUSUML component models Software 4
+UML component models GENERAL 2
+UML component models DATA STRUCTURES 2
+UML component models ArraysUML component models Distributed data structuresUML component models Graphs and networks 1
+UML component models Lists, stacks, and queuesUML component models RecordsUML component models TablesUML component models Trees 1
+UML component models DATA STORAGE REPRESENTATIONSUML component models Composite structuresUML component models Contiguous representationsUML component models Hash-table representationsUML component models Linked representationsUML component models Object representationUML component models Primitive data itemsUML component models DATA ENCRYPTIONUML component models Code breaking 1
+UML component models Data encryption standardUML component models Public key cryptosystemsUML component models StandardsUML component models CODING AND INFORMATION THEORYUML component models Data compaction and compressionUML component models Error control codesUML component models Formal models of communication 2
+UML component models Nonsecret encoding schemesUML component models FILESUML component models Backup/recoveryUML component models OptimizationUML component models Organization/structureUML component models Sorting/searching 1
+UML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models COMPUTATION BY ABSTRACT DEVICESUML component models General 2
+UML component models Models of Computation 4
+UML component models AutomataUML component models Bounded-action devicesUML component models Computability theoryUML component models Relations between models 5
+UML component models Self-modifying machinesUML component models Unbounded-action devicesUML component models Modes of ComputationUML component models Alternation and nondeterminismUML component models Interactive and reactive computationUML component models Online computationUML component models Parallelism and concurrencyUML component models Probabilistic computationUML component models Relations among modesUML component models Relativized computationUML component models Complexity Measures and ClassesUML component models Complexity hierarchiesUML component models Machine-independent complexity 1
+UML component models Reducibility and completeness 1
+UML component models Relations among complexity classesUML component models Relations among complexity measuresUML component models MiscellaneousUML component models ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITYUML component models General 2
+UML component models Numerical Algorithms and ProblemsUML component models Computation of transformsUML component models Computations in finite fieldsUML component models Computations on matricesUML component models Computations on polynomialsUML component models Number-theoretic computationsUML component models Nonnumerical Algorithms and ProblemsUML component models Computations on discrete structuresUML component models Geometrical problems and computationsUML component models Pattern matching 1
+UML component models Routing and layoutUML component models Sequencing and schedulingUML component models Sorting and searching 1
+UML component models Tradeoffs between Complexity MeasuresUML component models MiscellaneousUML component models LOGICS AND MEANINGS OF PROGRAMSUML component models General 2
+UML component models AssertionsUML component models InvariantsUML component models Logics of programs 1
+UML component models Mechanical verification 1
+UML component models Pre- and post-conditionsUML component models Specification techniques 4
+UML component models Semantics of Programming Languages 2
+UML component models Algebraic approaches to semanticsUML component models Denotational semanticsUML component models Operational semanticsUML component models Partial evaluation 1
+UML component models Process models 12
+UML component models Program analysis 3
+UML component models Studies of Program Constructs 1
+UML component models Control primitivesUML component models Functional constructs 3
+UML component models Object-oriented constructsUML component models Program and recursion schemesUML component models Type structure 2
+UML component models MiscellaneousUML component models MATHEMATICAL LOGIC AND FORMAL LANGUAGESUML component models General 2
+UML component models Mathematical LogicUML component models Computability theoryUML component models Computational logicUML component models Lambda calculus and related systemsUML component models Logic and constraint programmingUML component models Mechanical theorem provingUML component models Modal logicUML component models Model theory 4
+UML component models Proof theoryUML component models Recursive function theoryUML component models Set theory 6
+UML component models Temporal logicUML component models Grammars and Other Rewriting SystemsUML component models Decision problems 1
+UML component models Grammar types 1
+UML component models Parallel rewriting systemsUML component models ParsingUML component models Thue systems 3
+UML component models Formal Languages 7
+UML component models Algebraic language theoryUML component models Classes defined by grammars or automataUML component models Decision problems 1
+UML component models Operations on languages 5
+UML component models MiscellaneousUML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models NUMERICAL ANALYSIS 2
+UML component models General 2
+UML component models Computer arithmeticUML component models ConditioningUML component models Error analysis 3
+UML component models Interval arithmeticUML component models Multiple precision arithmeticUML component models Numerical algorithmsUML component models Parallel algorithmsUML component models StabilityUML component models InterpolationUML component models Difference formulas 2
+UML component models ExtrapolationUML component models Interpolation formulasUML component models SmoothingUML component models ApproximationUML component models Chebyshev approximation and theoryUML component models Elementary function approximationUML component models Fast Fourier transformsUML component models Least squares approximationUML component models Linear approximationUML component models Minimax approximation and algorithmsUML component models Nonlinear approximationUML component models Rational approximationUML component models Special function approximationsUML component models Spline and piecewise polynomial approximationUML component models Wavelets and fractalsUML component models Numerical Linear AlgebraUML component models ConditioningUML component models DeterminantsUML component models Eigenvalues and eigenvectorsUML component models Error analysis 3
+UML component models Linear systems 4
+UML component models Matrix inversionUML component models PseudoinversesUML component models Singular value decompositionUML component models Sparse, structured, and very large systemsUML component models Quadrature and Numerical DifferentiationUML component models Automatic differentiation 1
+UML component models Error analysis 3
+UML component models Finite difference methodsUML component models Gaussian quadratureUML component models Iterative methodsUML component models MultidimensionalUML component models Roots of Nonlinear EquationsUML component models ContinuationUML component models ConvergenceUML component models Error analysis 3
+UML component models Iterative methodsUML component models Polynomials, methods forUML component models Systems of equations 6
+UML component models OptimizationUML component models Constrained optimizationUML component models Convex programming 1
+UML component models Global optimizationUML component models Gradient methodsUML component models Integer programming 1
+UML component models Least squares methodsUML component models Linear programming 1
+UML component models Nonlinear programming 1
+UML component models Quadratic programming methodsUML component models Simulated annealingUML component models Stochastic programming 2
+UML component models Unconstrained optimizationUML component models Ordinary Differential EquationsUML component models Boundary value problemsUML component models Chaotic systems 3
+UML component models Convergence and stabilityUML component models Differential-algebraic equationsUML component models Error analysis 3
+UML component models Finite difference methodsUML component models Initial value problemsUML component models Multistep and multivalue methodsUML component models One-step 8
+UML component models Stiff equationsUML component models Partial Differential EquationsUML component models Domain decomposition methodsUML component models Elliptic equationsUML component models Finite difference methodsUML component models Finite element methodsUML component models Finite volume methodsUML component models Hyperbolic equationsUML component models Inverse problems 1
+UML component models Iterative solution techniquesUML component models Method of lines 1
+UML component models Multigrid and multilevel methodsUML component models Parabolic equationsUML component models Spectral methodsUML component models Integral EquationsUML component models Delay equationsUML component models Fredholm equationsUML component models Integro-differential equationsUML component models Volterra equationsUML component models Applications 1
+UML component models MiscellaneousUML component models DISCRETE MATHEMATICSUML component models General 2
+UML component models CombinatoricsUML component models Combinatorial algorithmsUML component models Counting problems 1
+UML component models Generating functions 10
+UML component models Permutations and combinationsUML component models Recurrences and difference equationsUML component models Graph TheoryUML component models Graph algorithmsUML component models Graph labelingUML component models HypergraphsUML component models Network problems 2
+UML component models Path and circuit problemsUML component models Trees 1
+UML component models Applications 1
+UML component models MiscellaneousUML component models PROBABILITY AND STATISTICSUML component models Contingency table analysisUML component models Correlation and regression analysisUML component models Distribution functionsUML component models Experimental design 5
+UML component models Markov processesUML component models Multivariate statisticsUML component models Nonparametric statisticsUML component models Probabilistic algorithmsUML component models Queueing theoryUML component models Random number generationUML component models Reliability and life testingUML component models Renewal theoryUML component models Robust regressionUML component models Statistical computingUML component models Statistical software 4
+UML component models Stochastic processes 1
+UML component models Survival analysis 2
+UML component models Time series analysisUML component models MATHEMATICAL SOFTWARE 4
+UML component models Algorithm design and analysis 1
+UML component models Certification and testingUML component models DocumentationUML component models EfficiencyUML component models Parallel and vector implementationsUML component models PortabilityUML component models Reliability and robustnessUML component models User interfaces 2
+UML component models VerificationUML component models MISCELLANEOUSUML component models QueueingUML component models GENERAL 2
+UML component models MODELS AND PRINCIPLES 6
+UML component models General 2
+UML component models Systems and Information TheoryUML component models General systems theory 5
+UML component models Information theoryUML component models Value of informationUML component models User/Machine SystemsUML component models Human factors 2
+UML component models Human information processingUML component models Software psychology 4
+UML component models MiscellaneousUML component models DATABASE MANAGEMENTUML component models General 2
+UML component models Security, integrity, and protectionUML component models Logical Design 3
+UML component models Data models 9
+UML component models Normal formsUML component models Schema and subschema 1
+UML component models Physical Design 3
+UML component models Access methods 1
+UML component models Deadlock avoidanceUML component models Recovery and restartUML component models Languages 3
+UML component models Data description languagesUML component models Data manipulation languagesUML component models DatabaseUML component models Query languages 3
+UML component models Report writersUML component models Systems 3
+UML component models ConcurrencyUML component models Distributed databases 2
+UML component models Multimedia databasesUML component models Object-oriented databasesUML component models Parallel databasesUML component models Query processingUML component models Relational databases 3
+UML component models Rule-based databasesUML component models Textual databasesUML component models Transaction processingUML component models Heterogeneous DatabasesUML component models Data translationUML component models Program translation 1
+UML component models Database MachinesUML component models Database AdministrationUML component models Data dictionary/directoryUML component models Data warehouse and repositoryUML component models Logging and recoveryUML component models Security, integrity, and protectionUML component models Database Applications 1
+UML component models Data miningUML component models Image databasesUML component models Scientific databasesUML component models Spatial databases and GISUML component models Statistical databasesUML component models MiscellaneousUML component models INFORMATION STORAGE AND RETRIEVALUML component models General 2
+UML component models Content Analysis and IndexingUML component models Abstracting methods 4
+UML component models DictionariesUML component models Indexing methodsUML component models Linguistic processingUML component models ThesaurusesUML component models Information StorageUML component models File organizationUML component models Record classificationUML component models Information Search and RetrievalUML component models ClusteringUML component models Information filteringUML component models Query formulationUML component models Relevance feedbackUML component models Retrieval models 4
+UML component models Search processUML component models Selection processUML component models Systems and Software 7
+UML component models Current awareness systemsUML component models Distributed systems 5
+UML component models Information networks 1
+UML component models Performance evaluation 8
+UML component models Question-answeringUML component models Online Information ServicesUML component models Commercial services 1
+UML component models Data sharingUML component models Web-based services 1
+UML component models Library Automation 5
+UML component models Large text archivesUML component models Digital Libraries 1
+UML component models Collection 1
+UML component models DisseminationUML component models StandardsUML component models Systems issues 6
+UML component models User issuesUML component models MiscellaneousUML component models INFORMATION SYSTEMS APPLICATIONS 1
+UML component models General 2
+UML component models Office Automation 1
+UML component models Desktop publishingUML component models EquipmentUML component models GroupwareUML component models SpreadsheetsUML component models Time management 2
+UML component models Word processingUML component models Workflow managementUML component models Types of Systems 5
+UML component models Decision support 3
+UML component models LogisticsUML component models Communications Applications 3
+UML component models Bulletin boardsUML component models Computer conferencing, teleconferencing, and videoconferencingUML component models Electronic mailUML component models Information browsersUML component models VideotexUML component models MiscellaneousUML component models INFORMATION INTERFACES AND PRESENTATIONUML component models General 2
+UML component models Multimedia Information SystemsUML component models AnimationsUML component models Artificial, augmented, and virtual realitiesUML component models Audio input/outputUML component models Evaluation/methodology 1
+UML component models VideoUML component models User Interfaces 2
+UML component models AuditoryUML component models BenchmarkingUML component models ErgonomicsUML component models Evaluation/methodology 1
+UML component models Graphical user interfacesUML component models Haptic I/OUML component models Input devices and strategiesUML component models Interaction stylesUML component models Natural language 3
+UML component models PrototypingUML component models Screen design 3
+UML component models StandardizationUML component models Style guides 1
+UML component models Theory and methodsUML component models Training, help, and documentationUML component models User-centered designUML component models User interface management systemsUML component models Voice I/OUML component models Windowing systems 3
+UML component models Group and Organization InterfacesUML component models Asynchronous interactionUML component models Collaborative computingUML component models Computer-supported cooperative workUML component models Evaluation/methodology 1
+UML component models Organizational design 3
+UML component models Synchronous interactionUML component models Theory and models 5
+UML component models Web-based interaction 1
+UML component models Hypertext/HypermediaUML component models Architectures 2
+UML component models NavigationUML component models TheoryUML component models User issuesUML component models Sound and Music ComputingUML component models Methodologies and techniques 2
+UML component models Modeling 4
+UML component models Systems 3
+UML component models MiscellaneousUML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models SYMBOLIC AND ALGEBRAIC MANIPULATIONUML component models General 2
+UML component models Expressions and Their RepresentationUML component models RepresentationsUML component models Simplification of expressionsUML component models AlgorithmsUML component models Algebraic algorithmsUML component models Analysis of algorithms 2
+UML component models Nonalgebraic algorithmsUML component models Languages and Systems 28
+UML component models Evaluation strategies 1
+UML component models Nonprocedural languages 3
+UML component models Special-purpose algebraic systemsUML component models Special-purpose hardwareUML component models Substitution mechanisms 1
+UML component models Applications 1
+UML component models MiscellaneousUML component models ARTIFICIAL INTELLIGENCEUML component models General 2
+UML component models Cognitive simulationUML component models Philosophical foundationsUML component models Applications and Expert Systems 2
+UML component models CartographyUML component models GamesUML component models Industrial automation 3
+UML component models LawUML component models Medicine and scienceUML component models Natural language interfaces 1
+UML component models Office automation 1
+UML component models Automatic Programming 4
+UML component models Automatic analysis of algorithms 1
+UML component models Program modification 1
+UML component models Program synthesis 1
+UML component models Program transformation 1
+UML component models Program verification 1
+UML component models Deduction and Theorem ProvingUML component models Answer/reason extractionUML component models DeductionUML component models Inference engines 2
+UML component models Logic programming 1
+UML component models Mathematical inductionUML component models MetatheoryUML component models Nonmonotonic reasoning and belief revisionUML component models ResolutionUML component models Knowledge Representation Formalisms and MethodsUML component models Frames and scriptsUML component models Modal logicUML component models Predicate logicUML component models Relation systems 5
+UML component models Representation languages 4
+UML component models RepresentationsUML component models Semantic networks 3
+UML component models Temporal logicUML component models Programming Languages and Software 4
+UML component models Expert system tools and techniquesUML component models LearningUML component models AnalogiesUML component models Concept learning 2
+UML component models Connectionism and neural netsUML component models InductionUML component models Knowledge acquisition 1
+UML component models Language acquisition 3
+UML component models Parameter learning 2
+UML component models Natural Language ProcessingUML component models DiscourseUML component models Language generation 15
+UML component models Language models 32
+UML component models Language parsing and understandingUML component models Machine translation 1
+UML component models Speech recognition and synthesisUML component models Text analysis 2
+UML component models Problem Solving, Control Methods, and SearchUML component models BacktrackingUML component models Control theoryUML component models Dynamic programming 4
+UML component models Graph and tree search strategiesUML component models Heuristic methodsUML component models Plan execution, formation, and generationUML component models SchedulingUML component models RoboticsUML component models Autonomous vehiclesUML component models Kinematics and dynamics 1
+UML component models ManipulatorsUML component models Operator interfaces 1
+UML component models Propelling mechanisms 1
+UML component models SensorsUML component models Vision and Scene UnderstandingUML component models Architecture and control structures 1
+UML component models MotionUML component models Perceptual reasoning 2
+UML component models ShapeUML component models TextureUML component models Video analysis 2
+UML component models Distributed Artificial IntelligenceUML component models Coherence and coordinationUML component models Intelligent agentsUML component models Languages and structures 13
+UML component models Multiagent systems 3
+UML component models MiscellaneousUML component models COMPUTER GRAPHICSUML component models General 2
+UML component models Hardware Architecture 2
+UML component models Graphics processors 1
+UML component models Hardcopy devicesUML component models Input devicesUML component models Parallel processing 1
+UML component models Raster display devicesUML component models Storage devicesUML component models Three-dimensional displaysUML component models Vector display devicesUML component models Graphics Systems 3
+UML component models Distributed/network graphicsUML component models Remote systems 3
+UML component models Stand-alone systemsUML component models Picture/Image GenerationUML component models AntialiasingUML component models Bitmap and framebuffer operationsUML component models Digitizing and scanningUML component models Display algorithmsUML component models Line and curve generation 1
+UML component models Viewing algorithmsUML component models Graphics UtilitiesUML component models Application packages 2
+UML component models Device driversUML component models Graphics editorsUML component models Graphics packagesUML component models Meta filesUML component models Paint systems 3
+UML component models Picture description languagesUML component models Software support 6
+UML component models Virtual device interfacesUML component models Computational Geometry and Object ModelingUML component models Boundary representationsUML component models Constructive solid geometryUML component models Curve, surface, solid, and object representationsUML component models Geometric algorithms, languages, and systemsUML component models Hierarchy and geometric transformationsUML component models Modeling packages 4
+UML component models Object hierarchiesUML component models Physically based modeling 7
+UML component models SplinesUML component models Methodology and Techniques 2
+UML component models Device independenceUML component models ErgonomicsUML component models Graphics data structures and data typesUML component models Interaction techniques 2
+UML component models Languages 3
+UML component models StandardsUML component models Three-Dimensional Graphics and RealismUML component models AnimationUML component models Color, shading, shadowing, and textureUML component models FractalsUML component models Hidden line/surface removalUML component models RadiosityUML component models RaytracingUML component models Virtual realityUML component models Visible line/surface algorithmsUML component models Applications 1
+UML component models MiscellaneousUML component models IMAGE PROCESSING AND COMPUTER VISIONUML component models General 2
+UML component models Image displaysUML component models Image processing softwareUML component models Digitization and Image CaptureUML component models Camera calibration 2
+UML component models Imaging geometryUML component models QuantizationUML component models RadiometryUML component models ReflectanceUML component models SamplingUML component models ScanningUML component models CompressionUML component models Approximate methodsUML component models Exact coding 1
+UML component models Enhancement 1
+UML component models FilteringUML component models Geometric correctionUML component models Grayscale manipulationUML component models RegistrationUML component models Sharpening and deblurringUML component models SmoothingUML component models RestorationUML component models Inverse filteringUML component models Kalman filteringUML component models Pseudoinverse restorationUML component models Wiener filteringUML component models ReconstructionUML component models Series expansion methodsUML component models Summation methodsUML component models Transform methods 7
+UML component models SegmentationUML component models Edge and feature detectionUML component models Pixel classificationUML component models Region growing, partitioningUML component models RelaxationUML component models Feature Measurement 1
+UML component models Feature representation 2
+UML component models InvariantsUML component models MomentsUML component models ProjectionsUML component models Size and shapeUML component models TextureUML component models Scene Analysis 2
+UML component models ColorUML component models Depth cuesUML component models MotionUML component models Object recognitionUML component models PhotometryUML component models Range dataUML component models Sensor fusionUML component models ShadingUML component models ShapeUML component models StereoUML component models Surface fittingUML component models Time-varying imageryUML component models TrackingUML component models Applications 1
+UML component models Image RepresentationUML component models Hierarchical 2
+UML component models MorphologicalUML component models MultidimensionalUML component models StatisticalUML component models VolumetricUML component models MiscellaneousUML component models PATTERN RECOGNITIONUML component models General 2
+UML component models Models 4
+UML component models DeterministicUML component models Fuzzy set 3
+UML component models GeometricUML component models Neural netsUML component models StatisticalUML component models StructuralUML component models Design Methodology 4
+UML component models Classifier design and evaluation 2
+UML component models Feature evaluation and selectionUML component models Pattern analysis 2
+UML component models ClusteringUML component models AlgorithmsUML component models Similarity measuresUML component models Applications 1
+UML component models Computer visionUML component models Signal processing 2
+UML component models Text processingUML component models Waveform analysis 2
+UML component models Implementation 1
+UML component models Interactive systems 5
+UML component models Special architectures 3
+UML component models MiscellaneousUML component models SIMULATION AND MODELING 17
+UML component models General 2
+UML component models Simulation TheoryUML component models Model classification 4
+UML component models Systems theory 7
+UML component models Types of simulation 2
+UML component models Simulation Languages 4
+UML component models Applications 1
+UML component models Model Validation and Analysis 5
+UML component models Model Development 4
+UML component models Modeling methodologies 4
+UML component models Simulation Output Analysis 1
+UML component models Simulation Support Systems 3
+UML component models EnvironmentsUML component models Types of Simulation 2
+UML component models AnimationUML component models CombinedUML component models ContinuousUML component models Discrete event 1
+UML component models DistributedUML component models GamingUML component models Monte Carlo 2
+UML component models ParallelUML component models VisualUML component models MiscellaneousUML component models DOCUMENT AND TEXT PROCESSINGUML component models General 2
+UML component models Document and Text EditingUML component models Document managementUML component models Languages 3
+UML component models SpellingUML component models Version control 2
+UML component models Document PreparationUML component models Desktop publishingUML component models Format and notationUML component models Hypertext/hypermediaUML component models Index generation 2
+UML component models Languages and systems 28
+UML component models Markup languages 3
+UML component models Multi/mixed mediaUML component models Scripting languages 3
+UML component models StandardsUML component models Index Generation 2
+UML component models Electronic PublishingUML component models Document Capture 1
+UML component models Document analysis 2
+UML component models Optical character recognitionUML component models ScanningUML component models MiscellaneousUML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models ADMINISTRATIVE DATA PROCESSINGUML component models BusinessUML component models EducationUML component models FinancialUML component models GovernmentUML component models LawUML component models ManufacturingUML component models MarketingUML component models MilitaryUML component models PHYSICAL SCIENCES AND ENGINEERING 2
+UML component models AerospaceUML component models ArchaeologyUML component models AstronomyUML component models ChemistryUML component models Earth and atmospheric sciencesUML component models ElectronicsUML component models Engineering 2
+UML component models Mathematics and statisticsUML component models Physics 1
+UML component models LIFE AND MEDICAL SCIENCESUML component models Biology and geneticsUML component models HealthUML component models Medical information systemsUML component models SOCIAL AND BEHAVIORAL SCIENCESUML component models EconomicsUML component models PsychologyUML component models SociologyUML component models ARTS AND HUMANITIESUML component models Architecture 2
+UML component models Fine artsUML component models Language translation 10
+UML component models LinguisticsUML component models LiteratureUML component models MusicUML component models Performing arts 2
+UML component models COMPUTER-AIDED ENGINEERINGUML component models Computer-aided designUML component models Computer-aided manufacturingUML component models COMPUTERS IN OTHER SYSTEMS 2
+UML component models Command and control 1
+UML component models Consumer products 2
+UML component models Industrial control 2
+UML component models MilitaryUML component models Process control 1
+UML component models PublishingUML component models Real time 2
+UML component models MISCELLANEOUSUML component models GENERAL 2
+UML component models THE COMPUTER INDUSTRY 10
+UML component models MarketsUML component models StandardsUML component models StatisticsUML component models SuppliersUML component models HISTORY OF COMPUTINGUML component models HardwareUML component models PeopleUML component models Software 4
+UML component models Systems 3
+UML component models TheoryUML component models COMPUTERS AND EDUCATIONUML component models General 2
+UML component models Computer Uses in EducationUML component models Collaborative learningUML component models Computer-assisted instructionUML component models Computer-managed instructionUML component models Distance learningUML component models Computer and Information Science EducationUML component models AccreditationUML component models Computer science educationUML component models CurriculumUML component models Information systems educationUML component models LiteracyUML component models Self-assessmentUML component models MiscellaneousUML component models AccreditationUML component models ComputerUML component models COMPUTERS AND SOCIETYUML component models General 2
+UML component models Public Policy IssuesUML component models Computer-related health issuesUML component models EthicsUML component models Human safety 1
+UML component models Intellectual property rightsUML component models PrivacyUML component models RegulationUML component models Transborder data flowUML component models Social IssuesUML component models Assistive technologies for persons with disabilitiesUML component models EmploymentUML component models Handicapped persons/special needsUML component models Organizational Impacts 1
+UML component models Automation 1
+UML component models Computer-supported collaborative workUML component models EmploymentUML component models ReengineeringUML component models Electronic CommerceUML component models Electronic data interchangeUML component models Intellectual property 1
+UML component models Payment schemesUML component models SecurityUML component models MiscellaneousUML component models LEGAL ASPECTS OF COMPUTINGUML component models General 2
+UML component models Hardware/Software ProtectionUML component models CopyrightsUML component models LicensingUML component models PatentsUML component models Proprietary rightsUML component models Trade secretsUML component models Governmental IssuesUML component models CensorshipUML component models RegulationUML component models TaxationUML component models MiscellaneousUML component models ContractsUML component models HardwareUML component models MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 1
+UML component models General 2
+UML component models EconomicsUML component models Project and People ManagementUML component models Life cycleUML component models Management techniques 1
+UML component models StaffingUML component models Strategic information systems planningUML component models Systems analysis and design 4
+UML component models Systems development 14
+UML component models Training 1
+UML component models Installation ManagementUML component models BenchmarksUML component models Computer selection 1
+UML component models Pricing and resource allocationUML component models Software Management 4
+UML component models Software development 7
+UML component models Software maintenance 6
+UML component models Software process 4
+UML component models Software selection 6
+UML component models System Management 7
+UML component models Centralization/decentralizationUML component models Management auditUML component models Quality assurance 1
+UML component models Security and ProtectionUML component models AuthenticationUML component models InsuranceUML component models Invasive software 4
+UML component models Physical security 1
+UML component models Unauthorized accessUML component models MiscellaneousUML component models InsuranceUML component models SecurityUML component models THE COMPUTING PROFESSIONUML component models General 2
+UML component models OccupationsUML component models OrganizationsUML component models Testing, Certification, and LicensingUML component models Professional EthicsUML component models Codes of ethics 1
+UML component models Codes of good practiceUML component models Ethical dilemmasUML component models MiscellaneousUML component models Codes 1
+UML component models EthicsUML component models PERSONAL COMPUTINGUML component models GamesUML component models General 2
+UML component models GamesUML component models Application Packages 2
+UML component models Data communications 2
+UML component models Database processingUML component models Freeware/sharewareUML component models GraphicsUML component models SpreadsheetsUML component models Word processingUML component models HardwareUML component models Management/Maintenance 1
+UML component models MiscellaneousUML component models MISCELLANEOUSsemi automated abstraction GENERAL 1
+semi automated abstraction Biographies autobiographiessemi automated abstraction Conference proceedingssemi automated abstraction INTRODUCTORY AND SURVEYsemi automated abstraction REFERENCEsemi automated abstraction MISCELLANEOUSsemi automated abstraction GENERAL 1
+semi automated abstraction CONTROL STRUCTURES AND MICROPROGRAMMINGsemi automated abstraction General 1
+semi automated abstraction Control Design Stylessemi automated abstraction Hardwired controlsemi automated abstraction Writable control storesemi automated abstraction Automatic synthesis 1
+semi automated abstraction Formal models 2
+semi automated abstraction Simulationsemi automated abstraction Control Structure Reliability, Testing, and Fault-Tolerancesemi automated abstraction Diagnosticssemi automated abstraction Error-checking 1
+semi automated abstraction Redundant design 1
+semi automated abstraction Test generation 8
+semi automated abstraction Firmware engineeringsemi automated abstraction Languages and compilers 1
+semi automated abstraction Optimizationsemi automated abstraction Verificationsemi automated abstraction Direct data manipulationsemi automated abstraction Instruction set interpretationsemi automated abstraction Peripheral controlsemi automated abstraction Special-purpose 1
+semi automated abstraction Miscellaneoussemi automated abstraction General 1
+semi automated abstraction Design Styles 1
+semi automated abstraction Calculatorsemi automated abstraction Parallelsemi automated abstraction Pipelinesemi automated abstraction Performance Analysis and Design Aidssemi automated abstraction Simulationsemi automated abstraction Verificationsemi automated abstraction Worst-case analysissemi automated abstraction Reliability, Testing, and Fault-Tolerancesemi automated abstraction Diagnosticssemi automated abstraction Error-checking 1
+semi automated abstraction Redundant design 1
+semi automated abstraction Test generation 8
+semi automated abstraction High-Speed Arithmeticsemi automated abstraction Algorithmssemi automated abstraction Cost/performancesemi automated abstraction Miscellaneoussemi automated abstraction MEMORY STRUCTURESsemi automated abstraction General 1
+semi automated abstraction Semiconductor Memoriessemi automated abstraction Dynamic memorysemi automated abstraction Read-only memorysemi automated abstraction Static memorysemi automated abstraction Design Styles 1
+semi automated abstraction Associative memoriessemi automated abstraction Cache memoriessemi automated abstraction Interleaved memoriessemi automated abstraction Mass storagesemi automated abstraction Primary memorysemi automated abstraction Sequential-access memorysemi automated abstraction Shared memorysemi automated abstraction Virtual memorysemi automated abstraction Performance Analysis and Design Aidssemi automated abstraction Formal models 2
+semi automated abstraction Simulationsemi automated abstraction Worst-case analysissemi automated abstraction Reliability, Testing, and Fault-Tolerancesemi automated abstraction Diagnosticssemi automated abstraction Error-checking 1
+semi automated abstraction Redundant design 1
+semi automated abstraction Test generation 8
+semi automated abstraction Miscellaneoussemi automated abstraction INPUT/OUTPUT AND DATA COMMUNICATIONSsemi automated abstraction General 1
+semi automated abstraction Data Communications Devicessemi automated abstraction Processorssemi automated abstraction Receiverssemi automated abstraction Transmitterssemi automated abstraction Input/Output Devicessemi automated abstraction Channels and controllerssemi automated abstraction Image display 3
+semi automated abstraction Voicesemi automated abstraction Interconnectionssemi automated abstraction Asynchronous/synchronous operationsemi automated abstraction Fiber optics 1
+semi automated abstraction Interfacessemi automated abstraction Parallel I/Osemi automated abstraction Physical structuressemi automated abstraction Topologysemi automated abstraction Performance Analysis and Design Aidssemi automated abstraction Formal models 2
+semi automated abstraction Simulationsemi automated abstraction Verificationsemi automated abstraction Worst-case analysissemi automated abstraction Reliability, Testing, and Fault-Tolerancesemi automated abstraction Built-in testssemi automated abstraction Diagnosticssemi automated abstraction Error-checking 1
+semi automated abstraction Hardware reliabilitysemi automated abstraction Redundant design 1
+semi automated abstraction Test generation 8
+semi automated abstraction Miscellaneoussemi automated abstraction REGISTER-TRANSFER-LEVEL IMPLEMENTATIONsemi automated abstraction General 1
+semi automated abstraction Design 1
+semi automated abstraction Arithmetic and logic unitssemi automated abstraction Control design 3
+semi automated abstraction Data-path designsemi automated abstraction Memory design 1
+semi automated abstraction Stylessemi automated abstraction Design Aids 1
+semi automated abstraction Automatic synthesis 1
+semi automated abstraction Hardware description languagessemi automated abstraction Optimizationsemi automated abstraction Simulationsemi automated abstraction Verificationsemi automated abstraction Reliability and Testing 1
+semi automated abstraction Built-in testssemi automated abstraction Error-checking 1
+semi automated abstraction Redundant design 1
+semi automated abstraction Test generation 8
+semi automated abstraction Testabilitysemi automated abstraction Miscellaneoussemi automated abstraction LOGIC DESIGN 1
+semi automated abstraction General 1
+semi automated abstraction Design Styles 1
+semi automated abstraction Combinational logicsemi automated abstraction Logic arrayssemi automated abstraction Parallel circuitssemi automated abstraction Sequential circuitssemi automated abstraction Reliability and Testing 1
+semi automated abstraction Built-in testssemi automated abstraction Error-checking 1
+semi automated abstraction Redundant design 1
+semi automated abstraction Test generation 8
+semi automated abstraction Testabilitysemi automated abstraction Design Aids 1
+semi automated abstraction Automatic synthesis 1
+semi automated abstraction Hardware description languagessemi automated abstraction Optimizationsemi automated abstraction Simulationsemi automated abstraction Switching theorysemi automated abstraction Verificationsemi automated abstraction Miscellaneoussemi automated abstraction INTEGRATED CIRCUITSsemi automated abstraction General 1
+semi automated abstraction Types and Design Stylessemi automated abstraction Advanced technologies 1
+semi automated abstraction Algorithms implemented in hardwaresemi automated abstraction Gate arrayssemi automated abstraction Input/output circuitssemi automated abstraction Memory technologies 1
+semi automated abstraction Microprocessors and microcomputerssemi automated abstraction Standard cellssemi automated abstraction VLSIsemi automated abstraction Design Aids 1
+semi automated abstraction Graphicssemi automated abstraction Layoutsemi automated abstraction Placement and routingsemi automated abstraction Simulationsemi automated abstraction Verificationsemi automated abstraction Reliability and Testing 1
+semi automated abstraction Built-in testssemi automated abstraction Error-checking 1
+semi automated abstraction Redundant design 1
+semi automated abstraction Test generation 8
+semi automated abstraction Testabilitysemi automated abstraction Miscellaneoussemi automated abstraction PERFORMANCE AND RELIABILITYsemi automated abstraction General 1
+semi automated abstraction Reliability, Testing, and Fault-Tolerancesemi automated abstraction Performance Analysis and Design Aidssemi automated abstraction Miscellaneoussemi automated abstraction MISCELLANEOUSsemi automated abstraction Design 1
+semi automated abstraction GENERAL 1
+semi automated abstraction Hardware/software interfacessemi automated abstraction Instruction set designsemi automated abstraction Modeling of computer architecture 1
+semi automated abstraction System architectures 4
+semi automated abstraction Systems specification methodology 3
+semi automated abstraction PROCESSOR ARCHITECTURES 1
+semi automated abstraction General 1
+semi automated abstraction Single Data Stream Architecturessemi automated abstraction Pipeline processorssemi automated abstraction RISC/CISC, VLIW architecturessemi automated abstraction Von Neumann architecturessemi automated abstraction Multiple Data Stream Architecturessemi automated abstraction Array and vector processorssemi automated abstraction Associative processorssemi automated abstraction Connection machinessemi automated abstraction Interconnection architectures 1
+semi automated abstraction Multiple-instruction-stream, multiple-data-stream processorssemi automated abstraction Parallel processorssemi automated abstraction Pipeline processorssemi automated abstraction Single-instruction-stream, multiple-data-stream processorssemi automated abstraction Other Architecture Styles 1
+semi automated abstraction Adaptable architectures 4
+semi automated abstraction Analog computerssemi automated abstraction Capability architectures 1
+semi automated abstraction Cellular architecture 1
+semi automated abstraction Data-flow architecturessemi automated abstraction Heterogeneoussemi automated abstraction High-level language architecturessemi automated abstraction Neural netssemi automated abstraction Pipeline processorssemi automated abstraction Stack-oriented processorssemi automated abstraction Parallel Architectures 2
+semi automated abstraction Distributed architectures 3
+semi automated abstraction Mobile processorssemi automated abstraction Miscellaneoussemi automated abstraction Analogsemi automated abstraction Hybridsemi automated abstraction COMPUTER-COMMUNICATION NETWORKSsemi automated abstraction General 1
+semi automated abstraction Data communications 2
+semi automated abstraction Open Systems Interconnection reference modelsemi automated abstraction Security and protectionsemi automated abstraction Network Architecture and Design 1
+semi automated abstraction Asynchronous Transfer Modesemi automated abstraction Centralized networkssemi automated abstraction Circuit-switching networkssemi automated abstraction Distributed networkssemi automated abstraction Frame relay networkssemi automated abstraction ISDNsemi automated abstraction Network communications 1
+semi automated abstraction Network topologysemi automated abstraction Packet-switching networkssemi automated abstraction Store and forward networkssemi automated abstraction Wireless communicationsemi automated abstraction Network Protocolssemi automated abstraction Applicationssemi automated abstraction Protocol architecture 2
+semi automated abstraction Protocol verification 1
+semi automated abstraction Routing protocolssemi automated abstraction Network Operations 1
+semi automated abstraction Network managementsemi automated abstraction Network monitoringsemi automated abstraction Public networkssemi automated abstraction Distributed Systems 5
+semi automated abstraction Client/serversemi automated abstraction Distributed applications 3
+semi automated abstraction Distributed databases 2
+semi automated abstraction Network operating systems 1
+semi automated abstraction Local and Wide-Area Networkssemi automated abstraction Access schemessemi automated abstraction Busessemi automated abstraction Ethernetsemi automated abstraction High-speed 2
+semi automated abstraction Internetsemi automated abstraction Token ringssemi automated abstraction Internetworkingsemi automated abstraction Routerssemi automated abstraction Standardssemi automated abstraction Miscellaneoussemi automated abstraction SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMSsemi automated abstraction Microprocessor/microcomputer applicationssemi automated abstraction Process control systems 6
+semi automated abstraction Real-time and embedded systemssemi automated abstraction Signal processing systems 1
+semi automated abstraction Smartcardssemi automated abstraction PERFORMANCE OF SYSTEMS 3
+semi automated abstraction Design studies 6
+semi automated abstraction Fault tolerance 1
+semi automated abstraction Measurement techniques 22
+semi automated abstraction Modeling techniques 4
+semi automated abstraction Performance attributessemi automated abstraction Reliability, availability, and serviceabilitysemi automated abstraction COMPUTER SYSTEM IMPLEMENTATION 1
+semi automated abstraction General 1
+semi automated abstraction Large and Mediumsemi automated abstraction Supersemi automated abstraction Minicomputerssemi automated abstraction Microcomputerssemi automated abstraction Microprocessorssemi automated abstraction Personal computerssemi automated abstraction Portable devicessemi automated abstraction Workstationssemi automated abstraction VLSI Systems 1
+semi automated abstraction Serverssemi automated abstraction Miscellaneoussemi automated abstraction MISCELLANEOUSsemi automated abstraction GENERAL 1
+semi automated abstraction PROGRAMMING TECHNIQUES 2
+semi automated abstraction General 1
+semi automated abstraction Applicativesemi automated abstraction Automatic Programming 1
+semi automated abstraction Concurrent Programmingsemi automated abstraction Distributed programming 1
+semi automated abstraction Parallel programming 1
+semi automated abstraction Sequential Programmingsemi automated abstraction Object-oriented Programmingsemi automated abstraction Logic Programmingsemi automated abstraction Visual Programmingsemi automated abstraction Miscellaneoussemi automated abstraction SOFTWARE ENGINEERING 5
+semi automated abstraction General 1
+semi automated abstraction Protection mechanismssemi automated abstraction Standardssemi automated abstraction Requirements/Specifications 1
+semi automated abstraction Elicitation methodssemi automated abstraction Languages 1
+semi automated abstraction Methodologiessemi automated abstraction Tools 1
+semi automated abstraction Design Tools and Techniques 4
+semi automated abstraction Computer-aided software engineeringsemi automated abstraction Decision tables 1
+semi automated abstraction Evolutionary prototypingsemi automated abstraction Flow chartssemi automated abstraction Modules and interfacessemi automated abstraction Object-oriented design methodssemi automated abstraction Petri netssemi automated abstraction Programmer workbenchsemi automated abstraction Software libraries 1
+semi automated abstraction State diagramssemi automated abstraction Structured programming 1
+semi automated abstraction Top-down programmingsemi automated abstraction User interfaces 1
+semi automated abstraction Coding Tools and Techniques 3
+semi automated abstraction Object-oriented programmingsemi automated abstraction Pretty printerssemi automated abstraction Program editorssemi automated abstraction Reentrant code 1
+semi automated abstraction Standardssemi automated abstraction Structured programming 1
+semi automated abstraction Top-down programmingsemi automated abstraction Software/Program Verificationsemi automated abstraction Assertion checkerssemi automated abstraction Class invariantssemi automated abstraction Correctness proofssemi automated abstraction Formal methods 1
+semi automated abstraction Model checking 3
+semi automated abstraction Programming by contractsemi automated abstraction Reliabilitysemi automated abstraction Statistical methodssemi automated abstraction Validationsemi automated abstraction Testing and Debuggingsemi automated abstraction Code inspections and walk-throughssemi automated abstraction Debugging aidssemi automated abstraction Diagnosticssemi automated abstraction Distributed debuggingsemi automated abstraction Dumpssemi automated abstraction Error handling and recoverysemi automated abstraction Monitorssemi automated abstraction Symbolic execution 1
+semi automated abstraction Testing tools 7
+semi automated abstraction Tracingsemi automated abstraction Programming Environments 2
+semi automated abstraction Graphical environmentssemi automated abstraction Integrated environments 2
+semi automated abstraction Interactive environmentssemi automated abstraction Programmer workbenchsemi automated abstraction Distribution, Maintenance, and Enhancementsemi automated abstraction Correctionssemi automated abstraction Documentationsemi automated abstraction Enhancementsemi automated abstraction Extensibilitysemi automated abstraction Portabilitysemi automated abstraction Restructuring, reverse engineering, and reengineeringsemi automated abstraction Version control 1
+semi automated abstraction Metricssemi automated abstraction Complexity measuressemi automated abstraction Performance measures 2
+semi automated abstraction Process metrics 5
+semi automated abstraction Product metrics 1
+semi automated abstraction Software science 13
+semi automated abstraction Managementsemi automated abstraction Copyrightssemi automated abstraction Cost estimationsemi automated abstraction Life cyclesemi automated abstraction Productivitysemi automated abstraction Programming teamssemi automated abstraction Software configuration managementsemi automated abstraction Software process models 3
+semi automated abstraction Software quality assurancesemi automated abstraction Time estimation 2
+semi automated abstraction Design 1
+semi automated abstraction Methodologiessemi automated abstraction Representationsemi automated abstraction Software Architectures 3
+semi automated abstraction Data abstraction 1
+semi automated abstraction Domain-specific architectures 1
+semi automated abstraction Information hidingsemi automated abstraction Languages 1
+semi automated abstraction Patternssemi automated abstraction Interoperabilitysemi automated abstraction Data mapping 6
+semi automated abstraction Distributed objects 2
+semi automated abstraction Interface definition languages 1
+semi automated abstraction Reusable Software 1
+semi automated abstraction Domain engineering 1
+semi automated abstraction Reusable librariessemi automated abstraction Reuse models 1
+semi automated abstraction Miscellaneoussemi automated abstraction Rapidsemi automated abstraction Reusablesemi automated abstraction PROGRAMMING LANGUAGES 1
+semi automated abstraction General 1
+semi automated abstraction Standardssemi automated abstraction Formal Definitions and Theorysemi automated abstraction Semanticssemi automated abstraction Syntaxsemi automated abstraction Language Classifications 1
+semi automated abstraction Applicativesemi automated abstraction Concurrent, distributed, and parallel languagessemi automated abstraction Constraint and logic languages 1
+semi automated abstraction Data-flow languagessemi automated abstraction Design languages 4
+semi automated abstraction Extensible languages 2
+semi automated abstraction Microprogramming languages 1
+semi automated abstraction Multiparadigm languages 1
+semi automated abstraction Nondeterministic languages 1
+semi automated abstraction Nonprocedural languages 1
+semi automated abstraction Object-oriented languagessemi automated abstraction Specialized application languagessemi automated abstraction Very high-level languagessemi automated abstraction Language Constructs and Featuressemi automated abstraction Abstract data typessemi automated abstraction Classes and objectssemi automated abstraction Concurrent programming structuressemi automated abstraction Constraints 1
+semi automated abstraction Control structuressemi automated abstraction Coroutinessemi automated abstraction Data types and structures 4
+semi automated abstraction Dynamic storage managementsemi automated abstraction Frameworkssemi automated abstraction Inheritancesemi automated abstraction Input/outputsemi automated abstraction Modules, packagessemi automated abstraction Patternssemi automated abstraction Polymorphismsemi automated abstraction Procedures, functions, and subroutinessemi automated abstraction Recursionsemi automated abstraction Processorssemi automated abstraction Code generation 3
+semi automated abstraction Compilerssemi automated abstraction Debuggerssemi automated abstraction Incremental compilerssemi automated abstraction Interpreterssemi automated abstraction Memory managementsemi automated abstraction Optimizationsemi automated abstraction Parsingsemi automated abstraction Preprocessorssemi automated abstraction Retargetable compilerssemi automated abstraction Run-time environmentssemi automated abstraction Translator writing systems and compiler generatorssemi automated abstraction Miscellaneoussemi automated abstraction OPERATING SYSTEMS 8
+semi automated abstraction General 1
+semi automated abstraction Process Management 17
+semi automated abstraction Concurrencysemi automated abstraction Deadlockssemi automated abstraction Multiprocessing/multiprogramming/multitaskingsemi automated abstraction Mutual exclusionsemi automated abstraction Schedulingsemi automated abstraction Synchronizationsemi automated abstraction Threadssemi automated abstraction Storage Managementsemi automated abstraction Allocation/deallocation strategiessemi automated abstraction Distributed memoriessemi automated abstraction Garbage collectionsemi automated abstraction Main memory 1
+semi automated abstraction Secondary storagesemi automated abstraction Segmentationsemi automated abstraction Storage hierarchiessemi automated abstraction Swappingsemi automated abstraction Virtual memorysemi automated abstraction File Systems Managementsemi automated abstraction Access methodssemi automated abstraction Directory structuressemi automated abstraction Distributed file systemssemi automated abstraction File organizationsemi automated abstraction Maintenancesemi automated abstraction Communications Managementsemi automated abstraction Bufferingsemi automated abstraction Input/outputsemi automated abstraction Message sendingsemi automated abstraction Network communication 1
+semi automated abstraction Terminal managementsemi automated abstraction Reliabilitysemi automated abstraction Backup proceduressemi automated abstraction Checkpoint/restartsemi automated abstraction Fault-tolerance 1
+semi automated abstraction Verificationsemi automated abstraction Security and Protectionsemi automated abstraction Access controlssemi automated abstraction Authenticationsemi automated abstraction Cryptographic controlssemi automated abstraction Information flow controlssemi automated abstraction Invasive software 1
+semi automated abstraction Security kernelssemi automated abstraction Verificationsemi automated abstraction Organization and Design 1
+semi automated abstraction Batch processing systemssemi automated abstraction Distributed systems 5
+semi automated abstraction Hierarchical design 1
+semi automated abstraction Interactive systems 5
+semi automated abstraction Real-time systems and embedded systemssemi automated abstraction Performancesemi automated abstraction Measurementssemi automated abstraction Modeling and prediction 2
+semi automated abstraction Monitorssemi automated abstraction Operational analysis 3
+semi automated abstraction Queueing theorysemi automated abstraction Simulationsemi automated abstraction Stochastic analysissemi automated abstraction Command and control languagessemi automated abstraction Linkerssemi automated abstraction Loaderssemi automated abstraction Window managerssemi automated abstraction Miscellaneoussemi automated abstraction MISCELLANEOUSsemi automated abstraction Software 1
+semi automated abstraction GENERAL 1
+semi automated abstraction DATA STRUCTURES 13
+semi automated abstraction Arrayssemi automated abstraction Distributed data structures 1
+semi automated abstraction Graphs and networkssemi automated abstraction Lists, stacks, and queuessemi automated abstraction Recordssemi automated abstraction Tablessemi automated abstraction Treessemi automated abstraction DATA STORAGE REPRESENTATIONSsemi automated abstraction Composite structures 3
+semi automated abstraction Contiguous representationssemi automated abstraction Hash-table representationssemi automated abstraction Linked representationssemi automated abstraction Object representationsemi automated abstraction Primitive data itemssemi automated abstraction DATA ENCRYPTIONsemi automated abstraction Code breaking 1
+semi automated abstraction Data encryption standardsemi automated abstraction Public key cryptosystemssemi automated abstraction Standardssemi automated abstraction CODING AND INFORMATION THEORYsemi automated abstraction Data compaction and compressionsemi automated abstraction Error control codessemi automated abstraction Formal models of communicationsemi automated abstraction Nonsecret encoding schemessemi automated abstraction FILESsemi automated abstraction Backup/recoverysemi automated abstraction Optimizationsemi automated abstraction Organization/structuresemi automated abstraction Sorting/searchingsemi automated abstraction MISCELLANEOUSsemi automated abstraction GENERAL 1
+semi automated abstraction COMPUTATION BY ABSTRACT DEVICESsemi automated abstraction General 1
+semi automated abstraction Models of Computation 6
+semi automated abstraction Automatasemi automated abstraction Bounded-action devicessemi automated abstraction Computability theorysemi automated abstraction Relations between models 1
+semi automated abstraction Self-modifying machinessemi automated abstraction Unbounded-action devicessemi automated abstraction Modes of Computation 1
+semi automated abstraction Alternation and nondeterminismsemi automated abstraction Interactive and reactive computationsemi automated abstraction Online computationsemi automated abstraction Parallelism and concurrencysemi automated abstraction Probabilistic computation 2
+semi automated abstraction Relations among modessemi automated abstraction Relativized computationsemi automated abstraction Complexity Measures and Classessemi automated abstraction Complexity hierarchiessemi automated abstraction Machine-independent complexitysemi automated abstraction Reducibility and completenesssemi automated abstraction Relations among complexity classessemi automated abstraction Relations among complexity measuressemi automated abstraction Miscellaneoussemi automated abstraction ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 1
+semi automated abstraction General 1
+semi automated abstraction Numerical Algorithms and Problemssemi automated abstraction Computation of transformssemi automated abstraction Computations in finite fieldssemi automated abstraction Computations on matricessemi automated abstraction Computations on polynomialssemi automated abstraction Number-theoretic computationssemi automated abstraction Nonnumerical Algorithms and Problemssemi automated abstraction Computations on discrete structuressemi automated abstraction Geometrical problems and computationssemi automated abstraction Pattern matchingsemi automated abstraction Routing and layoutsemi automated abstraction Sequencing and schedulingsemi automated abstraction Sorting and searchingsemi automated abstraction Tradeoffs between Complexity Measuressemi automated abstraction Miscellaneoussemi automated abstraction LOGICS AND MEANINGS OF PROGRAMSsemi automated abstraction General 1
+semi automated abstraction Assertionssemi automated abstraction Invariantssemi automated abstraction Logics of programssemi automated abstraction Mechanical verificationsemi automated abstraction Pre- and post-conditionssemi automated abstraction Specification techniques 1
+semi automated abstraction Semantics of Programming Languagessemi automated abstraction Algebraic approaches to semanticssemi automated abstraction Denotational semanticssemi automated abstraction Operational semanticssemi automated abstraction Partial evaluation 1
+semi automated abstraction Process models 28
+semi automated abstraction Program analysis 2
+semi automated abstraction Studies of Program Constructs 2
+semi automated abstraction Control primitivessemi automated abstraction Functional constructssemi automated abstraction Object-oriented constructssemi automated abstraction Program and recursion schemessemi automated abstraction Type structuresemi automated abstraction Miscellaneoussemi automated abstraction MATHEMATICAL LOGIC AND FORMAL LANGUAGESsemi automated abstraction General 1
+semi automated abstraction Mathematical Logic 1
+semi automated abstraction Computability theorysemi automated abstraction Computational logicsemi automated abstraction Lambda calculus and related systemssemi automated abstraction Logic and constraint programmingsemi automated abstraction Mechanical theorem provingsemi automated abstraction Modal logicsemi automated abstraction Model theory 1
+semi automated abstraction Proof theory 2
+semi automated abstraction Recursive function theorysemi automated abstraction Set theorysemi automated abstraction Temporal logicsemi automated abstraction Grammars and Other Rewriting Systemssemi automated abstraction Decision problems 5
+semi automated abstraction Grammar typessemi automated abstraction Parallel rewriting systemssemi automated abstraction Parsingsemi automated abstraction Thue systems 1
+semi automated abstraction Formal Languages 2
+semi automated abstraction Algebraic language theorysemi automated abstraction Classes defined by grammars or automatasemi automated abstraction Decision problems 5
+semi automated abstraction Operations on languages 1
+semi automated abstraction Miscellaneoussemi automated abstraction MISCELLANEOUSsemi automated abstraction GENERAL 1
+semi automated abstraction NUMERICAL ANALYSISsemi automated abstraction General 1
+semi automated abstraction Computer arithmeticsemi automated abstraction Conditioningsemi automated abstraction Error analysissemi automated abstraction Interval arithmeticsemi automated abstraction Multiple precision arithmeticsemi automated abstraction Numerical algorithmssemi automated abstraction Parallel algorithmssemi automated abstraction Stabilitysemi automated abstraction Interpolationsemi automated abstraction Difference formulas 1
+semi automated abstraction Extrapolationsemi automated abstraction Interpolation formulassemi automated abstraction Smoothingsemi automated abstraction Approximationsemi automated abstraction Chebyshev approximation and theorysemi automated abstraction Elementary function approximationsemi automated abstraction Fast Fourier transformssemi automated abstraction Least squares approximationsemi automated abstraction Linear approximationsemi automated abstraction Minimax approximation and algorithmssemi automated abstraction Nonlinear approximationsemi automated abstraction Rational approximationsemi automated abstraction Special function approximationssemi automated abstraction Spline and piecewise polynomial approximationsemi automated abstraction Wavelets and fractalssemi automated abstraction Numerical Linear Algebrasemi automated abstraction Conditioningsemi automated abstraction Determinantssemi automated abstraction Eigenvalues and eigenvectorssemi automated abstraction Error analysissemi automated abstraction Linear systems 2
+semi automated abstraction Matrix inversionsemi automated abstraction Pseudoinversessemi automated abstraction Singular value decompositionsemi automated abstraction Sparse, structured, and very large systemssemi automated abstraction Quadrature and Numerical Differentiationsemi automated abstraction Automatic differentiation 1
+semi automated abstraction Error analysissemi automated abstraction Finite difference methodssemi automated abstraction Gaussian quadraturesemi automated abstraction Iterative methods 2
+semi automated abstraction Multidimensionalsemi automated abstraction Roots of Nonlinear Equationssemi automated abstraction Continuationsemi automated abstraction Convergencesemi automated abstraction Error analysissemi automated abstraction Iterative methods 2
+semi automated abstraction Polynomials, methods forsemi automated abstraction Systems of equations 2
+semi automated abstraction Optimizationsemi automated abstraction Constrained optimizationsemi automated abstraction Convex programmingsemi automated abstraction Global optimizationsemi automated abstraction Gradient methods 1
+semi automated abstraction Integer programmingsemi automated abstraction Least squares methodssemi automated abstraction Linear programmingsemi automated abstraction Nonlinear programmingsemi automated abstraction Quadratic programming methodssemi automated abstraction Simulated annealingsemi automated abstraction Stochastic programmingsemi automated abstraction Unconstrained optimizationsemi automated abstraction Ordinary Differential Equationssemi automated abstraction Boundary value problemssemi automated abstraction Chaotic systems 1
+semi automated abstraction Convergence and stabilitysemi automated abstraction Differential-algebraic equationssemi automated abstraction Error analysissemi automated abstraction Finite difference methodssemi automated abstraction Initial value problemssemi automated abstraction Multistep and multivalue methodssemi automated abstraction One-step 2
+semi automated abstraction Stiff equationssemi automated abstraction Partial Differential Equationssemi automated abstraction Domain decomposition methodssemi automated abstraction Elliptic equationssemi automated abstraction Finite difference methodssemi automated abstraction Finite element methods 1
+semi automated abstraction Finite volume methodssemi automated abstraction Hyperbolic equationssemi automated abstraction Inverse problems 2
+semi automated abstraction Iterative solution techniquessemi automated abstraction Method of lines 27
+semi automated abstraction Multigrid and multilevel methodssemi automated abstraction Parabolic equationssemi automated abstraction Spectral methods 1
+semi automated abstraction Integral Equationssemi automated abstraction Delay equationssemi automated abstraction Fredholm equationssemi automated abstraction Integro-differential equationssemi automated abstraction Volterra equationssemi automated abstraction Applicationssemi automated abstraction Miscellaneoussemi automated abstraction DISCRETE MATHEMATICSsemi automated abstraction General 1
+semi automated abstraction Combinatoricssemi automated abstraction Combinatorial algorithmssemi automated abstraction Counting problems 2
+semi automated abstraction Generating functions 6
+semi automated abstraction Permutations and combinationssemi automated abstraction Recurrences and difference equationssemi automated abstraction Graph Theorysemi automated abstraction Graph algorithmssemi automated abstraction Graph labelingsemi automated abstraction Hypergraphssemi automated abstraction Network problems 1
+semi automated abstraction Path and circuit problemssemi automated abstraction Treessemi automated abstraction Applicationssemi automated abstraction Miscellaneoussemi automated abstraction PROBABILITY AND STATISTICSsemi automated abstraction Contingency table analysissemi automated abstraction Correlation and regression analysissemi automated abstraction Distribution functionssemi automated abstraction Experimental design 1
+semi automated abstraction Markov processessemi automated abstraction Multivariate statisticssemi automated abstraction Nonparametric statisticssemi automated abstraction Probabilistic algorithms 2
+semi automated abstraction Queueing theorysemi automated abstraction Random number generationsemi automated abstraction Reliability and life testingsemi automated abstraction Renewal theorysemi automated abstraction Robust regressionsemi automated abstraction Statistical computingsemi automated abstraction Statistical software 1
+semi automated abstraction Stochastic processessemi automated abstraction Survival analysissemi automated abstraction Time series analysis 1
+semi automated abstraction MATHEMATICAL SOFTWARE 1
+semi automated abstraction Algorithm design and analysis 6
+semi automated abstraction Certification and testingsemi automated abstraction Documentationsemi automated abstraction Efficiencysemi automated abstraction Parallel and vector implementationssemi automated abstraction Portabilitysemi automated abstraction Reliability and robustnesssemi automated abstraction User interfaces 1
+semi automated abstraction Verificationsemi automated abstraction MISCELLANEOUSsemi automated abstraction Queueingsemi automated abstraction GENERAL 1
+semi automated abstraction MODELS AND PRINCIPLES 2
+semi automated abstraction General 1
+semi automated abstraction Systems and Information Theory 1
+semi automated abstraction General systems theory 1
+semi automated abstraction Information theorysemi automated abstraction Value of informationsemi automated abstraction User/Machine Systems 2
+semi automated abstraction Human factorssemi automated abstraction Human information processingsemi automated abstraction Software psychology 1
+semi automated abstraction Miscellaneoussemi automated abstraction DATABASE MANAGEMENT 1
+semi automated abstraction General 1
+semi automated abstraction Security, integrity, and protectionsemi automated abstraction Logical Design 1
+semi automated abstraction Data models 10
+semi automated abstraction Normal formssemi automated abstraction Schema and subschemasemi automated abstraction Physical Design 1
+semi automated abstraction Access methodssemi automated abstraction Deadlock avoidancesemi automated abstraction Recovery and restartsemi automated abstraction Languages 1
+semi automated abstraction Data description languagessemi automated abstraction Data manipulation languages 1
+semi automated abstraction Databasesemi automated abstraction Query languages 2
+semi automated abstraction Report writerssemi automated abstraction Systems 1
+semi automated abstraction Concurrencysemi automated abstraction Distributed databases 2
+semi automated abstraction Multimedia databasessemi automated abstraction Object-oriented databasessemi automated abstraction Parallel databasessemi automated abstraction Query processing 2
+semi automated abstraction Relational databasessemi automated abstraction Rule-based databases 1
+semi automated abstraction Textual databasessemi automated abstraction Transaction processingsemi automated abstraction Heterogeneous Databasessemi automated abstraction Data translationsemi automated abstraction Program translationsemi automated abstraction Database Machinessemi automated abstraction Database Administrationsemi automated abstraction Data dictionary/directorysemi automated abstraction Data warehouse and repositorysemi automated abstraction Logging and recoverysemi automated abstraction Security, integrity, and protectionsemi automated abstraction Database Applications 1
+semi automated abstraction Data mining 2
+semi automated abstraction Image databases 7
+semi automated abstraction Scientific databasessemi automated abstraction Spatial databases and GISsemi automated abstraction Statistical databasessemi automated abstraction Miscellaneoussemi automated abstraction INFORMATION STORAGE AND RETRIEVALsemi automated abstraction General 1
+semi automated abstraction Content Analysis and Indexingsemi automated abstraction Abstracting methods 1
+semi automated abstraction Dictionariessemi automated abstraction Indexing methods 1
+semi automated abstraction Linguistic processingsemi automated abstraction Thesaurusessemi automated abstraction Information Storagesemi automated abstraction File organizationsemi automated abstraction Record classificationsemi automated abstraction Information Search and Retrieval 2
+semi automated abstraction Clusteringsemi automated abstraction Information filtering 1
+semi automated abstraction Query formulationsemi automated abstraction Relevance feedback 1
+semi automated abstraction Retrieval models 1
+semi automated abstraction Search processsemi automated abstraction Selection process 4
+semi automated abstraction Systems and Software 19
+semi automated abstraction Current awareness systemssemi automated abstraction Distributed systems 5
+semi automated abstraction Information networks 2
+semi automated abstraction Performance evaluation 1
+semi automated abstraction Question-answeringsemi automated abstraction Online Information Servicessemi automated abstraction Commercial servicessemi automated abstraction Data sharing 1
+semi automated abstraction Web-based services 4
+semi automated abstraction Library Automation 4
+semi automated abstraction Large text archivessemi automated abstraction Digital Libraries 2
+semi automated abstraction Collectionsemi automated abstraction Disseminationsemi automated abstraction Standardssemi automated abstraction Systems issues 10
+semi automated abstraction User issues 1
+semi automated abstraction Miscellaneoussemi automated abstraction INFORMATION SYSTEMS APPLICATIONS 1
+semi automated abstraction General 1
+semi automated abstraction Office Automation 1
+semi automated abstraction Desktop publishingsemi automated abstraction Equipmentsemi automated abstraction Groupwaresemi automated abstraction Spreadsheetssemi automated abstraction Time management 1
+semi automated abstraction Word processingsemi automated abstraction Workflow management 3
+semi automated abstraction Types of Systems 1
+semi automated abstraction Decision support 11
+semi automated abstraction Logisticssemi automated abstraction Communications Applications 2
+semi automated abstraction Bulletin boardssemi automated abstraction Computer conferencing, teleconferencing, and videoconferencingsemi automated abstraction Electronic mailsemi automated abstraction Information browserssemi automated abstraction Videotexsemi automated abstraction Miscellaneoussemi automated abstraction INFORMATION INTERFACES AND PRESENTATIONsemi automated abstraction General 1
+semi automated abstraction Multimedia Information Systemssemi automated abstraction Animationssemi automated abstraction Artificial, augmented, and virtual realitiessemi automated abstraction Audio input/outputsemi automated abstraction Evaluation/methodology 1
+semi automated abstraction Videosemi automated abstraction User Interfaces 1
+semi automated abstraction Auditorysemi automated abstraction Benchmarkingsemi automated abstraction Ergonomicssemi automated abstraction Evaluation/methodology 1
+semi automated abstraction Graphical user interfaces 1
+semi automated abstraction Haptic I/Osemi automated abstraction Input devices and strategiessemi automated abstraction Interaction stylessemi automated abstraction Natural language 1
+semi automated abstraction Prototypingsemi automated abstraction Screen design 2
+semi automated abstraction Standardizationsemi automated abstraction Style guidessemi automated abstraction Theory and methodssemi automated abstraction Training, help, and documentationsemi automated abstraction User-centered design 1
+semi automated abstraction User interface management systems 1
+semi automated abstraction Voice I/Osemi automated abstraction Windowing systems 1
+semi automated abstraction Group and Organization Interfacessemi automated abstraction Asynchronous interactionsemi automated abstraction Collaborative computingsemi automated abstraction Computer-supported cooperative worksemi automated abstraction Evaluation/methodology 1
+semi automated abstraction Organizational design 1
+semi automated abstraction Synchronous interactionsemi automated abstraction Theory and models 1
+semi automated abstraction Web-based interaction 4
+semi automated abstraction Hypertext/Hypermediasemi automated abstraction Architectures 1
+semi automated abstraction Navigationsemi automated abstraction Theorysemi automated abstraction User issues 1
+semi automated abstraction Sound and Music Computingsemi automated abstraction Methodologies and techniques 10
+semi automated abstraction Modeling 1
+semi automated abstraction Systems 1
+semi automated abstraction Miscellaneoussemi automated abstraction MISCELLANEOUSsemi automated abstraction GENERAL 1
+semi automated abstraction SYMBOLIC AND ALGEBRAIC MANIPULATIONsemi automated abstraction General 1
+semi automated abstraction Expressions and Their Representationsemi automated abstraction Representationssemi automated abstraction Simplification of expressionssemi automated abstraction Algorithmssemi automated abstraction Algebraic algorithmssemi automated abstraction Analysis of algorithms 29
+semi automated abstraction Nonalgebraic algorithmssemi automated abstraction Languages and Systems 1
+semi automated abstraction Evaluation strategies 1
+semi automated abstraction Nonprocedural languages 1
+semi automated abstraction Special-purpose algebraic systemssemi automated abstraction Special-purpose hardwaresemi automated abstraction Substitution mechanismssemi automated abstraction Applicationssemi automated abstraction Miscellaneoussemi automated abstraction ARTIFICIAL INTELLIGENCEsemi automated abstraction General 1
+semi automated abstraction Cognitive simulationsemi automated abstraction Philosophical foundationssemi automated abstraction Applications and Expert Systems 1
+semi automated abstraction Cartographysemi automated abstraction Gamessemi automated abstraction Industrial automation 2
+semi automated abstraction Lawsemi automated abstraction Medicine and sciencesemi automated abstraction Natural language interfacessemi automated abstraction Office automation 1
+semi automated abstraction Automatic Programming 1
+semi automated abstraction Automatic analysis of algorithmssemi automated abstraction Program modificationsemi automated abstraction Program synthesissemi automated abstraction Program transformation 1
+semi automated abstraction Program verificationsemi automated abstraction Deduction and Theorem Provingsemi automated abstraction Answer/reason extractionsemi automated abstraction Deductionsemi automated abstraction Inference enginessemi automated abstraction Logic programmingsemi automated abstraction Mathematical inductionsemi automated abstraction Metatheorysemi automated abstraction Nonmonotonic reasoning and belief revisionsemi automated abstraction Resolutionsemi automated abstraction Knowledge Representation Formalisms and Methodssemi automated abstraction Frames and scriptssemi automated abstraction Modal logicsemi automated abstraction Predicate logicsemi automated abstraction Relation systems 1
+semi automated abstraction Representation languages 1
+semi automated abstraction Representationssemi automated abstraction Semantic networks 1
+semi automated abstraction Temporal logicsemi automated abstraction Programming Languages and Software 1
+semi automated abstraction Expert system tools and techniquessemi automated abstraction Learningsemi automated abstraction Analogiessemi automated abstraction Concept learning 1
+semi automated abstraction Connectionism and neural netssemi automated abstraction Inductionsemi automated abstraction Knowledge acquisition 2
+semi automated abstraction Language acquisition 1
+semi automated abstraction Parameter learningsemi automated abstraction Natural Language Processingsemi automated abstraction Discoursesemi automated abstraction Language generation 1
+semi automated abstraction Language models 1
+semi automated abstraction Language parsing and understandingsemi automated abstraction Machine translation 1
+semi automated abstraction Speech recognition and synthesissemi automated abstraction Text analysis 2
+semi automated abstraction Problem Solving, Control Methods, and Searchsemi automated abstraction Backtrackingsemi automated abstraction Control theorysemi automated abstraction Dynamic programmingsemi automated abstraction Graph and tree search strategiessemi automated abstraction Heuristic methods 1
+semi automated abstraction Plan execution, formation, and generationsemi automated abstraction Schedulingsemi automated abstraction Roboticssemi automated abstraction Autonomous vehiclessemi automated abstraction Kinematics and dynamicssemi automated abstraction Manipulatorssemi automated abstraction Operator interfaces 2
+semi automated abstraction Propelling mechanismssemi automated abstraction Sensorssemi automated abstraction Vision and Scene Understandingsemi automated abstraction Architecture and control structuressemi automated abstraction Motionsemi automated abstraction Perceptual reasoningsemi automated abstraction Shapesemi automated abstraction Texturesemi automated abstraction Video analysis 3
+semi automated abstraction Distributed Artificial Intelligencesemi automated abstraction Coherence and coordinationsemi automated abstraction Intelligent agentssemi automated abstraction Languages and structures 1
+semi automated abstraction Multiagent systems 1
+semi automated abstraction Miscellaneoussemi automated abstraction COMPUTER GRAPHICS 1
+semi automated abstraction General 1
+semi automated abstraction Hardware Architecture 1
+semi automated abstraction Graphics processorssemi automated abstraction Hardcopy devicessemi automated abstraction Input devicessemi automated abstraction Parallel processing 1
+semi automated abstraction Raster display devicessemi automated abstraction Storage devicessemi automated abstraction Three-dimensional displayssemi automated abstraction Vector display devicessemi automated abstraction Graphics Systems 1
+semi automated abstraction Distributed/network graphicssemi automated abstraction Remote systems 3
+semi automated abstraction Stand-alone systemssemi automated abstraction Picture/Image Generationsemi automated abstraction Antialiasingsemi automated abstraction Bitmap and framebuffer operationssemi automated abstraction Digitizing and scanningsemi automated abstraction Display algorithmssemi automated abstraction Line and curve generationsemi automated abstraction Viewing algorithmssemi automated abstraction Graphics Utilitiessemi automated abstraction Application packages 1
+semi automated abstraction Device driverssemi automated abstraction Graphics editorssemi automated abstraction Graphics packagessemi automated abstraction Meta filessemi automated abstraction Paint systems 1
+semi automated abstraction Picture description languagessemi automated abstraction Software support 6
+semi automated abstraction Virtual device interfacessemi automated abstraction Computational Geometry and Object Modelingsemi automated abstraction Boundary representationssemi automated abstraction Constructive solid geometrysemi automated abstraction Curve, surface, solid, and object representationssemi automated abstraction Geometric algorithms, languages, and systemssemi automated abstraction Hierarchy and geometric transformationssemi automated abstraction Modeling packages 2
+semi automated abstraction Object hierarchiessemi automated abstraction Physically based modeling 1
+semi automated abstraction Splinessemi automated abstraction Methodology and Techniques 10
+semi automated abstraction Device independencesemi automated abstraction Ergonomicssemi automated abstraction Graphics data structures and data typessemi automated abstraction Interaction techniques 3
+semi automated abstraction Languages 1
+semi automated abstraction Standardssemi automated abstraction Three-Dimensional Graphics and Realismsemi automated abstraction Animationsemi automated abstraction Color, shading, shadowing, and texturesemi automated abstraction Fractalssemi automated abstraction Hidden line/surface removalsemi automated abstraction Radiositysemi automated abstraction Raytracingsemi automated abstraction Virtual realitysemi automated abstraction Visible line/surface algorithmssemi automated abstraction Applicationssemi automated abstraction Miscellaneoussemi automated abstraction IMAGE PROCESSING AND COMPUTER VISION 2
+semi automated abstraction General 1
+semi automated abstraction Image displays 3
+semi automated abstraction Image processing software 10
+semi automated abstraction Digitization and Image Capturesemi automated abstraction Camera calibrationsemi automated abstraction Imaging geometry 1
+semi automated abstraction Quantizationsemi automated abstraction Radiometrysemi automated abstraction Reflectancesemi automated abstraction Samplingsemi automated abstraction Scanningsemi automated abstraction Compressionsemi automated abstraction Approximate methodssemi automated abstraction Exact coding 1
+semi automated abstraction Enhancementsemi automated abstraction Filteringsemi automated abstraction Geometric correctionsemi automated abstraction Grayscale manipulationsemi automated abstraction Registrationsemi automated abstraction Sharpening and deblurringsemi automated abstraction Smoothingsemi automated abstraction Restorationsemi automated abstraction Inverse filteringsemi automated abstraction Kalman filteringsemi automated abstraction Pseudoinverse restorationsemi automated abstraction Wiener filteringsemi automated abstraction Reconstructionsemi automated abstraction Series expansion methodssemi automated abstraction Summation methodssemi automated abstraction Transform methods 2
+semi automated abstraction Segmentationsemi automated abstraction Edge and feature detectionsemi automated abstraction Pixel classificationsemi automated abstraction Region growing, partitioningsemi automated abstraction Relaxationsemi automated abstraction Feature Measurement 3
+semi automated abstraction Feature representation 1
+semi automated abstraction Invariantssemi automated abstraction Momentssemi automated abstraction Projectionssemi automated abstraction Size and shapesemi automated abstraction Texturesemi automated abstraction Scene Analysissemi automated abstraction Colorsemi automated abstraction Depth cuessemi automated abstraction Motionsemi automated abstraction Object recognition 1
+semi automated abstraction Photometrysemi automated abstraction Range datasemi automated abstraction Sensor fusionsemi automated abstraction Shadingsemi automated abstraction Shapesemi automated abstraction Stereosemi automated abstraction Surface fittingsemi automated abstraction Time-varying imagerysemi automated abstraction Trackingsemi automated abstraction Applicationssemi automated abstraction Image Representation 4
+semi automated abstraction Hierarchicalsemi automated abstraction Morphologicalsemi automated abstraction Multidimensionalsemi automated abstraction Statisticalsemi automated abstraction Volumetricsemi automated abstraction Miscellaneoussemi automated abstraction PATTERN RECOGNITION 2
+semi automated abstraction General 1
+semi automated abstraction Models 1
+semi automated abstraction Deterministicsemi automated abstraction Fuzzy setsemi automated abstraction Geometricsemi automated abstraction Neural netssemi automated abstraction Statisticalsemi automated abstraction Structuralsemi automated abstraction Design Methodology 4
+semi automated abstraction Classifier design and evaluation 1
+semi automated abstraction Feature evaluation and selection 1
+semi automated abstraction Pattern analysissemi automated abstraction Clusteringsemi automated abstraction Algorithmssemi automated abstraction Similarity measuressemi automated abstraction Applicationssemi automated abstraction Computer vision 2
+semi automated abstraction Signal processing 1
+semi automated abstraction Text processing 3
+semi automated abstraction Waveform analysissemi automated abstraction Implementation 1
+semi automated abstraction Interactive systems 5
+semi automated abstraction Special architectures 1
+semi automated abstraction Miscellaneoussemi automated abstraction SIMULATION AND MODELING 2
+semi automated abstraction General 1
+semi automated abstraction Simulation Theorysemi automated abstraction Model classification 2
+semi automated abstraction Systems theory 8
+semi automated abstraction Types of simulationsemi automated abstraction Simulation Languages 2
+semi automated abstraction Applicationssemi automated abstraction Model Validation and Analysis 2
+semi automated abstraction Model Development 10
+semi automated abstraction Modeling methodologies 4
+semi automated abstraction Simulation Output Analysissemi automated abstraction Simulation Support Systems 2
+semi automated abstraction Environmentssemi automated abstraction Types of Simulationsemi automated abstraction Animationsemi automated abstraction Combinedsemi automated abstraction Continuoussemi automated abstraction Discrete eventsemi automated abstraction Distributedsemi automated abstraction Gamingsemi automated abstraction Monte Carlo 1
+semi automated abstraction Parallelsemi automated abstraction Visualsemi automated abstraction Miscellaneoussemi automated abstraction DOCUMENT AND TEXT PROCESSINGsemi automated abstraction General 1
+semi automated abstraction Document and Text Editingsemi automated abstraction Document managementsemi automated abstraction Languages 1
+semi automated abstraction Spellingsemi automated abstraction Version control 1
+semi automated abstraction Document Preparationsemi automated abstraction Desktop publishingsemi automated abstraction Format and notationsemi automated abstraction Hypertext/hypermediasemi automated abstraction Index generation 2
+semi automated abstraction Languages and systems 1
+semi automated abstraction Markup languages 1
+semi automated abstraction Multi/mixed mediasemi automated abstraction Scripting languages 1
+semi automated abstraction Standardssemi automated abstraction Index Generation 2
+semi automated abstraction Electronic Publishingsemi automated abstraction Document Capturesemi automated abstraction Document analysissemi automated abstraction Optical character recognitionsemi automated abstraction Scanningsemi automated abstraction Miscellaneoussemi automated abstraction MISCELLANEOUSsemi automated abstraction GENERAL 1
+semi automated abstraction ADMINISTRATIVE DATA PROCESSINGsemi automated abstraction Businesssemi automated abstraction Educationsemi automated abstraction Financialsemi automated abstraction Governmentsemi automated abstraction Lawsemi automated abstraction Manufacturingsemi automated abstraction Marketingsemi automated abstraction Militarysemi automated abstraction PHYSICAL SCIENCES AND ENGINEERINGsemi automated abstraction Aerospacesemi automated abstraction Archaeologysemi automated abstraction Astronomysemi automated abstraction Chemistrysemi automated abstraction Earth and atmospheric sciencessemi automated abstraction Electronicssemi automated abstraction Engineeringsemi automated abstraction Mathematics and statisticssemi automated abstraction Physicssemi automated abstraction LIFE AND MEDICAL SCIENCESsemi automated abstraction Biology and geneticssemi automated abstraction Healthsemi automated abstraction Medical information systemssemi automated abstraction SOCIAL AND BEHAVIORAL SCIENCESsemi automated abstraction Economicssemi automated abstraction Psychologysemi automated abstraction Sociologysemi automated abstraction ARTS AND HUMANITIESsemi automated abstraction Architecture 1
+semi automated abstraction Fine artssemi automated abstraction Language translation 1
+semi automated abstraction Linguisticssemi automated abstraction Literaturesemi automated abstraction Musicsemi automated abstraction Performing artssemi automated abstraction COMPUTER-AIDED ENGINEERING 2
+semi automated abstraction Computer-aided design 3
+semi automated abstraction Computer-aided manufacturing 3
+semi automated abstraction COMPUTERS IN OTHER SYSTEMS 5
+semi automated abstraction Command and controlsemi automated abstraction Consumer productssemi automated abstraction Industrial controlsemi automated abstraction Militarysemi automated abstraction Process control 7
+semi automated abstraction Publishingsemi automated abstraction Real time 4
+semi automated abstraction MISCELLANEOUSsemi automated abstraction GENERAL 1
+semi automated abstraction THE COMPUTER INDUSTRY 5
+semi automated abstraction Marketssemi automated abstraction Standardssemi automated abstraction Statisticssemi automated abstraction Supplierssemi automated abstraction HISTORY OF COMPUTINGsemi automated abstraction Hardwaresemi automated abstraction Peoplesemi automated abstraction Software 1
+semi automated abstraction Systems 1
+semi automated abstraction Theorysemi automated abstraction COMPUTERS AND EDUCATIONsemi automated abstraction General 1
+semi automated abstraction Computer Uses in Educationsemi automated abstraction Collaborative learningsemi automated abstraction Computer-assisted instructionsemi automated abstraction Computer-managed instructionsemi automated abstraction Distance learningsemi automated abstraction Computer and Information Science Educationsemi automated abstraction Accreditationsemi automated abstraction Computer science educationsemi automated abstraction Curriculumsemi automated abstraction Information systems educationsemi automated abstraction Literacysemi automated abstraction Self-assessmentsemi automated abstraction Miscellaneoussemi automated abstraction Accreditationsemi automated abstraction Computersemi automated abstraction COMPUTERS AND SOCIETY 1
+semi automated abstraction General 1
+semi automated abstraction Public Policy Issuessemi automated abstraction Computer-related health issuessemi automated abstraction Ethicssemi automated abstraction Human safety

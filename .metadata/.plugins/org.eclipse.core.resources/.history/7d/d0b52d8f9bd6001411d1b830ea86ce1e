@@ -1,0 +1,32 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.StringTokenizer;
+
+
+public class extractacmmapwithoutmisc {
+	public static void main(String args[]) throws IOException{
+		BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\acmmap.txt"));
+		BufferedWriter out1 = new BufferedWriter(new FileWriter("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\acmmapmisc.txt"));
+		String line="";
+		String temp1,temp2;
+		StringTokenizer st1=null;
+		while((line=in.readLine())!=null){
+			st1=new StringTokenizer(line," ");
+			temp1=st1.nextToken();
+			if(!temp1.contains("m")){
+				out1.write("'");
+				while(st1.hasMoreTokens()){
+				temp2=st1.nextToken();
+				temp2=temp2.replace("*", "");
+				out1.write(temp2+" ");
+				}
+				out1.write("'");
+				out1.newLine();
+			}
+		}
+		out1.close();
+	}
+}

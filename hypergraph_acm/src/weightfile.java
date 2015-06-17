@@ -1,0 +1,24 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.StringTokenizer;
+
+
+public class weightfile {
+	public static void main(String args[]) throws IOException{
+		BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\edgesnew.txt"));
+		BufferedWriter out1 = new BufferedWriter(new FileWriter("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\weights.txt"));
+		String line="";
+		Double n;
+		StringTokenizer st1=null;
+		while((line=in.readLine())!=null){
+			st1=new StringTokenizer(line,",");
+			n=Double.valueOf(st1.countTokens());
+			out1.write(String.valueOf(1/n));
+			out1.newLine();
+		}
+		out1.close();
+	}
+}

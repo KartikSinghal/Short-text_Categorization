@@ -1,0 +1,26 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.StringTokenizer;
+
+
+public class clearacmmapmisc {
+		public static void main(String args[]) throws IOException{
+			BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\acmmapmisc.txt"));
+			BufferedWriter out1 = new BufferedWriter(new FileWriter("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\acmmapmiscclear.txt"));
+			String line="";
+			String temp1,temp2;
+			StringTokenizer st1=null;
+			int i=0;
+			while((line=in.readLine())!=null){
+				line = line.substring(0, line.length()-2);
+				out1.write(line+"'");
+				out1.newLine();
+			}
+			out1.close();
+		}
+	
+
+}

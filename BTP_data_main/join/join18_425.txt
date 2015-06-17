@@ -1,0 +1,699 @@
+recommender systems Multiparadigm languagesrecommender systems Nondeterministic languagesrecommender systems Nonprocedural languagesrecommender systems Object-oriented languages 259
+recommender systems Specialized application languages 375
+recommender systems Very high-level languages 119
+recommender systems Language Constructs and Features 397
+recommender systems Abstract data types 740
+recommender systems Classes and objects 1170
+recommender systems Concurrent programming structures 96
+recommender systems Constraints 237
+recommender systems Control structures 51
+recommender systems Coroutinesrecommender systems Data types and structures 1196
+recommender systems Dynamic storage management 212
+recommender systems Frameworks 877
+recommender systems Inheritance 24
+recommender systems Input/output 94
+recommender systems Modules, packages 1
+recommender systems Patterns 650
+recommender systems Polymorphism 1
+recommender systems Procedures, functions, and subroutines 97
+recommender systems Recursion 36
+recommender systems Processors 30
+recommender systems Code generation 73
+recommender systems Compilers 37
+recommender systems Debuggers 1
+recommender systems Incremental compilers 2
+recommender systems Interpreters 194
+recommender systems Memory management 55
+recommender systems Optimization 614
+recommender systems Parsing 22
+recommender systems Preprocessors 1
+recommender systems Retargetable compilersrecommender systems Run-time environments 761
+recommender systems Translator writing systems and compiler generators 1
+recommender systems Miscellaneous 1
+recommender systems OPERATING SYSTEMS 529
+recommender systems General 2208
+recommender systems Process Management 342
+recommender systems Concurrency 24
+recommender systems Deadlocksrecommender systems Multiprocessing/multiprogramming/multitaskingrecommender systems Mutual exclusionrecommender systems Scheduling 68
+recommender systems Synchronization 19
+recommender systems Threads 20
+recommender systems Storage Management 19
+recommender systems Allocation/deallocation strategies 17
+recommender systems Distributed memories 83
+recommender systems Garbage collectionrecommender systems Main memory 77
+recommender systems Secondary storagerecommender systems Segmentation 145
+recommender systems Storage hierarchies 5
+recommender systems Swapping 8
+recommender systems Virtual memory 10
+recommender systems File Systems Management 942
+recommender systems Access methods 280
+recommender systems Directory structures 11
+recommender systems Distributed file systems 911
+recommender systems File organization 23
+recommender systems Maintenance 68
+recommender systems Communications Management 225
+recommender systems Buffering 3
+recommender systems Input/output 94
+recommender systems Message sending 8
+recommender systems Network communication 483
+recommender systems Terminal management 4
+recommender systems Reliability 236
+recommender systems Backup proceduresrecommender systems Checkpoint/restartrecommender systems Fault-tolerance 5
+recommender systems Verification 24
+recommender systems Security and Protection 1239
+recommender systems Access controls 40
+recommender systems Authentication 25
+recommender systems Cryptographic controls 1
+recommender systems Information flow controls 326
+recommender systems Invasive software 3
+recommender systems Security kernels 1
+recommender systems Verification 24
+recommender systems Organization and Design 1949
+recommender systems Batch processing systems 1722
+recommender systems Distributed systems 716
+recommender systems Hierarchical design 52
+recommender systems Interactive systems 1062
+recommender systems Real-time systems and embedded systems 640
+recommender systems Performance 1817
+recommender systems Measurements 1362
+recommender systems Modeling and prediction 7069
+recommender systems Monitors 177
+recommender systems Operational analysis 163
+recommender systems Queueing theoryrecommender systems Simulation 308
+recommender systems Stochastic analysis 29
+recommender systems Command and control languages 44
+recommender systems Linkersrecommender systems Loaders 1
+recommender systems Window managers 8
+recommender systems Miscellaneous 1
+recommender systems MISCELLANEOUS 1
+recommender systems Software 435
+recommender systems GENERAL 2208
+recommender systems DATA STRUCTURES 544
+recommender systems Arrays 36
+recommender systems Distributed data structures 1014
+recommender systems Graphs and networks 1591
+recommender systems Lists, stacks, and queues 3
+recommender systems Records 307
+recommender systems Tables 242
+recommender systems Trees 279
+recommender systems DATA STORAGE REPRESENTATIONS 363
+recommender systems Composite structures 17
+recommender systems Contiguous representations 2
+recommender systems Hash-table representations 58
+recommender systems Linked representations 73
+recommender systems Object representation 107
+recommender systems Primitive data items 1415
+recommender systems DATA ENCRYPTION 30
+recommender systems Code breaking 2
+recommender systems Data encryption standard 417
+recommender systems Public key cryptosystems 33
+recommender systems Standards 594
+recommender systems CODING AND INFORMATION THEORY 440
+recommender systems Data compaction and compression 56
+recommender systems Error control codes 105
+recommender systems Formal models of communication 828
+recommender systems Nonsecret encoding schemes 7
+recommender systems FILES 176
+recommender systems Backup/recoveryrecommender systems Optimization 614
+recommender systems Organization/structure 110
+recommender systems Sorting/searching 42
+recommender systems MISCELLANEOUS 1
+recommender systems GENERAL 2208
+recommender systems COMPUTATION BY ABSTRACT DEVICES 232
+recommender systems General 2208
+recommender systems Models of Computation 14262
+recommender systems Automata 13
+recommender systems Bounded-action devices 49
+recommender systems Computability theory 235
+recommender systems Relations between models 2114
+recommender systems Self-modifying machines 61
+recommender systems Unbounded-action devices 26
+recommender systems Modes of Computation 2224
+recommender systems Alternation and nondeterminism 491
+recommender systems Interactive and reactive computation 563
+recommender systems Online computation 438
+recommender systems Parallelism and concurrency 177
+recommender systems Probabilistic computation 188
+recommender systems Relations among modes 411
+recommender systems Relativized computationrecommender systems Complexity Measures and Classes 456
+recommender systems Complexity hierarchies 41
+recommender systems Machine-independent complexity 187
+recommender systems Reducibility and completeness 1199
+recommender systems Relations among complexity classes 177
+recommender systems Relations among complexity measures 287
+recommender systems Miscellaneous 1
+recommender systems ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 936
+recommender systems General 2208
+recommender systems Numerical Algorithms and Problems 1677
+recommender systems Computation of transforms 3360
+recommender systems Computations in finite fields 350
+recommender systems Computations on matrices 2494
+recommender systems Computations on polynomials 2289
+recommender systems Number-theoretic computations 849
+recommender systems Nonnumerical Algorithms and Problems 1322
+recommender systems Computations on discrete structures 574
+recommender systems Geometrical problems and computations 1066
+recommender systems Pattern matching 125
+recommender systems Routing and layout 117
+recommender systems Sequencing and scheduling 280
+recommender systems Sorting and searching 1214
+recommender systems Tradeoffs between Complexity Measures 158
+recommender systems Miscellaneous 1
+recommender systems LOGICS AND MEANINGS OF PROGRAMS 161
+recommender systems General 2208
+recommender systems Assertions 22
+recommender systems Invariants 7
+recommender systems Logics of programs 608
+recommender systems Mechanical verification 3
+recommender systems Pre- and post-conditions 67
+recommender systems Specification techniques 558
+recommender systems Semantics of Programming Languages 287
+recommender systems Algebraic approaches to semantics 606
+recommender systems Denotational semantics 57
+recommender systems Operational semantics 121
+recommender systems Partial evaluation 97
+recommender systems Process models 972
+recommender systems Program analysis 102
+recommender systems Studies of Program Constructs 466
+recommender systems Control primitives 4
+recommender systems Functional constructs 157
+recommender systems Object-oriented constructs 254
+recommender systems Program and recursion schemes 44
+recommender systems Type structure 184
+recommender systems Miscellaneous 1
+recommender systems MATHEMATICAL LOGIC AND FORMAL LANGUAGES 55
+recommender systems General 2208
+recommender systems Mathematical Logic 9
+recommender systems Computability theory 235
+recommender systems Computational logic 111
+recommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systemsrecommender systems Lambda calculus and related systems 10
+recommender systems Logic and constraint programming 106
+recommender systems Mechanical theorem proving 78
+recommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logicrecommender systems Modal logic 3
+recommender systems Model theory 329
+recommender systems Proof theory 21
+recommender systems Recursive function theory 170
+recommender systems Set theory 261
+recommender systems Temporal logic 9
+recommender systems Grammars and Other Rewriting Systems 18
+recommender systems Decision problems 409
+recommender systems Grammar types 8
+recommender systems Parallel rewriting systems 148
+recommender systems Parsing 22
+recommender systems Thue systems 1
+recommender systems Formal Languages 59
+recommender systems Algebraic language theory 83
+recommender systems Classes defined by grammars or automata 1
+recommender systems Decision problems 409
+recommender systems Operations on languages 1363
+recommender systems Miscellaneous 1
+recommender systems MISCELLANEOUS 1
+recommender systems GENERAL 2208
+recommender systems NUMERICAL ANALYSIS 88
+recommender systems General 2208
+recommender systems Computer arithmetic 6
+recommender systems Conditioning 360
+recommender systems Error analysis 121
+recommender systems Interval arithmetic 2
+recommender systems Multiple precision arithmetic 62
+recommender systems Numerical algorithms 192
+recommender systems Parallel algorithms 84
+recommender systems Stability 61
+recommender systems Interpolation 23
+recommender systems Difference formulas 91
+recommender systems Extrapolation 11
+recommender systems Interpolation formulas 1
+recommender systems Smoothing 92
+recommender systems Approximation 276
+recommender systems Chebyshev approximation and theory 51
+recommender systems Elementary function approximation 112
+recommender systems Fast Fourier transforms 16
+recommender systems Least squares approximation 135
+recommender systems Linear approximation 57
+recommender systems Minimax approximation and algorithms 205
+recommender systems Nonlinear approximation 5
+recommender systems Rational approximation 3
+recommender systems Special function approximations 243
+recommender systems Spline and piecewise polynomial approximation 1
+recommender systems Wavelets and fractals 13
+recommender systems Numerical Linear Algebra 115
+recommender systems Conditioning 360
+recommender systems Determinants 602
+recommender systems Eigenvalues and eigenvectors 64
+recommender systems Error analysis 121
+recommender systems Linear systems 299
+recommender systems Matrix inversion 35
+recommender systems Pseudoinverses 5
+recommender systems Singular value decomposition 205
+recommender systems Sparse, structured, and very large systems 152
+recommender systems Quadrature and Numerical Differentiation 16
+recommender systems Automatic differentiation 16
+recommender systems Error analysis 121
+recommender systems Finite difference methods 1049
+recommender systems Gaussian quadraturerecommender systems Iterative methods 142
+recommender systems Multidimensional 127
+recommender systems Roots of Nonlinear Equations 15
+recommender systems Continuation 259
+recommender systems Convergence 117
+recommender systems Error analysis 121
+recommender systems Iterative methods 142
+recommender systems Polynomials, methods for 2185
+recommender systems Systems of equations 5574
+recommender systems Optimization 614
+recommender systems Constrained optimization 27
+recommender systems Convex programming 2
+recommender systems Global optimization 56
+recommender systems Gradient methods 31
+recommender systems Integer programming 3
+recommender systems Least squares methods 284
+recommender systems Linear programming 35
+recommender systems Nonlinear programming 2
+recommender systems Quadratic programming methods 211
+recommender systems Simulated annealing 4
+recommender systems Stochastic programming 3
+recommender systems Unconstrained optimization 1
+recommender systems Ordinary Differential Equations 28
+recommender systems Boundary value problems 852
+recommender systems Chaotic systems 3
+recommender systems Convergence and stability 418
+recommender systems Differential-algebraic equations 42
+recommender systems Error analysis 121
+recommender systems Finite difference methods 1049
+recommender systems Initial value problems 1064
+recommender systems Multistep and multivalue methodsrecommender systems One-step 469
+recommender systems Stiff equationsrecommender systems Partial Differential Equations 56
+recommender systems Domain decomposition methods 670
+recommender systems Elliptic equations 4
+recommender systems Finite difference methods 1049
+recommender systems Finite element methods 220
+recommender systems Finite volume methods 84
+recommender systems Hyperbolic equationsrecommender systems Inverse problems 86
+recommender systems Iterative solution techniques 493
+recommender systems Method of lines 2743
+recommender systems Multigrid and multilevel methods 7
+recommender systems Parabolic equationsrecommender systems Spectral methods 30
+recommender systems Integral Equations 30
+recommender systems Delay equationsrecommender systems Fredholm equationsrecommender systems Integro-differential equations 12
+recommender systems Volterra equationsrecommender systems Applications 2063
+recommender systems Miscellaneous 1
+recommender systems DISCRETE MATHEMATICS 7
+recommender systems General 2208
+recommender systems Combinatorics 2
+recommender systems Combinatorial algorithms 16
+recommender systems Counting problems 59
+recommender systems Generating functions 560
+recommender systems Permutations and combinations 1390
+recommender systems Recurrences and difference equations 123
+recommender systems Graph Theory 67
+recommender systems Graph algorithms 343
+recommender systems Graph labeling 32
+recommender systems Hypergraphs 19
+recommender systems Network problems 673
+recommender systems Path and circuit problems 119
+recommender systems Trees 279
+recommender systems Applications 2063
+recommender systems Miscellaneous 1
+recommender systems PROBABILITY AND STATISTICS 903
+recommender systems Contingency table analysis 99
+recommender systems Correlation and regression analysis 354
+recommender systems Distribution functions 215
+recommender systems Experimental design 183
+recommender systems Markov processes 73
+recommender systems Multivariate statistics 6
+recommender systems Nonparametric statistics 5
+recommender systems Probabilistic algorithms 275
+recommender systems Queueing theoryrecommender systems Random number generation 1035
+recommender systems Reliability and life testing 267
+recommender systems Renewal theory 3
+recommender systems Robust regression 13
+recommender systems Statistical computing 251
+recommender systems Statistical software 37
+recommender systems Stochastic processes 31
+recommender systems Survival analysis 11
+recommender systems Time series analysis 595
+recommender systems MATHEMATICAL SOFTWARE 13
+recommender systems Algorithm design and analysis 1413
+recommender systems Certification and testing 807
+recommender systems Documentation 16
+recommender systems Efficiency 881
+recommender systems Parallel and vector implementations 129
+recommender systems Portability 27
+recommender systems Reliability and robustness 734
+recommender systems User interfaces 472
+recommender systems Verification 24
+recommender systems MISCELLANEOUS 1
+recommender systems Queueing 2
+recommender systems GENERAL 2208
+recommender systems MODELS AND PRINCIPLES 4351
+recommender systems General 2208
+recommender systems Systems and Information Theory 3518
+recommender systems General systems theory 3292
+recommender systems Information theory 325
+recommender systems Value of information 3917
+recommender systems User/Machine Systems 4298
+recommender systems Human factors 95
+recommender systems Human information processing 1566
+recommender systems Software psychology 6
+recommender systems Miscellaneous 1
+recommender systems DATABASE MANAGEMENT 136
+recommender systems General 2208
+recommender systems Security, integrity, and protection 347
+recommender systems Logical Design 68
+recommender systems Data models 1462
+recommender systems Normal forms 85
+recommender systems Schema and subschema 58
+recommender systems Physical Design 68
+recommender systems Access methods 280
+recommender systems Deadlock avoidancerecommender systems Recovery and restart 57
+recommender systems Languages 378
+recommender systems Data description languages 549
+recommender systems Data manipulation languages 295
+recommender systems Database 658
+recommender systems Query languages 127
+recommender systems Report writers 1
+recommender systems Systems 5566
+recommender systems Concurrency 24
+recommender systems Distributed databases 145
+recommender systems Multimedia databases 36
+recommender systems Object-oriented databases 280
+recommender systems Parallel databases 25
+recommender systems Query processing 283
+recommender systems Relational databases 237
+recommender systems Rule-based databases 1121
+recommender systems Textual databases 29
+recommender systems Transaction processing 133
+recommender systems Heterogeneous Databases 27
+recommender systems Data translation 31
+recommender systems Program translation 3
+recommender systems Database Machines 114
+recommender systems Database Administration 8
+recommender systems Data dictionary/directory 32
+recommender systems Data warehouse and repository 128
+recommender systems Logging and recovery 411
+recommender systems Security, integrity, and protection 347
+recommender systems Database Applications 321
+recommender systems Data mining 793
+recommender systems Image databases 38
+recommender systems Scientific databases 28
+recommender systems Spatial databases and GIS 43
+recommender systems Statistical databases 100
+recommender systems Miscellaneous 1
+recommender systems INFORMATION STORAGE AND RETRIEVAL 929
+recommender systems General 2208
+recommender systems Content Analysis and Indexing 725
+recommender systems Abstracting methods 113
+recommender systems Dictionaries 25
+recommender systems Indexing methods 204
+recommender systems Linguistic processing 62
+recommender systems Thesauruses 1
+recommender systems Information Storage 57
+recommender systems File organization 23
+recommender systems Record classification 63
+recommender systems Information Search and Retrieval 1454
+recommender systems Clustering 939
+recommender systems Information filtering 1765
+recommender systems Query formulation 87
+recommender systems Relevance feedback 210
+recommender systems Retrieval models 564
+recommender systems Search process 465
+recommender systems Selection process 515
+recommender systems Systems and Software 5518
+recommender systems Current awareness systems 1525
+recommender systems Distributed systems 716
+recommender systems Information networks 980
+recommender systems Performance evaluation 888
+recommender systems Question-answering 112
+recommender systems Online Information Services 1447
+recommender systems Commercial services 95
+recommender systems Data sharing 400
+recommender systems Web-based services 2422
+recommender systems Library Automation 25
+recommender systems Large text archives 182
+recommender systems Digital Libraries 157
+recommender systems Collection 850
+recommender systems Dissemination 40
+recommender systems Standards 594
+recommender systems Systems issues 768
+recommender systems User issues 644
+recommender systems Miscellaneous 1
+recommender systems INFORMATION SYSTEMS APPLICATIONS 4738
+recommender systems General 2208
+recommender systems Office Automation 2
+recommender systems Desktop publishing 1
+recommender systems Equipment 53
+recommender systems Groupware 9
+recommender systems Spreadsheets 3
+recommender systems Time management 268
+recommender systems Word processing 212
+recommender systems Workflow management 10
+recommender systems Types of Systems 6613
+recommender systems Decision support 366
+recommender systems Logistics 43
+recommender systems Communications Applications 482
+recommender systems Bulletin boards 2
+recommender systems Computer conferencing, teleconferencing, and videoconferencingrecommender systems Electronic mail 14
+recommender systems Information browsers 79
+recommender systems Videotexrecommender systems Miscellaneous 1
+recommender systems INFORMATION INTERFACES AND PRESENTATION 1922
+recommender systems General 2208
+recommender systems Multimedia Information Systems 3486
+recommender systems Animations 19
+recommender systems Artificial, augmented, and virtual realities 49
+recommender systems Audio input/output 107
+recommender systems Evaluation/methodology 180
+recommender systems Video 203
+recommender systems User Interfaces 472
+recommender systems Auditory 4
+recommender systems Benchmarking 120
+recommender systems Ergonomics 4
+recommender systems Evaluation/methodology 180
+recommender systems Graphical user interfaces 579
+recommender systems Haptic I/O 103
+recommender systems Input devices and strategies 142
+recommender systems Interaction styles 63
+recommender systems Natural language 142
+recommender systems Prototyping 334
+recommender systems Screen design 26
+recommender systems Standardization 594
+recommender systems Style guides 17
+recommender systems Theory and methods 7223
+recommender systems Training, help, and documentation 118
+recommender systems User-centered design 1221
+recommender systems User interface management systems 1082
+recommender systems Voice I/O 110
+recommender systems Windowing systems 64
+recommender systems Group and Organization Interfaces 252
+recommender systems Asynchronous interaction 7
+recommender systems Collaborative computing 1190
+recommender systems Computer-supported cooperative work 384
+recommender systems Evaluation/methodology 180
+recommender systems Organizational design 23
+recommender systems Synchronous interaction 7
+recommender systems Theory and models 9369
+recommender systems Web-based interaction 2326
+recommender systems Hypertext/Hypermedia 8
+recommender systems Architectures 483
+recommender systems Navigation 428
+recommender systems Theory 469
+recommender systems User issues 644
+recommender systems Sound and Music Computing 251
+recommender systems Methodologies and techniques 2556
+recommender systems Modeling 2488
+recommender systems Systems 5566
+recommender systems Miscellaneous 1
+recommender systems MISCELLANEOUS 1
+recommender systems GENERAL 2208
+recommender systems SYMBOLIC AND ALGEBRAIC MANIPULATION 6
+recommender systems General 2208
+recommender systems Expressions and Their Representation 572
+recommender systems Representations 448
+recommender systems Simplification of expressions 502
+recommender systems Algorithms 2457
+recommender systems Algebraic algorithms 27
+recommender systems Analysis of algorithms 5244
+recommender systems Nonalgebraic algorithmsrecommender systems Languages and Systems 7305
+recommender systems Evaluation strategies 355
+recommender systems Nonprocedural languagesrecommender systems Special-purpose algebraic systems 60
+recommender systems Special-purpose hardware 62
+recommender systems Substitution mechanisms 9
+recommender systems Applications 2063
+recommender systems Miscellaneous 1
+recommender systems ARTIFICIAL INTELLIGENCE 308
+recommender systems General 2208
+recommender systems Cognitive simulation 18
+recommender systems Philosophical foundationsrecommender systems Applications and Expert Systems 6834
+recommender systems Cartography 2
+recommender systems Games 80
+recommender systems Industrial automation 24
+recommender systems Law 73
+recommender systems Medicine and science 956
+recommender systems Natural language interfaces 249
+recommender systems Office automation 2
+recommender systems Automatic Programming 72
+recommender systems Automatic analysis of algorithms 1200
+recommender systems Program modification 17
+recommender systems Program synthesis 2
+recommender systems Program transformation 23
+recommender systems Program verificationrecommender systems Deduction and Theorem Proving 17
+recommender systems Answer/reason extraction 191
+recommender systems Deduction 16
+recommender systems Inference engines 107
+recommender systems Logic programming 49
+recommender systems Mathematical induction 6
+recommender systems Metatheoryrecommender systems Nonmonotonic reasoning and belief revision 3
+recommender systems Resolution 44
+recommender systems Knowledge Representation Formalisms and Methods 218
+recommender systems Frames and scripts 84
+recommender systems Modal logic 3
+recommender systems Predicate logic 8
+recommender systems Relation systems 1401
+recommender systems Representation languages 91
+recommender systems Representations 448
+recommender systems Semantic networks 304
+recommender systems Temporal logic 9
+recommender systems Programming Languages and Software 426
+recommender systems Expert system tools and techniques 578
+recommender systems Learning 1419
+recommender systems Analogies 31
+recommender systems Concept learning 274
+recommender systems Connectionism and neural nets 11
+recommender systems Induction 99
+recommender systems Knowledge acquisition 63
+recommender systems Language acquisition 26
+recommender systems Parameter learning 189
+recommender systems Natural Language Processing 463
+recommender systems Discourse 17
+recommender systems Language generation 224
+recommender systems Language models 235
+recommender systems Language parsing and understanding 61
+recommender systems Machine translation 12
+recommender systems Speech recognition and synthesis 39
+recommender systems Text analysis 217
+recommender systems Problem Solving, Control Methods, and Search 146
+recommender systems Backtracking 2
+recommender systems Control theory 37
+recommender systems Dynamic programming 63
+recommender systems Graph and tree search strategies 63
+recommender systems Heuristic methods 148
+recommender systems Plan execution, formation, and generation 31
+recommender systems Scheduling 68
+recommender systems Robotics 32
+recommender systems Autonomous vehiclesrecommender systems Kinematics and dynamics 596
+recommender systems Manipulators 115
+recommender systems Operator interfaces 58
+recommender systems Propelling mechanismsrecommender systems Sensors 63
+recommender systems Vision and Scene Understanding 15
+recommender systems Architecture and control structures 1172
+recommender systems Motion 24
+recommender systems Perceptual reasoning 1
+recommender systems Shape 64
+recommender systems Texture 33
+recommender systems Video analysis 63
+recommender systems Distributed Artificial Intelligence 451
+recommender systems Coherence and coordination 139
+recommender systems Intelligent agents 239
+recommender systems Languages and structures 1442
+recommender systems Multiagent systems 44
+recommender systems Miscellaneous 1
+recommender systems COMPUTER GRAPHICS 61
+recommender systems General 2208
+recommender systems Hardware Architecture 12
+recommender systems Graphics processors 5
+recommender systems Hardcopy devicesrecommender systems Input devices 40
+recommender systems Parallel processing 58
+recommender systems Raster display devices 35
+recommender systems Storage devices 15
+recommender systems Three-dimensional displays 163
+recommender systems Vector display devices 83
+recommender systems Graphics Systems 120
+recommender systems Distributed/network graphics 386
+recommender systems Remote systems 53
+recommender systems Stand-alone systems 156
+recommender systems Picture/Image Generation 132
+recommender systems Antialiasingrecommender systems Bitmap and framebuffer operations 3
+recommender systems Digitizing and scanning 449
+recommender systems Display algorithms 83
+recommender systems Line and curve generation 243
+recommender systems Viewing algorithms 297
+recommender systems Graphics Utilities 26
+recommender systems Application packages 40
+recommender systems Device drivers 4
+recommender systems Graphics editors 4
+recommender systems Graphics packages 6
+recommender systems Meta files 10
+recommender systems Paint systems 13
+recommender systems Picture description languages 122
+recommender systems Software support 167
+recommender systems Virtual device interfaces 112
+recommender systems Computational Geometry and Object Modeling 251
+recommender systems Boundary representations 8
+recommender systems Constructive solid geometry 14
+recommender systems Curve, surface, solid, and object representations 1
+recommender systems Geometric algorithms, languages, and systems 215
+recommender systems Hierarchy and geometric transformations 25
+recommender systems Modeling packages 49
+recommender systems Object hierarchies 44
+recommender systems Physically based modeling 2344
+recommender systems Splines 5
+recommender systems Methodology and Techniques 2556
+recommender systems Device independence 15
+recommender systems Ergonomics 4
+recommender systems Graphics data structures and data types 168
+recommender systems Interaction techniques 507
+recommender systems Languages 378
+recommender systems Standards 594
+recommender systems Three-Dimensional Graphics and Realism 7
+recommender systems Animation 19
+recommender systems Color, shading, shadowing, and texturerecommender systems Fractals 1
+recommender systems Hidden line/surface removalrecommender systems Radiosityrecommender systems Raytracingrecommender systems Virtual reality 13
+recommender systems Visible line/surface algorithms 4
+recommender systems Applications 2063
+recommender systems Miscellaneous 1
+recommender systems IMAGE PROCESSING AND COMPUTER VISION 103
+recommender systems General 2208
+recommender systems Image displays 13
+recommender systems Image processing software 358
+recommender systems Digitization and Image Capture 88
+recommender systems Camera calibrationrecommender systems Imaging geometry 2
+recommender systems Quantization 11
+recommender systems Radiometryrecommender systems Reflectance 259
+recommender systems Sampling 251
+recommender systems Scanningrecommender systems Scanningrecommender systems Scanningrecommender systems Scanningrecommender systems Scanning 26
+recommender systems Compression 41
+recommender systems Approximate methods 172
+recommender systems Exact codingrecommender systems Exact coding 4
+recommender systems Enhancement 633
+recommender systems Filtering 2433
+recommender systems Geometric correctionrecommender systems Grayscale manipulationrecommender systems Registration 19
+recommender systems Sharpening and deblurring 2
+recommender systems Smoothing 92
+recommender systems Restoration 4
+recommender systems Inverse filtering 92
+recommender systems Kalman filtering 8
+recommender systems Pseudoinverse restorationrecommender systems Wiener filteringrecommender systems Reconstruction 31
+recommender systems Series expansion methods 162
+recommender systems Summation methodsrecommender systems Summation methods 11
+recommender systems Transform methods 117
+recommender systems Segmentation 145
+recommender systems Edge and feature detectionrecommender systems Edge and feature detection 160
+recommender systems Pixel classification 1
+recommender systems Region growing, partitioning 19
+recommender systems Relaxation 70
+recommender systems Feature Measurementrecommender systems Feature Measurement 395
+recommender systems Feature representation 178
+recommender systems Invariants 7
+recommender systems Momentsrecommender systems Momentsrecommender systems Moments 45
+recommender systems Projections 461
+recommender systems Size and shape 780
+recommender systems Texture 33
+recommender systems Scene Analysis 8
+recommender systems Colorrecommender systems Colorrecommender systems Colorrecommender systems Color 57
+recommender systems Depth cues 2
+recommender systems Motion 24
+recommender systems Object recognition 23
+recommender systems Photometryrecommender systems Range datarecommender systems Range data 323
+recommender systems Sensor fusion 3
+recommender systems Shadingrecommender systems Shading 3
+recommender systems Shape 64
+recommender systems Stereo 1
+recommender systems Surface fittingrecommender systems Surface fitting

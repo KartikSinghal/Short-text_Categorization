@@ -1,0 +1,247 @@
+multihop networks GENERAL 293
+multihop networks Biographies autobiographiesmultihop networks Conference proceedings 4
+multihop networks INTRODUCTORY AND SURVEY 20
+multihop networks REFERENCE 168
+multihop networks MISCELLANEOUSmultihop networks GENERAL 293
+multihop networks CONTROL STRUCTURES AND MICROPROGRAMMING 35
+multihop networks General 293
+multihop networks Control Design Styles 158
+multihop networks Hardwired controlmultihop networks Writable control store 5
+multihop networks Automatic synthesis 1
+multihop networks Formal models 8
+multihop networks Simulation 427
+multihop networks Control Structure Reliability, Testing, and Fault-Tolerance 2
+multihop networks Diagnostics 1
+multihop networks Error-checking 1
+multihop networks Redundant design 4
+multihop networks Test generation 20
+multihop networks Firmware engineeringmultihop networks Languages and compilers 14
+multihop networks Optimization 345
+multihop networks Verification 6
+multihop networks Direct data manipulation 64
+multihop networks Instruction set interpretation 12
+multihop networks Peripheral controlmultihop networks Special-purpose 7
+multihop networks Miscellaneousmultihop networks General 293
+multihop networks Design Stylesmultihop networks Calculator 95
+multihop networks Parallel 64
+multihop networks Pipeline 9
+multihop networks Performance Analysis and Design Aids 112
+multihop networks Simulation 427
+multihop networks Verification 6
+multihop networks Worst-case analysis 144
+multihop networks Reliability, Testing, and Fault-Tolerance 21
+multihop networks Diagnostics 1
+multihop networks Error-checking 1
+multihop networks Redundant design 4
+multihop networks Test generation 20
+multihop networks High-Speed Arithmetic 41
+multihop networks Algorithms 404
+multihop networks Cost/performance 94
+multihop networks Miscellaneousmultihop networks MEMORY STRUCTURES 8
+multihop networks General 293
+multihop networks Semiconductor Memories 1
+multihop networks Dynamic memory 3
+multihop networks Read-only memory 21
+multihop networks Static memory 3
+multihop networks Design Stylesmultihop networks Associative memories 4
+multihop networks Cache memories 1
+multihop networks Interleaved memoriesmultihop networks Mass storagemultihop networks Primary memorymultihop networks Sequential-access memory 6
+multihop networks Shared memory 6
+multihop networks Virtual memory 2
+multihop networks Performance Analysis and Design Aids 112
+multihop networks Formal models 8
+multihop networks Simulation 427
+multihop networks Worst-case analysis 144
+multihop networks Reliability, Testing, and Fault-Tolerance 21
+multihop networks Diagnostics 1
+multihop networks Error-checking 1
+multihop networks Redundant design 4
+multihop networks Test generation 20
+multihop networks Miscellaneousmultihop networks INPUT/OUTPUT AND DATA COMMUNICATIONS 40
+multihop networks General 293
+multihop networks Data Communications Devices 403
+multihop networks Processors 21
+multihop networks Receivers 293
+multihop networks Transmitters 91
+multihop networks Input/Output Devices 37
+multihop networks Channels and controllers 461
+multihop networks Image displaymultihop networks Voice 27
+multihop networks Interconnections 40
+multihop networks Asynchronous/synchronous operation 37
+multihop networks Fiber optics 17
+multihop networks Interfaces 54
+multihop networks Parallel I/O 68
+multihop networks Physical structures 20
+multihop networks Topology 263
+multihop networks Performance Analysis and Design Aids 112
+multihop networks Formal models 8
+multihop networks Simulation 427
+multihop networks Verification 6
+multihop networks Worst-case analysis 144
+multihop networks Reliability, Testing, and Fault-Tolerance 21
+multihop networks Built-in tests 154
+multihop networks Diagnostics 1
+multihop networks Error-checking 1
+multihop networks Hardware reliability 9
+multihop networks Redundant design 4
+multihop networks Test generation 20
+multihop networks Miscellaneousmultihop networks REGISTER-TRANSFER-LEVEL IMPLEMENTATION 2
+multihop networks General 293
+multihop networks Design 300
+multihop networks Arithmetic and logic units 3
+multihop networks Control design 135
+multihop networks Data-path design 378
+multihop networks Memory design 6
+multihop networks Styles 5
+multihop networks Design Aids 5
+multihop networks Automatic synthesis 1
+multihop networks Hardware description languages 22
+multihop networks Optimization 345
+multihop networks Simulation 427
+multihop networks Verification 6
+multihop networks Reliability and Testing 338
+multihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in testsmultihop networks Built-in tests 154
+multihop networks Error-checking 1
+multihop networks Redundant design 4
+multihop networks Test generation 20
+multihop networks Testabilitymultihop networks Miscellaneousmultihop networks LOGIC DESIGN 14
+multihop networks General 293
+multihop networks Design Stylesmultihop networks Combinational logic 5
+multihop networks Logic arrays 2
+multihop networks Parallel circuits 4
+multihop networks Sequential circuits 1
+multihop networks Reliability and Testing 338
+multihop networks Built-in tests 154
+multihop networks Error-checking 1
+multihop networks Redundant design 4
+multihop networks Test generation 20
+multihop networks Testabilitymultihop networks Design Aids 5
+multihop networks Automatic synthesis 1
+multihop networks Hardware description languages 22
+multihop networks Optimization 345
+multihop networks Simulation 427
+multihop networks Switching theory 6
+multihop networks Verification 6
+multihop networks Miscellaneousmultihop networks INTEGRATED CIRCUITS 6
+multihop networks General 293
+multihop networks Types and Design Styles 36
+multihop networks Advanced technologies 40
+multihop networks Algorithms implemented in hardware 184
+multihop networks Gate arraysmultihop networks Input/output circuits 51
+multihop networks Memory technologies 7
+multihop networks Microprocessors and microcomputers 2
+multihop networks Standard cells 7
+multihop networks VLSI 1
+multihop networks Design Aids 5
+multihop networks Graphics 6
+multihop networks Layout 5
+multihop networks Placement and routing 446
+multihop networks Simulation 427
+multihop networks Verification 6
+multihop networks Reliability and Testing 338
+multihop networks Built-in tests 154
+multihop networks Error-checking 1
+multihop networks Redundant design 4
+multihop networks Test generation 20
+multihop networks Testabilitymultihop networks Miscellaneousmultihop networks PERFORMANCE AND RELIABILITY 1740
+multihop networks General 293
+multihop networks Reliability, Testing, and Fault-Tolerance 21
+multihop networks Performance Analysis and Design Aids 112
+multihop networks Miscellaneousmultihop networks MISCELLANEOUSmultihop networks Design 300
+multihop networks GENERAL 293
+multihop networks Hardware/software interfaces 85
+multihop networks Instruction set design 104
+multihop networks Modeling of computer architecturemultihop networks System architectures 66
+multihop networks Systems specification methodology 230
+multihop networks PROCESSOR ARCHITECTURES 3
+multihop networks General 293
+multihop networks Single Data Stream Architectures 28
+multihop networks Pipeline processors 1
+multihop networks RISC/CISC, VLIW architecturesmultihop networks Von Neumann architecturesmultihop networks Multiple Data Stream Architectures 41
+multihop networks Array and vector processors 7
+multihop networks Associative processors 3
+multihop networks Connection machines 4
+multihop networks Interconnection architectures 12
+multihop networks Multiple-instruction-stream, multiple-data-stream processorsmultihop networks Parallel processors 7
+multihop networks Pipeline processors 1
+multihop networks Single-instruction-stream, multiple-data-stream processorsmultihop networks Other Architecture Styles 57
+multihop networks Adaptable architectures 26
+multihop networks Analog computers 6
+multihop networks Capability architectures 16
+multihop networks Cellular architecture 18
+multihop networks Data-flow architectures 169
+multihop networks Heterogeneous 40
+multihop networks High-level language architectures 12
+multihop networks Neural netsmultihop networks Pipeline processors 1
+multihop networks Stack-oriented processors 8
+multihop networks Parallel Architectures 8
+multihop networks Distributed architectures 47
+multihop networks Mobile processors 6
+multihop networks Miscellaneousmultihop networks Analog 13
+multihop networks Hybrid 52
+multihop networks COMPUTER-COMMUNICATION NETWORKS 1960
+multihop networks General 293
+multihop networks Data communications 204
+multihop networks Open Systems Interconnection reference model 11
+multihop networks Security and protection 1334
+multihop networks Network Architecture and Design 491
+multihop networks Asynchronous Transfer Mode 23
+multihop networks Centralized networks 102
+multihop networks Circuit-switching networks 144
+multihop networks Distributed networks 396
+multihop networks Frame relay networks 264
+multihop networks ISDN 2
+multihop networks Network communications 550
+multihop networks Network topology 263
+multihop networks Packet-switching networks 622
+multihop networks Store and forward networks 205
+multihop networks Wireless communication 431
+multihop networks Network Protocols 460
+multihop networks Applications 264
+multihop networks Protocol architecture 63
+multihop networks Protocol verification 4
+multihop networks Routing protocols 251
+multihop networks Network Operations 175
+multihop networks Network management 81
+multihop networks Network monitoring 54
+multihop networks Public networks 20
+multihop networks Distributed Systems 183
+multihop networks Client/server 4
+multihop networks Distributed applications 133
+multihop networks Distributed databasesmultihop networks Network operating systems 655
+multihop networks Local and Wide-Area Networks 148
+multihop networks Access schemes 145
+multihop networks Buses 4
+multihop networks Ethernet 6
+multihop networks High-speed 39
+multihop networks Internet 82
+multihop networks Token rings 2
+multihop networks Internetworking 3
+multihop networks Routers 41
+multihop networks Standards 123
+multihop networks Miscellaneousmultihop networks SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 32
+multihop networks Microprocessor/microcomputer applications 1
+multihop networks Process control systems 536
+multihop networks Real-time and embedded systems 81
+multihop networks Signal processing systems 341
+multihop networks Smartcardsmultihop networks PERFORMANCE OF SYSTEMSmultihop networks Design studies 146
+multihop networks Fault tolerance 19
+multihop networks Measurement techniques 40
+multihop networks Modeling techniques 122
+multihop networks Performance attributes 6
+multihop networks Reliability, availability, and serviceability 139
+multihop networks COMPUTER SYSTEM IMPLEMENTATION 781
+multihop networks General 293
+multihop networks Large and Medium 349
+multihop networks Super 2
+multihop networks Minicomputersmultihop networks Microcomputersmultihop networks Microprocessorsmultihop networks Personal computers 8
+multihop networks Portable devices 7
+multihop networks Workstations 2
+multihop networks VLSI Systemsmultihop networks Servers 27
+multihop networks Miscellaneousmultihop networks MISCELLANEOUSmultihop networks GENERAL 293
+multihop networks PROGRAMMING TECHNIQUES 25
+multihop networks General 293
+multihop networks Applicative 264
+multihop networks Automatic Programming 2
+multihop networks Concurrent Programming 6
+multihop networks Distributed programming

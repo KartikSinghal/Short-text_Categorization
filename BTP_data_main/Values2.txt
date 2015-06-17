@@ -1,0 +1,25 @@
+social media 3053
+spatiotemporal changes 287
+graph based database 15
+semantic dimensions 161
+topological relationships 647
+Proportional Scheduler 23
+queueing networks model 714
+networked communications systems 88
+bandwidth sharing networks 39
+multihop networks 950
+error estimating codes 10
+
+wireless network applications 135
+computational overhead 2465
+real time video 3255
+
+media commodities 2
+recommender systems 5565
+temporal dynamics 5901
+hazard function 1497
+UML component models 4
+semi automated abstraction 1
+architectural design constraints 6
+semi automatic abstraction 3
+software systems 25264

@@ -1,0 +1,1462 @@
+GENERAL 5081831
+Biographies autobiographies 40
+Conference proceedings 8253
+General literary works -1
+INTRODUCTORY AND SURVEY 7
+REFERENCE 1415221
+MISCELLANEOUS 10182
+GENERAL 5081831
+CONTROL STRUCTURES AND MICROPROGRAMMING 1
+General 5081831
+Control Design Styles 1
+Hardwired control 28
+Microprogrammed logic arrays -1
+Writable control store 43
+Control Structure Performance Analysis and Design Aids -1
+Automatic synthesis 1100
+Formal models 9081
+Simulation 1972518
+Control Structure Reliability, Testing, and Fault-Tolerance 2
+Diagnostics 391323
+Error-checking 611
+Redundant design 177
+Test generation 6010
+Microprogram Design Aids -1
+Firmware engineering 46
+Languages and compilers 919
+Machine-independent microcode generation -1
+Optimization 1482810
+Verification 148812
+Microcode Applications -1
+Direct data manipulation 10
+Firmware support of operating systems/instruction sets -1
+Instruction set interpretation 5
+Peripheral control 183
+Special-purpose 7098
+Miscellaneous 10182
+ARITHMETIC AND LOGIC STRUCTURES -1
+General 5081831
+Design Styles 994
+Calculator 2205954
+Parallel 722949
+Pipeline 69753
+Performance Analysis and Design Aids 15
+Simulation 1972518
+Verification 148812
+Worst-case analysis 952
+Reliability, Testing, and Fault-Tolerance 18
+Diagnostics 391323
+Error-checking 611
+Redundant design 177
+Test generation 6010
+High-Speed Arithmetic 127
+Algorithms 1604859
+Cost/performance 2563
+Miscellaneous 10182
+MEMORY STRUCTURES 1262
+General 5081831
+Semiconductor Memories 847
+Dynamic memory 1349
+Read-only memory 1097
+Static memory 314
+Design Styles 994
+Associative memories 6196
+Cache memories 1824
+Interleaved memories 156
+Mass storage 1728
+Primary memory 279
+Sequential-access memory 11
+Shared memory 11908
+Virtual memory 1922
+Performance Analysis and Design Aids 15
+Formal models 9081
+Simulation 1972518
+Worst-case analysis 952
+Reliability, Testing, and Fault-Tolerance 18
+Diagnostics 391323
+Error-checking 611
+Redundant design 177
+Test generation 6010
+Miscellaneous 10182
+INPUT/OUTPUT AND DATA COMMUNICATIONS 6
+General 5081831
+Data Communications Devices 26
+Processors 170390
+Receivers 883791
+Transmitters 108113
+Input/Output Devices 315
+Channels and controllers 19
+Data terminals and printers -1
+Image display 2227
+Voice 97341
+Interconnections 142041
+Asynchronous/synchronous operation 3
+Fiber optics 33428
+Interfaces 685555
+Parallel I/O 796
+Physical structures 5247
+Topology 210598
+Performance Analysis and Design Aids 15
+Formal models 9081
+Simulation 1972518
+Verification 148812
+Worst-case analysis 952
+Reliability, Testing, and Fault-Tolerance 18
+Built-in tests 817
+Diagnostics 391323
+Error-checking 611
+Hardware reliability 167
+Redundant design 177
+Test generation 6010
+Miscellaneous 10182
+REGISTER-TRANSFER-LEVEL IMPLEMENTATION 28
+General 5081831
+Design 2836093
+Arithmetic and logic units 112
+Control design 13410
+Data-path design 68
+Memory design 799
+Styles 167244
+Design Aids 786
+Automatic synthesis 1100
+Hardware description languages 2603
+Optimization 1482810
+Simulation 1972518
+Verification 148812
+Reliability and Testing 155
+Built-in tests 817
+Error-checking 611
+Redundant design 177
+Test generation 6010
+Testability 18666
+Miscellaneous 10182
+LOGIC DESIGN 2475
+General 5081831
+Design Styles 994
+Cellular arrays and automata -1
+Combinational logic 1837
+Logic arrays 1109
+Memory control and access -1
+Memory used as logic -1
+Parallel circuits 584
+Sequential circuits 2632
+Reliability and Testing 155
+Built-in tests 817
+Error-checking 611
+Redundant design 177
+Test generation 6010
+Testability 18666
+Design Aids 786
+Automatic synthesis 1100
+Hardware description languages 2603
+Optimization 1482810
+Simulation 1972518
+Switching theory 221
+Verification 148812
+Miscellaneous 10182
+INTEGRATED CIRCUITS 60366
+General 5081831
+Types and Design Styles 8
+Advanced technologies 11791
+Algorithms implemented in hardware 26
+Gate arrays 11658
+Input/output circuits 34
+Memory technologies 1205
+Microprocessors and microcomputers 48
+Standard cells 4014
+VLSI 56108
+Design Aids 786
+Graphics 242356
+Layout 68302
+Placement and routing 781
+Simulation 1972518
+Verification 148812
+Reliability and Testing 155
+Built-in tests 817
+Error-checking 611
+Redundant design 177
+Test generation 6010
+Testability 18666
+Miscellaneous 10182
+PERFORMANCE AND RELIABILITY 4011
+General 5081831
+Reliability, Testing, and Fault-Tolerance 18
+Performance Analysis and Design Aids 15
+Miscellaneous 10182
+MISCELLANEOUS 10182
+Design 2836093
+GENERAL 5081831
+Hardware/software interfaces 158
+Instruction set design 90
+Modeling of computer architecture 3
+System architectures 19232
+Systems specification methodology 3
+PROCESSOR ARCHITECTURES 3201
+General 5081831
+Single Data Stream Architectures 5
+Multiple-instruction-stream, single-data-stream processors -1
+Pipeline processors 713
+RISC/CISC, VLIW architectures 2
+Single-instruction-stream, single-data-stream processors -1
+Von Neumann architectures 137
+Multiple Data Stream Architectures 31
+Array and vector processors 9
+Associative processors 331
+Connection machines 1239
+Interconnection architectures 723
+Multiple-instruction-stream, multiple-data-stream processors 4
+Parallel processors 3812
+Pipeline processors 713
+Single-instruction-stream, multiple-data-stream processors 2
+Other Architecture Styles 11
+Adaptable architectures 536
+Analog computers 2579
+Capability architectures 43
+Cellular architecture 677
+Data-flow architectures 204
+Heterogeneous 385795
+High-level language architectures 15
+Neural nets 6527
+Pipeline processors 713
+Stack-oriented processors 5
+Parallel Architectures 7372
+Distributed architectures 3034
+Mobile processors 100
+Miscellaneous 10182
+Analog 370667
+Hybrid 508600
+COMPUTER-COMMUNICATION NETWORKS 698
+General 5081831
+Data communications 8697
+Open Systems Interconnection reference model 41
+Security and protection 238
+Network Architecture and Design 37
+Asynchronous Transfer Mode 2957
+Centralized networks 458
+Circuit-switching networks 627
+Distributed networks 14346
+Frame relay networks 70
+ISDN 7025
+Network communications 5239
+Network topology 13860
+Packet-switching networks 2667
+Store and forward networks 96
+Wireless communication 56005
+Network Protocols 5428
+Applications 3351174
+Protocol architecture 630
+Protocol verification 340
+Routing protocols 14613
+Network Operations 9919
+Network management 9529
+Network monitoring 1907
+Public networks 1099
+Distributed Systems 52547
+Client/server 8184
+Distributed applications 7532
+Distributed databases 3563
+Network operating systems 294
+Local and Wide-Area Networks 159
+Access schemes 2554
+Buses 15343
+Ethernet 15382
+High-speed 127768
+Internet 230248
+Token rings 922
+Internetworking 2918
+Routers 33857
+Standards 1667534
+Miscellaneous 10182
+SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 31
+Microprocessor/microcomputer applications 1
+Process control systems 1472
+Real-time and embedded systems 395
+Signal processing systems 5416
+Smartcards 1263
+PERFORMANCE OF SYSTEMS 463
+Design studies 10520
+Fault tolerance 30154
+Measurement techniques 45081
+Modeling techniques 14367
+Performance attributes 687
+Reliability, availability, and serviceability 68
+COMPUTER SYSTEM IMPLEMENTATION 28
+General 5081831
+Large and Medium 918
+Super 114811
+Minicomputers 3927
+Microcomputers 18686
+Microprocessors 40209
+Personal computers 16668
+Portable devices 3002
+Workstations 31036
+VLSI Systems 2259
+Servers 123148
+Miscellaneous 10182
+MISCELLANEOUS 10182
+GENERAL 5081831
+PROGRAMMING TECHNIQUES 6291
+General 5081831
+Applicative 3351174
+Automatic Programming 1897
+Concurrent Programming 2970
+Distributed programming 2318
+Parallel programming 11331
+Sequential Programming 1469
+Object-oriented Programming 10723
+Logic Programming 16734
+Visual Programming 1731
+Miscellaneous 10182
+SOFTWARE ENGINEERING 60157
+General 5081831
+Protection mechanisms 4848
+Standards 1667534
+Requirements/Specifications 6718
+Elicitation methods 469
+Languages 614547
+Methodologies 553191
+Tools 1034982
+Design Tools and Techniques 63
+Computer-aided software engineering 538
+Decision tables 1374
+Evolutionary prototyping 96
+Flow charts 2148
+Modules and interfaces 50
+Object-oriented design methods 113
+Petri nets 16263
+Programmer workbench 10
+Software libraries 1391
+State diagrams 1225
+Structured programming 2038
+Top-down programming 47
+User interfaces 40476
+Coding Tools and Techniques 16
+Object-oriented programming 10723
+Pretty printers 74
+Program editors 117
+Reentrant code 4
+Standards 1667534
+Structured programming 2038
+Top-down programming 47
+Software/Program Verification 50
+Assertion checkers 70
+Class invariants 241
+Correctness proofs 1304
+Formal methods 10041
+Model checking 11667
+Programming by contract 31
+Reliability 717607
+Statistical methods 25820
+Validation 911329
+Testing and Debugging 718
+Code inspections and walk-throughs 1
+Debugging aids 114
+Diagnostics 391323
+Distributed debugging 139
+Dumps 16590
+Error handling and recovery 10
+Monitors 810177
+Symbolic execution 708
+Testing tools 1895
+Tracing 377822
+Programming Environments 6050
+Graphical environments 791
+Integrated environments 1926
+Interactive environments 1859
+Programmer workbench 10
+Distribution, Maintenance, and Enhancement 30
+Corrections 841397
+Documentation 55989
+Enhancement 1452381
+Extensibility 1178123
+Portability 68797
+Restructuring, reverse engineering, and reengineering 11
+Version control 922
+Metrics 250718
+Complexity measures 3159
+Performance measures 31318
+Process metrics 224
+Product metrics 326
+Software science 841
+Management 1595804
+Copyrights 165940
+Cost estimation 7999
+Life cycle 53709
+Productivity 2551620
+Programming teams 221
+Software configuration management 521
+Software process models 547
+Software quality assurance 578
+Time estimation 5950
+Design 2836093
+Methodologies 553191
+Representation 641886
+Software Architectures 11828
+Data abstraction 1587
+Domain-specific architectures 74
+Information hiding 2848
+Languages 614547
+Patterns 1547228
+Interoperability 35134
+Data mapping 1075
+Distributed objects 4666
+Interface definition languages 192
+Reusable Software 1038
+Domain engineering 663
+Reusable libraries 107
+Reuse models 133
+Miscellaneous 10182
+Rapid 640092
+Reusable 30226
+PROGRAMMING LANGUAGES 34988
+General 5081831
+Standards 1667534
+Formal Definitions and Theory 13
+Semantics 233336
+Syntax 43860
+Language Classifications 129
+Applicative 3351174
+Concurrent, distributed, and parallel languages 5
+Constraint and logic languages 1
+Data-flow languages 167
+Design languages 1899
+Extensible languages 249
+Macro and assembly languages -1
+Microprogramming languages 88
+Multiparadigm languages 52
+Nondeterministic languages 26
+Nonprocedural languages 32
+Object-oriented languages 4474
+Specialized application languages 7
+Very high-level languages 112
+Language Constructs and Features 85
+Abstract data types 1896
+Classes and objects 207
+Concurrent programming structures 17
+Constraints 615272
+Control structures 7582
+Coroutines 587
+Data types and structures 34
+Dynamic storage management 22
+Frameworks 911522
+Inheritance 118751
+Input/output 30961
+Modules, packages 444
+Patterns 1547228
+Polymorphism 203698
+Procedures, functions, and subroutines 9
+Recursion 120276
+Processors 170390
+Code generation 7324
+Compilers 136890
+Debuggers 3164
+Incremental compilers 135
+Interpreters 886469
+Memory management 3465
+Optimization 1482810
+Parsing 28506
+Preprocessors 4137
+Retargetable compilers 197
+Run-time environments 527
+Translator writing systems and compiler generators 5
+Miscellaneous 10182
+OPERATING SYSTEMS 34888
+General 5081831
+Process Management 6180
+Concurrency 176681
+Deadlocks 12240
+Multiprocessing/multiprogramming/multitasking 2
+Mutual exclusion 2195
+Scheduling 263087
+Synchronization 235720
+Threads 53598
+Storage Management 1429
+Allocation/deallocation strategies 5
+Distributed memories 7191
+Garbage collection 2567
+Main memory 3914
+Secondary storage 794
+Segmentation 447484
+Storage hierarchies 249
+Swapping 20151
+Virtual memory 1922
+File Systems Management 38
+Access methods 2851
+Directory structures 221
+Distributed file systems 907
+File organization 385
+Maintenance 263098
+Communications Management 1923
+Buffering 242925
+Input/output 30961
+Message sending 224
+Network communication 5239
+Terminal management 100
+Reliability 717607
+Backup procedures 31
+Checkpoint/restart 218
+Fault-tolerance 30154
+Verification 148812
+Security and Protection 238
+Access controls 19279
+Authentication 74093
+Cryptographic controls 6
+Information flow controls 235
+Invasive software 41
+Security kernels 124
+Verification 148812
+Organization and Design 122
+Batch processing systems 83
+Distributed systems 52547
+Hierarchical design 838
+Interactive systems 10073
+Real-time systems and embedded systems 6
+Performance 3859275
+Measurements 4636143
+Modeling and prediction 2460
+Monitors 810177
+Operational analysis 1633
+Queueing theory 1227
+Simulation 1972518
+Stochastic analysis 4631
+Systems Programs and Utilities -1
+Command and control languages 8
+Linkers 24987
+Loaders 3994
+Window managers 266
+Miscellaneous 10182
+MISCELLANEOUS 10182
+Software 654995
+GENERAL 5081831
+DATA STRUCTURES 30086
+Arrays 474467
+Distributed data structures 406
+Graphs and networks 170
+Lists, stacks, and queues 5
+Records 887845
+Tables 663155
+Trees 420544
+DATA STORAGE REPRESENTATIONS 14
+Composite structures 15420
+Contiguous representations 5
+Hash-table representations 2
+Linked representations 109
+Object representation 1951
+Primitive data items 2
+DATA ENCRYPTION 1344
+Code breaking 81
+Data encryption standard 416
+Public key cryptosystems 1701
+Standards 1667534
+CODING AND INFORMATION THEORY 47
+Data compaction and compression 6
+Error control codes 1030
+Formal models of communication 15
+Nonsecret encoding schemes 2
+FILES 155906
+Backup/recovery 30
+Optimization 1482810
+Organization/structure 3799
+Sorting/searching 50
+MISCELLANEOUS 10182
+GENERAL 5081831
+COMPUTATION BY ABSTRACT DEVICES 29
+General 5081831
+Models of Computation 1991
+Automata 47282
+Bounded-action devices 2
+Computability theory 3720
+Relations between models 130
+Self-modifying machines 2
+Unbounded-action devices 3
+Modes of Computation 72
+Alternation and nondeterminism 2
+Interactive and reactive computation 4
+Online computation 970
+Parallelism and concurrency 143
+Probabilistic computation 316
+Relations among modes 3
+Relativized computation 7
+Complexity Measures and Classes 4
+Complexity hierarchies 240
+Machine-independent complexity 7
+Reducibility and completeness 35
+Relations among complexity classes 3
+Relations among complexity measures 3
+Miscellaneous 10182
+ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 21
+General 5081831
+Numerical Algorithms and Problems 7
+Computation of transforms 15
+Computations in finite fields 13
+Computations on matrices 8
+Computations on polynomials 6
+Number-theoretic computations 15
+Nonnumerical Algorithms and Problems 33
+Complexity of proof procedures -1
+Computations on discrete structures 10
+Geometrical problems and computations 6
+Pattern matching 7573
+Routing and layout 23
+Sequencing and scheduling 164
+Sorting and searching 118
+Tradeoffs between Complexity Measures 1
+Miscellaneous 10182
+LOGICS AND MEANINGS OF PROGRAMS 26
+General 5081831
+Specifying and Verifying and Reasoning about Programs -1
+Assertions 95169
+Invariants 325186
+Logics of programs 194
+Mechanical verification 206
+Pre- and post-conditions 308
+Specification techniques 2694
+Semantics of Programming Languages 189
+Algebraic approaches to semantics 7
+Denotational semantics 1404
+Operational semantics 3587
+Partial evaluation 1667
+Process models 24415
+Program analysis 2925
+Studies of Program Constructs 5
+Control primitives 99
+Functional constructs 1337
+Object-oriented constructs 88
+Program and recursion schemes 1
+Type structure 13232
+Miscellaneous 10182
+MATHEMATICAL LOGIC AND FORMAL LANGUAGES 17
+General 5081831
+Mathematical Logic 5713
+Computability theory 3720
+Computational logic 1363
+Lambda calculus and related systems 6
+Logic and constraint programming 13
+Mechanical theorem proving 113
+Modal logic 4215
+Model theory 4179
+Proof theory 994
+Recursive function theory 87
+Set theory 11897
+Temporal logic 5892
+Grammars and Other Rewriting Systems 3
+Decision problems 7567
+Grammar types 23
+Parallel rewriting systems 28
+Parsing 28506
+Thue systems 132
+Formal Languages 3567
+Algebraic language theory 6
+Classes defined by grammars or automata 2
+Classes defined by resource-bounded automata -1
+Decision problems 7567
+Operations on languages 23
+Miscellaneous 10182
+MISCELLANEOUS 10182
+GENERAL 5081831
+NUMERICAL ANALYSIS 38390
+General 5081831
+Computer arithmetic 1096
+Conditioning 3007449
+Error analysis 11247
+Interval arithmetic 1236
+Multiple precision arithmetic 96
+Numerical algorithms 12251
+Parallel algorithms 11976
+Stability 1047733
+Interpolation 124867
+Difference formulas 1151
+Extrapolation 94972
+Interpolation formulas 1454
+Smoothing 373558
+Spline and piecewise polynomial interpolation -1
+Approximation 1527676
+Approximation of surfaces and contours -1
+Chebyshev approximation and theory 1
+Elementary function approximation 7
+Fast Fourier transforms 13528
+Least squares approximation 1100
+Linear approximation 7222
+Minimax approximation and algorithms 2
+Nonlinear approximation 848
+Rational approximation 2310
+Special function approximations 3
+Spline and piecewise polynomial approximation 2
+Wavelets and fractals 56
+Numerical Linear Algebra 1452
+Conditioning 3007449
+Determinants 3743540
+Eigenvalues and eigenvectors 2444
+Error analysis 11247
+Linear systems 37436
+Matrix inversion 3585
+Pseudoinverses 2587
+Singular value decomposition 9360
+Sparse, structured, and very large systems 1
+Quadrature and Numerical Differentiation 1
+Adaptive and iterative quadrature -1
+Automatic differentiation 1116
+Equal interval integration -1
+Error analysis 11247
+Finite difference methods 12391
+Gaussian quadrature 1161
+Iterative methods 17356
+Multidimensional 83342
+Roots of Nonlinear Equations 44
+Continuation 1425353
+Convergence 437980
+Error analysis 11247
+Iterative methods 17356
+Polynomials, methods for 113
+Systems of equations 9584
+Optimization 1482810
+Constrained optimization 7382
+Convex programming 2223
+Global optimization 15803
+Gradient methods 7544
+Integer programming 10307
+Least squares methods 10023
+Linear programming 29728
+Nonlinear programming 6275
+Quadratic programming methods 381
+Simulated annealing 16090
+Stochastic programming 2392
+Unconstrained optimization 1665
+Ordinary Differential Equations 22076
+Boundary value problems 35128
+Chaotic systems 7888
+Convergence and stability 833
+Differential-algebraic equations 1877
+Error analysis 11247
+Finite difference methods 12391
+Initial value problems 8284
+Multistep and multivalue methods 2
+One-step 30800
+Stiff equations 450
+Partial Differential Equations 38771
+Domain decomposition methods 2067
+Elliptic equations 8430
+Finite difference methods 12391
+Finite element methods 53165
+Finite volume methods 5064
+Hyperbolic equations 3146
+Inverse problems 26525
+Iterative solution techniques 174
+Method of lines 1158
+Multigrid and multilevel methods 10
+Parabolic equations 8621
+Spectral methods 6353
+Integral Equations 46719
+Delay equations 1080
+Fredholm equations 574
+Integro-differential equations 4512
+Volterra equations 1153
+Applications 3351174
+Miscellaneous 10182
+DISCRETE MATHEMATICS 18926
+General 5081831
+Combinatorics 17790
+Combinatorial algorithms 807
+Counting problems 654
+Generating functions 18978
+Permutations and combinations 87
+Recurrences and difference equations 1
+Graph Theory 9573
+Graph algorithms 1481
+Graph labeling 162
+Hypergraphs 6474
+Network problems 1516
+Path and circuit problems 2
+Trees 420544
+Applications 3351174
+Miscellaneous 10182
+PROBABILITY AND STATISTICS 1597
+Contingency table analysis 224
+Correlation and regression analysis 314
+Distribution functions 72254
+Experimental design 25167
+Markov processes 10490
+Multivariate statistics 7185
+Nonparametric statistics 2289
+Probabilistic algorithms 907
+Queueing theory 1227
+Random number generation 3136
+Reliability and life testing 40
+Renewal theory 747
+Robust regression 890
+Statistical computing 5382
+Statistical software 1898
+Stochastic processes 21726
+Survival analysis 6229
+Time series analysis 10713
+MATHEMATICAL SOFTWARE 2510
+Algorithm design and analysis 74
+Certification and testing 21
+Documentation 55989
+Efficiency 1812203
+Parallel and vector implementations 6
+Portability 68797
+Reliability and robustness 1455
+User interfaces 40476
+Verification 148812
+MISCELLANEOUS 10182
+Queueing 60752
+GENERAL 5081831
+MODELS AND PRINCIPLES 112
+General 5081831
+Systems and Information Theory 20
+General systems theory 605
+Information theory 35628
+Value of information 1340
+User/Machine Systems 75
+Human factors 15028
+Human information processing 690
+Software psychology 36
+Miscellaneous 10182
+DATABASE MANAGEMENT 8754
+General 5081831
+Security, integrity, and protection 1
+Logical Design 2475
+Data models 18819
+Normal forms 10205
+Schema and subschema 4
+Physical Design 5501
+Access methods 2851
+Deadlock avoidance 550
+Recovery and restart 4
+Languages 614547
+Data description languages 109
+Data manipulation languages 186
+Database 483687
+Query languages 6712
+Report writers 79
+Systems 6555970
+Concurrency 176681
+Distributed databases 3563
+Multimedia databases 1792
+Object-oriented databases 3597
+Parallel databases 913
+Query processing 6945
+Relational databases 11576
+Rule-based databases 26
+Textual databases 202
+Transaction processing 2355
+Heterogeneous Databases 1025
+Data translation 356
+Program translation 175
+Database Machines 560
+Database Administration 386
+Data dictionary/directory 17
+Data warehouse and repository 4
+Logging and recovery 60
+Security, integrity, and protection 1
+Database Applications 2766
+Data mining 43049
+Image databases 5767
+Scientific databases 1412
+Spatial databases and GIS 17
+Statistical databases 923
+Miscellaneous 10182
+INFORMATION STORAGE AND RETRIEVAL 889
+General 5081831
+Content Analysis and Indexing 32
+Abstracting methods 626
+Dictionaries 33169
+Indexing methods 2985
+Linguistic processing 749
+Thesauruses 104
+Information Storage 5614
+File organization 385
+Record classification 24
+Information Search and Retrieval 166
+Clustering 677069
+Information filtering 1560
+Query formulation 777
+Relevance feedback 3208
+Retrieval models 1713
+Search process 5143
+Selection process 10917
+Systems and Software 5085
+Current awareness systems 8
+Distributed systems 52547
+Information networks 10684
+Performance evaluation 45118
+Question-answering 4931
+User profiles and alert services -1
+Online Information Services 108
+Commercial services 810
+Data sharing 3975
+Web-based services 700
+Library Automation 429
+Large text archives 7
+Digital Libraries 11022
+Collection 1104107
+Dissemination 85386
+Standards 1667534
+Systems issues 1547
+User issues 203
+Miscellaneous 10182
+INFORMATION SYSTEMS APPLICATIONS 334
+General 5081831
+Office Automation 877
+Desktop publishing 327
+Equipment 358819
+Groupware 5266
+Spreadsheets 10399
+Time management 2442
+Word processing 2218
+Workflow management 3180
+Types of Systems 2293
+Decision support 30721
+Logistics 116661
+Communications Applications 6073
+Bulletin boards 1513
+Computer conferencing, teleconferencing, and videoconferencing 1
+Electronic mail 2435
+Information browsers 28
+Videotex 415
+Miscellaneous 10182
+INFORMATION INTERFACES AND PRESENTATION 205
+General 5081831
+Multimedia Information Systems 578
+Animations 758443
+Artificial, augmented, and virtual realities 46
+Audio input/output 9
+Evaluation/methodology 2944
+Hypertext navigation and maps -1
+Video 231197
+User Interfaces 40476
+Auditory 77477
+Benchmarking 144146
+Ergonomics 22350
+Evaluation/methodology 2944
+Graphical user interfaces 10082
+Haptic I/O 38
+Input devices and strategies 42
+Interaction styles 935
+Natural language 28325
+Prototyping 260146
+Screen design 766
+Standardization 1667534
+Style guides 268
+Theory and methods 10274
+Training, help, and documentation 1
+User-centered design 1278
+User interface management systems 249
+Voice I/O 18
+Windowing systems 1174
+Group and Organization Interfaces 20
+Asynchronous interaction 252
+Collaborative computing 918
+Computer-supported cooperative work 4926
+Evaluation/methodology 2944
+Organizational design 1202
+Synchronous interaction 281
+Theory and models 2038
+Web-based interaction 515
+Hypertext/Hypermedia 79
+Architectures 539668
+Navigation 117490
+Theory 2250198
+User issues 203
+Sound and Music Computing 24
+Methodologies and techniques 566
+Modeling 5749333
+Signal analysis, synthesis, and processing -1
+Systems 6555970
+Miscellaneous 10182
+MISCELLANEOUS 10182
+GENERAL 5081831
+SYMBOLIC AND ALGEBRAIC MANIPULATION 225
+General 5081831
+Expressions and Their Representation 2
+Representations 641886
+Simplification of expressions 11
+Algorithms 1604859
+Algebraic algorithms 1268
+Analysis of algorithms 573
+Nonalgebraic algorithms 2
+Languages and Systems 3688
+Evaluation strategies 1878
+Nonprocedural languages 32
+Special-purpose algebraic systems 2
+Special-purpose hardware 550
+Substitution mechanisms 513
+Applications 3351174
+Miscellaneous 10182
+ARTIFICIAL INTELLIGENCE 85885
+General 5081831
+Cognitive simulation 98
+Philosophical foundations 773
+Applications and Expert Systems 9
+Cartography 8073
+Games 177214
+Industrial automation 1543
+Law 644188
+Medicine and science 56195
+Natural language interfaces 960
+Office automation 877
+Automatic Programming 1897
+Automatic analysis of algorithms 1
+Program modification 304
+Program synthesis 1073
+Program transformation 2118
+Program verification 1177
+Deduction and Theorem Proving 12
+Answer/reason extraction 1
+Deduction 35118
+Inference engines 2234
+Logic programming 16734
+Mathematical induction 301
+Metatheory 852
+Nonmonotonic reasoning and belief revision 9
+Resolution 806834
+Uncertainty, ``fuzzy,'' and probabilistic reasoning -1
+Knowledge Representation Formalisms and Methods 7
+Frames and scripts 7
+Modal logic 4215
+Predicate logic 1497
+Relation systems 4944
+Representation languages 1485
+Representations 641886
+Semantic networks 2170
+Temporal logic 5892
+Programming Languages and Software 76
+Expert system tools and techniques 6
+Learning 846302
+Analogies 83065
+Concept learning 1495
+Connectionism and neural nets 1
+Induction 479271
+Knowledge acquisition 7619
+Language acquisition 7060
+Parameter learning 803
+Natural Language Processing 9852
+Discourse 91273
+Language generation 2416
+Language models 5945
+Language parsing and understanding 7
+Machine translation 6448
+Speech recognition and synthesis 129
+Text analysis 1638
+Problem Solving, Control Methods, and Search 16
+Backtracking 9591
+Control theory 16414
+Dynamic programming 19839
+Graph and tree search strategies 1
+Heuristic methods 4049
+Plan execution, formation, and generation 1
+Scheduling 263087
+Robotics 205091
+Autonomous vehicles 3127
+Commercial robots and applications -1
+Kinematics and dynamics 3052
+Manipulators 279169
+Operator interfaces 1039
+Propelling mechanisms 77
+Sensors 470426
+Workcell organization and planning -1
+Vision and Scene Understanding 9
+3D/stereo scene analysis -1
+Architecture and control structures 4
+Intensity, color, photometry, and thresholding -1
+Modeling and recovery of physical attributes -1
+Motion 646755
+Perceptual reasoning 76
+Representations, data structures, and transforms -1
+Shape 860756
+Texture 156096
+Video analysis 2337
+Distributed Artificial Intelligence 845
+Coherence and coordination 38
+Intelligent agents 6122
+Languages and structures 76
+Multiagent systems 7559
+Miscellaneous 10182
+COMPUTER GRAPHICS 33099
+General 5081831
+Hardware Architecture 4239
+Graphics processors 1027
+Hardcopy devices 25
+Input devices 3345
+Parallel processing 29934
+Raster display devices 9
+Storage devices 5890
+Three-dimensional displays 673
+Vector display devices 1
+Graphics Systems 1765
+Distributed/network graphics 18
+Remote systems 760
+Stand-alone systems 724
+Picture/Image Generation 83
+Antialiasing 1043
+Bitmap and framebuffer operations 1
+Digitizing and scanning 12
+Display algorithms 181
+Line and curve generation 7
+Viewing algorithms 144
+Graphics Utilities 69
+Application packages 288
+Device drivers 1348
+Graphics editors 695
+Graphics packages 447
+Meta files 5
+Paint systems 404
+Picture description languages 16
+Software support 1639
+Virtual device interfaces 19
+Computational Geometry and Object Modeling 68
+Boundary representations 732
+Constructive solid geometry 343
+Curve, surface, solid, and object representations 40
+Geometric algorithms, languages, and systems 13
+Hierarchy and geometric transformations 5
+Modeling packages 537
+Object hierarchies 229
+Physically based modeling 3145
+Splines 42667
+Methodology and Techniques 566
+Device independence 1053
+Ergonomics 22350
+Graphics data structures and data types 12
+Interaction techniques 3333
+Languages 614547
+Standards 1667534
+Three-Dimensional Graphics and Realism 143
+Animation 758443
+Color, shading, shadowing, and texture 18
+Fractals 65229
+Hidden line/surface removal 5
+Radiosity 1937
+Raytracing 1659
+Virtual reality 19395
+Visible line/surface algorithms 3
+Applications 3351174
+Miscellaneous 10182
+IMAGE PROCESSING AND COMPUTER VISION 477
+General 5081831
+Image displays 2227
+Image processing software 1014
+Digitization and Image Capture 4
+Camera calibration 2838
+Imaging geometry 902
+Quantization 108240
+Radiometry 5919
+Reflectance 1032015
+Sampling 2068574
+Scanning 506913
+Compression 359240
+Approximate methods 15973
+Exact coding 34
+Enhancement 1452381
+Filtering 580794
+Geometric correction 1385
+Grayscale manipulation 4
+Registration 70861
+Sharpening and deblurring 3
+Smoothing 373558
+Restoration 213792
+Inverse filtering 1683
+Kalman filtering 25940
+Pseudoinverse restoration 2
+Wiener filtering 3324
+Reconstruction 423493
+Series expansion methods 588
+Summation methods 935
+Transform methods 9047
+Segmentation 447484
+Edge and feature detection 7
+Pixel classification 735
+Region growing, partitioning 2
+Relaxation 365985
+Feature Measurement 765
+Feature representation 1279
+Invariants 325186
+Moments 333725
+Projections 1035481
+Size and shape 14656
+Texture 156096
+Scene Analysis 1619
+Color 300505
+Depth cues 827
+Motion 646755
+Object recognition 11039
+Photometry 48646
+Range data 3908
+Sensor fusion 3306
+Shading 39618
+Shape 860756
+Stereo 38273
+Surface fitting 1163
+Time-varying imagery 53
+Tracking 399621
+Applications 3351174
+Image Representation 3707
+Hierarchical 195217
+Morphological 251589
+Multidimensional 83342
+Statistical 1214031
+Volumetric 55358
+Miscellaneous 10182
+PATTERN RECOGNITION 67382
+General 5081831
+Models 5749333
+Deterministic 128048
+Fuzzy set 20991
+Geometric 353741
+Neural nets 6527
+Statistical 1214031
+Structural 4388743
+Design Methodology 64315
+Classifier design and evaluation 11
+Feature evaluation and selection 20
+Pattern analysis 10755
+Clustering 677069
+Algorithms 1604859
+Similarity measures 12951
+Applications 3351174
+Computer vision 41374
+Signal processing 170946
+Text processing 2265
+Waveform analysis 1278
+Implementation 735979
+Interactive systems 10073
+Special architectures 349
+Miscellaneous 10182
+SIMULATION AND MODELING 1505
+General 5081831
+Simulation Theory 373
+Model classification 305
+Systems theory 17690
+Types of simulation 456
+Simulation Languages 1524
+Applications 3351174
+Model Validation and Analysis 21
+Model Development 34870
+Modeling methodologies 3021
+Simulation Output Analysis 130
+Simulation Support Systems 28
+Environments 1657646
+Types of Simulation 456
+Animation 758443
+Combined 1990794
+Continuous 1425353
+Discrete event 13129
+Distributed 2559877
+Gaming 177214
+Monte Carlo 184218
+Parallel 722949
+Visual 636888
+Miscellaneous 10182
+DOCUMENT AND TEXT PROCESSING 11
+General 5081831
+Document and Text Editing 1
+Document management 1237
+Languages 614547
+Spelling 21602
+Version control 922
+Document Preparation 414
+Desktop publishing 327
+Format and notation 8
+Hypertext/hypermedia 79
+Index generation 428
+Languages and systems 3688
+Markup languages 5042
+Multi/mixed media 1
+Photocomposition/typesetting -1
+Scripting languages 1908
+Standards 1667534
+Index Generation 428
+Electronic Publishing 2128
+Document Capture 82
+Document analysis 8934
+Graphics recognition and interpretation -1
+Optical character recognition 1450
+Scanning 506913
+Miscellaneous 10182
+MISCELLANEOUS 10182
+GENERAL 5081831
+ADMINISTRATIVE DATA PROCESSING 39
+Business 421037
+Education 1069227
+Financial 260522
+Government 556143
+Law 644188
+Manufacturing 361568
+Marketing 641764
+Military 206274
+PHYSICAL SCIENCES AND ENGINEERING 209
+Aerospace 84691
+Archaeology 18249
+Astronomy 227726
+Chemistry 1619323
+Earth and atmospheric sciences 54
+Electronics 2290805
+Engineering 1733850
+Mathematics and statistics 1150
+Physics 4506537
+LIFE AND MEDICAL SCIENCES 26
+Biology and genetics 484
+Health 1850069
+Medical information systems 675
+SOCIAL AND BEHAVIORAL SCIENCES 5015
+Economics 1122117
+Psychology 396819
+Sociology 92869
+ARTS AND HUMANITIES 927
+Architecture 539668
+Arts, fine and performing -1
+Fine arts 1896
+Language translation 1008
+Linguistics 123091
+Literature 1159738
+Music 131987
+Performing arts 1744
+COMPUTER-AIDED ENGINEERING 2479
+Computer-aided design 27685
+Computer-aided manufacturing 678
+COMPUTERS IN OTHER SYSTEMS 10
+Command and control 4341
+Consumer products 4178
+Industrial control 1954
+Military 206274
+Process control 20417
+Publishing 655867
+Real time 292458
+MISCELLANEOUS 10182
+GENERAL 5081831
+THE COMPUTER INDUSTRY 1002
+Markets 641764
+Standards 1667534
+Statistics 1214031
+Suppliers 45481
+HISTORY OF COMPUTING 1511
+Hardware 216740
+People 512980
+Software 654995
+Systems 6555970
+Theory 2250198
+COMPUTERS AND EDUCATION 277
+General 5081831
+Computer Uses in Education 33
+Collaborative learning 6188
+Computer-assisted instruction 1308
+Computer-managed instruction 64
+Distance learning 7527
+Computer and Information Science Education 16
+Accreditation 16911
+Computer science education 5119
+Curriculum 85056
+Information systems education 130
+Literacy 40034
+Self-assessment 8025
+Miscellaneous 10182
+Accreditation 16911
+Computer 2927481
+COMPUTERS AND SOCIETY 984
+General 5081831
+Public Policy Issues 830
+Abuse and crime involving computers -1
+Computer-related health issues 2
+Ethics 141345
+Human safety 492
+Intellectual property rights 4041
+Privacy 46590
+Regulation 1006271
+Transborder data flow 105
+Use/abuse of power -1
+Social Issues 8177
+Abuse and crime involving computers -1
+Assistive technologies for persons with disabilities 7
+Employment 159651
+Handicapped persons/special needs 2
+Organizational Impacts 305
+Automation 353157
+Computer-supported collaborative work 288
+Employment 159651
+Reengineering 7690
+Electronic Commerce 12400
+Cybercash, digital cash -1
+Distributed commercial transactions -1
+Electronic data interchange 797
+Intellectual property 13481
+Payment schemes 795
+Security 362709
+Miscellaneous 10182
+LEGAL ASPECTS OF COMPUTING 5
+General 5081831
+Hardware/Software Protection 2
+Copyrights 165940
+Licensing 40974
+Patents 69403
+Proprietary rights 161
+Trade secrets 578
+Governmental Issues 16
+Censorship 5900
+Regulation 1006271
+Taxation 23358
+Miscellaneous 10182
+Contracts 259536
+Hardware 216740
+MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 10
+General 5081831
+Economics 1122117
+Project and People Management 10
+Life cycle 53709
+Management techniques 6466
+Staffing 10887
+Strategic information systems planning 127
+Systems analysis and design 917
+Systems development 31763
+Training 565356
+Installation Management 161
+Benchmarks 144146
+Computer selection 225
+Computing equipment management -1
+Performance and usage measurement -1
+Pricing and resource allocation 44
+Software Management 805
+Software development 37079
+Software maintenance 4528
+Software process 6500
+Software selection 330
+System Management 7089
+Centralization/decentralization 188
+Management audit 210
+Quality assurance 24710
+Security and Protection 238
+Authentication 74093
+Insurance 87877
+Invasive software 41
+Physical security 833
+Unauthorized access 886
+Miscellaneous 10182
+Insurance 87877
+Security 362709
+THE COMPUTING PROFESSION 97
+General 5081831
+Occupations 207777
+Organizations 2063998
+Testing, Certification, and Licensing 2
+Professional Ethics 1285
+Codes of ethics 1343
+Codes of good practice 53
+Ethical dilemmas 2893
+Miscellaneous 10182
+Codes 761151
+Ethics 141345
+PERSONAL COMPUTING 16668
+Games 177214
+General 5081831
+Games 177214
+Application Packages 288
+Data communications 8697
+Database processing 320
+Freeware/shareware 13
+Graphics 242356
+Spreadsheets 10399
+Word processing 2218
+Hardware 216740
+Management/Maintenance 189
+Miscellaneous 10182
+MISCELLANEOUS 10182

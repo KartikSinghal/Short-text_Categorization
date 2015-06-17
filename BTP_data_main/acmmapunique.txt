@@ -1,0 +1,1462 @@
+0 GENERAL
+1 Biographies autobiographies
+2 Conference proceedings
+3 General literary works
+4 INTRODUCTORY AND SURVEY
+5 REFERENCE
+A.m.0 MISCELLANEOUS
+6 GENERAL
+33 CONTROL STRUCTURES AND MICROPROGRAMMING
+7 General
+8 Control Design Styles
+9 Hardwired control**
+10 Microprogrammed logic arrays**
+11 Writable control store**
+12 Control Structure Performance Analysis and Design Aids
+13 Automatic synthesis**
+14 Formal models**
+15 Simulation**
+16 Control Structure Reliability, Testing, and Fault-Tolerance**
+17 Diagnostics**
+18 Error-checking**
+19 Redundant design**
+20 Test generation**
+21 Microprogram Design Aids
+22 Firmware engineering**
+23 Languages and compilers
+24 Machine-independent microcode generation**
+25 Optimization
+26 Verification**
+27 Microcode Applications
+28 Direct data manipulation**
+29 Firmware support of operating systems/instruction sets**
+30 Instruction set interpretation
+31 Peripheral control**
+32 Special-purpose**
+B.1.m.0 Miscellaneous
+51 ARITHMETIC AND LOGIC STRUCTURES
+34 General
+35 Design Styles
+36 Calculator**
+37 Parallel
+38 Pipeline
+39 Performance Analysis and Design Aids**
+40 Simulation**
+41 Verification**
+42 Worst-case analysis**
+43 Reliability, Testing, and Fault-Tolerance**
+44 Diagnostics**
+45 Error-checking**
+46 Redundant design**
+47 Test generation**
+48 High-Speed Arithmetic
+49 Algorithms
+50 Cost/performance
+B.2.m.0 Miscellaneous
+75 MEMORY STRUCTURES
+52 General
+53 Semiconductor Memories
+54 Dynamic memory
+55 Read-only memory
+56 Static memory
+57 Design Styles
+58 Associative memories
+59 Cache memories
+60 Interleaved memories**
+61 Mass storage
+62 Primary memory
+63 Sequential-access memory**
+64 Shared memory
+65 Virtual memory
+66 Performance Analysis and Design Aids**
+67 Formal models**
+68 Simulation**
+69 Worst-case analysis**
+70 Reliability, Testing, and Fault-Tolerance**
+71 Diagnostics**
+72 Error-checking**
+73 Redundant design**
+74 Test generation**
+B.3.m.0 Miscellaneous
+105 INPUT/OUTPUT AND DATA COMMUNICATIONS
+76 General
+77 Data Communications Devices
+78 Processors**
+79 Receivers
+80 Transmitters**
+81 Input/Output Devices
+82 Channels and controllers
+83 Data terminals and printers
+84 Image display
+85 Voice
+86 Interconnections
+87 Asynchronous/synchronous operation
+88 Fiber optics
+89 Interfaces
+90 Parallel I/O
+91 Physical structures
+92 Topology
+93 Performance Analysis and Design Aids**
+94 Formal models**
+95 Simulation**
+96 Verification**
+97 Worst-case analysis**
+98 Reliability, Testing, and Fault-Tolerance**
+99 Built-in tests**
+100 Diagnostics**
+101 Error-checking**
+102 Hardware reliability**
+103 Redundant design**
+104 Test generation**
+B.4.m.0 Miscellaneous
+125 REGISTER-TRANSFER-LEVEL IMPLEMENTATION
+106 General
+107 Design
+108 Arithmetic and logic units
+109 Control design
+110 Data-path design
+111 Memory design
+112 Styles
+113 Design Aids
+114 Automatic synthesis
+115 Hardware description languages
+116 Optimization
+117 Simulation
+118 Verification
+119 Reliability and Testing**
+120 Built-in tests**
+121 Error-checking**
+122 Redundant design**
+123 Test generation**
+124 Testability**
+B.5.m.0 Miscellaneous
+148 LOGIC DESIGN
+126 General
+127 Design Styles
+128 Cellular arrays and automata
+129 Combinational logic
+130 Logic arrays
+131 Memory control and access**
+132 Memory used as logic**
+133 Parallel circuits
+134 Sequential circuits
+135 Reliability and Testing**
+136 Built-in tests**
+137 Error-checking**
+138 Redundant design**
+139 Test generation**
+140 Testability**
+141 Design Aids
+142 Automatic synthesis
+143 Hardware description languages
+144 Optimization
+145 Simulation
+146 Switching theory
+147 Verification
+B.6.m.0 Miscellaneous
+171 INTEGRATED CIRCUITS
+149 General
+150 Types and Design Styles
+151 Advanced technologies
+152 Algorithms implemented in hardware
+153 Gate arrays
+154 Input/output circuits
+155 Memory technologies
+156 Microprocessors and microcomputers
+157 Standard cells**
+158 VLSI
+159 Design Aids
+160 Graphics
+161 Layout
+162 Placement and routing
+163 Simulation
+164 Verification
+165 Reliability and Testing**
+166 Built-in tests**
+167 Error-checking**
+168 Redundant design**
+169 Test generation**
+170 Testability**
+B.7.m.0 Miscellaneous
+175 PERFORMANCE AND RELIABILITY
+172 General
+173 Reliability, Testing, and Fault-Tolerance
+174 Performance Analysis and Design Aids
+B.8.m.0 Miscellaneous
+B.m.0 MISCELLANEOUS
+B.m.1 Design
+176 GENERAL
+177 Hardware/software interfaces
+178 Instruction set design
+179 Modeling of computer architecture
+180 System architectures
+181 Systems specification methodology
+212 PROCESSOR ARCHITECTURES
+182 General
+183 Single Data Stream Architectures
+184 Multiple-instruction-stream, single-data-stream processors
+185 Pipeline processors**
+186 RISC/CISC, VLIW architectures
+187 Single-instruction-stream, single-data-stream processors
+188 Von Neumann architectures**
+189 Multiple Data Stream Architectures
+190 Array and vector processors
+191 Associative processors
+192 Connection machines
+193 Interconnection architectures
+194 Multiple-instruction-stream, multiple-data-stream processors
+195 Parallel processors**
+196 Pipeline processors**
+197 Single-instruction-stream, multiple-data-stream processors
+198 Other Architecture Styles
+199 Adaptable architectures
+200 Analog computers
+201 Capability architectures**
+202 Cellular architecture
+203 Data-flow architectures
+204 Heterogeneous
+205 High-level language architectures**
+206 Neural nets
+207 Pipeline processors
+208 Stack-oriented processors**
+209 Parallel Architectures
+210 Distributed architectures
+211 Mobile processors
+C.1.m.0 Miscellaneous
+C.1.m.1 Analog
+C.1.m.2 Hybrid
+253 COMPUTER-COMMUNICATION NETWORKS
+213 General
+214 Data communications
+215 Open Systems Interconnection reference model
+216 Security and protection
+217 Network Architecture and Design
+218 Asynchronous Transfer Mode
+219 Centralized networks**
+220 Circuit-switching networks
+221 Distributed networks
+222 Frame relay networks
+223 ISDN
+224 Network communications
+225 Network topology
+226 Packet-switching networks
+227 Store and forward networks
+228 Wireless communication
+229 Network Protocols
+230 Applications
+231 Protocol architecture
+232 Protocol verification
+233 Routing protocols
+234 Network Operations
+235 Network management
+236 Network monitoring
+237 Public networks
+238 Distributed Systems
+239 Client/server
+240 Distributed applications
+241 Distributed databases
+242 Network operating systems
+243 Local and Wide-Area Networks
+244 Access schemes
+245 Buses
+246 Ethernet
+247 High-speed
+248 Internet
+249 Token rings
+250 Internetworking
+251 Routers
+252 Standards
+C.2.m.0 Miscellaneous
+254 SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS
+255 Microprocessor/microcomputer applications
+256 Process control systems
+257 Real-time and embedded systems
+258 Signal processing systems
+259 Smartcards
+260 PERFORMANCE OF SYSTEMS
+261 Design studies
+262 Fault tolerance
+263 Measurement techniques
+264 Modeling techniques
+265 Performance attributes
+266 Reliability, availability, and serviceability
+278 COMPUTER SYSTEM IMPLEMENTATION
+267 General
+268 Large and Medium
+269 Super
+270 Minicomputers**
+271 Microcomputers
+272 Microprocessors
+273 Personal computers
+274 Portable devices
+275 Workstations
+276 VLSI Systems
+277 Servers
+C.5.m.0 Miscellaneous
+C.m.0 MISCELLANEOUS
+279 GENERAL
+290 PROGRAMMING TECHNIQUES
+280 General
+281 Applicative
+282 Automatic Programming
+283 Concurrent Programming
+284 Distributed programming
+285 Parallel programming
+286 Sequential Programming
+287 Object-oriented Programming
+288 Logic Programming
+289 Visual Programming
+D.1.m.0 Miscellaneous
+388 SOFTWARE ENGINEERING
+291 General
+292 Protection mechanisms
+293 Standards
+294 Requirements/Specifications
+295 Elicitation methods
+296 Languages
+297 Methodologies
+298 Tools
+299 Design Tools and Techniques
+300 Computer-aided software engineering
+301 Decision tables
+302 Evolutionary prototyping
+303 Flow charts
+304 Modules and interfaces
+305 Object-oriented design methods
+306 Petri nets
+307 Programmer workbench**
+308 Software libraries
+309 State diagrams
+310 Structured programming**
+311 Top-down programming**
+312 User interfaces
+313 Coding Tools and Techniques
+314 Object-oriented programming
+315 Pretty printers
+316 Program editors
+317 Reentrant code**
+318 Standards
+319 Structured programming
+320 Top-down programming
+321 Software/Program Verification
+322 Assertion checkers
+323 Class invariants
+324 Correctness proofs
+325 Formal methods
+326 Model checking
+327 Programming by contract
+328 Reliability
+329 Statistical methods
+330 Validation
+331 Testing and Debugging
+332 Code inspections and walk-throughs
+333 Debugging aids
+334 Diagnostics
+335 Distributed debugging
+336 Dumps**
+337 Error handling and recovery
+338 Monitors
+339 Symbolic execution
+340 Testing tools
+341 Tracing
+342 Programming Environments
+343 Graphical environments
+344 Integrated environments
+345 Interactive environments
+346 Programmer workbench
+347 Distribution, Maintenance, and Enhancement
+348 Corrections**
+349 Documentation
+350 Enhancement**
+351 Extensibility**
+352 Portability
+353 Restructuring, reverse engineering, and reengineering
+354 Version control
+355 Metrics
+356 Complexity measures
+357 Performance measures
+358 Process metrics
+359 Product metrics
+360 Software science**
+361 Management
+362 Copyrights**
+363 Cost estimation
+364 Life cycle
+365 Productivity
+366 Programming teams
+367 Software configuration management
+368 Software process models
+369 Software quality assurance
+370 Time estimation
+371 Design**
+372 Methodologies**
+373 Representation**
+374 Software Architectures
+375 Data abstraction
+376 Domain-specific architectures
+377 Information hiding
+378 Languages
+379 Patterns
+380 Interoperability
+381 Data mapping
+382 Distributed objects
+383 Interface definition languages
+384 Reusable Software
+385 Domain engineering
+386 Reusable libraries
+387 Reuse models
+D.2.m.0 Miscellaneous
+D.2.m.1 Rapid
+D.2.m.2 Reusable
+439 PROGRAMMING LANGUAGES
+389 General
+390 Standards
+391 Formal Definitions and Theory
+392 Semantics
+393 Syntax
+394 Language Classifications
+395 Applicative
+396 Concurrent, distributed, and parallel languages
+397 Constraint and logic languages
+398 Data-flow languages
+399 Design languages
+400 Extensible languages
+401 Macro and assembly languages
+402 Microprogramming languages**
+403 Multiparadigm languages
+404 Nondeterministic languages**
+405 Nonprocedural languages**
+406 Object-oriented languages
+407 Specialized application languages
+408 Very high-level languages
+409 Language Constructs and Features
+410 Abstract data types
+411 Classes and objects
+412 Concurrent programming structures
+413 Constraints
+414 Control structures
+415 Coroutines
+416 Data types and structures
+417 Dynamic storage management
+418 Frameworks
+419 Inheritance
+420 Input/output
+421 Modules, packages
+422 Patterns
+423 Polymorphism
+424 Procedures, functions, and subroutines
+425 Recursion
+426 Processors
+427 Code generation
+428 Compilers
+429 Debuggers
+430 Incremental compilers
+431 Interpreters
+432 Memory management
+433 Optimization
+434 Parsing
+435 Preprocessors
+436 Retargetable compilers
+437 Run-time environments
+438 Translator writing systems and compiler generators
+D.3.m.0 Miscellaneous
+503 OPERATING SYSTEMS
+440 General
+441 Process Management
+442 Concurrency
+443 Deadlocks
+444 Multiprocessing/multiprogramming/multitasking
+445 Mutual exclusion
+446 Scheduling
+447 Synchronization
+448 Threads
+449 Storage Management
+450 Allocation/deallocation strategies
+451 Distributed memories
+452 Garbage collection
+453 Main memory
+454 Secondary storage
+455 Segmentation**
+456 Storage hierarchies
+457 Swapping**
+458 Virtual memory
+459 File Systems Management
+460 Access methods
+461 Directory structures
+462 Distributed file systems
+463 File organization
+464 Maintenance**
+465 Communications Management
+466 Buffering
+467 Input/output
+468 Message sending
+469 Network communication
+470 Terminal management**
+471 Reliability
+472 Backup procedures
+473 Checkpoint/restart
+474 Fault-tolerance
+475 Verification
+476 Security and Protection
+477 Access controls
+478 Authentication
+479 Cryptographic controls
+480 Information flow controls
+481 Invasive software
+482 Security kernels**
+483 Verification**
+484 Organization and Design
+485 Batch processing systems**
+486 Distributed systems
+487 Hierarchical design**
+488 Interactive systems
+489 Real-time systems and embedded systems
+490 Performance
+491 Measurements
+492 Modeling and prediction
+493 Monitors
+494 Operational analysis
+495 Queueing theory
+496 Simulation
+497 Stochastic analysis
+498 Systems Programs and Utilities
+499 Command and control languages
+500 Linkers**
+501 Loaders**
+502 Window managers
+D.4.m.0 Miscellaneous
+D.m.0 MISCELLANEOUS
+D.m.1 Software
+504 GENERAL
+505 DATA STRUCTURES
+506 Arrays
+507 Distributed data structures
+508 Graphs and networks
+509 Lists, stacks, and queues
+510 Records
+511 Tables**
+512 Trees
+513 DATA STORAGE REPRESENTATIONS
+514 Composite structures**
+515 Contiguous representations**
+516 Hash-table representations
+517 Linked representations
+518 Object representation
+519 Primitive data items**
+520 DATA ENCRYPTION
+521 Code breaking
+522 Data encryption standard
+523 Public key cryptosystems
+524 Standards
+525 CODING AND INFORMATION THEORY
+526 Data compaction and compression
+527 Error control codes
+528 Formal models of communication
+529 Nonsecret encoding schemes**
+530 FILES
+531 Backup/recovery
+532 Optimization**
+533 Organization/structure
+534 Sorting/searching
+E.m.0 MISCELLANEOUS
+535 GENERAL
+558 COMPUTATION BY ABSTRACT DEVICES
+536 General
+537 Models of Computation
+538 Automata
+539 Bounded-action devices
+540 Computability theory
+541 Relations between models
+542 Self-modifying machines
+543 Unbounded-action devices
+544 Modes of Computation
+545 Alternation and nondeterminism
+546 Interactive and reactive computation
+547 Online computation
+548 Parallelism and concurrency
+549 Probabilistic computation
+550 Relations among modes**
+551 Relativized computation
+552 Complexity Measures and Classes
+553 Complexity hierarchies
+554 Machine-independent complexity**
+555 Reducibility and completeness
+556 Relations among complexity classes
+557 Relations among complexity measures
+F.1.m.0 Miscellaneous
+575 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+559 General
+560 Numerical Algorithms and Problems
+561 Computation of transforms
+562 Computations in finite fields
+563 Computations on matrices
+564 Computations on polynomials
+565 Number-theoretic computations
+566 Nonnumerical Algorithms and Problems
+567 Complexity of proof procedures
+568 Computations on discrete structures
+569 Geometrical problems and computations
+570 Pattern matching
+571 Routing and layout
+572 Sequencing and scheduling
+573 Sorting and searching
+574 Tradeoffs between Complexity Measures
+F.2.m.0 Miscellaneous
+597 LOGICS AND MEANINGS OF PROGRAMS
+576 General
+577 Specifying and Verifying and Reasoning about Programs
+578 Assertions
+579 Invariants
+580 Logics of programs
+581 Mechanical verification
+582 Pre- and post-conditions
+583 Specification techniques
+584 Semantics of Programming Languages
+585 Algebraic approaches to semantics
+586 Denotational semantics
+587 Operational semantics
+588 Partial evaluation
+589 Process models
+590 Program analysis
+591 Studies of Program Constructs
+592 Control primitives
+593 Functional constructs
+594 Object-oriented constructs
+595 Program and recursion schemes
+596 Type structure
+F.3.m.0 Miscellaneous
+623 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+598 General
+599 Mathematical Logic
+600 Computability theory
+601 Computational logic
+602 Lambda calculus and related systems
+603 Logic and constraint programming
+604 Mechanical theorem proving
+605 Modal logic
+606 Model theory
+607 Proof theory
+608 Recursive function theory
+609 Set theory
+610 Temporal logic
+611 Grammars and Other Rewriting Systems
+612 Decision problems
+613 Grammar types
+614 Parallel rewriting systems
+615 Parsing
+616 Thue systems
+617 Formal Languages
+618 Algebraic language theory
+619 Classes defined by grammars or automata
+620 Classes defined by resource-bounded automata**
+621 Decision problems
+622 Operations on languages
+F.4.m.0 Miscellaneous
+F.m.0 MISCELLANEOUS
+624 GENERAL
+722 NUMERICAL ANALYSIS
+625 General
+626 Computer arithmetic
+627 Conditioning
+628 Error analysis
+629 Interval arithmetic
+630 Multiple precision arithmetic
+631 Numerical algorithms
+632 Parallel algorithms
+633 Stability
+634 Interpolation
+635 Difference formulas**
+636 Extrapolation
+637 Interpolation formulas
+638 Smoothing
+639 Spline and piecewise polynomial interpolation
+640 Approximation
+641 Approximation of surfaces and contours
+642 Chebyshev approximation and theory
+643 Elementary function approximation
+644 Fast Fourier transforms
+645 Least squares approximation
+646 Linear approximation
+647 Minimax approximation and algorithms
+648 Nonlinear approximation
+649 Rational approximation
+650 Special function approximations
+651 Spline and piecewise polynomial approximation
+652 Wavelets and fractals
+653 Numerical Linear Algebra
+654 Conditioning
+655 Determinants**
+656 Eigenvalues and eigenvectors
+657 Error analysis
+658 Linear systems
+659 Matrix inversion
+660 Pseudoinverses**
+661 Singular value decomposition
+662 Sparse, structured, and very large systems
+663 Quadrature and Numerical Differentiation
+664 Adaptive and iterative quadrature
+665 Automatic differentiation
+666 Equal interval integration**
+667 Error analysis
+668 Finite difference methods
+669 Gaussian quadrature
+670 Iterative methods
+671 Multidimensional
+672 Roots of Nonlinear Equations
+673 Continuation
+674 Convergence
+675 Error analysis
+676 Iterative methods
+677 Polynomials, methods for
+678 Systems of equations
+679 Optimization
+680 Constrained optimization
+681 Convex programming
+682 Global optimization
+683 Gradient methods
+684 Integer programming
+685 Least squares methods
+686 Linear programming
+687 Nonlinear programming
+688 Quadratic programming methods
+689 Simulated annealing
+690 Stochastic programming
+691 Unconstrained optimization
+692 Ordinary Differential Equations
+693 Boundary value problems
+694 Chaotic systems
+695 Convergence and stability
+696 Differential-algebraic equations
+697 Error analysis
+698 Finite difference methods
+699 Initial value problems
+700 Multistep and multivalue methods
+701 One-step
+702 Stiff equations
+703 Partial Differential Equations
+704 Domain decomposition methods
+705 Elliptic equations
+706 Finite difference methods
+707 Finite element methods
+708 Finite volume methods
+709 Hyperbolic equations
+710 Inverse problems
+711 Iterative solution techniques
+712 Method of lines
+713 Multigrid and multilevel methods
+714 Parabolic equations
+715 Spectral methods
+716 Integral Equations
+717 Delay equations
+718 Fredholm equations
+719 Integro-differential equations
+720 Volterra equations
+721 Applications
+G.1.m.0 Miscellaneous
+738 DISCRETE MATHEMATICS
+723 General
+724 Combinatorics
+725 Combinatorial algorithms
+726 Counting problems
+727 Generating functions
+728 Permutations and combinations
+729 Recurrences and difference equations
+730 Graph Theory
+731 Graph algorithms
+732 Graph labeling
+733 Hypergraphs
+734 Network problems
+735 Path and circuit problems
+736 Trees
+737 Applications
+G.2.m.0 Miscellaneous
+739 PROBABILITY AND STATISTICS
+740 Contingency table analysis
+741 Correlation and regression analysis
+742 Distribution functions
+743 Experimental design
+744 Markov processes
+745 Multivariate statistics
+746 Nonparametric statistics
+747 Probabilistic algorithms
+748 Queueing theory
+749 Random number generation
+750 Reliability and life testing
+751 Renewal theory
+752 Robust regression
+753 Statistical computing
+754 Statistical software
+755 Stochastic processes
+756 Survival analysis
+757 Time series analysis
+758 MATHEMATICAL SOFTWARE
+759 Algorithm design and analysis
+760 Certification and testing
+761 Documentation
+762 Efficiency
+763 Parallel and vector implementations
+764 Portability**
+765 Reliability and robustness
+766 User interfaces
+767 Verification**
+G.m.0 MISCELLANEOUS
+G.m.1 Queueing
+768 GENERAL
+778 MODELS AND PRINCIPLES
+769 General
+770 Systems and Information Theory
+771 General systems theory
+772 Information theory
+773 Value of information
+774 User/Machine Systems
+775 Human factors
+776 Human information processing
+777 Software psychology
+H.1.m.0 Miscellaneous
+821 DATABASE MANAGEMENT
+779 General
+780 Security, integrity, and protection**
+781 Logical Design
+782 Data models
+783 Normal forms
+784 Schema and subschema
+785 Physical Design
+786 Access methods
+787 Deadlock avoidance
+788 Recovery and restart
+789 Languages
+790 Data description languages
+791 Data manipulation languages
+792 Database
+793 Query languages
+794 Report writers
+795 Systems
+796 Concurrency
+797 Distributed databases
+798 Multimedia databases
+799 Object-oriented databases
+800 Parallel databases
+801 Query processing
+802 Relational databases
+803 Rule-based databases
+804 Textual databases
+805 Transaction processing
+806 Heterogeneous Databases
+807 Data translation**
+808 Program translation**
+809 Database Machines
+810 Database Administration
+811 Data dictionary/directory
+812 Data warehouse and repository
+813 Logging and recovery
+814 Security, integrity, and protection
+815 Database Applications
+816 Data mining
+817 Image databases
+818 Scientific databases
+819 Spatial databases and GIS
+820 Statistical databases
+H.2.m.0 Miscellaneous
+859 INFORMATION STORAGE AND RETRIEVAL
+822 General
+823 Content Analysis and Indexing
+824 Abstracting methods
+825 Dictionaries
+826 Indexing methods
+827 Linguistic processing
+828 Thesauruses
+829 Information Storage
+830 File organization
+831 Record classification**
+832 Information Search and Retrieval
+833 Clustering
+834 Information filtering
+835 Query formulation
+836 Relevance feedback
+837 Retrieval models
+838 Search process
+839 Selection process
+840 Systems and Software
+841 Current awareness systems
+842 Distributed systems
+843 Information networks
+844 Performance evaluation
+845 Question-answering
+846 User profiles and alert services
+847 Online Information Services
+848 Commercial services
+849 Data sharing
+850 Web-based services
+851 Library Automation
+852 Large text archives
+853 Digital Libraries
+854 Collection
+855 Dissemination
+856 Standards
+857 Systems issues
+858 User issues
+H.3.m.0 Miscellaneous
+878 INFORMATION SYSTEMS APPLICATIONS
+860 General
+861 Office Automation
+862 Desktop publishing
+863 Equipment**
+864 Groupware
+865 Spreadsheets
+866 Time management
+867 Word processing
+868 Workflow management
+869 Types of Systems
+870 Decision support
+871 Logistics
+872 Communications Applications
+873 Bulletin boards
+874 Computer conferencing, teleconferencing, and videoconferencing
+875 Electronic mail
+876 Information browsers
+877 Videotex
+H.4.m.0 Miscellaneous
+926 INFORMATION INTERFACES AND PRESENTATION
+879 General
+880 Multimedia Information Systems
+881 Animations
+882 Artificial, augmented, and virtual realities
+883 Audio input/output
+884 Evaluation/methodology
+885 Hypertext navigation and maps**
+886 Video
+887 User Interfaces
+888 Auditory
+889 Benchmarking
+890 Ergonomics
+891 Evaluation/methodology
+892 Graphical user interfaces
+893 Haptic I/O
+894 Input devices and strategies
+895 Interaction styles
+896 Natural language
+897 Prototyping
+898 Screen design
+899 Standardization
+900 Style guides
+901 Theory and methods
+902 Training, help, and documentation
+903 User-centered design
+904 User interface management systems
+905 Voice I/O
+906 Windowing systems
+907 Group and Organization Interfaces
+908 Asynchronous interaction
+909 Collaborative computing
+910 Computer-supported cooperative work
+911 Evaluation/methodology
+912 Organizational design
+913 Synchronous interaction
+914 Theory and models
+915 Web-based interaction
+916 Hypertext/Hypermedia
+917 Architectures
+918 Navigation
+919 Theory
+920 User issues
+921 Sound and Music Computing
+922 Methodologies and techniques
+923 Modeling
+924 Signal analysis, synthesis, and processing
+925 Systems
+H.5.m.0 Miscellaneous
+H.m.0 MISCELLANEOUS
+927 GENERAL
+943 SYMBOLIC AND ALGEBRAIC MANIPULATION
+928 General
+929 Expressions and Their Representation
+930 Representations
+931 Simplification of expressions
+932 Algorithms
+933 Algebraic algorithms
+934 Analysis of algorithms
+935 Nonalgebraic algorithms
+936 Languages and Systems
+937 Evaluation strategies
+938 Nonprocedural languages**
+939 Special-purpose algebraic systems
+940 Special-purpose hardware**
+941 Substitution mechanisms**
+942 Applications
+I.1.m.0 Miscellaneous
+1031 ARTIFICIAL INTELLIGENCE
+944 General
+945 Cognitive simulation
+946 Philosophical foundations
+947 Applications and Expert Systems
+948 Cartography
+949 Games
+950 Industrial automation
+951 Law
+952 Medicine and science
+953 Natural language interfaces
+954 Office automation
+955 Automatic Programming
+956 Automatic analysis of algorithms
+957 Program modification
+958 Program synthesis
+959 Program transformation
+960 Program verification
+961 Deduction and Theorem Proving
+962 Answer/reason extraction
+963 Deduction
+964 Inference engines
+965 Logic programming
+966 Mathematical induction
+967 Metatheory**
+968 Nonmonotonic reasoning and belief revision
+969 Resolution
+970 Uncertainty, ``fuzzy,'' and probabilistic reasoning
+971 Knowledge Representation Formalisms and Methods
+972 Frames and scripts
+973 Modal logic
+974 Predicate logic
+975 Relation systems
+976 Representation languages
+977 Representations
+978 Semantic networks
+979 Temporal logic
+980 Programming Languages and Software
+981 Expert system tools and techniques
+982 Learning
+983 Analogies
+984 Concept learning
+985 Connectionism and neural nets
+986 Induction
+987 Knowledge acquisition
+988 Language acquisition
+989 Parameter learning
+990 Natural Language Processing
+991 Discourse
+992 Language generation
+993 Language models
+994 Language parsing and understanding
+995 Machine translation
+996 Speech recognition and synthesis
+997 Text analysis
+998 Problem Solving, Control Methods, and Search
+999 Backtracking
+1000 Control theory
+1001 Dynamic programming
+1002 Graph and tree search strategies
+1003 Heuristic methods
+1004 Plan execution, formation, and generation
+1005 Scheduling
+1006 Robotics
+1007 Autonomous vehicles
+1008 Commercial robots and applications
+1009 Kinematics and dynamics
+1010 Manipulators
+1011 Operator interfaces
+1012 Propelling mechanisms
+1013 Sensors
+1014 Workcell organization and planning
+1015 Vision and Scene Understanding
+1016 3D/stereo scene analysis
+1017 Architecture and control structures**
+1018 Intensity, color, photometry, and thresholding
+1019 Modeling and recovery of physical attributes
+1020 Motion
+1021 Perceptual reasoning
+1022 Representations, data structures, and transforms
+1023 Shape
+1024 Texture
+1025 Video analysis
+1026 Distributed Artificial Intelligence
+1027 Coherence and coordination
+1028 Intelligent agents
+1029 Languages and structures
+1030 Multiagent systems
+I.2.m.0 Miscellaneous
+1090 COMPUTER GRAPHICS
+1032 General
+1033 Hardware Architecture
+1034 Graphics processors
+1035 Hardcopy devices**
+1036 Input devices
+1037 Parallel processing
+1038 Raster display devices
+1039 Storage devices**
+1040 Three-dimensional displays**
+1041 Vector display devices**
+1042 Graphics Systems
+1043 Distributed/network graphics
+1044 Remote systems**
+1045 Stand-alone systems**
+1046 Picture/Image Generation
+1047 Antialiasing**
+1048 Bitmap and framebuffer operations
+1049 Digitizing and scanning
+1050 Display algorithms
+1051 Line and curve generation
+1052 Viewing algorithms
+1053 Graphics Utilities
+1054 Application packages
+1055 Device drivers**
+1056 Graphics editors
+1057 Graphics packages
+1058 Meta files**
+1059 Paint systems
+1060 Picture description languages**
+1061 Software support
+1062 Virtual device interfaces
+1063 Computational Geometry and Object Modeling
+1064 Boundary representations
+1065 Constructive solid geometry
+1066 Curve, surface, solid, and object representations
+1067 Geometric algorithms, languages, and systems
+1068 Hierarchy and geometric transformations
+1069 Modeling packages
+1070 Object hierarchies
+1071 Physically based modeling
+1072 Splines
+1073 Methodology and Techniques
+1074 Device independence**
+1075 Ergonomics
+1076 Graphics data structures and data types
+1077 Interaction techniques
+1078 Languages
+1079 Standards
+1080 Three-Dimensional Graphics and Realism
+1081 Animation
+1082 Color, shading, shadowing, and texture
+1083 Fractals
+1084 Hidden line/surface removal
+1085 Radiosity
+1086 Raytracing
+1087 Virtual reality
+1088 Visible line/surface algorithms
+1089 Applications
+I.3.m.0 Miscellaneous
+1154 IMAGE PROCESSING AND COMPUTER VISION
+1091 General
+1092 Image displays
+1093 Image processing software
+1094 Digitization and Image Capture
+1095 Camera calibration
+1096 Imaging geometry
+1097 Quantization
+1098 Radiometry
+1099 Reflectance
+1100 Sampling
+1101 Scanning
+1102 Compression
+1103 Approximate methods
+1104 Exact coding**
+1105 Enhancement
+1106 Filtering
+1107 Geometric correction
+1108 Grayscale manipulation
+1109 Registration
+1110 Sharpening and deblurring**
+1111 Smoothing
+1112 Restoration
+1113 Inverse filtering**
+1114 Kalman filtering
+1115 Pseudoinverse restoration**
+1116 Wiener filtering**
+1117 Reconstruction
+1118 Series expansion methods
+1119 Summation methods**
+1120 Transform methods
+1121 Segmentation
+1122 Edge and feature detection
+1123 Pixel classification
+1124 Region growing, partitioning
+1125 Relaxation
+1126 Feature Measurement
+1127 Feature representation
+1128 Invariants
+1129 Moments
+1130 Projections
+1131 Size and shape
+1132 Texture
+1133 Scene Analysis
+1134 Color
+1135 Depth cues
+1136 Motion
+1137 Object recognition
+1138 Photometry
+1139 Range data
+1140 Sensor fusion
+1141 Shading
+1142 Shape
+1143 Stereo
+1144 Surface fitting
+1145 Time-varying imagery
+1146 Tracking
+1147 Applications
+1148 Image Representation
+1149 Hierarchical
+1150 Morphological
+1151 Multidimensional
+1152 Statistical
+1153 Volumetric
+I.4.m.0 Miscellaneous
+1178 PATTERN RECOGNITION
+1155 General
+1156 Models
+1157 Deterministic**
+1158 Fuzzy set
+1159 Geometric
+1160 Neural nets
+1161 Statistical
+1162 Structural
+1163 Design Methodology
+1164 Classifier design and evaluation
+1165 Feature evaluation and selection
+1166 Pattern analysis
+1167 Clustering
+1168 Algorithms
+1169 Similarity measures
+1170 Applications
+1171 Computer vision
+1172 Signal processing
+1173 Text processing
+1174 Waveform analysis
+1175 Implementation
+1176 Interactive systems
+1177 Special architectures
+I.5.m.0 Miscellaneous
+1202 SIMULATION AND MODELING
+1179 General
+1180 Simulation Theory
+1181 Model classification
+1182 Systems theory
+1183 Types of simulation
+1184 Simulation Languages
+1185 Applications
+1186 Model Validation and Analysis
+1187 Model Development
+1188 Modeling methodologies
+1189 Simulation Output Analysis
+1190 Simulation Support Systems
+1191 Environments
+1192 Types of Simulation
+1193 Animation
+1194 Combined
+1195 Continuous
+1196 Discrete event
+1197 Distributed
+1198 Gaming
+1199 Monte Carlo
+1200 Parallel
+1201 Visual
+I.6.m.0 Miscellaneous
+1227 DOCUMENT AND TEXT PROCESSING
+1203 General
+1204 Document and Text Editing
+1205 Document management
+1206 Languages**
+1207 Spelling**
+1208 Version control
+1209 Document Preparation
+1210 Desktop publishing
+1211 Format and notation
+1212 Hypertext/hypermedia
+1213 Index generation
+1214 Languages and systems
+1215 Markup languages
+1216 Multi/mixed media
+1217 Photocomposition/typesetting
+1218 Scripting languages
+1219 Standards
+1220 Index Generation**
+1221 Electronic Publishing
+1222 Document Capture
+1223 Document analysis
+1224 Graphics recognition and interpretation
+1225 Optical character recognition
+1226 Scanning
+I.7.m.0 Miscellaneous
+I.m.0 MISCELLANEOUS
+1228 GENERAL
+1229 ADMINISTRATIVE DATA PROCESSING
+1230 Business
+1231 Education
+1232 Financial
+1233 Government
+1234 Law
+1235 Manufacturing
+1236 Marketing
+1237 Military
+1238 PHYSICAL SCIENCES AND ENGINEERING
+1239 Aerospace
+1240 Archaeology
+1241 Astronomy
+1242 Chemistry
+1243 Earth and atmospheric sciences
+1244 Electronics
+1245 Engineering
+1246 Mathematics and statistics
+1247 Physics
+1248 LIFE AND MEDICAL SCIENCES
+1249 Biology and genetics
+1250 Health
+1251 Medical information systems
+1252 SOCIAL AND BEHAVIORAL SCIENCES
+1253 Economics
+1254 Psychology
+1255 Sociology
+1256 ARTS AND HUMANITIES
+1257 Architecture
+1258 Arts, fine and performing**
+1259 Fine arts
+1260 Language translation
+1261 Linguistics
+1262 Literature
+1263 Music**
+1264 Performing arts
+1265 COMPUTER-AIDED ENGINEERING
+1266 Computer-aided design
+1267 Computer-aided manufacturing
+1268 COMPUTERS IN OTHER SYSTEMS
+1269 Command and control
+1270 Consumer products
+1271 Industrial control
+1272 Military
+1273 Process control
+1274 Publishing
+1275 Real time
+J.m.0 MISCELLANEOUS
+1276 GENERAL
+1277 THE COMPUTER INDUSTRY
+1278 Markets
+1279 Standards
+1280 Statistics
+1281 Suppliers
+1282 HISTORY OF COMPUTING
+1283 Hardware
+1284 People
+1285 Software
+1286 Systems
+1287 Theory
+1301 COMPUTERS AND EDUCATION
+1288 General
+1289 Computer Uses in Education
+1290 Collaborative learning
+1291 Computer-assisted instruction
+1292 Computer-managed instruction
+1293 Distance learning
+1294 Computer and Information Science Education
+1295 Accreditation
+1296 Computer science education
+1297 Curriculum
+1298 Information systems education
+1299 Literacy
+1300 Self-assessment
+K.3.m.0 Miscellaneous
+K.3.m.1 Accreditation**
+K.3.m.2 Computer
+1330 COMPUTERS AND SOCIETY
+1302 General
+1303 Public Policy Issues
+1304 Abuse and crime involving computers
+1305 Computer-related health issues
+1306 Ethics
+1307 Human safety
+1308 Intellectual property rights
+1309 Privacy
+1310 Regulation
+1311 Transborder data flow
+1312 Use/abuse of power
+1313 Social Issues
+1314 Abuse and crime involving computers**
+1315 Assistive technologies for persons with disabilities
+1316 Employment
+1317 Handicapped persons/special needs**
+1318 Organizational Impacts
+1319 Automation
+1320 Computer-supported collaborative work
+1321 Employment
+1322 Reengineering
+1323 Electronic Commerce
+1324 Cybercash, digital cash
+1325 Distributed commercial transactions
+1326 Electronic data interchange
+1327 Intellectual property
+1328 Payment schemes
+1329 Security
+K.4.m.0 Miscellaneous
+1342 LEGAL ASPECTS OF COMPUTING
+1331 General
+1332 Hardware/Software Protection
+1333 Copyrights
+1334 Licensing
+1335 Patents
+1336 Proprietary rights
+1337 Trade secrets**
+1338 Governmental Issues
+1339 Censorship
+1340 Regulation
+1341 Taxation
+K.5.m.0 Miscellaneous
+K.5.m.1 Contracts**
+K.5.m.2 Hardware
+1374 MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS
+1343 General
+1344 Economics
+1345 Project and People Management
+1346 Life cycle
+1347 Management techniques
+1348 Staffing
+1349 Strategic information systems planning
+1350 Systems analysis and design
+1351 Systems development
+1352 Training
+1353 Installation Management
+1354 Benchmarks
+1355 Computer selection
+1356 Computing equipment management
+1357 Performance and usage measurement
+1358 Pricing and resource allocation
+1359 Software Management
+1360 Software development
+1361 Software maintenance
+1362 Software process
+1363 Software selection
+1364 System Management
+1365 Centralization/decentralization
+1366 Management audit
+1367 Quality assurance
+1368 Security and Protection
+1369 Authentication
+1370 Insurance**
+1371 Invasive software
+1372 Physical security**
+1373 Unauthorized access
+K.6.m.0 Miscellaneous
+K.6.m.1 Insurance*
+K.6.m.2 Security*
+1383 THE COMPUTING PROFESSION
+1375 General
+1376 Occupations
+1377 Organizations
+1378 Testing, Certification, and Licensing
+1379 Professional Ethics
+1380 Codes of ethics
+1381 Codes of good practice
+1382 Ethical dilemmas
+K.7.m.0 Miscellaneous
+K.7.m.1 Codes
+K.7.m.2 Ethics**
+1395 PERSONAL COMPUTING
+1396 Games*
+1384 General
+1385 Games
+1386 Application Packages
+1387 Data communications
+1388 Database processing
+1389 Freeware/shareware
+1390 Graphics
+1391 Spreadsheets
+1392 Word processing
+1393 Hardware
+1394 Management/Maintenance
+K.8.m.0 Miscellaneous
+K.m.0 MISCELLANEOUS

@@ -1,0 +1,745 @@
+semi automated abstraction Ethicssemi automated abstraction Human safetysemi automated abstraction Intellectual property rightssemi automated abstraction Privacysemi automated abstraction Regulationsemi automated abstraction Transborder data flowsemi automated abstraction Social Issuessemi automated abstraction Assistive technologies for persons with disabilitiessemi automated abstraction Employmentsemi automated abstraction Handicapped persons/special needssemi automated abstraction Organizational Impactssemi automated abstraction Automation 1
+semi automated abstraction Computer-supported collaborative worksemi automated abstraction Employmentsemi automated abstraction Reengineeringsemi automated abstraction Electronic Commercesemi automated abstraction Electronic data interchangesemi automated abstraction Intellectual propertysemi automated abstraction Payment schemessemi automated abstraction Securitysemi automated abstraction Miscellaneoussemi automated abstraction LEGAL ASPECTS OF COMPUTINGsemi automated abstraction General 1
+semi automated abstraction Hardware/Software Protectionsemi automated abstraction Copyrightssemi automated abstraction Licensingsemi automated abstraction Patentssemi automated abstraction Proprietary rightssemi automated abstraction Trade secretssemi automated abstraction Governmental Issuessemi automated abstraction Censorshipsemi automated abstraction Regulationsemi automated abstraction Taxationsemi automated abstraction Miscellaneoussemi automated abstraction Contractssemi automated abstraction Hardwaresemi automated abstraction MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 1
+semi automated abstraction General 1
+semi automated abstraction Economicssemi automated abstraction Project and People Managementsemi automated abstraction Life cyclesemi automated abstraction Management techniquessemi automated abstraction Staffingsemi automated abstraction Strategic information systems planningsemi automated abstraction Systems analysis and design 11
+semi automated abstraction Systems development 64
+semi automated abstraction Trainingsemi automated abstraction Installation Managementsemi automated abstraction Benchmarkssemi automated abstraction Computer selection 8
+semi automated abstraction Pricing and resource allocationsemi automated abstraction Software Management 2
+semi automated abstraction Software development 14
+semi automated abstraction Software maintenance 2
+semi automated abstraction Software process 11
+semi automated abstraction Software selection 7
+semi automated abstraction System Management 15
+semi automated abstraction Centralization/decentralizationsemi automated abstraction Management auditsemi automated abstraction Quality assurance 1
+semi automated abstraction Security and Protectionsemi automated abstraction Authenticationsemi automated abstraction Insurancesemi automated abstraction Invasive software 1
+semi automated abstraction Physical securitysemi automated abstraction Unauthorized accesssemi automated abstraction Miscellaneoussemi automated abstraction Insurancesemi automated abstraction Securitysemi automated abstraction THE COMPUTING PROFESSIONsemi automated abstraction General 1
+semi automated abstraction Occupationssemi automated abstraction Organizationssemi automated abstraction Testing, Certification, and Licensingsemi automated abstraction Professional Ethicssemi automated abstraction Codes of ethics 1
+semi automated abstraction Codes of good practicesemi automated abstraction Ethical dilemmassemi automated abstraction Miscellaneoussemi automated abstraction Codes 1
+semi automated abstraction Ethicssemi automated abstraction PERSONAL COMPUTINGsemi automated abstraction Gamessemi automated abstraction General 1
+semi automated abstraction Gamessemi automated abstraction Application Packages 1
+semi automated abstraction Data communications 2
+semi automated abstraction Database processing 1
+semi automated abstraction Freeware/sharewaresemi automated abstraction Graphicssemi automated abstraction Spreadsheetssemi automated abstraction Word processingsemi automated abstraction Hardwaresemi automated abstraction Management/Maintenancesemi automated abstraction Miscellaneoussemi automated abstraction MISCELLANEOUSarchitectural design constraints GENERAL 3
+architectural design constraints Biographies autobiographiesarchitectural design constraints Conference proceedings 1
+architectural design constraints INTRODUCTORY AND SURVEYarchitectural design constraints REFERENCEarchitectural design constraints MISCELLANEOUSarchitectural design constraints GENERAL 3
+architectural design constraints CONTROL STRUCTURES AND MICROPROGRAMMINGarchitectural design constraints General 3
+architectural design constraints Control Design Stylesarchitectural design constraints Hardwired controlarchitectural design constraints Writable control storearchitectural design constraints Automatic synthesis 1
+architectural design constraints Formal models 3
+architectural design constraints Simulationarchitectural design constraints Control Structure Reliability, Testing, and Fault-Tolerancearchitectural design constraints Diagnosticsarchitectural design constraints Error-checking 2
+architectural design constraints Redundant design 7
+architectural design constraints Test generation 3
+architectural design constraints Firmware engineeringarchitectural design constraints Languages and compilers 4
+architectural design constraints Optimization 1
+architectural design constraints Verificationarchitectural design constraints Direct data manipulationarchitectural design constraints Instruction set interpretationarchitectural design constraints Peripheral controlarchitectural design constraints Special-purpose 1
+architectural design constraints Miscellaneousarchitectural design constraints General 3
+architectural design constraints Design Styles 6
+architectural design constraints Calculatorarchitectural design constraints Parallel 1
+architectural design constraints Pipelinearchitectural design constraints Performance Analysis and Design Aids 1
+architectural design constraints Simulationarchitectural design constraints Verificationarchitectural design constraints Worst-case analysisarchitectural design constraints Reliability, Testing, and Fault-Tolerancearchitectural design constraints Diagnosticsarchitectural design constraints Error-checking 2
+architectural design constraints Redundant design 7
+architectural design constraints Test generation 3
+architectural design constraints High-Speed Arithmeticarchitectural design constraints Algorithmsarchitectural design constraints Cost/performance 4
+architectural design constraints Miscellaneousarchitectural design constraints MEMORY STRUCTURES 1
+architectural design constraints General 3
+architectural design constraints Semiconductor Memories 1
+architectural design constraints Dynamic memory 1
+architectural design constraints Read-only memoryarchitectural design constraints Static memory 1
+architectural design constraints Design Styles 6
+architectural design constraints Associative memories 1
+architectural design constraints Cache memories 1
+architectural design constraints Interleaved memories 1
+architectural design constraints Mass storage 1
+architectural design constraints Primary memory 1
+architectural design constraints Sequential-access memoryarchitectural design constraints Shared memory 1
+architectural design constraints Virtual memory 1
+architectural design constraints Performance Analysis and Design Aids 1
+architectural design constraints Formal models 3
+architectural design constraints Simulationarchitectural design constraints Worst-case analysisarchitectural design constraints Reliability, Testing, and Fault-Tolerancearchitectural design constraints Diagnosticsarchitectural design constraints Error-checking 2
+architectural design constraints Redundant design 7
+architectural design constraints Test generation 3
+architectural design constraints Miscellaneousarchitectural design constraints INPUT/OUTPUT AND DATA COMMUNICATIONS 1
+architectural design constraints General 3
+architectural design constraints Data Communications Devices 2
+architectural design constraints Processors 1
+architectural design constraints Receiversarchitectural design constraints Transmittersarchitectural design constraints Input/Output Devicesarchitectural design constraints Channels and controllers 1
+architectural design constraints Image displayarchitectural design constraints Voicearchitectural design constraints Interconnectionsarchitectural design constraints Asynchronous/synchronous operationarchitectural design constraints Fiber optics 1
+architectural design constraints Interfacesarchitectural design constraints Parallel I/Oarchitectural design constraints Physical structuresarchitectural design constraints Topologyarchitectural design constraints Performance Analysis and Design Aids 1
+architectural design constraints Formal models 3
+architectural design constraints Simulationarchitectural design constraints Verificationarchitectural design constraints Worst-case analysisarchitectural design constraints Reliability, Testing, and Fault-Tolerancearchitectural design constraints Built-in testsarchitectural design constraints Diagnosticsarchitectural design constraints Error-checking 2
+architectural design constraints Hardware reliabilityarchitectural design constraints Redundant design 7
+architectural design constraints Test generation 3
+architectural design constraints Miscellaneousarchitectural design constraints REGISTER-TRANSFER-LEVEL IMPLEMENTATION 1
+architectural design constraints General 3
+architectural design constraints Design 6
+architectural design constraints Arithmetic and logic unitsarchitectural design constraints Control design 8
+architectural design constraints Data-path design 2
+architectural design constraints Memory design 8
+architectural design constraints Stylesarchitectural design constraints Design Aids 6
+architectural design constraints Automatic synthesis 1
+architectural design constraints Hardware description languagesarchitectural design constraints Optimization 1
+architectural design constraints Simulationarchitectural design constraints Verificationarchitectural design constraints Reliability and Testingarchitectural design constraints Built-in testsarchitectural design constraints Error-checking 2
+architectural design constraints Redundant design 7
+architectural design constraints Test generation 3
+architectural design constraints Testabilityarchitectural design constraints Miscellaneousarchitectural design constraints LOGIC DESIGN 11
+architectural design constraints General 3
+architectural design constraints Design Styles 6
+architectural design constraints Combinational logicarchitectural design constraints Logic arraysarchitectural design constraints Parallel circuits 1
+architectural design constraints Sequential circuitsarchitectural design constraints Reliability and Testingarchitectural design constraints Built-in testsarchitectural design constraints Error-checking 2
+architectural design constraints Redundant design 7
+architectural design constraints Test generation 3
+architectural design constraints Testabilityarchitectural design constraints Design Aids 6
+architectural design constraints Automatic synthesis 1
+architectural design constraints Hardware description languagesarchitectural design constraints Optimization 1
+architectural design constraints Simulationarchitectural design constraints Switching theory 1
+architectural design constraints Verificationarchitectural design constraints Miscellaneousarchitectural design constraints INTEGRATED CIRCUITS 1
+architectural design constraints General 3
+architectural design constraints Types and Design Styles 1
+architectural design constraints Advanced technologies 2
+architectural design constraints Algorithms implemented in hardwarearchitectural design constraints Gate arraysarchitectural design constraints Input/output circuitsarchitectural design constraints Memory technologies 5
+architectural design constraints Microprocessors and microcomputersarchitectural design constraints Standard cellsarchitectural design constraints VLSIarchitectural design constraints Design Aids 6
+architectural design constraints Graphicsarchitectural design constraints Layoutarchitectural design constraints Placement and routingarchitectural design constraints Simulationarchitectural design constraints Verificationarchitectural design constraints Reliability and Testingarchitectural design constraints Built-in testsarchitectural design constraints Error-checking 2
+architectural design constraints Redundant design 7
+architectural design constraints Test generation 3
+architectural design constraints Testabilityarchitectural design constraints Miscellaneousarchitectural design constraints PERFORMANCE AND RELIABILITY 4
+architectural design constraints General 3
+architectural design constraints Reliability, Testing, and Fault-Tolerancearchitectural design constraints Performance Analysis and Design Aids 1
+architectural design constraints Miscellaneousarchitectural design constraints MISCELLANEOUSarchitectural design constraints Design 6
+architectural design constraints GENERAL 3
+architectural design constraints Hardware/software interfacesarchitectural design constraints Instruction set designarchitectural design constraints Modeling of computer architecture 8
+architectural design constraints System architectures 43
+architectural design constraints Systems specification methodology 1
+architectural design constraints PROCESSOR ARCHITECTURES 8
+architectural design constraints General 3
+architectural design constraints Single Data Stream Architecturesarchitectural design constraints Pipeline processors 1
+architectural design constraints RISC/CISC, VLIW architecturesarchitectural design constraints Von Neumann architecturesarchitectural design constraints Multiple Data Stream Architectures 1
+architectural design constraints Array and vector processorsarchitectural design constraints Associative processors 1
+architectural design constraints Connection machines 2
+architectural design constraints Interconnection architectures 6
+architectural design constraints Multiple-instruction-stream, multiple-data-stream processors 1
+architectural design constraints Parallel processors 3
+architectural design constraints Pipeline processors 1
+architectural design constraints Single-instruction-stream, multiple-data-stream processors 1
+architectural design constraints Other Architecture Styles 1
+architectural design constraints Adaptable architectures 8
+architectural design constraints Analog computers 2
+architectural design constraints Capability architectures 13
+architectural design constraints Cellular architecture 6
+architectural design constraints Data-flow architecturesarchitectural design constraints Heterogeneousarchitectural design constraints High-level language architecturesarchitectural design constraints Neural netsarchitectural design constraints Pipeline processors 1
+architectural design constraints Stack-oriented processorsarchitectural design constraints Parallel Architectures 8
+architectural design constraints Distributed architectures 8
+architectural design constraints Mobile processors 2
+architectural design constraints Miscellaneousarchitectural design constraints Analogarchitectural design constraints Hybrid 1
+architectural design constraints COMPUTER-COMMUNICATION NETWORKS 2
+architectural design constraints General 3
+architectural design constraints Data communications 3
+architectural design constraints Open Systems Interconnection reference modelarchitectural design constraints Security and protectionarchitectural design constraints Network Architecture and Design 9
+architectural design constraints Asynchronous Transfer Modearchitectural design constraints Centralized networks 1
+architectural design constraints Circuit-switching networks 1
+architectural design constraints Distributed networks 3
+architectural design constraints Frame relay networksarchitectural design constraints ISDNarchitectural design constraints Network communications 3
+architectural design constraints Network topology 1
+architectural design constraints Packet-switching networks 2
+architectural design constraints Store and forward networksarchitectural design constraints Wireless communication 4
+architectural design constraints Network Protocols 1
+architectural design constraints Applications 2
+architectural design constraints Protocol architecture 10
+architectural design constraints Protocol verification 1
+architectural design constraints Routing protocols 1
+architectural design constraints Network Operations 1
+architectural design constraints Network management 2
+architectural design constraints Network monitoring 1
+architectural design constraints Public networks 1
+architectural design constraints Distributed Systems 5
+architectural design constraints Client/serverarchitectural design constraints Distributed applications 3
+architectural design constraints Distributed databasesarchitectural design constraints Network operating systems 1
+architectural design constraints Local and Wide-Area Networksarchitectural design constraints Access schemes 1
+architectural design constraints Busesarchitectural design constraints Ethernet 1
+architectural design constraints High-speed 2
+architectural design constraints Internetarchitectural design constraints Token rings 1
+architectural design constraints Internetworkingarchitectural design constraints Routers 1
+architectural design constraints Standardsarchitectural design constraints Miscellaneousarchitectural design constraints SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMSarchitectural design constraints Microprocessor/microcomputer applicationsarchitectural design constraints Process control systems 11
+architectural design constraints Real-time and embedded systemsarchitectural design constraints Signal processing systems 3
+architectural design constraints Smartcardsarchitectural design constraints PERFORMANCE OF SYSTEMS 8
+architectural design constraints Design studies 6
+architectural design constraints Fault tolerance 2
+architectural design constraints Measurement techniquesarchitectural design constraints Modeling techniques 5
+architectural design constraints Performance attributes 4
+architectural design constraints Reliability, availability, and serviceabilityarchitectural design constraints COMPUTER SYSTEM IMPLEMENTATION 3
+architectural design constraints General 3
+architectural design constraints Large and Medium 2
+architectural design constraints Superarchitectural design constraints Minicomputersarchitectural design constraints Microcomputersarchitectural design constraints Microprocessorsarchitectural design constraints Personal computers 2
+architectural design constraints Portable devices 3
+architectural design constraints Workstationsarchitectural design constraints VLSI Systems 4
+architectural design constraints Serversarchitectural design constraints Miscellaneousarchitectural design constraints MISCELLANEOUSarchitectural design constraints GENERAL 3
+architectural design constraints PROGRAMMING TECHNIQUES 2
+architectural design constraints General 3
+architectural design constraints Applicative 2
+architectural design constraints Automatic Programming 2
+architectural design constraints Concurrent Programming 1
+architectural design constraints Distributed programming 1
+architectural design constraints Parallel programming 2
+architectural design constraints Sequential Programming 1
+architectural design constraints Object-oriented Programming 1
+architectural design constraints Logic Programming 2
+architectural design constraints Visual Programming 2
+architectural design constraints Miscellaneousarchitectural design constraints SOFTWARE ENGINEERING 6
+architectural design constraints General 3
+architectural design constraints Protection mechanisms 1
+architectural design constraints Standardsarchitectural design constraints Requirements/Specifications 9
+architectural design constraints Elicitation methodsarchitectural design constraints Languages 1
+architectural design constraints Methodologiesarchitectural design constraints Tools 1
+architectural design constraints Design Tools and Techniques 2
+architectural design constraints Computer-aided software engineeringarchitectural design constraints Decision tables 12
+architectural design constraints Evolutionary prototypingarchitectural design constraints Flow chartsarchitectural design constraints Modules and interfacesarchitectural design constraints Object-oriented design methods 2
+architectural design constraints Petri netsarchitectural design constraints Programmer workbencharchitectural design constraints Software libraries 4
+architectural design constraints State diagrams 2
+architectural design constraints Structured programming 1
+architectural design constraints Top-down programmingarchitectural design constraints User interfacesarchitectural design constraints Coding Tools and Techniques 2
+architectural design constraints Object-oriented programming 1
+architectural design constraints Pretty printersarchitectural design constraints Program editors 1
+architectural design constraints Reentrant code 2
+architectural design constraints Standardsarchitectural design constraints Structured programming 1
+architectural design constraints Top-down programmingarchitectural design constraints Software/Program Verification 1
+architectural design constraints Assertion checkersarchitectural design constraints Class invariants 1
+architectural design constraints Correctness proofsarchitectural design constraints Formal methods 2
+architectural design constraints Model checking 3
+architectural design constraints Programming by contractarchitectural design constraints Reliabilityarchitectural design constraints Statistical methodsarchitectural design constraints Validationarchitectural design constraints Testing and Debuggingarchitectural design constraints Code inspections and walk-throughsarchitectural design constraints Debugging aidsarchitectural design constraints Diagnosticsarchitectural design constraints Distributed debuggingarchitectural design constraints Dumpsarchitectural design constraints Error handling and recoveryarchitectural design constraints Monitorsarchitectural design constraints Symbolic execution 1
+architectural design constraints Testing tools 2
+architectural design constraints Tracing 1
+architectural design constraints Programming Environments 2
+architectural design constraints Graphical environments 1
+architectural design constraints Integrated environments 5
+architectural design constraints Interactive environments 1
+architectural design constraints Programmer workbencharchitectural design constraints Distribution, Maintenance, and Enhancementarchitectural design constraints Correctionsarchitectural design constraints Documentationarchitectural design constraints Enhancementarchitectural design constraints Extensibility 2
+architectural design constraints Portability 1
+architectural design constraints Restructuring, reverse engineering, and reengineeringarchitectural design constraints Version control 1
+architectural design constraints Metricsarchitectural design constraints Complexity measuresarchitectural design constraints Performance measures 5
+architectural design constraints Process metrics 12
+architectural design constraints Product metrics 1
+architectural design constraints Software science 6
+architectural design constraints Managementarchitectural design constraints Copyrightsarchitectural design constraints Cost estimation 1
+architectural design constraints Life cyclearchitectural design constraints Productivity 1
+architectural design constraints Programming teams 1
+architectural design constraints Software configuration managementarchitectural design constraints Software process models 5
+architectural design constraints Software quality assurance 1
+architectural design constraints Time estimation 3
+architectural design constraints Design 6
+architectural design constraints Methodologiesarchitectural design constraints Representationarchitectural design constraints Software Architectures 21
+architectural design constraints Data abstraction 2
+architectural design constraints Domain-specific architectures 2
+architectural design constraints Information hiding 1
+architectural design constraints Languages 1
+architectural design constraints Patternsarchitectural design constraints Interoperabilityarchitectural design constraints Data mapping 2
+architectural design constraints Distributed objectsarchitectural design constraints Interface definition languagesarchitectural design constraints Reusable Software 3
+architectural design constraints Domain engineering 2
+architectural design constraints Reusable librariesarchitectural design constraints Reuse models 4
+architectural design constraints Miscellaneousarchitectural design constraints Rapidarchitectural design constraints Reusablearchitectural design constraints PROGRAMMING LANGUAGES 2
+architectural design constraints General 3
+architectural design constraints Standardsarchitectural design constraints Formal Definitions and Theory 1
+architectural design constraints Semanticsarchitectural design constraints Syntaxarchitectural design constraints Language Classifications 2
+architectural design constraints Applicative 2
+architectural design constraints Concurrent, distributed, and parallel languagesarchitectural design constraints Constraint and logic languages 1
+architectural design constraints Data-flow languagesarchitectural design constraints Design languages 8
+architectural design constraints Extensible languages 3
+architectural design constraints Microprogramming languages 1
+architectural design constraints Multiparadigm languages 1
+architectural design constraints Nondeterministic languages 1
+architectural design constraints Nonprocedural languages 1
+architectural design constraints Object-oriented languagesarchitectural design constraints Specialized application languagesarchitectural design constraints Very high-level languagesarchitectural design constraints Language Constructs and Features 1
+architectural design constraints Abstract data typesarchitectural design constraints Classes and objects 1
+architectural design constraints Concurrent programming structuresarchitectural design constraints Constraints 6
+architectural design constraints Control structuresarchitectural design constraints Coroutinesarchitectural design constraints Data types and structuresarchitectural design constraints Dynamic storage managementarchitectural design constraints Frameworksarchitectural design constraints Inheritancearchitectural design constraints Input/output 1
+architectural design constraints Modules, packagesarchitectural design constraints Patternsarchitectural design constraints Polymorphismarchitectural design constraints Procedures, functions, and subroutinesarchitectural design constraints Recursionarchitectural design constraints Processors 1
+architectural design constraints Code generation 3
+architectural design constraints Compilers 1
+architectural design constraints Debuggersarchitectural design constraints Incremental compilers 1
+architectural design constraints Interpretersarchitectural design constraints Memory management 1
+architectural design constraints Optimization 1
+architectural design constraints Parsingarchitectural design constraints Preprocessorsarchitectural design constraints Retargetable compilers 1
+architectural design constraints Run-time environments 1
+architectural design constraints Translator writing systems and compiler generatorsarchitectural design constraints Miscellaneousarchitectural design constraints OPERATING SYSTEMS 9
+architectural design constraints General 3
+architectural design constraints Process Management 22
+architectural design constraints Concurrencyarchitectural design constraints Deadlocksarchitectural design constraints Multiprocessing/multiprogramming/multitaskingarchitectural design constraints Mutual exclusionarchitectural design constraints Schedulingarchitectural design constraints Synchronizationarchitectural design constraints Threadsarchitectural design constraints Storage Management 1
+architectural design constraints Allocation/deallocation strategiesarchitectural design constraints Distributed memories 1
+architectural design constraints Garbage collectionarchitectural design constraints Main memory 2
+architectural design constraints Secondary storage 1
+architectural design constraints Segmentationarchitectural design constraints Storage hierarchies 1
+architectural design constraints Swappingarchitectural design constraints Virtual memory 1
+architectural design constraints File Systems Managementarchitectural design constraints Access methods 1
+architectural design constraints Directory structuresarchitectural design constraints Distributed file systemsarchitectural design constraints File organizationarchitectural design constraints Maintenancearchitectural design constraints Communications Management 2
+architectural design constraints Bufferingarchitectural design constraints Input/output 1
+architectural design constraints Message sendingarchitectural design constraints Network communication 3
+architectural design constraints Terminal managementarchitectural design constraints Reliabilityarchitectural design constraints Backup proceduresarchitectural design constraints Checkpoint/restartarchitectural design constraints Fault-tolerance 2
+architectural design constraints Verificationarchitectural design constraints Security and Protectionarchitectural design constraints Access controls 1
+architectural design constraints Authenticationarchitectural design constraints Cryptographic controlsarchitectural design constraints Information flow controlsarchitectural design constraints Invasive software 3
+architectural design constraints Security kernelsarchitectural design constraints Verificationarchitectural design constraints Organization and Design 9
+architectural design constraints Batch processing systems 1
+architectural design constraints Distributed systems 5
+architectural design constraints Hierarchical design 7
+architectural design constraints Interactive systems 7
+architectural design constraints Real-time systems and embedded systemsarchitectural design constraints Performance 4
+architectural design constraints Measurementsarchitectural design constraints Modeling and prediction 2
+architectural design constraints Monitorsarchitectural design constraints Operational analysis 3
+architectural design constraints Queueing theoryarchitectural design constraints Simulationarchitectural design constraints Stochastic analysis 1
+architectural design constraints Command and control languagesarchitectural design constraints Linkersarchitectural design constraints Loadersarchitectural design constraints Window managersarchitectural design constraints Miscellaneousarchitectural design constraints MISCELLANEOUSarchitectural design constraints Software 3
+architectural design constraints GENERAL 3
+architectural design constraints DATA STRUCTURES 1
+architectural design constraints Arraysarchitectural design constraints Distributed data structuresarchitectural design constraints Graphs and networks 1
+architectural design constraints Lists, stacks, and queuesarchitectural design constraints Recordsarchitectural design constraints Tablesarchitectural design constraints Treesarchitectural design constraints DATA STORAGE REPRESENTATIONSarchitectural design constraints Composite structuresarchitectural design constraints Contiguous representationsarchitectural design constraints Hash-table representationsarchitectural design constraints Linked representationsarchitectural design constraints Object representation 1
+architectural design constraints Primitive data itemsarchitectural design constraints DATA ENCRYPTIONarchitectural design constraints Code breaking 2
+architectural design constraints Data encryption standardarchitectural design constraints Public key cryptosystemsarchitectural design constraints Standardsarchitectural design constraints CODING AND INFORMATION THEORY 1
+architectural design constraints Data compaction and compressionarchitectural design constraints Error control codes 1
+architectural design constraints Formal models of communication 1
+architectural design constraints Nonsecret encoding schemesarchitectural design constraints FILESarchitectural design constraints Backup/recoveryarchitectural design constraints Optimization 1
+architectural design constraints Organization/structure 1
+architectural design constraints Sorting/searchingarchitectural design constraints MISCELLANEOUSarchitectural design constraints GENERAL 3
+architectural design constraints COMPUTATION BY ABSTRACT DEVICESarchitectural design constraints General 3
+architectural design constraints Models of Computation 8
+architectural design constraints Automataarchitectural design constraints Bounded-action devicesarchitectural design constraints Computability theory 3
+architectural design constraints Relations between models 2
+architectural design constraints Self-modifying machinesarchitectural design constraints Unbounded-action devicesarchitectural design constraints Modes of Computation 2
+architectural design constraints Alternation and nondeterminismarchitectural design constraints Interactive and reactive computationarchitectural design constraints Online computation 2
+architectural design constraints Parallelism and concurrency 1
+architectural design constraints Probabilistic computation 2
+architectural design constraints Relations among modesarchitectural design constraints Relativized computation 2
+architectural design constraints Complexity Measures and Classesarchitectural design constraints Complexity hierarchiesarchitectural design constraints Machine-independent complexityarchitectural design constraints Reducibility and completenessarchitectural design constraints Relations among complexity classesarchitectural design constraints Relations among complexity measuresarchitectural design constraints Miscellaneousarchitectural design constraints ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITYarchitectural design constraints General 3
+architectural design constraints Numerical Algorithms and Problemsarchitectural design constraints Computation of transforms 2
+architectural design constraints Computations in finite fieldsarchitectural design constraints Computations on matrices 1
+architectural design constraints Computations on polynomials 1
+architectural design constraints Number-theoretic computations 1
+architectural design constraints Nonnumerical Algorithms and Problemsarchitectural design constraints Computations on discrete structuresarchitectural design constraints Geometrical problems and computationsarchitectural design constraints Pattern matching 1
+architectural design constraints Routing and layoutarchitectural design constraints Sequencing and schedulingarchitectural design constraints Sorting and searchingarchitectural design constraints Tradeoffs between Complexity Measuresarchitectural design constraints Miscellaneousarchitectural design constraints LOGICS AND MEANINGS OF PROGRAMSarchitectural design constraints General 3
+architectural design constraints Assertionsarchitectural design constraints Invariantsarchitectural design constraints Logics of programs 2
+architectural design constraints Mechanical verification 1
+architectural design constraints Pre- and post-conditionsarchitectural design constraints Specification techniques 11
+architectural design constraints Semantics of Programming Languages 1
+architectural design constraints Algebraic approaches to semanticsarchitectural design constraints Denotational semanticsarchitectural design constraints Operational semanticsarchitectural design constraints Partial evaluation 4
+architectural design constraints Process models 82
+architectural design constraints Program analysis 3
+architectural design constraints Studies of Program Constructsarchitectural design constraints Control primitivesarchitectural design constraints Functional constructsarchitectural design constraints Object-oriented constructs 1
+architectural design constraints Program and recursion schemesarchitectural design constraints Type structure 1
+architectural design constraints Miscellaneousarchitectural design constraints MATHEMATICAL LOGIC AND FORMAL LANGUAGESarchitectural design constraints General 3
+architectural design constraints Mathematical Logicarchitectural design constraints Computability theory 3
+architectural design constraints Computational logic 3
+architectural design constraints Lambda calculus and related systemsarchitectural design constraints Logic and constraint programming 2
+architectural design constraints Mechanical theorem provingarchitectural design constraints Modal logicarchitectural design constraints Model theory 2
+architectural design constraints Proof theoryarchitectural design constraints Recursive function theoryarchitectural design constraints Set theoryarchitectural design constraints Temporal logicarchitectural design constraints Grammars and Other Rewriting Systemsarchitectural design constraints Decision problems 43
+architectural design constraints Grammar types 1
+architectural design constraints Parallel rewriting systems 1
+architectural design constraints Parsingarchitectural design constraints Thue systems 4
+architectural design constraints Formal Languages 3
+architectural design constraints Algebraic language theoryarchitectural design constraints Classes defined by grammars or automataarchitectural design constraints Decision problems 43
+architectural design constraints Operations on languages 3
+architectural design constraints Miscellaneousarchitectural design constraints MISCELLANEOUSarchitectural design constraints GENERAL 3
+architectural design constraints NUMERICAL ANALYSIS 1
+architectural design constraints General 3
+architectural design constraints Computer arithmetic 2
+architectural design constraints Conditioningarchitectural design constraints Error analysis 2
+architectural design constraints Interval arithmeticarchitectural design constraints Multiple precision arithmeticarchitectural design constraints Numerical algorithmsarchitectural design constraints Parallel algorithms 3
+architectural design constraints Stabilityarchitectural design constraints Interpolationarchitectural design constraints Difference formulas 2
+architectural design constraints Extrapolationarchitectural design constraints Interpolation formulasarchitectural design constraints Smoothingarchitectural design constraints Approximationarchitectural design constraints Chebyshev approximation and theoryarchitectural design constraints Elementary function approximationarchitectural design constraints Fast Fourier transformsarchitectural design constraints Least squares approximationarchitectural design constraints Linear approximationarchitectural design constraints Minimax approximation and algorithmsarchitectural design constraints Nonlinear approximation 1
+architectural design constraints Rational approximationarchitectural design constraints Special function approximations 1
+architectural design constraints Spline and piecewise polynomial approximationarchitectural design constraints Wavelets and fractalsarchitectural design constraints Numerical Linear Algebraarchitectural design constraints Conditioningarchitectural design constraints Determinantsarchitectural design constraints Eigenvalues and eigenvectorsarchitectural design constraints Error analysis 2
+architectural design constraints Linear systems 4
+architectural design constraints Matrix inversionarchitectural design constraints Pseudoinversesarchitectural design constraints Singular value decompositionarchitectural design constraints Sparse, structured, and very large systemsarchitectural design constraints Quadrature and Numerical Differentiationarchitectural design constraints Automatic differentiation 1
+architectural design constraints Error analysis 2
+architectural design constraints Finite difference methodsarchitectural design constraints Gaussian quadraturearchitectural design constraints Iterative methodsarchitectural design constraints Multidimensionalarchitectural design constraints Roots of Nonlinear Equationsarchitectural design constraints Continuation 1
+architectural design constraints Convergencearchitectural design constraints Error analysis 2
+architectural design constraints Iterative methodsarchitectural design constraints Polynomials, methods forarchitectural design constraints Systems of equations 5
+architectural design constraints Optimization 1
+architectural design constraints Constrained optimization 1
+architectural design constraints Convex programming 1
+architectural design constraints Global optimization 1
+architectural design constraints Gradient methodsarchitectural design constraints Integer programming 1
+architectural design constraints Least squares methodsarchitectural design constraints Linear programming 1
+architectural design constraints Nonlinear programming 2
+architectural design constraints Quadratic programming methodsarchitectural design constraints Simulated annealingarchitectural design constraints Stochastic programming 1
+architectural design constraints Unconstrained optimization 1
+architectural design constraints Ordinary Differential Equationsarchitectural design constraints Boundary value problems 4
+architectural design constraints Chaotic systems 4
+architectural design constraints Convergence and stabilityarchitectural design constraints Differential-algebraic equationsarchitectural design constraints Error analysis 2
+architectural design constraints Finite difference methodsarchitectural design constraints Initial value problemsarchitectural design constraints Multistep and multivalue methodsarchitectural design constraints One-step 17
+architectural design constraints Stiff equationsarchitectural design constraints Partial Differential Equationsarchitectural design constraints Domain decomposition methodsarchitectural design constraints Elliptic equationsarchitectural design constraints Finite difference methodsarchitectural design constraints Finite element methodsarchitectural design constraints Finite volume methodsarchitectural design constraints Hyperbolic equationsarchitectural design constraints Inverse problems 3
+architectural design constraints Iterative solution techniquesarchitectural design constraints Method of lines 4
+architectural design constraints Multigrid and multilevel methodsarchitectural design constraints Parabolic equationsarchitectural design constraints Spectral methodsarchitectural design constraints Integral Equationsarchitectural design constraints Delay equations 1
+architectural design constraints Fredholm equationsarchitectural design constraints Integro-differential equationsarchitectural design constraints Volterra equationsarchitectural design constraints Applications 2
+architectural design constraints Miscellaneousarchitectural design constraints DISCRETE MATHEMATICS 1
+architectural design constraints General 3
+architectural design constraints Combinatoricsarchitectural design constraints Combinatorial algorithmsarchitectural design constraints Counting problems 3
+architectural design constraints Generating functions 3
+architectural design constraints Permutations and combinationsarchitectural design constraints Recurrences and difference equationsarchitectural design constraints Graph Theoryarchitectural design constraints Graph algorithmsarchitectural design constraints Graph labeling 1
+architectural design constraints Hypergraphsarchitectural design constraints Network problems 3
+architectural design constraints Path and circuit problems 1
+architectural design constraints Treesarchitectural design constraints Applications 2
+architectural design constraints Miscellaneousarchitectural design constraints PROBABILITY AND STATISTICSarchitectural design constraints Contingency table analysisarchitectural design constraints Correlation and regression analysisarchitectural design constraints Distribution functions 1
+architectural design constraints Experimental design 11
+architectural design constraints Markov processes 3
+architectural design constraints Multivariate statisticsarchitectural design constraints Nonparametric statisticsarchitectural design constraints Probabilistic algorithmsarchitectural design constraints Queueing theoryarchitectural design constraints Random number generation 1
+architectural design constraints Reliability and life testingarchitectural design constraints Renewal theoryarchitectural design constraints Robust regressionarchitectural design constraints Statistical computing 2
+architectural design constraints Statistical software 3
+architectural design constraints Stochastic processes 3
+architectural design constraints Survival analysis 1
+architectural design constraints Time series analysisarchitectural design constraints MATHEMATICAL SOFTWARE 3
+architectural design constraints Algorithm design and analysis 2
+architectural design constraints Certification and testingarchitectural design constraints Documentationarchitectural design constraints Efficiency 2
+architectural design constraints Parallel and vector implementationsarchitectural design constraints Portability 1
+architectural design constraints Reliability and robustnessarchitectural design constraints User interfacesarchitectural design constraints Verificationarchitectural design constraints MISCELLANEOUSarchitectural design constraints Queueingarchitectural design constraints GENERAL 3
+architectural design constraints MODELS AND PRINCIPLES 2
+architectural design constraints General 3
+architectural design constraints Systems and Information Theoryarchitectural design constraints General systems theory 2
+architectural design constraints Information theory 3
+architectural design constraints Value of information 1
+architectural design constraints User/Machine Systems 1
+architectural design constraints Human factors 1
+architectural design constraints Human information processing 1
+architectural design constraints Software psychology 3
+architectural design constraints Miscellaneousarchitectural design constraints DATABASE MANAGEMENT 1
+architectural design constraints General 3
+architectural design constraints Security, integrity, and protectionarchitectural design constraints Logical Design 11
+architectural design constraints Data models 5
+architectural design constraints Normal formsarchitectural design constraints Schema and subschemaarchitectural design constraints Physical Design 9
+architectural design constraints Access methods 1
+architectural design constraints Deadlock avoidancearchitectural design constraints Recovery and restartarchitectural design constraints Languages 1
+architectural design constraints Data description languagesarchitectural design constraints Data manipulation languagesarchitectural design constraints Databasearchitectural design constraints Query languages 1
+architectural design constraints Report writers 1
+architectural design constraints Systems 4
+architectural design constraints Concurrencyarchitectural design constraints Distributed databasesarchitectural design constraints Multimedia databasesarchitectural design constraints Object-oriented databasesarchitectural design constraints Parallel databases 1
+architectural design constraints Query processing 4
+architectural design constraints Relational databasesarchitectural design constraints Rule-based databasesarchitectural design constraints Textual databasesarchitectural design constraints Transaction processing 3
+architectural design constraints Heterogeneous Databasesarchitectural design constraints Data translationarchitectural design constraints Program translation 1
+architectural design constraints Database Machines 1
+architectural design constraints Database Administrationarchitectural design constraints Data dictionary/directoryarchitectural design constraints Data warehouse and repositoryarchitectural design constraints Logging and recoveryarchitectural design constraints Security, integrity, and protectionarchitectural design constraints Database Applications 2
+architectural design constraints Data miningarchitectural design constraints Image databasesarchitectural design constraints Scientific databasesarchitectural design constraints Spatial databases and GISarchitectural design constraints Statistical databasesarchitectural design constraints Miscellaneousarchitectural design constraints INFORMATION STORAGE AND RETRIEVALarchitectural design constraints General 3
+architectural design constraints Content Analysis and Indexingarchitectural design constraints Abstracting methods 1
+architectural design constraints Dictionariesarchitectural design constraints Indexing methodsarchitectural design constraints Linguistic processing 3
+architectural design constraints Thesaurusesarchitectural design constraints Information Storage 2
+architectural design constraints File organizationarchitectural design constraints Record classificationarchitectural design constraints Information Search and Retrievalarchitectural design constraints Clusteringarchitectural design constraints Information filtering 2
+architectural design constraints Query formulationarchitectural design constraints Relevance feedbackarchitectural design constraints Retrieval models 1
+architectural design constraints Search process 3
+architectural design constraints Selection process 6
+architectural design constraints Systems and Software 13
+architectural design constraints Current awareness systemsarchitectural design constraints Distributed systems 5
+architectural design constraints Information networks 4
+architectural design constraints Performance evaluation 6
+architectural design constraints Question-answeringarchitectural design constraints Online Information Servicesarchitectural design constraints Commercial servicesarchitectural design constraints Data sharing 2
+architectural design constraints Web-based servicesarchitectural design constraints Library Automation 1
+architectural design constraints Large text archivesarchitectural design constraints Digital Librariesarchitectural design constraints Collectionarchitectural design constraints Disseminationarchitectural design constraints Standardsarchitectural design constraints Systems issues 10
+architectural design constraints User issues 1
+architectural design constraints Miscellaneousarchitectural design constraints INFORMATION SYSTEMS APPLICATIONS 5
+architectural design constraints General 3
+architectural design constraints Office Automation 2
+architectural design constraints Desktop publishingarchitectural design constraints Equipmentarchitectural design constraints Groupwarearchitectural design constraints Spreadsheetsarchitectural design constraints Time management 2
+architectural design constraints Word processing 4
+architectural design constraints Workflow managementarchitectural design constraints Types of Systems 4
+architectural design constraints Decision support 73
+architectural design constraints Logisticsarchitectural design constraints Communications Applications 3
+architectural design constraints Bulletin boardsarchitectural design constraints Computer conferencing, teleconferencing, and videoconferencingarchitectural design constraints Electronic mail 1
+architectural design constraints Information browsers 1
+architectural design constraints Videotexarchitectural design constraints Miscellaneousarchitectural design constraints INFORMATION INTERFACES AND PRESENTATIONarchitectural design constraints General 3
+architectural design constraints Multimedia Information Systemsarchitectural design constraints Animationsarchitectural design constraints Artificial, augmented, and virtual realitiesarchitectural design constraints Audio input/outputarchitectural design constraints Evaluation/methodology 7
+architectural design constraints Videoarchitectural design constraints User Interfacesarchitectural design constraints Auditoryarchitectural design constraints Benchmarkingarchitectural design constraints Ergonomicsarchitectural design constraints Evaluation/methodology 7
+architectural design constraints Graphical user interfacesarchitectural design constraints Haptic I/Oarchitectural design constraints Input devices and strategiesarchitectural design constraints Interaction stylesarchitectural design constraints Natural language 1
+architectural design constraints Prototypingarchitectural design constraints Screen design 6
+architectural design constraints Standardizationarchitectural design constraints Style guidesarchitectural design constraints Theory and methods 1
+architectural design constraints Training, help, and documentationarchitectural design constraints User-centered designarchitectural design constraints User interface management systemsarchitectural design constraints Voice I/Oarchitectural design constraints Windowing systems 4
+architectural design constraints Group and Organization Interfacesarchitectural design constraints Asynchronous interactionarchitectural design constraints Collaborative computing 2
+architectural design constraints Computer-supported cooperative workarchitectural design constraints Evaluation/methodology 7
+architectural design constraints Organizational design 6
+architectural design constraints Synchronous interactionarchitectural design constraints Theory and models 2
+architectural design constraints Web-based interactionarchitectural design constraints Hypertext/Hypermediaarchitectural design constraints Architectures 6
+architectural design constraints Navigationarchitectural design constraints Theoryarchitectural design constraints User issues 1
+architectural design constraints Sound and Music Computingarchitectural design constraints Methodologies and techniques 17
+architectural design constraints Modeling 1
+architectural design constraints Systems 4
+architectural design constraints Miscellaneousarchitectural design constraints MISCELLANEOUSarchitectural design constraints GENERAL 3
+architectural design constraints SYMBOLIC AND ALGEBRAIC MANIPULATIONarchitectural design constraints General 3
+architectural design constraints Expressions and Their Representationarchitectural design constraints Representationsarchitectural design constraints Simplification of expressionsarchitectural design constraints Algorithmsarchitectural design constraints Algebraic algorithmsarchitectural design constraints Analysis of algorithms 1
+architectural design constraints Nonalgebraic algorithmsarchitectural design constraints Languages and Systems 19
+architectural design constraints Evaluation strategies 5
+architectural design constraints Nonprocedural languages 1
+architectural design constraints Special-purpose algebraic systemsarchitectural design constraints Special-purpose hardwarearchitectural design constraints Substitution mechanisms 1
+architectural design constraints Applications 2
+architectural design constraints Miscellaneousarchitectural design constraints ARTIFICIAL INTELLIGENCEarchitectural design constraints General 3
+architectural design constraints Cognitive simulationarchitectural design constraints Philosophical foundationsarchitectural design constraints Applications and Expert Systems 3
+architectural design constraints Cartographyarchitectural design constraints Gamesarchitectural design constraints Industrial automation 1
+architectural design constraints Lawarchitectural design constraints Medicine and sciencearchitectural design constraints Natural language interfacesarchitectural design constraints Office automation 2
+architectural design constraints Automatic Programming 2
+architectural design constraints Automatic analysis of algorithmsarchitectural design constraints Program modification 1
+architectural design constraints Program synthesis 1
+architectural design constraints Program transformation 1
+architectural design constraints Program verification 1
+architectural design constraints Deduction and Theorem Provingarchitectural design constraints Answer/reason extractionarchitectural design constraints Deductionarchitectural design constraints Inference enginesarchitectural design constraints Logic programming 2
+architectural design constraints Mathematical inductionarchitectural design constraints Metatheoryarchitectural design constraints Nonmonotonic reasoning and belief revisionarchitectural design constraints Resolutionarchitectural design constraints Knowledge Representation Formalisms and Methodsarchitectural design constraints Frames and scriptsarchitectural design constraints Modal logicarchitectural design constraints Predicate logicarchitectural design constraints Relation systems 10
+architectural design constraints Representation languages 1
+architectural design constraints Representationsarchitectural design constraints Semantic networks 1
+architectural design constraints Temporal logicarchitectural design constraints Programming Languages and Software 2
+architectural design constraints Expert system tools and techniquesarchitectural design constraints Learningarchitectural design constraints Analogiesarchitectural design constraints Concept learning 3
+architectural design constraints Connectionism and neural netsarchitectural design constraints Inductionarchitectural design constraints Knowledge acquisition 3
+architectural design constraints Language acquisition 1
+architectural design constraints Parameter learningarchitectural design constraints Natural Language Processingarchitectural design constraints Discoursearchitectural design constraints Language generation 9
+architectural design constraints Language models 13
+architectural design constraints Language parsing and understandingarchitectural design constraints Machine translation 1
+architectural design constraints Speech recognition and synthesisarchitectural design constraints Text analysis 1
+architectural design constraints Problem Solving, Control Methods, and Searcharchitectural design constraints Backtrackingarchitectural design constraints Control theoryarchitectural design constraints Dynamic programming 1
+architectural design constraints Graph and tree search strategiesarchitectural design constraints Heuristic methods 1
+architectural design constraints Plan execution, formation, and generationarchitectural design constraints Schedulingarchitectural design constraints Roboticsarchitectural design constraints Autonomous vehiclesarchitectural design constraints Kinematics and dynamicsarchitectural design constraints Manipulatorsarchitectural design constraints Operator interfaces 4
+architectural design constraints Propelling mechanisms 1
+architectural design constraints Sensorsarchitectural design constraints Vision and Scene Understandingarchitectural design constraints Architecture and control structuresarchitectural design constraints Motionarchitectural design constraints Perceptual reasoningarchitectural design constraints Shapearchitectural design constraints Texturearchitectural design constraints Video analysis 1
+architectural design constraints Distributed Artificial Intelligencearchitectural design constraints Coherence and coordinationarchitectural design constraints Intelligent agentsarchitectural design constraints Languages and structures 11
+architectural design constraints Multiagent systems 4
+architectural design constraints Miscellaneousarchitectural design constraints COMPUTER GRAPHICS 3
+architectural design constraints General 3
+architectural design constraints Hardware Architecture 7
+architectural design constraints Graphics processors 1
+architectural design constraints Hardcopy devices 2
+architectural design constraints Input devices 2
+architectural design constraints Parallel processing 6
+architectural design constraints Raster display devicesarchitectural design constraints Storage devices 2
+architectural design constraints Three-dimensional displaysarchitectural design constraints Vector display devicesarchitectural design constraints Graphics Systems 6
+architectural design constraints Distributed/network graphicsarchitectural design constraints Remote systems 4
+architectural design constraints Stand-alone systemsarchitectural design constraints Picture/Image Generationarchitectural design constraints Antialiasingarchitectural design constraints Bitmap and framebuffer operationsarchitectural design constraints Digitizing and scanningarchitectural design constraints Display algorithmsarchitectural design constraints Line and curve generationarchitectural design constraints Viewing algorithmsarchitectural design constraints Graphics Utilitiesarchitectural design constraints Application packages 2
+architectural design constraints Device drivers 2
+architectural design constraints Graphics editorsarchitectural design constraints Graphics packagesarchitectural design constraints Meta filesarchitectural design constraints Paint systems 4
+architectural design constraints Picture description languagesarchitectural design constraints Software support 8
+architectural design constraints Virtual device interfacesarchitectural design constraints Computational Geometry and Object Modelingarchitectural design constraints Boundary representationsarchitectural design constraints Constructive solid geometryarchitectural design constraints Curve, surface, solid, and object representationsarchitectural design constraints Geometric algorithms, languages, and systemsarchitectural design constraints Hierarchy and geometric transformationsarchitectural design constraints Modeling packages 3
+architectural design constraints Object hierarchiesarchitectural design constraints Physically based modeling 1
+architectural design constraints Splinesarchitectural design constraints Methodology and Techniques 17
+architectural design constraints Device independence 2
+architectural design constraints Ergonomicsarchitectural design constraints Graphics data structures and data typesarchitectural design constraints Interaction techniques 1
+architectural design constraints Languages 1
+architectural design constraints Standardsarchitectural design constraints Three-Dimensional Graphics and Realismarchitectural design constraints Animationarchitectural design constraints Color, shading, shadowing, and texturearchitectural design constraints Fractalsarchitectural design constraints Hidden line/surface removalarchitectural design constraints Radiosityarchitectural design constraints Raytracingarchitectural design constraints Virtual reality 2
+architectural design constraints Visible line/surface algorithmsarchitectural design constraints Applications 2
+architectural design constraints Miscellaneousarchitectural design constraints IMAGE PROCESSING AND COMPUTER VISIONarchitectural design constraints General 3
+architectural design constraints Image displaysarchitectural design constraints Image processing software 1
+architectural design constraints Digitization and Image Capturearchitectural design constraints Camera calibrationarchitectural design constraints Imaging geometryarchitectural design constraints Quantizationarchitectural design constraints Radiometryarchitectural design constraints Reflectancearchitectural design constraints Samplingarchitectural design constraints Scanningarchitectural design constraints Compressionarchitectural design constraints Approximate methodsarchitectural design constraints Exact coding 2
+architectural design constraints Enhancementarchitectural design constraints Filtering 1
+architectural design constraints Geometric correctionarchitectural design constraints Grayscale manipulationarchitectural design constraints Registrationarchitectural design constraints Sharpening and deblurringarchitectural design constraints Smoothingarchitectural design constraints Restorationarchitectural design constraints Inverse filtering 1
+architectural design constraints Kalman filtering 1
+architectural design constraints Pseudoinverse restorationarchitectural design constraints Wiener filtering 1
+architectural design constraints Reconstructionarchitectural design constraints Series expansion methodsarchitectural design constraints Summation methodsarchitectural design constraints Transform methodsarchitectural design constraints Segmentationarchitectural design constraints Edge and feature detectionarchitectural design constraints Pixel classificationarchitectural design constraints Region growing, partitioningarchitectural design constraints Relaxationarchitectural design constraints Feature Measurement 1
+architectural design constraints Feature representationarchitectural design constraints Invariantsarchitectural design constraints Momentsarchitectural design constraints Projectionsarchitectural design constraints Size and shapearchitectural design constraints Texturearchitectural design constraints Scene Analysis 1
+architectural design constraints Colorarchitectural design constraints Depth cuesarchitectural design constraints Motionarchitectural design constraints Object recognitionarchitectural design constraints Photometryarchitectural design constraints Range data 1
+architectural design constraints Sensor fusionarchitectural design constraints Shadingarchitectural design constraints Shapearchitectural design constraints Stereoarchitectural design constraints Surface fittingarchitectural design constraints Time-varying imageryarchitectural design constraints Trackingarchitectural design constraints Applications 2
+architectural design constraints Image Representationarchitectural design constraints Hierarchicalarchitectural design constraints Morphologicalarchitectural design constraints Multidimensionalarchitectural design constraints Statisticalarchitectural design constraints Volumetricarchitectural design constraints Miscellaneousarchitectural design constraints PATTERN RECOGNITION 3
+architectural design constraints General 3
+architectural design constraints Models 1
+architectural design constraints Deterministicarchitectural design constraints Fuzzy setarchitectural design constraints Geometricarchitectural design constraints Neural netsarchitectural design constraints Statisticalarchitectural design constraints Structuralarchitectural design constraints Design Methodology 7
+architectural design constraints Classifier design and evaluation 3
+architectural design constraints Feature evaluation and selectionarchitectural design constraints Pattern analysis 10
+architectural design constraints Clusteringarchitectural design constraints Algorithmsarchitectural design constraints Similarity measures 1
+architectural design constraints Applications 2
+architectural design constraints Computer vision 2
+architectural design constraints Signal processing 4
+architectural design constraints Text processing 3
+architectural design constraints Waveform analysis 1
+architectural design constraints Implementation 1
+architectural design constraints Interactive systems 7
+architectural design constraints Special architectures 9
+architectural design constraints Miscellaneousarchitectural design constraints SIMULATION AND MODELING 7
+architectural design constraints General 3
+architectural design constraints Simulation Theoryarchitectural design constraints Model classification 2
+architectural design constraints Systems theory 6
+architectural design constraints Types of simulation 1
+architectural design constraints Simulation Languages 1
+architectural design constraints Applications 2
+architectural design constraints Model Validation and Analysis 4
+architectural design constraints Model Development 16
+architectural design constraints Modeling methodologies 4
+architectural design constraints Simulation Output Analysisarchitectural design constraints Simulation Support Systems 2
+architectural design constraints Environments 1
+architectural design constraints Types of Simulation 1
+architectural design constraints Animationarchitectural design constraints Combinedarchitectural design constraints Continuous 1
+architectural design constraints Discrete event 1
+architectural design constraints Distributedarchitectural design constraints Gamingarchitectural design constraints Monte Carloarchitectural design constraints Parallel 1
+architectural design constraints Visualarchitectural design constraints Miscellaneousarchitectural design constraints DOCUMENT AND TEXT PROCESSING 1
+architectural design constraints General 3
+architectural design constraints Document and Text Editingarchitectural design constraints Document management 2
+architectural design constraints Languages 1
+architectural design constraints Spellingarchitectural design constraints Version control 1
+architectural design constraints Document Preparationarchitectural design constraints Desktop publishingarchitectural design constraints Format and notationarchitectural design constraints Hypertext/hypermediaarchitectural design constraints Index generation 3
+architectural design constraints Languages and systems 19
+architectural design constraints Markup languages 1
+architectural design constraints Multi/mixed mediaarchitectural design constraints Scripting languages 1
+architectural design constraints Standardsarchitectural design constraints Index Generation 3
+architectural design constraints Electronic Publishing 1
+architectural design constraints Document Capturearchitectural design constraints Document analysis 2
+architectural design constraints Optical character recognitionarchitectural design constraints Scanningarchitectural design constraints Miscellaneousarchitectural design constraints MISCELLANEOUSarchitectural design constraints GENERAL 3
+architectural design constraints ADMINISTRATIVE DATA PROCESSINGarchitectural design constraints Businessarchitectural design constraints Educationarchitectural design constraints Financialarchitectural design constraints Governmentarchitectural design constraints Lawarchitectural design constraints Manufacturingarchitectural design constraints Marketingarchitectural design constraints Militaryarchitectural design constraints PHYSICAL SCIENCES AND ENGINEERINGarchitectural design constraints Aerospacearchitectural design constraints Archaeologyarchitectural design constraints Astronomyarchitectural design constraints Chemistryarchitectural design constraints Earth and atmospheric sciencesarchitectural design constraints Electronics 1
+architectural design constraints Engineeringarchitectural design constraints Mathematics and statisticsarchitectural design constraints Physicsarchitectural design constraints LIFE AND MEDICAL SCIENCESarchitectural design constraints Biology and geneticsarchitectural design constraints Healtharchitectural design constraints Medical information systemsarchitectural design constraints SOCIAL AND BEHAVIORAL SCIENCESarchitectural design constraints Economicsarchitectural design constraints Psychologyarchitectural design constraints Sociologyarchitectural design constraints ARTS AND HUMANITIES 1
+architectural design constraints Architecture 6
+architectural design constraints Fine arts 1
+architectural design constraints Language translation 4
+architectural design constraints Linguisticsarchitectural design constraints Literaturearchitectural design constraints Musicarchitectural design constraints Performing arts 4
+architectural design constraints COMPUTER-AIDED ENGINEERINGarchitectural design constraints Computer-aided design 3
+architectural design constraints Computer-aided manufacturingarchitectural design constraints COMPUTERS IN OTHER SYSTEMS 3
+architectural design constraints Command and controlarchitectural design constraints Consumer products 1
+architectural design constraints Industrial controlarchitectural design constraints Militaryarchitectural design constraints Process control 17
+architectural design constraints Publishingarchitectural design constraints Real time 3
+architectural design constraints MISCELLANEOUSarchitectural design constraints GENERAL 3
+architectural design constraints THE COMPUTER INDUSTRY 12
+architectural design constraints Marketsarchitectural design constraints Standardsarchitectural design constraints Statisticsarchitectural design constraints Suppliersarchitectural design constraints HISTORY OF COMPUTING 2
+architectural design constraints Hardwarearchitectural design constraints Peoplearchitectural design constraints Software 3
+architectural design constraints Systems 4
+architectural design constraints Theoryarchitectural design constraints COMPUTERS AND EDUCATION 3
+architectural design constraints General 3
+architectural design constraints Computer Uses in Education 2
+architectural design constraints Collaborative learning 1
+architectural design constraints Computer-assisted instructionarchitectural design constraints Computer-managed instructionarchitectural design constraints Distance learningarchitectural design constraints Computer and Information Science Educationarchitectural design constraints Accreditationarchitectural design constraints Computer science educationarchitectural design constraints Curriculumarchitectural design constraints Information systems educationarchitectural design constraints Literacyarchitectural design constraints Self-assessment 1
+architectural design constraints Miscellaneousarchitectural design constraints Accreditationarchitectural design constraints Computer 2
+architectural design constraints COMPUTERS AND SOCIETY 2
+architectural design constraints General 3
+architectural design constraints Public Policy Issuesarchitectural design constraints Computer-related health issuesarchitectural design constraints Ethicsarchitectural design constraints Human safetyarchitectural design constraints Intellectual property rightsarchitectural design constraints Privacyarchitectural design constraints Regulationarchitectural design constraints Transborder data flowarchitectural design constraints Social Issuesarchitectural design constraints Assistive technologies for persons with disabilitiesarchitectural design constraints Employmentarchitectural design constraints Handicapped persons/special needsarchitectural design constraints Organizational Impacts 1
+architectural design constraints Automation 1
+architectural design constraints Computer-supported collaborative workarchitectural design constraints Employmentarchitectural design constraints Reengineeringarchitectural design constraints Electronic Commerce 1
+architectural design constraints Electronic data interchangearchitectural design constraints Intellectual propertyarchitectural design constraints Payment schemesarchitectural design constraints Securityarchitectural design constraints Miscellaneousarchitectural design constraints LEGAL ASPECTS OF COMPUTINGarchitectural design constraints General 3
+architectural design constraints Hardware/Software Protectionarchitectural design constraints Copyrightsarchitectural design constraints Licensingarchitectural design constraints Patentsarchitectural design constraints Proprietary rightsarchitectural design constraints Trade secretsarchitectural design constraints Governmental Issuesarchitectural design constraints Censorshiparchitectural design constraints Regulationarchitectural design constraints Taxationarchitectural design constraints Miscellaneousarchitectural design constraints Contractsarchitectural design constraints Hardwarearchitectural design constraints MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS 2
+architectural design constraints General 3
+architectural design constraints Economicsarchitectural design constraints Project and People Managementarchitectural design constraints Life cyclearchitectural design constraints Management techniques 3
+architectural design constraints Staffingarchitectural design constraints Strategic information systems planningarchitectural design constraints Systems analysis and design 20
+architectural design constraints Systems development 17
+architectural design constraints Trainingarchitectural design constraints Installation Managementarchitectural design constraints Benchmarksarchitectural design constraints Computer selection 3
+architectural design constraints Pricing and resource allocationarchitectural design constraints Software Management 6
+architectural design constraints Software development 12
+architectural design constraints Software maintenance 3
+architectural design constraints Software process 11
+architectural design constraints Software selection 4
+architectural design constraints System Management 11
+architectural design constraints Centralization/decentralizationarchitectural design constraints Management auditarchitectural design constraints Quality assurance 1
+architectural design constraints Security and Protectionarchitectural design constraints Authenticationarchitectural design constraints Insurancearchitectural design constraints Invasive software 3
+architectural design constraints Physical securityarchitectural design constraints Unauthorized access 1
+architectural design constraints Miscellaneousarchitectural design constraints Insurancearchitectural design constraints Securityarchitectural design constraints THE COMPUTING PROFESSION 2
+architectural design constraints General 3
+architectural design constraints Occupationsarchitectural design constraints Organizationsarchitectural design constraints Testing, Certification, and Licensingarchitectural design constraints Professional Ethicsarchitectural design constraints Codes of ethics 2
+architectural design constraints Codes of good practicearchitectural design constraints Ethical dilemmasarchitectural design constraints Miscellaneousarchitectural design constraints Codes 2
+architectural design constraints Ethicsarchitectural design constraints PERSONAL COMPUTING 2
+architectural design constraints Gamesarchitectural design constraints General 3
+architectural design constraints Gamesarchitectural design constraints Application Packages 2
+architectural design constraints Data communications 3
+architectural design constraints Database processing 3
+architectural design constraints Freeware/sharewarearchitectural design constraints Graphicsarchitectural design constraints Spreadsheetsarchitectural design constraints Word processing 4
+architectural design constraints Hardwarearchitectural design constraints Management/Maintenance 1
+architectural design constraints Miscellaneousarchitectural design constraints MISCELLANEOUSsemi automatic abstraction GENERAL 1
+semi automatic abstraction Biographies autobiographiessemi automatic abstraction Conference proceedingssemi automatic abstraction INTRODUCTORY AND SURVEYsemi automatic abstraction REFERENCEsemi automatic abstraction MISCELLANEOUSsemi automatic abstraction GENERAL 1
+semi automatic abstraction CONTROL STRUCTURES AND MICROPROGRAMMINGsemi automatic abstraction General 1
+semi automatic abstraction Control Design Stylessemi automatic abstraction Hardwired controlsemi automatic abstraction Writable control storesemi automatic abstraction Automatic synthesis 3
+semi automatic abstraction Formal models 4
+semi automatic abstraction Simulationsemi automatic abstraction Control Structure Reliability, Testing, and Fault-Tolerancesemi automatic abstraction Diagnosticssemi automatic abstraction Error-checking 2
+semi automatic abstraction Redundant design 2
+semi automatic abstraction Test generation 18
+semi automatic abstraction Firmware engineering 1
+semi automatic abstraction Languages and compilers 2
+semi automatic abstraction Optimizationsemi automatic abstraction Verification 1
+semi automatic abstraction Direct data manipulationsemi automatic abstraction Instruction set interpretationsemi automatic abstraction Peripheral controlsemi automatic abstraction Special-purposesemi automatic abstraction Miscellaneoussemi automatic abstraction General 1
+semi automatic abstraction Design Styles 2
+semi automatic abstraction Calculatorsemi automatic abstraction Parallelsemi automatic abstraction Pipelinesemi automatic abstraction Performance Analysis and Design Aidssemi automatic abstraction Simulationsemi automatic abstraction Verification 1
+semi automatic abstraction Worst-case analysis 1
+semi automatic abstraction Reliability, Testing, and Fault-Tolerancesemi automatic abstraction Diagnosticssemi automatic abstraction Error-checking 2
+semi automatic abstraction Redundant design 2
+semi automatic abstraction Test generation 18
+semi automatic abstraction High-Speed Arithmeticsemi automatic abstraction Algorithms 1
+semi automatic abstraction Cost/performancesemi automatic abstraction Miscellaneoussemi automatic abstraction MEMORY STRUCTURES 1
+semi automatic abstraction General 1
+semi automatic abstraction Semiconductor Memoriessemi automatic abstraction Dynamic memorysemi automatic abstraction Read-only memorysemi automatic abstraction Static memory 1
+semi automatic abstraction Design Styles 2
+semi automatic abstraction Associative memories 1
+semi automatic abstraction Cache memoriessemi automatic abstraction Interleaved memoriessemi automatic abstraction Mass storagesemi automatic abstraction Primary memorysemi automatic abstraction Sequential-access memorysemi automatic abstraction Shared memorysemi automatic abstraction Virtual memory 1
+semi automatic abstraction Performance Analysis and Design Aidssemi automatic abstraction Formal models 4
+semi automatic abstraction Simulationsemi automatic abstraction Worst-case analysis 1
+semi automatic abstraction Reliability, Testing, and Fault-Tolerancesemi automatic abstraction Diagnosticssemi automatic abstraction Error-checking 2
+semi automatic abstraction Redundant design 2
+semi automatic abstraction Test generation 18
+semi automatic abstraction Miscellaneoussemi automatic abstraction INPUT/OUTPUT AND DATA COMMUNICATIONSsemi automatic abstraction General 1
+semi automatic abstraction Data Communications Devicessemi automatic abstraction Processorssemi automatic abstraction Receiverssemi automatic abstraction Transmitterssemi automatic abstraction Input/Output Devicessemi automatic abstraction Channels and controllerssemi automatic abstraction Image display 1
+semi automatic abstraction Voicesemi automatic abstraction Interconnectionssemi automatic abstraction Asynchronous/synchronous operationsemi automatic abstraction Fiber opticssemi automatic abstraction Interfacessemi automatic abstraction Parallel I/Osemi automatic abstraction Physical structures 2
+semi automatic abstraction Topologysemi automatic abstraction Performance Analysis and Design Aidssemi automatic abstraction Formal models 4
+semi automatic abstraction Simulationsemi automatic abstraction Verification 1
+semi automatic abstraction Worst-case analysis 1
+semi automatic abstraction Reliability, Testing, and Fault-Tolerancesemi automatic abstraction Built-in testssemi automatic abstraction Diagnosticssemi automatic abstraction Error-checking 2
+semi automatic abstraction Hardware reliabilitysemi automatic abstraction Redundant design 2
+semi automatic abstraction Test generation 18
+semi automatic abstraction Miscellaneoussemi automatic abstraction REGISTER-TRANSFER-LEVEL IMPLEMENTATIONsemi automatic abstraction General 1
+semi automatic abstraction Design 2
+semi automatic abstraction Arithmetic and logic unitssemi automatic abstraction Control design 15
+semi automatic abstraction Data-path design 1
+semi automatic abstraction Memory design 2
+semi automatic abstraction Stylessemi automatic abstraction Design Aids 2
+semi automatic abstraction Automatic synthesis 3
+semi automatic abstraction Hardware description languagessemi automatic abstraction Optimizationsemi automatic abstraction Simulationsemi automatic abstraction Verification 1
+semi automatic abstraction Reliability and Testingsemi automatic abstraction Built-in testssemi automatic abstraction Error-checking 2
+semi automatic abstraction Redundant design 2
+semi automatic abstraction Test generation 18
+semi automatic abstraction Testabilitysemi automatic abstraction Miscellaneoussemi automatic abstraction LOGIC DESIGN 3
+semi automatic abstraction General 1
+semi automatic abstraction Design Styles 2
+semi automatic abstraction Combinational logic 1
+semi automatic abstraction Logic arrayssemi automatic abstraction Parallel circuitssemi automatic abstraction Sequential circuitssemi automatic abstraction Reliability and Testingsemi automatic abstraction Built-in testssemi automatic abstraction Error-checking 2
+semi automatic abstraction Redundant design 2
+semi automatic abstraction Test generation 18
+semi automatic abstraction Testabilitysemi automatic abstraction Design Aids 2
+semi automatic abstraction Automatic synthesis 3
+semi automatic abstraction Hardware description languagessemi automatic abstraction Optimizationsemi automatic abstraction Simulationsemi automatic abstraction Switching theorysemi automatic abstraction Verification 1
+semi automatic abstraction Miscellaneoussemi automatic abstraction INTEGRATED CIRCUITSsemi automatic abstraction General 1
+semi automatic abstraction Types and Design Stylessemi automatic abstraction Advanced technologies 2
+semi automatic abstraction Algorithms implemented in hardwaresemi automatic abstraction Gate arrayssemi automatic abstraction Input/output circuitssemi automatic abstraction Memory technologies 2
+semi automatic abstraction Microprocessors and microcomputerssemi automatic abstraction Standard cellssemi automatic abstraction VLSIsemi automatic abstraction Design Aids 2
+semi automatic abstraction Graphicssemi automatic abstraction Layoutsemi automatic abstraction Placement and routingsemi automatic abstraction Simulationsemi automatic abstraction Verification 1
+semi automatic abstraction Reliability and Testingsemi automatic abstraction Built-in testssemi automatic abstraction Error-checking 2
+semi automatic abstraction Redundant design 2
+semi automatic abstraction Test generation 18
+semi automatic abstraction Testabilitysemi automatic abstraction Miscellaneoussemi automatic abstraction PERFORMANCE AND RELIABILITYsemi automatic abstraction General 1
+semi automatic abstraction Reliability, Testing, and Fault-Tolerancesemi automatic abstraction Performance Analysis and Design Aidssemi automatic abstraction Miscellaneoussemi automatic abstraction MISCELLANEOUSsemi automatic abstraction Design 2
+semi automatic abstraction GENERAL 1
+semi automatic abstraction Hardware/software interfacessemi automatic abstraction Instruction set design 1
+semi automatic abstraction Modeling of computer architecture 4
+semi automatic abstraction System architectures 11
+semi automatic abstraction Systems specification methodology 5
+semi automatic abstraction PROCESSOR ARCHITECTURES 2
+semi automatic abstraction General 1
+semi automatic abstraction Single Data Stream Architecturessemi automatic abstraction Pipeline processorssemi automatic abstraction RISC/CISC, VLIW architecturessemi automatic abstraction Von Neumann architecturessemi automatic abstraction Multiple Data Stream Architecturessemi automatic abstraction Array and vector processorssemi automatic abstraction Associative processors 1
+semi automatic abstraction Connection machinessemi automatic abstraction Interconnection architectures 2
+semi automatic abstraction Multiple-instruction-stream, multiple-data-stream processorssemi automatic abstraction Parallel processors 10
+semi automatic abstraction Pipeline processorssemi automatic abstraction Single-instruction-stream, multiple-data-stream processorssemi automatic abstraction Other Architecture Styles 1
+semi automatic abstraction Adaptable architectures 6
+semi automatic abstraction Analog computerssemi automatic abstraction Capability architectures 2
+semi automatic abstraction Cellular architecture 2
+semi automatic abstraction Data-flow architecturessemi automatic abstraction Heterogeneoussemi automatic abstraction High-level language architectures 3
+semi automatic abstraction Neural netssemi automatic abstraction Pipeline processorssemi automatic abstraction Stack-oriented processorssemi automatic abstraction Parallel Architectures 12
+semi automatic abstraction Distributed architectures 5
+semi automatic abstraction Mobile processorssemi automatic abstraction Miscellaneoussemi automatic abstraction Analogsemi automatic abstraction Hybridsemi automatic abstraction COMPUTER-COMMUNICATION NETWORKSsemi automatic abstraction General 1
+semi automatic abstraction Data communications 2
+semi automatic abstraction Open Systems Interconnection reference modelsemi automatic abstraction Security and protectionsemi automatic abstraction Network Architecture and Design 2
+semi automatic abstraction Asynchronous Transfer Modesemi automatic abstraction Centralized networkssemi automatic abstraction Circuit-switching networkssemi automatic abstraction Distributed networkssemi automatic abstraction Frame relay networkssemi automatic abstraction ISDNsemi automatic abstraction Network communicationssemi automatic abstraction Network topologysemi automatic abstraction Packet-switching networkssemi automatic abstraction Store and forward networkssemi automatic abstraction Wireless communicationsemi automatic abstraction Network Protocolssemi automatic abstraction Applications 1
+semi automatic abstraction Protocol architecture 3
+semi automatic abstraction Protocol verification 1
+semi automatic abstraction Routing protocolssemi automatic abstraction Network Operations 2
+semi automatic abstraction Network management 1
+semi automatic abstraction Network monitoring 1
+semi automatic abstraction Public networkssemi automatic abstraction Distributed Systems 7
+semi automatic abstraction Client/serversemi automatic abstraction Distributed applications 1
+semi automatic abstraction Distributed databasessemi automatic abstraction Network operating systems 2
+semi automatic abstraction Local and Wide-Area Networkssemi automatic abstraction Access schemessemi automatic abstraction Busessemi automatic abstraction Ethernetsemi automatic abstraction High-speed 1
+semi automatic abstraction Internetsemi automatic abstraction Token ringssemi automatic abstraction Internetworkingsemi automatic abstraction Routerssemi automatic abstraction Standardssemi automatic abstraction Miscellaneoussemi automatic abstraction SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMSsemi automatic abstraction Microprocessor/microcomputer applicationssemi automatic abstraction Process control systems 11
+semi automatic abstraction Real-time and embedded systemssemi automatic abstraction Signal processing systems 2
+semi automatic abstraction Smartcardssemi automatic abstraction PERFORMANCE OF SYSTEMS 7
+semi automatic abstraction Design studies 8
+semi automatic abstraction Fault tolerance 1
+semi automatic abstraction Measurement techniques 23
+semi automatic abstraction Modeling techniques 12
+semi automatic abstraction Performance attributessemi automatic abstraction Reliability, availability, and serviceabilitysemi automatic abstraction COMPUTER SYSTEM IMPLEMENTATION 1
+semi automatic abstraction General 1
+semi automatic abstraction Large and Mediumsemi automatic abstraction Supersemi automatic abstraction Minicomputerssemi automatic abstraction Microcomputerssemi automatic abstraction Microprocessorssemi automatic abstraction Personal computerssemi automatic abstraction Portable devicessemi automatic abstraction Workstationssemi automatic abstraction VLSI Systems 4
+semi automatic abstraction Serverssemi automatic abstraction Miscellaneoussemi automatic abstraction MISCELLANEOUSsemi automatic abstraction GENERAL 1
+semi automatic abstraction PROGRAMMING TECHNIQUES 5
+semi automatic abstraction General 1
+semi automatic abstraction Applicative 1
+semi automatic abstraction Automatic Programming 3
+semi automatic abstraction Concurrent Programming 1
+semi automatic abstraction Distributed programming 1
+semi automatic abstraction Parallel programming 24
+semi automatic abstraction Sequential Programming 2
+semi automatic abstraction Object-oriented Programming 2
+semi automatic abstraction Logic Programming 1
+semi automatic abstraction Visual Programming 4
+semi automatic abstraction Miscellaneous

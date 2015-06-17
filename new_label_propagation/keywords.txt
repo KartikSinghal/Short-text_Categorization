@@ -1,0 +1,25 @@
+social media
+spatiotemporal changes
+graph based database
+semantic dimensions
+topological relationships
+Proportional Scheduler
+queueing networks model
+networked communications systems
+bandwidth sharing networks
+multihop networks
+error estimating codes
+WiFi rate adaptation
+wireless network applications
+computational overhead
+real time video
+spontaneous devaluation
+media commodities
+recommender systems
+temporal dynamics
+hazard function
+UML component models
+semi automated abstraction
+architectural design constraints
+open source systems
+software systems

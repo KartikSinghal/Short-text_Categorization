@@ -1,0 +1,17 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.StringTokenizer;
+
+
+public class extractacmmapwithoutmisc {
+	public static void main(String args[]) throws IOException{
+		BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\acmmap.txt"));
+		BufferedWriter out1 = new BufferedWriter(new FileWriter("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\acmmapmisc.txt"));
+		String line="";
+		StringTokenizer st1=null;
+		
+	}
+}

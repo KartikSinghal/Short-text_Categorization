@@ -1,0 +1,1397 @@
+GENERAL
+Biographies autobiographies
+Conference proceedings
+General literary works
+INTRODUCTORY AND SURVEY
+REFERENCE
+GENERAL
+CONTROL STRUCTURES AND MICROPROGRAMMING
+General
+Control Design Styles
+Hardwired control
+Microprogrammed logic arrays
+Writable control store
+Control Structure Performance Analysis and Design Aids
+Automatic synthesis
+Formal models
+Simulation
+Control Structure Reliability, Testing, and Fault-Tolerance
+Diagnostics
+Error-checking
+Redundant design
+Test generation
+Microprogram Design Aids
+Firmware engineering
+Languages and compilers
+Machine-independent microcode generation
+Optimization
+Verification
+Microcode Applications
+Direct data manipulation
+Firmware support of operating systems/instruction sets
+Instruction set interpretation
+Peripheral control
+Special-purpose
+ARITHMETIC AND LOGIC STRUCTURES
+General
+Design Styles
+Calculator
+Parallel
+Pipeline
+Performance Analysis and Design Aids
+Simulation
+Verification
+Worst-case analysis
+Reliability, Testing, and Fault-Tolerance
+Diagnostics
+Error-checking
+Redundant design
+Test generation
+High-Speed Arithmetic
+Algorithms
+Cost/performance
+MEMORY STRUCTURES
+General
+Semiconductor Memories
+Dynamic memory
+Read-only memory
+Static memory
+Design Styles
+Associative memories
+Cache memories
+Interleaved memories
+Mass storage
+Primary memory
+Sequential-access memory
+Shared memory
+Virtual memory
+Performance Analysis and Design Aids
+Formal models
+Simulation
+Worst-case analysis
+Reliability, Testing, and Fault-Tolerance
+Diagnostics
+Error-checking
+Redundant design
+Test generation
+INPUT/OUTPUT AND DATA COMMUNICATIONS
+General
+Data Communications Devices
+Processors
+Receivers
+Transmitters
+Input/Output Devices
+Channels and controllers
+Data terminals and printers
+Image display
+Voice
+Interconnections
+Asynchronous/synchronous operation
+Fiber optics
+Interfaces
+Parallel I/O
+Physical structures
+Topology
+Performance Analysis and Design Aids
+Formal models
+Simulation
+Verification
+Worst-case analysis
+Reliability, Testing, and Fault-Tolerance
+Built-in tests
+Diagnostics
+Error-checking
+Hardware reliability
+Redundant design
+Test generation
+REGISTER-TRANSFER-LEVEL IMPLEMENTATION
+General
+Design
+Arithmetic and logic units
+Control design
+Data-path design
+Memory design
+Styles
+Design Aids
+Automatic synthesis
+Hardware description languages
+Optimization
+Simulation
+Verification
+Reliability and Testing
+Built-in tests
+Error-checking
+Redundant design
+Test generation
+Testability
+LOGIC DESIGN
+General
+Design Styles
+Cellular arrays and automata
+Combinational logic
+Logic arrays
+Memory control and access
+Memory used as logic
+Parallel circuits
+Sequential circuits
+Reliability and Testing
+Built-in tests
+Error-checking
+Redundant design
+Test generation
+Testability
+Design Aids
+Automatic synthesis
+Hardware description languages
+Optimization
+Simulation
+Switching theory
+Verification
+INTEGRATED CIRCUITS
+General
+Types and Design Styles
+Advanced technologies
+Algorithms implemented in hardware
+Gate arrays
+Input/output circuits
+Memory technologies
+Microprocessors and microcomputers
+Standard cells
+VLSI
+Design Aids
+Graphics
+Layout
+Placement and routing
+Simulation
+Verification
+Reliability and Testing
+Built-in tests
+Error-checking
+Redundant design
+Test generation
+Testability
+PERFORMANCE AND RELIABILITY
+General
+Reliability, Testing, and Fault-Tolerance
+Performance Analysis and Design Aids
+GENERAL
+Hardware/software interfaces
+Instruction set design
+Modeling of computer architecture
+System architectures
+Systems specification methodology
+PROCESSOR ARCHITECTURES
+General
+Single Data Stream Architectures
+Multiple-instruction-stream, single-data-stream processors
+Pipeline processors
+RISC/CISC, VLIW architectures
+Single-instruction-stream, single-data-stream processors
+Von Neumann architectures
+Multiple Data Stream Architectures
+Array and vector processors
+Associative processors
+Connection machines
+Interconnection architectures
+Multiple-instruction-stream, multiple-data-stream processors
+Parallel processors
+Pipeline processors
+Single-instruction-stream, multiple-data-stream processors
+Other Architecture Styles
+Adaptable architectures
+Analog computers
+Capability architectures
+Cellular architecture
+Data-flow architectures
+Heterogeneous
+High-level language architectures
+Neural nets
+Pipeline processors
+Stack-oriented processors
+Parallel Architectures
+Distributed architectures
+Mobile processors
+COMPUTER-COMMUNICATION NETWORKS
+General
+Data communications
+Open Systems Interconnection reference model
+Security and protection
+Network Architecture and Design
+Asynchronous Transfer Mode
+Centralized networks
+Circuit-switching networks
+Distributed networks
+Frame relay networks
+ISDN
+Network communications
+Network topology
+Packet-switching networks
+Store and forward networks
+Wireless communication
+Network Protocols
+Applications
+Protocol architecture
+Protocol verification
+Routing protocols
+Network Operations
+Network management
+Network monitoring
+Public networks
+Distributed Systems
+Client/server
+Distributed applications
+Distributed databases
+Network operating systems
+Local and Wide-Area Networks
+Access schemes
+Buses
+Ethernet
+High-speed
+Internet
+Token rings
+Internetworking
+Routers
+Standards
+SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS
+Microprocessor/microcomputer applications
+Process control systems
+Real-time and embedded systems
+Signal processing systems
+Smartcards
+PERFORMANCE OF SYSTEMS
+Design studies
+Fault tolerance
+Measurement techniques
+Modeling techniques
+Performance attributes
+Reliability, availability, and serviceability
+COMPUTER SYSTEM IMPLEMENTATION
+General
+Large and Medium
+Super
+Minicomputers
+Microcomputers
+Microprocessors
+Personal computers
+Portable devices
+Workstations
+VLSI Systems
+Servers
+GENERAL
+PROGRAMMING TECHNIQUES
+General
+Applicative
+Automatic Programming
+Concurrent Programming
+Distributed programming
+Parallel programming
+Sequential Programming
+Object-oriented Programming
+Logic Programming
+Visual Programming
+SOFTWARE ENGINEERING
+General
+Protection mechanisms
+Standards
+Requirements/Specifications
+Elicitation methods
+Languages
+Methodologies
+Tools
+Design Tools and Techniques
+Computer-aided software engineering
+Decision tables
+Evolutionary prototyping
+Flow charts
+Modules and interfaces
+Object-oriented design methods
+Petri nets
+Programmer workbench
+Software libraries
+State diagrams
+Structured programming
+Top-down programming
+User interfaces
+Coding Tools and Techniques
+Object-oriented programming
+Pretty printers
+Program editors
+Reentrant code
+Standards
+Structured programming
+Top-down programming
+Software/Program Verification
+Assertion checkers
+Class invariants
+Correctness proofs
+Formal methods
+Model checking
+Programming by contract
+Reliability
+Statistical methods
+Validation
+Testing and Debugging
+Code inspections and walk-throughs
+Debugging aids
+Diagnostics
+Distributed debugging
+Dumps
+Error handling and recovery
+Monitors
+Symbolic execution
+Testing tools
+Tracing
+Programming Environments
+Graphical environments
+Integrated environments
+Interactive environments
+Programmer workbench
+Distribution, Maintenance, and Enhancement
+Corrections
+Documentation
+Enhancement
+Extensibility
+Portability
+Restructuring, reverse engineering, and reengineering
+Version control
+Metrics
+Complexity measures
+Performance measures
+Process metrics
+Product metrics
+Software science
+Management
+Copyrights
+Cost estimation
+Life cycle
+Productivity
+Programming teams
+Software configuration management
+Software process models
+Software quality assurance
+Time estimation
+Design
+Methodologies
+Representation
+Software Architectures
+Data abstraction
+Domain-specific architectures
+Information hiding
+Languages
+Patterns
+Interoperability
+Data mapping
+Distributed objects
+Interface definition languages
+Reusable Software
+Domain engineering
+Reusable libraries
+Reuse models
+PROGRAMMING LANGUAGES
+General
+Standards
+Formal Definitions and Theory
+Semantics
+Syntax
+Language Classifications
+Applicative
+Concurrent, distributed, and parallel languages
+Constraint and logic languages
+Data-flow languages
+Design languages
+Extensible languages
+Macro and assembly languages
+Microprogramming languages
+Multiparadigm languages
+Nondeterministic languages
+Nonprocedural languages
+Object-oriented languages
+Specialized application languages
+Very high-level languages
+Language Constructs and Features
+Abstract data types
+Classes and objects
+Concurrent programming structures
+Constraints
+Control structures
+Coroutines
+Data types and structures
+Dynamic storage management
+Frameworks
+Inheritance
+Input/output
+Modules, packages
+Patterns
+Polymorphism
+Procedures, functions, and subroutines
+Recursion
+Processors
+Code generation
+Compilers
+Debuggers
+Incremental compilers
+Interpreters
+Memory management
+Optimization
+Parsing
+Preprocessors
+Retargetable compilers
+Run-time environments
+Translator writing systems and compiler generators
+OPERATING SYSTEMS
+General
+Process Management
+Concurrency
+Deadlocks
+Multiprocessing/multiprogramming/multitasking
+Mutual exclusion
+Scheduling
+Synchronization
+Threads
+Storage Management
+Allocation/deallocation strategies
+Distributed memories
+Garbage collection
+Main memory
+Secondary storage
+Segmentation
+Storage hierarchies
+Swapping
+Virtual memory
+File Systems Management
+Access methods
+Directory structures
+Distributed file systems
+File organization
+Maintenance
+Communications Management
+Buffering
+Input/output
+Message sending
+Network communication
+Terminal management
+Reliability
+Backup procedures
+Checkpoint/restart
+Fault-tolerance
+Verification
+Security and Protection
+Access controls
+Authentication
+Cryptographic controls
+Information flow controls
+Invasive software
+Security kernels
+Verification
+Organization and Design
+Batch processing systems
+Distributed systems
+Hierarchical design
+Interactive systems
+Real-time systems and embedded systems
+Performance
+Measurements
+Modeling and prediction
+Monitors
+Operational analysis
+Queueing theory
+Simulation
+Stochastic analysis
+Systems Programs and Utilities
+Command and control languages
+Linkers
+Loaders
+Window managers
+GENERAL
+DATA STRUCTURES
+Arrays
+Distributed data structures
+Graphs and networks
+Lists, stacks, and queues
+Records
+Tables
+Trees
+DATA STORAGE REPRESENTATIONS
+Composite structures
+Contiguous representations
+Hash-table representations
+Linked representations
+Object representation
+Primitive data items
+DATA ENCRYPTION
+Code breaking
+Data encryption standard
+Public key cryptosystems
+Standards
+CODING AND INFORMATION THEORY
+Data compaction and compression
+Error control codes
+Formal models of communication
+Nonsecret encoding schemes
+FILES
+Backup/recovery
+Optimization
+Organization/structure
+Sorting/searching
+GENERAL
+COMPUTATION BY ABSTRACT DEVICES
+General
+Models of Computation
+Automata
+Bounded-action devices
+Computability theory
+Relations between models
+Self-modifying machines
+Unbounded-action devices
+Modes of Computation
+Alternation and nondeterminism
+Interactive and reactive computation
+Online computation
+Parallelism and concurrency
+Probabilistic computation
+Relations among modes
+Relativized computation
+Complexity Measures and Classes
+Complexity hierarchies
+Machine-independent complexity
+Reducibility and completeness
+Relations among complexity classes
+Relations among complexity measures
+ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+General
+Numerical Algorithms and Problems
+Computation of transforms
+Computations in finite fields
+Computations on matrices
+Computations on polynomials
+Number-theoretic computations
+Nonnumerical Algorithms and Problems
+Complexity of proof procedures
+Computations on discrete structures
+Geometrical problems and computations
+Pattern matching
+Routing and layout
+Sequencing and scheduling
+Sorting and searching
+Tradeoffs between Complexity Measures
+LOGICS AND MEANINGS OF PROGRAMS
+General
+Specifying and Verifying and Reasoning about Programs
+Assertions
+Invariants
+Logics of programs
+Mechanical verification
+Pre- and post-conditions
+Specification techniques
+Semantics of Programming Languages
+Algebraic approaches to semantics
+Denotational semantics
+Operational semantics
+Partial evaluation
+Process models
+Program analysis
+Studies of Program Constructs
+Control primitives
+Functional constructs
+Object-oriented constructs
+Program and recursion schemes
+Type structure
+MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+General
+Mathematical Logic
+Computability theory
+Computational logic
+Lambda calculus and related systems
+Logic and constraint programming
+Mechanical theorem proving
+Modal logic
+Model theory
+Proof theory
+Recursive function theory
+Set theory
+Temporal logic
+Grammars and Other Rewriting Systems
+Decision problems
+Grammar types
+Parallel rewriting systems
+Parsing
+Thue systems
+Formal Languages
+Algebraic language theory
+Classes defined by grammars or automata
+Classes defined by resource-bounded automata
+Decision problems
+Operations on languages
+GENERAL
+NUMERICAL ANALYSIS
+General
+Computer arithmetic
+Conditioning
+Error analysis
+Interval arithmetic
+Multiple precision arithmetic
+Numerical algorithms
+Parallel algorithms
+Stability
+Interpolation
+Difference formulas
+Extrapolation
+Interpolation formulas
+Smoothing
+Spline and piecewise polynomial interpolation
+Approximation
+Approximation of surfaces and contours
+Chebyshev approximation and theory
+Elementary function approximation
+Fast Fourier transforms
+Least squares approximation
+Linear approximation
+Minimax approximation and algorithms
+Nonlinear approximation
+Rational approximation
+Special function approximations
+Spline and piecewise polynomial approximation
+Wavelets and fractals
+Numerical Linear Algebra
+Conditioning
+Determinants
+Eigenvalues and eigenvectors
+Error analysis
+Linear systems
+Matrix inversion
+Pseudoinverses
+Singular value decomposition
+Sparse, structured, and very large systems
+Quadrature and Numerical Differentiation
+Adaptive and iterative quadrature
+Automatic differentiation
+Equal interval integration
+Error analysis
+Finite difference methods
+Gaussian quadrature
+Iterative methods
+Multidimensional
+Roots of Nonlinear Equations
+Continuation
+Convergence
+Error analysis
+Iterative methods
+Polynomials, methods for
+Systems of equations
+Optimization
+Constrained optimization
+Convex programming
+Global optimization
+Gradient methods
+Integer programming
+Least squares methods
+Linear programming
+Nonlinear programming
+Quadratic programming methods
+Simulated annealing
+Stochastic programming
+Unconstrained optimization
+Ordinary Differential Equations
+Boundary value problems
+Chaotic systems
+Convergence and stability
+Differential-algebraic equations
+Error analysis
+Finite difference methods
+Initial value problems
+Multistep and multivalue methods
+One-step
+Stiff equations
+Partial Differential Equations
+Domain decomposition methods
+Elliptic equations
+Finite difference methods
+Finite element methods
+Finite volume methods
+Hyperbolic equations
+Inverse problems
+Iterative solution techniques
+Method of lines
+Multigrid and multilevel methods
+Parabolic equations
+Spectral methods
+Integral Equations
+Delay equations
+Fredholm equations
+Integro-differential equations
+Volterra equations
+Applications
+DISCRETE MATHEMATICS
+General
+Combinatorics
+Combinatorial algorithms
+Counting problems
+Generating functions
+Permutations and combinations
+Recurrences and difference equations
+Graph Theory
+Graph algorithms
+Graph labeling
+Hypergraphs
+Network problems
+Path and circuit problems
+Trees
+Applications
+PROBABILITY AND STATISTICS
+Contingency table analysis
+Correlation and regression analysis
+Distribution functions
+Experimental design
+Markov processes
+Multivariate statistics
+Nonparametric statistics
+Probabilistic algorithms
+Queueing theory
+Random number generation
+Reliability and life testing
+Renewal theory
+Robust regression
+Statistical computing
+Statistical software
+Stochastic processes
+Survival analysis
+Time series analysis
+MATHEMATICAL SOFTWARE
+Algorithm design and analysis
+Certification and testing
+Documentation
+Efficiency
+Parallel and vector implementations
+Portability
+Reliability and robustness
+User interfaces
+Verification
+GENERAL
+MODELS AND PRINCIPLES
+General
+Systems and Information Theory
+General systems theory
+Information theory
+Value of information
+User/Machine Systems
+Human factors
+Human information processing
+Software psychology
+DATABASE MANAGEMENT
+General
+Security, integrity, and protection
+Logical Design
+Data models
+Normal forms
+Schema and subschema
+Physical Design
+Access methods
+Deadlock avoidance
+Recovery and restart
+Languages
+Data description languages
+Data manipulation languages
+Database
+Query languages
+Report writers
+Systems
+Concurrency
+Distributed databases
+Multimedia databases
+Object-oriented databases
+Parallel databases
+Query processing
+Relational databases
+Rule-based databases
+Textual databases
+Transaction processing
+Heterogeneous Databases
+Data translation
+Program translation
+Database Machines
+Database Administration
+Data dictionary/directory
+Data warehouse and repository
+Logging and recovery
+Security, integrity, and protection
+Database Applications
+Data mining
+Image databases
+Scientific databases
+Spatial databases and GIS
+Statistical databases
+INFORMATION STORAGE AND RETRIEVAL
+General
+Content Analysis and Indexing
+Abstracting methods
+Dictionaries
+Indexing methods
+Linguistic processing
+Thesauruses
+Information Storage
+File organization
+Record classification
+Information Search and Retrieval
+Clustering
+Information filtering
+Query formulation
+Relevance feedback
+Retrieval models
+Search process
+Selection process
+Systems and Software
+Current awareness systems
+Distributed systems
+Information networks
+Performance evaluation
+Question-answering
+User profiles and alert services
+Online Information Services
+Commercial services
+Data sharing
+Web-based services
+Library Automation
+Large text archives
+Digital Libraries
+Collection
+Dissemination
+Standards
+Systems issues
+User issues
+INFORMATION SYSTEMS APPLICATIONS
+General
+Office Automation
+Desktop publishing
+Equipment
+Groupware
+Spreadsheets
+Time management
+Word processing
+Workflow management
+Types of Systems
+Decision support
+Logistics
+Communications Applications
+Bulletin boards
+Computer conferencing, teleconferencing, and videoconferencing
+Electronic mail
+Information browsers
+Videotex
+INFORMATION INTERFACES AND PRESENTATION
+General
+Multimedia Information Systems
+Animations
+Artificial, augmented, and virtual realities
+Audio input/output
+Evaluation/methodology
+Hypertext navigation and maps
+Video
+User Interfaces
+Auditory
+Benchmarking
+Ergonomics
+Evaluation/methodology
+Graphical user interfaces
+Haptic I/O
+Input devices and strategies
+Interaction styles
+Natural language
+Prototyping
+Screen design
+Standardization
+Style guides
+Theory and methods
+Training, help, and documentation
+User-centered design
+User interface management systems
+Voice I/O
+Windowing systems
+Group and Organization Interfaces
+Asynchronous interaction
+Collaborative computing
+Computer-supported cooperative work
+Evaluation/methodology
+Organizational design
+Synchronous interaction
+Theory and models
+Web-based interaction
+Hypertext/Hypermedia
+Architectures
+Navigation
+Theory
+User issues
+Sound and Music Computing
+Methodologies and techniques
+Modeling
+Signal analysis, synthesis, and processing
+Systems
+GENERAL
+SYMBOLIC AND ALGEBRAIC MANIPULATION
+General
+Expressions and Their Representation
+Representations
+Simplification of expressions
+Algorithms
+Algebraic algorithms
+Analysis of algorithms
+Nonalgebraic algorithms
+Languages and Systems
+Evaluation strategies
+Nonprocedural languages
+Special-purpose algebraic systems
+Special-purpose hardware
+Substitution mechanisms
+Applications
+ARTIFICIAL INTELLIGENCE
+General
+Cognitive simulation
+Philosophical foundations
+Applications and Expert Systems
+Cartography
+Games
+Industrial automation
+Law
+Medicine and science
+Natural language interfaces
+Office automation
+Automatic Programming
+Automatic analysis of algorithms
+Program modification
+Program synthesis
+Program transformation
+Program verification
+Deduction and Theorem Proving
+Answer/reason extraction
+Deduction
+Inference engines
+Logic programming
+Mathematical induction
+Metatheory
+Nonmonotonic reasoning and belief revision
+Resolution
+Uncertainty, ``fuzzy, and probabilistic reasoning
+Knowledge Representation Formalisms and Methods
+Frames and scripts
+Modal logic
+Predicate logic
+Relation systems
+Representation languages
+Representations
+Semantic networks
+Temporal logic
+Programming Languages and Software
+Expert system tools and techniques
+Learning
+Analogies
+Concept learning
+Connectionism and neural nets
+Induction
+Knowledge acquisition
+Language acquisition
+Parameter learning
+Natural Language Processing
+Discourse
+Language generation
+Language models
+Language parsing and understanding
+Machine translation
+Speech recognition and synthesis
+Text analysis
+Problem Solving, Control Methods, and Search
+Backtracking
+Control theory
+Dynamic programming
+Graph and tree search strategies
+Heuristic methods
+Plan execution, formation, and generation
+Scheduling
+Robotics
+Autonomous vehicles
+Commercial robots and applications
+Kinematics and dynamics
+Manipulators
+Operator interfaces
+Propelling mechanisms
+Sensors
+Workcell organization and planning
+Vision and Scene Understanding
+3D/stereo scene analysis
+Architecture and control structures
+Intensity, color, photometry, and thresholding
+Modeling and recovery of physical attributes
+Motion
+Perceptual reasoning
+Representations, data structures, and transforms
+Shape
+Texture
+Video analysis
+Distributed Artificial Intelligence
+Coherence and coordination
+Intelligent agents
+Languages and structures
+Multiagent systems
+COMPUTER GRAPHICS
+General
+Hardware Architecture
+Graphics processors
+Hardcopy devices
+Input devices
+Parallel processing
+Raster display devices
+Storage devices
+Three-dimensional displays
+Vector display devices
+Graphics Systems
+Distributed/network graphics
+Remote systems
+Stand-alone systems
+Picture/Image Generation
+Antialiasing
+Bitmap and framebuffer operations
+Digitizing and scanning
+Display algorithms
+Line and curve generation
+Viewing algorithms
+Graphics Utilities
+Application packages
+Device drivers
+Graphics editors
+Graphics packages
+Meta files
+Paint systems
+Picture description languages
+Software support
+Virtual device interfaces
+Computational Geometry and Object Modeling
+Boundary representations
+Constructive solid geometry
+Curve, surface, solid, and object representations
+Geometric algorithms, languages, and systems
+Hierarchy and geometric transformations
+Modeling packages
+Object hierarchies
+Physically based modeling
+Splines
+Methodology and Techniques
+Device independence
+Ergonomics
+Graphics data structures and data types
+Interaction techniques
+Languages
+Standards
+Three-Dimensional Graphics and Realism
+Animation
+Color, shading, shadowing, and texture
+Fractals
+Hidden line/surface removal
+Radiosity
+Raytracing
+Virtual reality
+Visible line/surface algorithms
+Applications
+IMAGE PROCESSING AND COMPUTER VISION
+General
+Image displays
+Image processing software
+Digitization and Image Capture
+Camera calibration
+Imaging geometry
+Quantization
+Radiometry
+Reflectance
+Sampling
+Scanning
+Compression
+Approximate methods
+Exact coding
+Enhancement
+Filtering
+Geometric correction
+Grayscale manipulation
+Registration
+Sharpening and deblurring
+Smoothing
+Restoration
+Inverse filtering
+Kalman filtering
+Pseudoinverse restoration
+Wiener filtering
+Reconstruction
+Series expansion methods
+Summation methods
+Transform methods
+Segmentation
+Edge and feature detection
+Pixel classification
+Region growing, partitioning
+Relaxation
+Feature Measurement
+Feature representation
+Invariants
+Moments
+Projections
+Size and shape
+Texture
+Scene Analysis
+Color
+Depth cues
+Motion
+Object recognition
+Photometry
+Range data
+Sensor fusion
+Shading
+Shape
+Stereo
+Surface fitting
+Time-varying imagery
+Tracking
+Applications
+Image Representation
+Hierarchical
+Morphological
+Multidimensional
+Statistical
+Volumetric
+PATTERN RECOGNITION
+General
+Models
+Deterministic
+Fuzzy set
+Geometric
+Neural nets
+Statistical
+Structural
+Design Methodology
+Classifier design and evaluation
+Feature evaluation and selection
+Pattern analysis
+Clustering
+Algorithms
+Similarity measures
+Applications
+Computer vision
+Signal processing
+Text processing
+Waveform analysis
+Implementation
+Interactive systems
+Special architectures
+SIMULATION AND MODELING
+General
+Simulation Theory
+Model classification
+Systems theory
+Types of simulation
+Simulation Languages
+Applications
+Model Validation and Analysis
+Model Development
+Modeling methodologies
+Simulation Output Analysis
+Simulation Support Systems
+Environments
+Types of Simulation
+Animation
+Combined
+Continuous
+Discrete event
+Distributed
+Gaming
+Monte Carlo
+Parallel
+Visual
+DOCUMENT AND TEXT PROCESSING
+General
+Document and Text Editing
+Document management
+Languages
+Spelling
+Version control
+Document Preparation
+Desktop publishing
+Format and notation
+Hypertext/hypermedia
+Index generation
+Languages and systems
+Markup languages
+Multi/mixed media
+Photocomposition/typesetting
+Scripting languages
+Standards
+Index Generation
+Electronic Publishing
+Document Capture
+Document analysis
+Graphics recognition and interpretation
+Optical character recognition
+Scanning
+GENERAL
+ADMINISTRATIVE DATA PROCESSING
+Business
+Education
+Financial
+Government
+Law
+Manufacturing
+Marketing
+Military
+PHYSICAL SCIENCES AND ENGINEERING
+Aerospace
+Archaeology
+Astronomy
+Chemistry
+Earth and atmospheric sciences
+Electronics
+Engineering
+Mathematics and statistics
+Physics
+LIFE AND MEDICAL SCIENCES
+Biology and genetics
+Health
+Medical information systems
+SOCIAL AND BEHAVIORAL SCIENCES
+Economics
+Psychology
+Sociology
+ARTS AND HUMANITIES
+Architecture
+Arts, fine and performing
+Fine arts
+Language translation
+Linguistics
+Literature
+Music
+Performing arts
+COMPUTER-AIDED ENGINEERING
+Computer-aided design
+Computer-aided manufacturing
+COMPUTERS IN OTHER SYSTEMS
+Command and control
+Consumer products
+Industrial control
+Military
+Process control
+Publishing
+Real time
+GENERAL
+THE COMPUTER INDUSTRY
+Markets
+Standards
+Statistics
+Suppliers
+HISTORY OF COMPUTING
+Hardware
+People
+Software
+Systems
+Theory
+COMPUTERS AND EDUCATION
+General
+Computer Uses in Education
+Collaborative learning
+Computer-assisted instruction
+Computer-managed instruction
+Distance learning
+Computer and Information Science Education
+Accreditation
+Computer science education
+Curriculum
+Information systems education
+Literacy
+Self-assessment
+COMPUTERS AND SOCIETY
+General
+Public Policy Issues
+Abuse and crime involving computers
+Computer-related health issues
+Ethics
+Human safety
+Intellectual property rights
+Privacy
+Regulation
+Transborder data flow
+Use/abuse of power
+Social Issues
+Abuse and crime involving computers
+Assistive technologies for persons with disabilities
+Employment
+Handicapped persons/special needs
+Organizational Impacts
+Automation
+Computer-supported collaborative work
+Employment
+Reengineering
+Electronic Commerce
+Cybercash, digital cash
+Distributed commercial transactions
+Electronic data interchange
+Intellectual property
+Payment schemes
+Security
+LEGAL ASPECTS OF COMPUTING
+General
+Hardware/Software Protection
+Copyrights
+Licensing
+Patents
+Proprietary rights
+Trade secrets
+Governmental Issues
+Censorship
+Regulation
+Taxation
+MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS
+General
+Economics
+Project and People Management
+Life cycle
+Management techniques
+Staffing
+Strategic information systems planning
+Systems analysis and design
+Systems development
+Training
+Installation Management
+Benchmarks
+Computer selection
+Computing equipment management
+Performance and usage measurement
+Pricing and resource allocation
+Software Management
+Software development
+Software maintenance
+Software process
+Software selection
+System Management
+Centralization/decentralization
+Management audit
+Quality assurance
+Security and Protection
+Authentication
+Insurance
+Invasive software
+Physical security
+Unauthorized access
+THE COMPUTING PROFESSION
+General
+Occupations
+Organizations
+Testing, Certification, and Licensing
+Professional Ethics
+Codes of ethics
+Codes of good practice
+Ethical dilemmas
+PERSONAL COMPUTING
+Games
+General
+Games
+Application Packages
+Data communications
+Database processing
+Freeware/shareware
+Graphics
+Spreadsheets
+Word processing
+Hardware
+Management/Maintenance

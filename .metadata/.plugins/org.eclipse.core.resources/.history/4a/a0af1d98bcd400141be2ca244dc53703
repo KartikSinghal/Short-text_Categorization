@@ -1,0 +1,36 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.StringTokenizer;
+
+
+public class labelvaluescheck {
+	public static void main(String args[]) throws IOException{
+	BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\labelvalues.txt"));
+	BufferedWriter out1 = new BufferedWriter(new FileWriter("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\labeladd.txt"));
+	BufferedWriter out2 = new BufferedWriter(new FileWriter("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\labelaverage.txt"));
+	ArrayList<Integer> label=new ArrayList<Integer>();
+	int i=1;
+	for(i=0;i<1461;i++){
+		label.add(0);
+	}
+	StringTokenizer st1=null;
+	String line="";
+	i=1;
+	int temp;
+	while((line=in.readLine())!=null){
+		st1=new StringTokenizer(line,",");
+		while(st1.hasMoreTokens()){
+			temp=Integer.parseInt(st1.nextToken());
+			
+		}
+		System.out.println(st1.countTokens());
+		i++;
+	}
+	}
+}

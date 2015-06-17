@@ -1,0 +1,62 @@
+import java.awt.List;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.StringTokenizer;
+import java.util.TreeSet;
+
+
+public class sortfvector {
+	public static void main(String args[]) throws IOException{
+		BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\labelvectors\\labeladd4.txt"));
+		BufferedWriter out = new BufferedWriter(new FileWriter("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\labelvectors\\fvector\\fvectoradd4.txt"));
+		StringTokenizer st1=null;
+		Map<Double,Integer> main=new HashMap<Double,Integer>();
+		String line="";
+		line=in.readLine();
+		int i=0;
+		String temp;
+		Double k=0.00000000001;
+		st1=new StringTokenizer(line,",");
+		while(st1.hasMoreTokens()){
+			temp=st1.nextToken();
+			if(!main.containsKey(Double.parseDouble(temp)))
+			main.put(Double.parseDouble(temp), i);
+			else{
+			temp=String.valueOf(Double.parseDouble(temp)+k);
+			k=k+k;
+			main.put(Double.parseDouble(temp), i);
+			}
+			i++;
+		}
+		
+		ArrayList<Double> sortedKeys=new ArrayList<Double>(main.keySet());
+		ArrayList<Integer> sortedvalues=new ArrayList<Integer>();
+		Collections.sort(sortedKeys);
+		for(i=0;i<sortedKeys.size();i++){
+			sortedvalues.add(main.get(sortedKeys.get(i)));
+		}
+		ArrayList<Integer> fvector=new ArrayList<Integer>();
+		System.out.println(main.size());
+		for(i=0;i<main.size();i++){
+			fvector.add(0);
+		}
+		int topk=10;
+		for(i=0;i<topk;i++){
+			System.out.println(sortedvalues.get(i));
+			fvector.set(sortedvalues.get(i), 1);
+		}
+		for(i=0;i<fvector.size();i++){
+			out.write(fvector.get(i)+",");		
+		}
+		out.newLine();
+		in.close();
+		out.close();
+	}
+}

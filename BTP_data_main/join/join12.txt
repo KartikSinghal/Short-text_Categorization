@@ -1,0 +1,404 @@
+computational overhead GENERAL 1053
+computational overhead Biographies autobiographiescomputational overhead Conference proceedings 8
+computational overhead INTRODUCTORY AND SURVEY 90
+computational overhead REFERENCE 377
+computational overhead MISCELLANEOUScomputational overhead GENERAL 1053
+computational overhead CONTROL STRUCTURES AND MICROPROGRAMMING 105
+computational overhead General 1053
+computational overhead Control Design Styles 181
+computational overhead Hardwired controlcomputational overhead Writable control store 27
+computational overhead Automatic synthesis 4
+computational overhead Formal models 73
+computational overhead Simulation 789
+computational overhead Control Structure Reliability, Testing, and Fault-Tolerance 1
+computational overhead Diagnostics 9
+computational overhead Error-checking 21
+computational overhead Redundant design 45
+computational overhead Test generation 196
+computational overhead Firmware engineering 1
+computational overhead Languages and compilers 358
+computational overhead Optimization 668
+computational overhead Verification 89
+computational overhead Direct data manipulation 185
+computational overhead Instruction set interpretation 54
+computational overhead Peripheral controlcomputational overhead Special-purpose 21
+computational overhead Miscellaneouscomputational overhead General 1053
+computational overhead Design Styles 14
+computational overhead Calculator 339
+computational overhead Parallel 298
+computational overhead Pipeline 30
+computational overhead Performance Analysis and Design Aids 191
+computational overhead Simulation 789
+computational overhead Verification 89
+computational overhead Worst-case analysis 228
+computational overhead Reliability, Testing, and Fault-Tolerance 32
+computational overhead Diagnostics 9
+computational overhead Error-checking 21
+computational overhead Redundant design 45
+computational overhead Test generation 196
+computational overhead High-Speed Arithmetic 161
+computational overhead Algorithms 1331
+computational overhead Cost/performance 324
+computational overhead Miscellaneouscomputational overhead MEMORY STRUCTURES 65
+computational overhead General 1053
+computational overhead Semiconductor Memories 1
+computational overhead Dynamic memory 71
+computational overhead Read-only memory 160
+computational overhead Static memory 22
+computational overhead Design Styles 14
+computational overhead Associative memories 43
+computational overhead Cache memories 25
+computational overhead Interleaved memories 5
+computational overhead Mass storage 6
+computational overhead Primary memory 4
+computational overhead Sequential-access memory 90
+computational overhead Shared memory 59
+computational overhead Virtual memory 18
+computational overhead Performance Analysis and Design Aids 191
+computational overhead Formal models 73
+computational overhead Simulation 789
+computational overhead Worst-case analysis 228
+computational overhead Reliability, Testing, and Fault-Tolerance 32
+computational overhead Diagnostics 9
+computational overhead Error-checking 21
+computational overhead Redundant design 45
+computational overhead Test generation 196
+computational overhead Miscellaneouscomputational overhead INPUT/OUTPUT AND DATA COMMUNICATIONS 125
+computational overhead General 1053
+computational overhead Data Communications Devices 498
+computational overhead Processors 148
+computational overhead Receivers 292
+computational overhead Transmitters 19
+computational overhead Input/Output Devices 178
+computational overhead Channels and controllers 376
+computational overhead Image display 20
+computational overhead Voice 17
+computational overhead Interconnections 41
+computational overhead Asynchronous/synchronous operation 49
+computational overhead Fiber optics 2
+computational overhead Interfaces 108
+computational overhead Parallel I/O 249
+computational overhead Physical structures 51
+computational overhead Topology 167
+computational overhead Performance Analysis and Design Aids 191
+computational overhead Formal models 73
+computational overhead Simulation 789
+computational overhead Verification 89
+computational overhead Worst-case analysis 228
+computational overhead Reliability, Testing, and Fault-Tolerance 32
+computational overhead Built-in tests 457
+computational overhead Diagnostics 9
+computational overhead Error-checking 21
+computational overhead Hardware reliability 14
+computational overhead Redundant design 45
+computational overhead Test generation 196
+computational overhead Miscellaneouscomputational overhead REGISTER-TRANSFER-LEVEL IMPLEMENTATION 22
+computational overhead General 1053
+computational overhead Design 694
+computational overhead Arithmetic and logic units 76
+computational overhead Control design 155
+computational overhead Data-path design 465
+computational overhead Memory design 112
+computational overhead Styles 23
+computational overhead Design Aids 39
+computational overhead Automatic synthesis 4
+computational overhead Hardware description languages 157
+computational overhead Optimization 668
+computational overhead Simulation 789
+computational overhead Verification 89
+computational overhead Reliability and Testing 585
+computational overhead Built-in tests 457
+computational overhead Error-checking 21
+computational overhead Redundant design 45
+computational overhead Test generation 196
+computational overhead Testability 6
+computational overhead Miscellaneouscomputational overhead LOGIC DESIGN 53
+computational overhead General 1053
+computational overhead Design Styles 14
+computational overhead Combinational logic 34
+computational overhead Logic arrays 4
+computational overhead Parallel circuits 13
+computational overhead Sequential circuits 5
+computational overhead Reliability and Testing 585
+computational overhead Built-in tests 457
+computational overhead Error-checking 21
+computational overhead Redundant design 45
+computational overhead Test generation 196
+computational overhead Testability 6
+computational overhead Design Aids 39
+computational overhead Automatic synthesis 4
+computational overhead Hardware description languages 157
+computational overhead Optimization 668
+computational overhead Simulation 789
+computational overhead Switching theory 7
+computational overhead Verification 89
+computational overhead Miscellaneouscomputational overhead INTEGRATED CIRCUITS 37
+computational overhead General 1053
+computational overhead Types and Design Styles 134
+computational overhead Advanced technologies 110
+computational overhead Algorithms implemented in hardware 510
+computational overhead Gate arrays 4
+computational overhead Input/output circuits 141
+computational overhead Memory technologies 91
+computational overhead Microprocessors and microcomputers 18
+computational overhead Standard cells 17
+computational overhead VLSI 38
+computational overhead Design Aids 39
+computational overhead Graphics 79
+computational overhead Layout 27
+computational overhead Placement and routing 304
+computational overhead Simulation 789
+computational overhead Verification 89
+computational overhead Reliability and Testing 585
+computational overhead Built-in tests 457
+computational overhead Error-checking 21
+computational overhead Redundant design 45
+computational overhead Test generation 196
+computational overhead Testability 6
+computational overhead Miscellaneouscomputational overhead PERFORMANCE AND RELIABILITY 1615
+computational overhead General 1053
+computational overhead Reliability, Testing, and Fault-Tolerance 32
+computational overhead Performance Analysis and Design Aids 191
+computational overhead Miscellaneouscomputational overhead MISCELLANEOUScomputational overhead Design 694
+computational overhead GENERAL 1053
+computational overhead Hardware/software interfaces 302
+computational overhead Instruction set design 308
+computational overhead Modeling of computer architecture 4343
+computational overhead System architectures 190
+computational overhead Systems specification methodology 1125
+computational overhead PROCESSOR ARCHITECTURES 57
+computational overhead General 1053
+computational overhead Single Data Stream Architectures 78
+computational overhead Pipeline processors 10
+computational overhead RISC/CISC, VLIW architectures 4
+computational overhead Von Neumann architectures 8
+computational overhead Multiple Data Stream Architectures 98
+computational overhead Array and vector processors 62
+computational overhead Associative processors 15
+computational overhead Connection machines 14
+computational overhead Interconnection architectures 16
+computational overhead Multiple-instruction-stream, multiple-data-stream processors 6
+computational overhead Parallel processors 74
+computational overhead Pipeline processors 10
+computational overhead Single-instruction-stream, multiple-data-stream processors 4
+computational overhead Other Architecture Styles 133
+computational overhead Adaptable architectures 65
+computational overhead Analog computers 55
+computational overhead Capability architectures 37
+computational overhead Cellular architecture 12
+computational overhead Data-flow architectures 257
+computational overhead Heterogeneous 89
+computational overhead High-level language architectures 70
+computational overhead Neural nets 9
+computational overhead Pipeline processors 10
+computational overhead Stack-oriented processors 18
+computational overhead Parallel Architectures 85
+computational overhead Distributed architectures 111
+computational overhead Mobile processors 14
+computational overhead Miscellaneouscomputational overhead Analog 55
+computational overhead Hybrid 147
+computational overhead COMPUTER-COMMUNICATION NETWORKS 1309
+computational overhead General 1053
+computational overhead Data communications 364
+computational overhead Open Systems Interconnection reference model 24
+computational overhead Security and protection 1679
+computational overhead Network Architecture and Design 1798
+computational overhead Asynchronous Transfer Mode 20
+computational overhead Centralized networks 116
+computational overhead Circuit-switching networks 105
+computational overhead Distributed networks 434
+computational overhead Frame relay networks 70
+computational overhead ISDN 2
+computational overhead Network communications 524
+computational overhead Network topology 143
+computational overhead Packet-switching networks 277
+computational overhead Store and forward networks 222
+computational overhead Wireless communication 287
+computational overhead Network Protocols 347
+computational overhead Applications 1063
+computational overhead Protocol architecture 80
+computational overhead Protocol verification 36
+computational overhead Routing protocols 163
+computational overhead Network Operations 282
+computational overhead Network management 228
+computational overhead Network monitoring 104
+computational overhead Public networks 114
+computational overhead Distributed Systems 430
+computational overhead Client/server 60
+computational overhead Distributed applications 359
+computational overhead Distributed databases 62
+computational overhead Network operating systems 3397
+computational overhead Local and Wide-Area Networks 144
+computational overhead Access schemes 142
+computational overhead Buses 4
+computational overhead Ethernet 9
+computational overhead High-speed 134
+computational overhead Internet 179
+computational overhead Token ringscomputational overhead Internetworking 4
+computational overhead Routers 80
+computational overhead Standards 367
+computational overhead Miscellaneouscomputational overhead SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 99
+computational overhead Microprocessor/microcomputer applications 13
+computational overhead Process control systems 1167
+computational overhead Real-time and embedded systems 307
+computational overhead Signal processing systems 873
+computational overhead Smartcards 7
+computational overhead PERFORMANCE OF SYSTEMS 4354
+computational overhead Design studies 239
+computational overhead Fault tolerance 70
+computational overhead Measurement techniques 216
+computational overhead Modeling techniques 483
+computational overhead Performance attributes 62
+computational overhead Reliability, availability, and serviceability 123
+computational overhead COMPUTER SYSTEM IMPLEMENTATION 1545
+computational overhead General 1053
+computational overhead Large and Medium 790
+computational overhead Super 16
+computational overhead Minicomputerscomputational overhead Microcomputers 1
+computational overhead Microprocessors 17
+computational overhead Personal computers 62
+computational overhead Portable devices 19
+computational overhead Workstations 23
+computational overhead VLSI Systems 21
+computational overhead Servers 182
+computational overhead Miscellaneouscomputational overhead MISCELLANEOUScomputational overhead GENERAL 1053
+computational overhead PROGRAMMING TECHNIQUES 134
+computational overhead General 1053
+computational overhead Applicative 1063
+computational overhead Automatic Programming 27
+computational overhead Concurrent Programming 22
+computational overhead Distributed programming 77
+computational overhead Parallel programming 52
+computational overhead Sequential Programming 20
+computational overhead Object-oriented Programming 130
+computational overhead Logic Programming 39
+computational overhead Visual Programming 9
+computational overhead Miscellaneouscomputational overhead SOFTWARE ENGINEERING 43
+computational overhead General 1053
+computational overhead Protection mechanisms 58
+computational overhead Standards 367
+computational overhead Requirements/Specifications 217
+computational overhead Elicitation methods 1
+computational overhead Languages 93
+computational overhead Methodologies 119
+computational overhead Tools 195
+computational overhead Design Tools and Techniques 720
+computational overhead Computer-aided software engineering 56
+computational overhead Decision tables 18
+computational overhead Evolutionary prototyping 1
+computational overhead Flow chartscomputational overhead Modules and interfaces 317
+computational overhead Object-oriented design methods 114
+computational overhead Petri nets 4
+computational overhead Programmer workbenchcomputational overhead Software libraries 7
+computational overhead State diagrams 9
+computational overhead Structured programming 80
+computational overhead Top-down programming 34
+computational overhead User interfaces 40
+computational overhead Coding Tools and Techniques 590
+computational overhead Object-oriented programming 130
+computational overhead Pretty printerscomputational overhead Program editorscomputational overhead Reentrant codecomputational overhead Standards 367
+computational overhead Structured programming 80
+computational overhead Top-down programming 34
+computational overhead Software/Program Verification 219
+computational overhead Assertion checkerscomputational overhead Class invariants 7
+computational overhead Correctness proofs 24
+computational overhead Formal methods 64
+computational overhead Model checking 48
+computational overhead Programming by contract 499
+computational overhead Reliability 155
+computational overhead Statistical methods 162
+computational overhead Validation 220
+computational overhead Testing and Debugging 388
+computational overhead Code inspections and walk-throughs 2
+computational overhead Debugging aidscomputational overhead Diagnostics 9
+computational overhead Distributed debugging 1
+computational overhead Dumps 3
+computational overhead Error handling and recovery 59
+computational overhead Monitors 144
+computational overhead Symbolic execution 4
+computational overhead Testing tools 44
+computational overhead Tracing 128
+computational overhead Programming Environments 52
+computational overhead Graphical environments 17
+computational overhead Integrated environments 88
+computational overhead Interactive environments 53
+computational overhead Programmer workbenchcomputational overhead Distribution, Maintenance, and Enhancement 116
+computational overhead Corrections 193
+computational overhead Documentation 1
+computational overhead Enhancement 276
+computational overhead Extensibility 368
+computational overhead Portability 26
+computational overhead Restructuring, reverse engineering, and reengineeringcomputational overhead Version control 48
+computational overhead Metrics 187
+computational overhead Complexity measures 142
+computational overhead Performance measures 275
+computational overhead Process metrics 77
+computational overhead Product metrics 9
+computational overhead Software science 36
+computational overhead Management 351
+computational overhead Copyrights 7
+computational overhead Cost estimation 132
+computational overhead Life cycle 5
+computational overhead Productivity 119
+computational overhead Programming teams 9
+computational overhead Software configuration management 230
+computational overhead Software process models 1987
+computational overhead Software quality assurance 170
+computational overhead Time estimation 297
+computational overhead Design 694
+computational overhead Methodologies 119
+computational overhead Representation 191
+computational overhead Software Architectures 51
+computational overhead Data abstraction 53
+computational overhead Domain-specific architectures 231
+computational overhead Information hiding 29
+computational overhead Languages 93
+computational overhead Patterns 262
+computational overhead Interoperability 12
+computational overhead Data mapping 138
+computational overhead Distributed objects 127
+computational overhead Interface definition languages 69
+computational overhead Reusable Software 2
+computational overhead Domain engineering 46
+computational overhead Reusable libraries 2
+computational overhead Reuse models 14
+computational overhead Miscellaneouscomputational overhead Rapid 53
+computational overhead Reusable 7
+computational overhead PROGRAMMING LANGUAGES 40
+computational overhead General 1053
+computational overhead Standards 367
+computational overhead Formal Definitions and Theory 69
+computational overhead Semantics 75
+computational overhead Syntax 16
+computational overhead Language Classifications 10
+computational overhead Applicative 1063
+computational overhead Concurrent, distributed, and parallel languages 29
+computational overhead Constraint and logic languages 50
+computational overhead Data-flow languages 152
+computational overhead Design languages 37
+computational overhead Extensible languages 18
+computational overhead Microprogramming languagescomputational overhead Multiparadigm languagescomputational overhead Nondeterministic languagescomputational overhead Nonprocedural languagescomputational overhead Object-oriented languages 92
+computational overhead Specialized application languages 150
+computational overhead Very high-level languages 104
+computational overhead Language Constructs and Features 177
+computational overhead Abstract data types 241
+computational overhead Classes and objects 568
+computational overhead Concurrent programming structures 113
+computational overhead Constraints 281
+computational overhead Control structures 104
+computational overhead Coroutinescomputational overhead Data types and structures 536
+computational overhead Dynamic storage management 211
+computational overhead Frameworks 319
+computational overhead Inheritance 18
+computational overhead Input/output 112
+computational overhead Modules, packages 5
+computational overhead Patterns 262
+computational overhead Polymorphism 2
+computational overhead Procedures, functions, and subroutines 88
+computational overhead Recursion 83
+computational overhead Processors 148
+computational overhead Code generation 203
+computational overhead Compilers 46
+computational overhead Debuggerscomputational overhead Incremental compilerscomputational overhead Interpreters 50
+computational overhead Memory management 62
+computational overhead Optimization

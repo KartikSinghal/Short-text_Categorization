@@ -1,0 +1,1333 @@
+semi automatic abstraction DOCUMENT AND TEXT PROCESSING 2
+semi automatic abstraction General 1
+semi automatic abstraction Document and Text Editingsemi automatic abstraction Document management 4
+semi automatic abstraction Languages 2
+semi automatic abstraction Spellingsemi automatic abstraction Version control 1
+semi automatic abstraction Document Preparation 1
+semi automatic abstraction Desktop publishingsemi automatic abstraction Format and notationsemi automatic abstraction Hypertext/hypermedia 1
+semi automatic abstraction Index generation 10
+semi automatic abstraction Languages and systems 5
+semi automatic abstraction Markup languages 3
+semi automatic abstraction Multi/mixed mediasemi automatic abstraction Scripting languages 2
+semi automatic abstraction Standardssemi automatic abstraction Index Generation 10
+semi automatic abstraction Electronic Publishingsemi automatic abstraction Document Capture 1
+semi automatic abstraction Document analysis 1
+semi automatic abstraction Optical character recognitionsemi automatic abstraction Scanningsemi automatic abstraction Miscellaneoussemi automatic abstraction MISCELLANEOUSsemi automatic abstraction GENERAL 1
+semi automatic abstraction ADMINISTRATIVE DATA PROCESSINGsemi automatic abstraction Business 1
+semi automatic abstraction Educationsemi automatic abstraction Financialsemi automatic abstraction Governmentsemi automatic abstraction Lawsemi automatic abstraction Manufacturingsemi automatic abstraction Marketingsemi automatic abstraction Militarysemi automatic abstraction PHYSICAL SCIENCES AND ENGINEERINGsemi automatic abstraction Aerospacesemi automatic abstraction Archaeologysemi automatic abstraction Astronomysemi automatic abstraction Chemistrysemi automatic abstraction Earth and atmospheric sciencessemi automatic abstraction Electronicssemi automatic abstraction Engineering 1
+semi automatic abstraction Mathematics and statisticssemi automatic abstraction Physics 1
+semi automatic abstraction LIFE AND MEDICAL SCIENCESsemi automatic abstraction Biology and geneticssemi automatic abstraction Healthsemi automatic abstraction Medical information systems 1
+semi automatic abstraction SOCIAL AND BEHAVIORAL SCIENCESsemi automatic abstraction Economicssemi automatic abstraction Psychologysemi automatic abstraction Sociologysemi automatic abstraction ARTS AND HUMANITIESsemi automatic abstraction Architecture 2
+semi automatic abstraction Fine artssemi automatic abstraction Language translation 2
+semi automatic abstraction Linguisticssemi automatic abstraction Literature 1
+semi automatic abstraction Musicsemi automatic abstraction Performing artssemi automatic abstraction COMPUTER-AIDED ENGINEERINGsemi automatic abstraction Computer-aided design 2
+semi automatic abstraction Computer-aided manufacturingsemi automatic abstraction COMPUTERS IN OTHER SYSTEMS 3
+semi automatic abstraction Command and controlsemi automatic abstraction Consumer productssemi automatic abstraction Industrial control 2
+semi automatic abstraction Militarysemi automatic abstraction Process control 17
+semi automatic abstraction Publishingsemi automatic abstraction Real time 4
+semi automatic abstraction MISCELLANEOUSsemi automatic abstraction GENERAL 1
+semi automatic abstraction THE COMPUTER INDUSTRY 1
+semi automatic abstraction Marketssemi automatic abstraction Standardssemi automatic abstraction Statisticssemi automatic abstraction Supplierssemi automatic abstraction HISTORY OF COMPUTINGsemi automatic abstraction Hardwaresemi automatic abstraction Peoplesemi automatic abstraction Software 3
+semi automatic abstraction Systems 3
+semi automatic abstraction Theorysemi automatic abstraction COMPUTERS AND EDUCATION 1
+semi automatic abstraction General 1
+semi automatic abstraction Computer Uses in Educationsemi automatic abstraction Collaborative learningsemi automatic abstraction Computer-assisted instructionsemi automatic abstraction Computer-managed instructionsemi automatic abstraction Distance learningsemi automatic abstraction Computer and Information Science Educationsemi automatic abstraction Accreditationsemi automatic abstraction Computer science educationsemi automatic abstraction Curriculumsemi automatic abstraction Information systems education 2
+semi automatic abstraction Literacysemi automatic abstraction Self-assessment 1
+semi automatic abstraction Miscellaneoussemi automatic abstraction Accreditationsemi automatic abstraction Computersemi automatic abstraction COMPUTERS AND SOCIETY 2
+semi automatic abstraction General 1
+semi automatic abstraction Public Policy Issuessemi automatic abstraction Computer-related health issuessemi automatic abstraction Ethicssemi automatic abstraction Human safetysemi automatic abstraction Intellectual property rightssemi automatic abstraction Privacysemi automatic abstraction Regulationsemi automatic abstraction Transborder data flowsemi automatic abstraction Social Issues 1
+semi automatic abstraction Assistive technologies for persons with disabilitiessemi automatic abstraction Employmentsemi automatic abstraction Handicapped persons/special needssemi automatic abstraction Organizational Impactssemi automatic abstraction Automation 1
+semi automatic abstraction Computer-supported collaborative worksemi automatic abstraction Employmentsemi automatic abstraction Reengineering 1
+semi automatic abstraction Electronic Commercesemi automatic abstraction Electronic data interchangesemi automatic abstraction Intellectual property 1
+semi automatic abstraction Payment schemessemi automatic abstraction Securitysemi automatic abstraction Miscellaneoussemi automatic abstraction LEGAL ASPECTS OF COMPUTINGsemi automatic abstraction General 1
+semi automatic abstraction Hardware/Software Protectionsemi automatic abstraction Copyrightssemi automatic abstraction Licensingsemi automatic abstraction Patentssemi automatic abstraction Proprietary rightssemi automatic abstraction Trade secretssemi automatic abstraction Governmental Issuessemi automatic abstraction Censorshipsemi automatic abstraction Regulationsemi automatic abstraction Taxationsemi automatic abstraction Miscellaneoussemi automatic abstraction Contractssemi automatic abstraction Hardwaresemi automatic abstraction MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMSsemi automatic abstraction General 1
+semi automatic abstraction Economicssemi automatic abstraction Project and People Managementsemi automatic abstraction Life cyclesemi automatic abstraction Management techniques 4
+semi automatic abstraction Staffingsemi automatic abstraction Strategic information systems planningsemi automatic abstraction Systems analysis and design 17
+semi automatic abstraction Systems development 68
+semi automatic abstraction Trainingsemi automatic abstraction Installation Management 1
+semi automatic abstraction Benchmarkssemi automatic abstraction Computer selection 2
+semi automatic abstraction Pricing and resource allocationsemi automatic abstraction Software Management 3
+semi automatic abstraction Software development 13
+semi automatic abstraction Software maintenance 4
+semi automatic abstraction Software process 14
+semi automatic abstraction Software selection 10
+semi automatic abstraction System Management 11
+semi automatic abstraction Centralization/decentralizationsemi automatic abstraction Management audit 1
+semi automatic abstraction Quality assurance 2
+semi automatic abstraction Security and Protectionsemi automatic abstraction Authenticationsemi automatic abstraction Insurancesemi automatic abstraction Invasive software 3
+semi automatic abstraction Physical security 1
+semi automatic abstraction Unauthorized accesssemi automatic abstraction Miscellaneoussemi automatic abstraction Insurancesemi automatic abstraction Securitysemi automatic abstraction THE COMPUTING PROFESSIONsemi automatic abstraction General 1
+semi automatic abstraction Occupationssemi automatic abstraction Organizations 1
+semi automatic abstraction Testing, Certification, and Licensingsemi automatic abstraction Professional Ethicssemi automatic abstraction Codes of ethics 2
+semi automatic abstraction Codes of good practicesemi automatic abstraction Ethical dilemmassemi automatic abstraction Miscellaneoussemi automatic abstraction Codes 2
+semi automatic abstraction Ethicssemi automatic abstraction PERSONAL COMPUTINGsemi automatic abstraction Gamessemi automatic abstraction General 1
+semi automatic abstraction Gamessemi automatic abstraction Application Packages 2
+semi automatic abstraction Data communications 2
+semi automatic abstraction Database processing 3
+semi automatic abstraction Freeware/sharewaresemi automatic abstraction Graphicssemi automatic abstraction Spreadsheetssemi automatic abstraction Word processing 4
+semi automatic abstraction Hardwaresemi automatic abstraction Management/Maintenance 2
+semi automatic abstraction Miscellaneoussemi automatic abstraction MISCELLANEOUSsoftware systems GENERAL 9324
+software systems Biographies autobiographiessoftware systems Conference proceedings 135
+software systems INTRODUCTORY AND SURVEY 1321
+software systems REFERENCE 3100
+software systems MISCELLANEOUS 13
+software systems GENERAL 9324
+software systems CONTROL STRUCTURES AND MICROPROGRAMMING 1601
+software systems General 9324
+software systems Control Design Styles 3465
+software systems Hardwired control 6
+software systems Writable control store 340
+software systems Automatic synthesis 146
+software systems Formal models 3019
+software systems Simulation 2911
+software systems Control Structure Reliability, Testing, and Fault-Tolerance 109
+software systems Diagnostics 233
+software systems Error-checking 483
+software systems Redundant design 245
+software systems Test generation 2425
+software systems Firmware engineering 7
+software systems Languages and compilers 7030
+software systems Optimization 2394
+software systems Verification 1754
+software systems Direct data manipulation 1472
+software systems Instruction set interpretation 828
+software systems Peripheral control 22
+software systems Special-purpose 507
+software systems Miscellaneous 13
+software systems General 9324
+software systems Design Styles 805
+software systems Calculator 1337
+software systems Parallel 1569
+software systems Pipeline 242
+software systems Performance Analysis and Design Aids 2519
+software systems Simulation 2911
+software systems Verification 1754
+software systems Worst-case analysis 2958
+software systems Reliability, Testing, and Fault-Tolerance 701
+software systems Diagnostics 233
+software systems Error-checking 483
+software systems Redundant design 245
+software systems Test generation 2425
+software systems High-Speed Arithmetic 426
+software systems Algorithms 4504
+software systems Cost/performance 1327
+software systems Miscellaneous 13
+software systems MEMORY STRUCTURES 441
+software systems General 9324
+software systems Semiconductor Memories 12
+software systems Dynamic memory 432
+software systems Read-only memory 669
+software systems Static memory 223
+software systems Design Styles 805
+software systems Associative memories 156
+software systems Cache memories 133
+software systems Interleaved memories 37
+software systems Mass storage 26
+software systems Primary memory 59
+software systems Sequential-access memory 435
+software systems Shared memory 316
+software systems Virtual memory 198
+software systems Performance Analysis and Design Aids 2519
+software systems Formal models 3019
+software systems Simulation 2911
+software systems Worst-case analysis 2958
+software systems Reliability, Testing, and Fault-Tolerance 701
+software systems Diagnostics 233
+software systems Error-checking 483
+software systems Redundant design 245
+software systems Test generation 2425
+software systems Miscellaneous 13
+software systems INPUT/OUTPUT AND DATA COMMUNICATIONS 763
+software systems General 9324
+software systems Data Communications Devices 2518
+software systems Processors 905
+software systems Receivers 895
+software systems Transmitters 18
+software systems Input/Output Devices 986
+software systems Channels and controllers 2096
+software systems Image display 189
+software systems Voice 128
+software systems Interconnections 476
+software systems Asynchronous/synchronous operation 547
+software systems Fiber optics 37
+software systems Interfaces 3815
+software systems Parallel I/O 994
+software systems Physical structures 488
+software systems Topology 316
+software systems Performance Analysis and Design Aids 2519
+software systems Formal models 3019
+software systems Simulation 2911
+software systems Verification 1754
+software systems Worst-case analysis 2958
+software systems Reliability, Testing, and Fault-Tolerance 701
+software systems Built-in tests 6561
+software systems Diagnostics 233
+software systems Error-checking 483
+software systems Hardware reliability 459
+software systems Redundant design 245
+software systems Test generation 2425
+software systems Miscellaneous 13
+software systems REGISTER-TRANSFER-LEVEL IMPLEMENTATION 187
+software systems General 9324
+software systems Design 11815
+software systems Arithmetic and logic units 345
+software systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control designsoftware systems Control design 2791
+software systems Data-path design 4812
+software systems Memory design 659
+software systems Styles 1169
+software systems Design Aids 839
+software systems Automatic synthesis 146
+software systems Hardware description languages 2635
+software systems Optimization 2394
+software systems Simulation 2911
+software systems Verification 1754
+software systems Reliability and Testing 8619
+software systems Built-in tests 6561
+software systems Error-checking 483
+software systems Redundant design 245
+software systems Test generation 2425
+software systems Testability 154
+software systems Miscellaneous 13
+software systems LOGIC DESIGN 1559
+software systems General 9324
+software systems Design Styles 805
+software systems Combinational logic 641
+software systems Logic arrays 83
+software systems Parallel circuits 57
+software systems Sequential circuits 34
+software systems Reliability and Testing 8619
+software systems Built-in tests 6561
+software systems Error-checking 483
+software systems Redundant design 245
+software systems Test generation 2425
+software systems Testability 154
+software systems Design Aids 839
+software systems Automatic synthesis 146
+software systems Hardware description languages 2635
+software systems Optimization 2394
+software systems Simulation 2911
+software systems Switching theory 50
+software systems Verification 1754
+software systems Miscellaneous 13
+software systems INTEGRATED CIRCUITS 188
+software systems General 9324
+software systems Types and Design Styles 3081
+software systems Advanced technologies 1150
+software systems Algorithms implemented in hardware 2600
+software systems Gate arrays 63
+software systems Input/output circuits 958
+software systems Memory technologies 409
+software systems Microprocessors and microcomputers 273
+software systems Standard cells 89
+software systems VLSI 116
+software systems Design Aids 839
+software systems Graphics 1779
+software systems Layout 381
+software systems Placement and routing 504
+software systems Simulation 2911
+software systems Verification 1754
+software systems Reliability and Testing 8619
+software systems Built-in tests 6561
+software systems Error-checking 483
+software systems Redundant design 245
+software systems Test generation 2425
+software systems Testability 154
+software systems Miscellaneous 13
+software systems PERFORMANCE AND RELIABILITY 12078
+software systems General 9324
+software systems Reliability, Testing, and Fault-Tolerance 701
+software systems Performance Analysis and Design Aids 2519
+software systems Miscellaneous 13
+software systems MISCELLANEOUS 13
+software systems Design 11815
+software systems GENERAL 9324
+software systems Hardware/software interfaces 6487
+software systems Instruction set design 4002
+software systems Modeling of computer architecture 9124
+software systems System architectures 6425
+software systems Systems specification methodology 9182
+software systems PROCESSOR ARCHITECTURES 414
+software systems General 9324
+software systems Single Data Stream Architectures 514
+software systems Pipeline processors 56
+software systems RISC/CISC, VLIW architectures 1
+software systems Von Neumann architectures 116
+software systems Multiple Data Stream Architectures 621
+software systems Array and vector processors 155
+software systems Associative processors 109
+software systems Connection machines 237
+software systems Interconnection architectures 256
+software systems Multiple-instruction-stream, multiple-data-stream processors 17
+software systems Parallel processors 293
+software systems Pipeline processors 56
+software systems Single-instruction-stream, multiple-data-stream processors 12
+software systems Other Architecture Styles 3279
+software systems Adaptable architectures 1421
+software systems Analog computers 170
+software systems Capability architectures 966
+software systems Cellular architecture 21
+software systems Data-flow architectures 3116
+software systems Heterogeneous 994
+software systems High-level language architectures 2471
+software systems Neural nets 46
+software systems Pipeline processors 56
+software systems Stack-oriented processors 276
+software systems Parallel Architectures 605
+software systems Distributed architectures 1946
+software systems Mobile processors 38
+software systems Miscellaneous 13
+software systems Analog 313
+software systems Hybrid 534
+software systems COMPUTER-COMMUNICATION NETWORKS 4501
+software systems General 9324
+software systems Data communications 1961
+software systems Open Systems Interconnection reference model 453
+software systems Security and protection 2796
+software systems Network Architecture and Design 5769
+software systems Asynchronous Transfer Mode 100
+software systems Centralized networks 255
+software systems Circuit-switching networks 274
+software systems Distributed networks 1471
+software systems Frame relay networks 136
+software systems ISDN 19
+software systems Network communications 1302
+software systems Network topology 142
+software systems Packet-switching networks 277
+software systems Store and forward networks 441
+software systems Wireless communication 216
+software systems Network Protocols 575
+software systems Applications 10138
+software systems Protocol architecture 686
+software systems Protocol verification 237
+software systems Routing protocols 93
+software systems Network Operations 1214
+software systems Network management 1150
+software systems Network monitoring 504
+software systems Public networks 192
+software systems Distributed Systems 4713
+software systems Client/server 498
+software systems Distributed applications 2635
+software systems Distributed databases 505
+software systems Network operating systems 9050
+software systems Local and Wide-Area Networks 395
+software systems Access schemes 181
+software systems Buses 37
+software systems Ethernet 71
+software systems High-speed 375
+software systems Internet 992
+software systems Token rings 10
+software systems Internetworking 10
+software systems Routers 85
+software systems Standards 3530
+software systems Miscellaneous 13
+software systems SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 1930
+software systems Microprocessor/microcomputer applications 143
+software systems Process control systems 13729
+software systems Real-time and embedded systems 3201
+software systems Signal processing systems 11752
+software systems Smartcards 2
+software systems PERFORMANCE OF SYSTEMS 66817
+software systems Design studies 3840
+software systems Fault tolerance 595
+software systems Measurement techniques 1556
+software systems Modeling techniques 4796
+software systems Performance attributes 700
+software systems Reliability, availability, and serviceability 1793
+software systems COMPUTER SYSTEM IMPLEMENTATION 14280
+software systems General 9324
+software systems Large and Medium 6296
+software systems Super 116
+software systems Minicomputers 60
+software systems Microcomputers 86
+software systems Microprocessors 202
+software systems Personal computers 441
+software systems Portable devices 47
+software systems Workstations 335
+software systems VLSI Systems 116
+software systems Servers 1241
+software systems Miscellaneous 13
+software systems MISCELLANEOUS 13
+software systems GENERAL 9324
+software systems PROGRAMMING TECHNIQUES 3351
+software systems General 9324
+software systems Applicative 10138
+software systems Automatic Programming 1588
+software systems Concurrent Programming 804
+software systems Distributed programming 1671
+software systems Parallel programming 758
+software systems Sequential Programming 364
+software systems Object-oriented Programming 5341
+software systems Logic Programming 1275
+software systems Visual Programming 936
+software systems Miscellaneous 13
+software systems SOFTWARE ENGINEERING 8761
+software systems General 9324
+software systems Protection mechanisms 174
+software systems Standards 3530
+software systems Requirements/Specifications 3900
+software systems Elicitation methods 215
+software systems Languages 6406
+software systems Methodologies 2833
+software systems Tools 7753
+software systems Design Tools and Techniques 10104
+software systems Computer-aided software engineering 4143
+software systems Decision tables 196
+software systems Evolutionary prototyping 75
+software systems Flow charts 69
+software systems Modules and interfaces 5942
+software systems Object-oriented design methods 3915
+software systems Petri nets 582
+software systems Programmer workbench 12
+software systems Software libraries 1378
+software systems State diagrams 739
+software systems Structured programming 2862
+software systems Top-down programming 804
+software systems User interfaces 1788
+software systems Coding Tools and Techniques 5779
+software systems Object-oriented programming 5341
+software systems Pretty printers 9
+software systems Program editors 193
+software systems Reentrant code 5
+software systems Standards 3530
+software systems Structured programming 2862
+software systems Top-down programming 804
+software systems Software/Program Verification 8889
+software systems Assertion checkers 65
+software systems Class invariants 158
+software systems Correctness proofs 271
+software systems Formal methods 2103
+software systems Model checking 1627
+software systems Programming by contract 6366
+software systems Reliability 2767
+software systems Statistical methods 682
+software systems Validation 2745
+software systems Testing and Debugging 5392
+software systems Code inspections and walk-throughs 100
+software systems Debugging aids 59
+software systems Diagnostics 233
+software systems Distributed debugging 142
+software systems Dumps 20
+software systems Error handling and recovery 523
+software systems Monitors 1927
+software systems Symbolic execution 262
+software systems Testing tools 1875
+software systems Tracing 1079
+software systems Programming Environments 2237
+software systems Graphical environments 591
+software systems Integrated environments 2135
+software systems Interactive environments 1647
+software systems Programmer workbench 12
+software systems Distribution, Maintenance, and Enhancement 1061
+software systems Corrections 2175
+software systems Documentation 901
+software systems Enhancement 1902
+software systems Extensibility 3488
+software systems Portability 426
+software systems Restructuring, reverse engineering, and reengineering 239
+software systems Version control 721
+software systems Metrics 1926
+software systems Complexity measures 1257
+software systems Performance measures 1643
+software systems Process metrics 1056
+software systems Product metrics 523
+software systems Software science 3752
+software systems Management 5612
+software systems Copyrights 59
+software systems Cost estimation 554
+software systems Life cycle 945
+software systems Productivity 4066
+software systems Programming teams 385
+software systems Software configuration management 6703
+software systems Software process models 16601
+software systems Software quality assurance 4505
+software systems Time estimation 927
+software systems Design 11815
+software systems Methodologies 2833
+software systems Representation 2499
+software systems Software Architectures 6425
+software systems Data abstraction 1604
+software systems Domain-specific architectures 4408
+software systems Information hiding 187
+software systems Languages 6406
+software systems Patterns 2894
+software systems Interoperability 648
+software systems Data mapping 1029
+software systems Distributed objects 1620
+software systems Interface definition languages 2541
+software systems Reusable Software 1194
+software systems Domain engineering 1951
+software systems Reusable libraries 190
+software systems Reuse models 1143
+software systems Miscellaneous 13
+software systems Rapid 886
+software systems Reusable 1194
+software systems PROGRAMMING LANGUAGES 3533
+software systems General 9324
+software systems Standards 3530
+software systems Formal Definitions and Theory 1702
+software systems Semantics 2620
+software systems Syntax 689
+software systems Language Classifications 276
+software systems Applicative 10138
+software systems Concurrent, distributed, and parallel languages 620
+software systems Constraint and logic languages 2196
+software systems Data-flow languages 3197
+software systems Design languages 3873
+software systems Extensible languages 1695
+software systems Microprogramming languages 6
+software systems Multiparadigm languages 9
+software systems Nondeterministic languages 51
+software systems Nonprocedural languages 3
+software systems Object-oriented languages 5160
+software systems Specialized application languages 4224
+software systems Very high-level languages 1809
+software systems Language Constructs and Features 3120
+software systems Abstract data types 3578
+software systems Classes and objects 8121
+software systems Concurrent programming structures 3543
+software systems Constraints 2187
+software systems Control structures 1602
+software systems Coroutines 12
+software systems Data types and structures 4949
+software systems Dynamic storage management 1603
+software systems Frameworks 4779
+software systems Inheritance 664
+software systems Input/output 828
+software systems Modules, packages 250
+software systems Patterns 2894
+software systems Polymorphism 224
+software systems Procedures, functions, and subroutines 853
+software systems Recursion 371
+software systems Processors 905
+software systems Code generation 3050
+software systems Compilers 1233
+software systems Debuggers 100
+software systems Incremental compilers 70
+software systems Interpreters 1327
+software systems Memory management 367
+software systems Optimization 2394
+software systems Parsing 306
+software systems Preprocessors 49
+software systems Retargetable compilers 13
+software systems Run-time environments 4084
+software systems Translator writing systems and compiler generators 258
+software systems Miscellaneous 13
+software systems OPERATING SYSTEMS 6021
+software systems General 9324
+software systems Process Management 3070
+software systems Concurrency 1459
+software systems Deadlocks 213
+software systems Multiprocessing/multiprogramming/multitasking 1
+software systems Mutual exclusion 56
+software systems Scheduling 1156
+software systems Synchronization 840
+software systems Threads 494
+software systems Storage Management 295
+software systems Allocation/deallocation strategies 124
+software systems Distributed memories 347
+software systems Garbage collection 71
+software systems Main memory 205
+software systems Secondary storage 11
+software systems Segmentation 512
+software systems Storage hierarchies 25
+software systems Swapping 67
+software systems Virtual memory 198
+software systems File Systems Management 6728
+software systems Access methods 812
+software systems Directory structures 76
+software systems Distributed file systems 5928
+software systems File organization 230
+software systems Maintenance 2573
+software systems Communications Management 1434
+software systems Buffering 242
+software systems Input/output 828
+software systems Message sending 138
+software systems Network communication 1302
+software systems Terminal management 98
+software systems Reliability 2767
+software systems Backup proceduressoftware systems Checkpoint/restart 21
+software systems Fault-tolerance 595
+software systems Verification 1754
+software systems Security and Protection 2796
+software systems Access controls 783
+software systems Authentication 195
+software systems Cryptographic controls 35
+software systems Information flow controls 2643
+software systems Invasive software 88
+software systems Security kernels 74
+software systems Verification 1754
+software systems Organization and Design 13319
+software systems Batch processing systems 10858
+software systems Distributed systems 4713
+software systems Hierarchical design 637
+software systems Interactive systems 4821
+software systems Real-time systems and embedded systems 3201
+software systems Performance 6963
+software systems Measurements 3649
+software systems Modeling and prediction 16419
+software systems Monitors 1927
+software systems Operational analysis 2289
+software systems Queueing theory 72
+software systems Simulation 2911
+software systems Stochastic analysis 308
+software systems Command and control languages 1877
+software systems Linkers 29
+software systems Loaders 37
+software systems Window managers 166
+software systems Miscellaneous 13
+software systems MISCELLANEOUS 13
+software systems Software 25267
+software systems GENERAL 9324
+software systems DATA STRUCTURES 2898
+software systems Arrays 523
+software systems Distributed data structures 5002
+software systems Graphs and networks 5321
+software systems Lists, stacks, and queues 75
+software systems Records 1054
+software systems Tables 1156
+software systems Trees 1216
+software systems DATA STORAGE REPRESENTATIONS 1600
+software systems Composite structures 826
+software systems Contiguous representations 2
+software systems Hash-table representations 264
+software systems Linked representations 248
+software systems Object representation 1024
+software systems Primitive data items 490
+software systems DATA ENCRYPTION 78
+software systems Code breaking 126
+software systems Data encryption standard 1614
+software systems Public key cryptosystems 163
+software systems Standards 3530
+software systems CODING AND INFORMATION THEORY 3291
+software systems Data compaction and compression 257
+software systems Error control codes 2301
+software systems Formal models of communication 5046
+software systems Nonsecret encoding schemes 61
+software systems FILES 1574
+software systems Backup/recovery 13
+software systems Optimization 2394
+software systems Organization/structure 1024
+software systems Sorting/searching 55
+software systems MISCELLANEOUS 13
+software systems GENERAL 9324
+software systems COMPUTATION BY ABSTRACT DEVICES 1968
+software systems General 9324
+software systems Models of Computation 26207
+software systems Automata 400
+software systems Bounded-action devices 214
+software systems Computability theory 1166
+software systems Relations between models 7372
+software systems Self-modifying machines 497
+software systems Unbounded-action devices 104
+software systems Modes of Computation 10256
+software systems Alternation and nondeterminism 1735
+software systems Interactive and reactive computation 2461
+software systems Online computation 276
+software systems Parallelism and concurrency 2723
+software systems Probabilistic computation 236
+software systems Relations among modes 1313
+software systems Relativized computation 2
+software systems Complexity Measures and Classes 2713
+software systems Complexity hierarchies 383
+software systems Machine-independent complexity 1655
+software systems Reducibility and completeness 5344
+software systems Relations among complexity classes 1326
+software systems Relations among complexity measures 1184
+software systems Miscellaneous 13
+software systems ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 2879
+software systems General 9324
+software systems Numerical Algorithms and Problems 3045
+software systems Computation of transforms 12112
+software systems Computations in finite fields 1645
+software systems Computations on matrices 9003
+software systems Computations on polynomials 8841
+software systems Number-theoretic computations 3076
+software systems Nonnumerical Algorithms and Problems 2224
+software systems Computations on discrete structures 3027
+software systems Geometrical problems and computations 3688
+software systems Pattern matching 384
+software systems Routing and layout 747
+software systems Sequencing and scheduling 2763
+software systems Sorting and searching 1793
+software systems Tradeoffs between Complexity Measures 754
+software systems Miscellaneous 13
+software systems LOGICS AND MEANINGS OF PROGRAMS 2548
+software systems General 9324
+software systems Assertions 385
+software systems Invariants 459
+software systems Logics of programs 9308
+software systems Mechanical verification 310
+software systems Pre- and post-conditions 375
+software systems Specification techniques 3250
+software systems Semantics of Programming Languages 4583
+software systems Algebraic approaches to semantics 2172
+software systems Denotational semantics 165
+software systems Operational semantics 1024
+software systems Partial evaluation 291
+software systems Process models 6355
+software systems Program analysis 3210
+software systems Studies of Program Constructs 4592
+software systems Control primitives 165
+software systems Functional constructs 1488
+software systems Object-oriented constructs 4549
+software systems Program and recursion schemes 697
+software systems Type structure 1782
+software systems Miscellaneous 13
+software systems MATHEMATICAL LOGIC AND FORMAL LANGUAGES 1013
+software systems General 9324
+software systems Mathematical Logic 271
+software systems Computability theory 1166
+software systems Computational logic 1326
+software systems Lambda calculus and related systems 282
+software systems Logic and constraint programming 2206
+software systems Mechanical theorem proving 532
+software systems Modal logic 131
+software systems Model theory 1458
+software systems Proof theory 227
+software systems Recursive function theory 973
+software systems Set theory 936
+software systems Temporal logic 522
+software systems Grammars and Other Rewriting Systems 311
+software systems Decision problems 1098
+software systems Grammar types 106
+software systems Parallel rewriting systems 1801
+software systems Parsing 306
+software systems Thue systemssoftware systems Formal Languages 2233
+software systems Algebraic language theory 1281
+software systems Classes defined by grammars or automata 101
+software systems Decision problems 1098
+software systems Operations on languages 9770
+software systems Miscellaneous 13
+software systems MISCELLANEOUS 13
+software systems GENERAL 9324
+software systems NUMERICAL ANALYSIS 627
+software systems General 9324
+software systems Computer arithmetic 131
+software systems Conditioning 1987
+software systems Error analysis 1045
+software systems Interval arithmetic 20
+software systems Multiple precision arithmetic 160
+software systems Numerical algorithms 437
+software systems Parallel algorithms 574
+software systems Stability 393
+software systems Interpolation 132
+software systems Difference formulas 242
+software systems Extrapolation 41
+software systems Interpolation formulas 17
+software systems Smoothing 197
+software systems Approximation 864
+software systems Chebyshev approximation and theory 144
+software systems Elementary function approximation 446
+software systems Fast Fourier transforms 132
+software systems Least squares approximation 247
+software systems Linear approximation 165
+software systems Minimax approximation and algorithms 413
+software systems Nonlinear approximation 35
+software systems Rational approximation 30
+software systems Special function approximations 1151
+software systems Spline and piecewise polynomial approximation 5
+software systems Wavelets and fractals 140
+software systems Numerical Linear Algebra 362
+software systems Conditioning 1987
+software systems Determinants 2884
+software systems Eigenvalues and eigenvectors 71
+software systems Error analysis 1045
+software systems Linear systems 1115
+software systems Matrix inversion 22
+software systems Pseudoinverses 3
+software systems Singular value decomposition 185
+software systems Sparse, structured, and very large systems 597
+software systems Quadrature and Numerical Differentiation 88
+software systems Automatic differentiation 86
+software systems Error analysis 1045
+software systems Finite difference methods 3698
+software systems Gaussian quadraturesoftware systems Iterative methods 483
+software systems Multidimensional 130
+software systems Roots of Nonlinear Equations 66
+software systems Continuation 1933
+software systems Convergence 275
+software systems Error analysis 1045
+software systems Iterative methods 483
+software systems Polynomials, methods for 8004
+software systems Systems of equations 24878
+software systems Optimization 2394
+software systems Constrained optimization 94
+software systems Convex programming 45
+software systems Global optimization 252
+software systems Gradient methods 69
+software systems Integer programming 189
+software systems Least squares methods 643
+software systems Linear programming 535
+software systems Nonlinear programming 70
+software systems Quadratic programming methods 3153
+software systems Simulated annealing 92
+software systems Stochastic programming 155
+software systems Unconstrained optimization 10
+software systems Ordinary Differential Equations 143
+software systems Boundary value problems 1611
+software systems Chaotic systems 30
+software systems Convergence and stability 884
+software systems Differential-algebraic equations 245
+software systems Error analysis 1045
+software systems Finite difference methods 3698
+software systems Initial value problems 2420
+software systems Multistep and multivalue methods 5
+software systems One-step 2194
+software systems Stiff equations 8
+software systems Partial Differential Equations 216
+software systems Domain decomposition methods 1997
+software systems Elliptic equations 6
+software systems Finite difference methods 3698
+software systems Finite element methods 1509
+software systems Finite volume methods 702
+software systems Hyperbolic equations 5
+software systems Inverse problems 120
+software systems Iterative solution techniques 1955
+software systems Method of lines 9846
+software systems Multigrid and multilevel methods 47
+software systems Parabolic equations 9
+software systems Spectral methods 64
+software systems Integral Equations 179
+software systems Delay equations 23
+software systems Fredholm equations 2
+software systems Integro-differential equations 114
+software systems Volterra equations 3
+software systems Applications 10138
+software systems Miscellaneous 13
+software systems DISCRETE MATHEMATICS 69
+software systems General 9324
+software systems Combinatorics 18
+software systems Combinatorial algorithms 101
+software systems Counting problems 188
+software systems Generating functions 3337
+software systems Permutations and combinations 3706
+software systems Recurrences and difference equations 297
+software systems Graph Theory 318
+software systems Graph algorithms 918
+software systems Graph labeling 114
+software systems Hypergraphs 27
+software systems Network problems 1321
+software systems Path and circuit problems 653
+software systems Trees 1216
+software systems Applications 10138
+software systems Miscellaneous 13
+software systems PROBABILITY AND STATISTICS 2224
+software systems Contingency table analysis 680
+software systems Correlation and regression analysis 770
+software systems Distribution functions 1669
+software systems Experimental design 885
+software systems Markov processes 296
+software systems Multivariate statistics 39
+software systems Nonparametric statistics 20
+software systems Probabilistic algorithms 184
+software systems Queueing theory 72
+software systems Random number generation 3106
+software systems Reliability and life testing 1614
+software systems Renewal theory 17
+software systems Robust regression 43
+software systems Statistical computing 596
+software systems Statistical software 1332
+software systems Stochastic processes 318
+software systems Survival analysis 60
+software systems Time series analysis 3919
+software systems MATHEMATICAL SOFTWARE 1164
+software systems Algorithm design and analysis 6772
+software systems Certification and testing 5095
+software systems Documentation 901
+software systems Efficiency 3108
+software systems Parallel and vector implementations 694
+software systems Portability 426
+software systems Reliability and robustness 3680
+software systems User interfaces 1788
+software systems Verification 1754
+software systems MISCELLANEOUS 13
+software systems Queueing 324
+software systems GENERAL 9324
+software systems MODELS AND PRINCIPLES 14427
+software systems General 9324
+software systems Systems and Information Theory 9163
+software systems General systems theory 11196
+software systems Information theory 887
+software systems Value of information 9580
+software systems User/Machine Systems 7254
+software systems Human factors 269
+software systems Human information processing 5178
+software systems Software psychology 102
+software systems Miscellaneous 13
+software systems DATABASE MANAGEMENT 823
+software systems General 9324
+software systems Security, integrity, and protection 1060
+software systems Logical Design 1559
+software systems Data models 4586
+software systems Normal forms 268
+software systems Schema and subschema 425
+software systems Physical Design 777
+software systems Access methods 812
+software systems Deadlock avoidance 43
+software systems Recovery and restart 752
+software systems Languages 6406
+software systems Data description languages 4127
+software systems Data manipulation languages 2765
+software systems Database 2017
+software systems Query languages 420
+software systems Report writers 20
+software systems Systems 25267
+software systems Concurrency 1459
+software systems Distributed databases 505
+software systems Multimedia databases 51
+software systems Object-oriented databases 4077
+software systems Parallel databases 165
+software systems Query processing 489
+software systems Relational databases 759
+software systems Rule-based databases 3076
+software systems Textual databases 53
+software systems Transaction processing 693
+software systems Heterogeneous Databases 146
+software systems Data translation 487
+software systems Program translation 548
+software systems Database Machines 232
+software systems Database Administration 111
+software systems Data dictionary/directory 136
+software systems Data warehouse and repository 505
+software systems Logging and recovery 1136
+software systems Security, integrity, and protection 1060
+software systems Database Applications 1056
+software systems Data mining 579
+software systems Image databases 178
+software systems Scientific databases 129
+software systems Spatial databases and GIS 178
+software systems Statistical databases 204
+software systems Miscellaneous 13
+software systems INFORMATION STORAGE AND RETRIEVAL 929
+software systems General 9324
+software systems Content Analysis and Indexing 734
+software systems Abstracting methods 1730
+software systems Dictionaries 101
+software systems Indexing methods 333
+software systems Linguistic processing 119
+software systems Thesaurusessoftware systems Information Storage 302
+software systems File organization 230
+software systems Record classification 89
+software systems Information Search and Retrieval 1236
+software systems Clustering 1091
+software systems Information filtering 342
+software systems Query formulation 60
+software systems Relevance feedback 94
+software systems Retrieval models 497
+software systems Search process 773
+software systems Selection process 1698
+software systems Systems and Software 25267
+software systems Current awareness systems 4976
+software systems Distributed systems 4713
+software systems Information networks 1397
+software systems Performance evaluation 2209
+software systems Question-answering 366
+software systems Online Information Services 1747
+software systems Commercial services 251
+software systems Data sharing 977
+software systems Web-based services 3791
+software systems Library Automation 238
+software systems Large text archives 434
+software systems Digital Libraries 120
+software systems Collection 2373
+software systems Dissemination 131
+software systems Standards 3530
+software systems Systems issues 3657
+software systems User issues 1042
+software systems Miscellaneous 13
+software systems INFORMATION SYSTEMS APPLICATIONS 14983
+software systems General 9324
+software systems Office Automation 39
+software systems Desktop publishing 10
+software systems Equipment 636
+software systems Groupware 77
+software systems Spreadsheets 66
+software systems Time management 2248
+software systems Word processing 353
+software systems Workflow management 278
+software systems Types of Systems 25895
+software systems Decision support 1292
+software systems Logistics 191
+software systems Communications Applications 2457
+software systems Bulletin boards 18
+software systems Computer conferencing, teleconferencing, and videoconferencing 4
+software systems Electronic mail 41
+software systems Information browsers 178
+software systems Videotexsoftware systems Miscellaneous 13
+software systems INFORMATION INTERFACES AND PRESENTATION 5775
+software systems General 9324
+software systems Multimedia Information Systems 8164
+software systems Animations 321
+software systems Artificial, augmented, and virtual realities 63
+software systems Audio input/output 849
+software systems Evaluation/methodology 733
+software systems Video 412
+software systems User Interfaces 1788
+software systems Auditory 34
+software systems Benchmarking 507
+software systems Ergonomics 35
+software systems Evaluation/methodology 733
+software systems Graphical user interfaces 2320
+software systems Haptic I/O 628
+software systems Input devices and strategies 511
+software systems Interaction styles 441
+software systems Natural language 1065
+software systems Prototyping 1983
+software systems Screen design 175
+software systems Standardization 3530
+software systems Style guides 114
+software systems Theory and methods 13872
+software systems Training, help, and documentation 405
+software systems User-centered design 3723
+software systems User interface management systems 3433
+software systems Voice I/O 647
+software systems Windowing systems 587
+software systems Group and Organization Interfaces 1222
+software systems Asynchronous interaction 148
+software systems Collaborative computing 638
+software systems Computer-supported cooperative work 2012
+software systems Evaluation/methodology 733
+software systems Organizational design 336
+software systems Synchronous interaction 288
+software systems Theory and models 19242
+software systems Web-based interaction 4731
+software systems Hypertext/Hypermedia 24
+software systems Architectures 6425
+software systems Navigation 584
+software systems Theory 2173
+software systems User issues 1042
+software systems Sound and Music Computing 324
+software systems Methodologies and techniques 9715
+software systems Modeling 12187
+software systems Systems 25267
+software systems Miscellaneous 13
+software systems MISCELLANEOUS 13
+software systems GENERAL 9324
+software systems SYMBOLIC AND ALGEBRAIC MANIPULATION 254
+software systems General 9324
+software systems Expressions and Their Representation 2504
+software systems Representations 2499
+software systems Simplification of expressions 2689
+software systems Algorithms 4504
+software systems Algebraic algorithms 258
+software systems Analysis of algorithms 12979
+software systems Nonalgebraic algorithmssoftware systems Languages and Systems 25721
+software systems Evaluation strategies 577
+software systems Nonprocedural languages 3
+software systems Special-purpose algebraic systems 715
+software systems Special-purpose hardware 1087
+software systems Substitution mechanisms 58
+software systems Applications 10138
+software systems Miscellaneous 13
+software systems ARTIFICIAL INTELLIGENCE 536
+software systems General 9324
+software systems Cognitive simulation 52
+software systems Philosophical foundations 11
+software systems Applications and Expert Systems 14815
+software systems Cartography 26
+software systems Games 274
+software systems Industrial automation 493
+software systems Law 571
+software systems Medicine and science 3966
+software systems Natural language interfaces 2439
+software systems Office automation 39
+software systems Automatic Programming 1588
+software systems Automatic analysis of algorithms 3612
+software systems Program modification 538
+software systems Program synthesis 251
+software systems Program transformation 977
+software systems Program verification 795
+software systems Deduction and Theorem Proving 319
+software systems Answer/reason extraction 511
+software systems Deduction 147
+software systems Inference engines 353
+software systems Logic programming 1275
+software systems Mathematical induction 28
+software systems Metatheory 9
+software systems Nonmonotonic reasoning and belief revision 10
+software systems Resolution 642
+software systems Knowledge Representation Formalisms and Methods 1048
+software systems Frames and scripts 937
+software systems Modal logic 131
+software systems Predicate logic 289
+software systems Relation systems 5546
+software systems Representation languages 1193
+software systems Representations 2499
+software systems Semantic networks 436
+software systems Temporal logic 522
+software systems Programming Languages and Software 10923
+software systems Expert system tools and techniques 3907
+software systems Learning 1851
+software systems Analogies 136
+software systems Concept learning 458
+software systems Connectionism and neural nets 47
+software systems Induction 205
+software systems Knowledge acquisition 180
+software systems Language acquisition 133
+software systems Parameter learning 177
+software systems Natural Language Processing 4332
+software systems Discourse 73
+software systems Language generation 3360
+software systems Language models 4240
+software systems Language parsing and understanding 1284
+software systems Machine translation 237
+software systems Speech recognition and synthesis 112
+software systems Text analysis 425
+software systems Problem Solving, Control Methods, and Search 441
+software systems Backtracking 46
+software systems Control theory 548
+software systems Dynamic programming 1938
+software systems Graph and tree search strategies 166
+software systems Heuristic methods 435
+software systems Plan execution, formation, and generation 454
+software systems Scheduling 1156
+software systems Robotics 601
+software systems Autonomous vehicles 96
+software systems Kinematics and dynamics 4201
+software systems Manipulators 957
+software systems Operator interfaces 1259
+software systems Propelling mechanisms 1
+software systems Sensors 664
+software systems Vision and Scene Understanding 120
+software systems Architecture and control structures 4818
+software systems Motion 327
+software systems Perceptual reasoning 8
+software systems Shape 528
+software systems Texture 99
+software systems Video analysis 141
+software systems Distributed Artificial Intelligence 929
+software systems Coherence and coordination 1452
+software systems Intelligent agents 472
+software systems Languages and structures 10659
+software systems Multiagent systems 173
+software systems Miscellaneous 13
+software systems COMPUTER GRAPHICS 907
+software systems General 9324
+software systems Hardware Architecture 1029
+software systems Graphics processors 86
+software systems Hardcopy devicessoftware systems Input devices 182
+software systems Parallel processing 908
+software systems Raster display devices 138
+software systems Storage devices 81
+software systems Three-dimensional displays 558
+software systems Vector display devices 192
+software systems Graphics Systems 1779
+software systems Distributed/network graphics 1889
+software systems Remote systems 807
+software systems Stand-alone systems 616
+software systems Picture/Image Generation 686
+software systems Antialiasing 2
+software systems Bitmap and framebuffer operations 5
+software systems Digitizing and scanning 1279
+software systems Display algorithms 215
+software systems Line and curve generation 1315
+software systems Viewing algorithms 638
+software systems Graphics Utilities 175
+software systems Application packages 591
+software systems Device drivers 99
+software systems Graphics editors 117
+software systems Graphics packages 179
+software systems Meta files 64
+software systems Paint systems 19
+software systems Picture description languages 1887
+software systems Software support 8285
+software systems Virtual device interfaces 674
+software systems Computational Geometry and Object Modeling 1886
+software systems Boundary representations 78
+software systems Constructive solid geometry 132
+software systems Curve, surface, solid, and object representations 12
+software systems Geometric algorithms, languages, and systems 1485
+software systems Hierarchy and geometric transformations 197
+software systems Modeling packages 657
+software systems Object hierarchies 421
+software systems Physically based modeling 9378
+software systems Splines 52
+software systems Methodology and Techniques 9715
+software systems Device independence 137
+software systems Ergonomics 35
+software systems Graphics data structures and data types 1326
+software systems Interaction techniques 1814
+software systems Languages 6406
+software systems Standards 3530
+software systems Three-Dimensional Graphics and Realism 66
+software systems Animation 321
+software systems Color, shading, shadowing, and texture 9
+software systems Fractals 84
+software systems Hidden line/surface removal 9
+software systems Radiosity 2
+software systems Raytracing 7
+software systems Virtual reality 134
+software systems Visible line/surface algorithms 60
+software systems Applications 10138
+software systems Miscellaneous 13
+software systems IMAGE PROCESSING AND COMPUTER VISION 602
+software systems General 9324
+software systems Image displays 189
+software systems Image processing software 11483
+software systems Digitization and Image Capture 414
+software systems Camera calibration 28
+software systems Imaging geometry 67
+software systems Quantization 35
+software systems Radiometry 2
+software systems Reflectance 1154
+software systems Sampling 920
+software systems Scanning 276
+software systems Compression 227
+software systems Approximate methods 454
+software systems Exact coding 107
+software systems Enhancement 1902
+software systems Filtering 735
+software systems Geometric correction 43
+software systems Grayscale manipulation 1
+software systems Registration 111
+software systems Sharpening and deblurring 7
+software systems Smoothing 197
+software systems Restoration 132
+software systems Inverse filtering 13
+software systems Kalman filtering 37
+software systems Pseudoinverse restoration 2
+software systems Wiener filtering 1
+software systems Reconstruction 393
+software systems Series expansion methods 453
+software systems Summation methods 10
+software systems Transform methods 992
+software systems Segmentation 512
+software systems Edge and feature detection 908
+software systems Pixel classification 35
+software systems Region growing, partitioning 120
+software systems Relaxation 146
+software systems Feature Measurement 675
+software systems Feature representation 590
+software systems Invariants 459
+software systems Moments 170
+software systems Projections 4679
+software systems Size and shape 2938
+software systems Texture 99
+software systems Scene Analysis 42
+software systems Color 359
+software systems Depth cues 2
+software systems Motion 327
+software systems Object recognition 190
+software systems Photometry 13
+software systems Range data 1051
+software systems Sensor fusion 35
+software systems Shading 56
+software systems Shape 528
+software systems Stereo 72
+software systems Surface fitting 43
+software systems Time-varying imagery 219
+software systems Tracking 1034
+software systems Applications 10138
+software systems Image Representation 149
+software systems Hierarchical 1052
+software systems Morphological 70
+software systems Multidimensional 130
+software systems Statistical 1332
+software systems Volumetric 34
+software systems Miscellaneous 13
+software systems PATTERN RECOGNITION 229
+software systems General 9324
+software systems Models 12187
+software systems Deterministic 359
+software systems Fuzzy set 190
+software systems Geometric 321
+software systems Neural nets 46
+software systems Statistical 1332
+software systems Structural 6612
+software systems Design Methodology 1873
+software systems Classifier design and evaluation 3092
+software systems Feature evaluation and selection 2183
+software systems Pattern analysis 1454
+software systems Clustering 1091
+software systems Algorithms 4504
+software systems Similarity measures 1003
+software systems Applications 10138
+software systems Computer vision 281
+software systems Signal processing 516
+software systems Text processing 476
+software systems Waveform analysis 27
+software systems Implementation 5476
+software systems Interactive systems 4821
+software systems Special architectures 678
+software systems Miscellaneous 13
+software systems SIMULATION AND MODELING 19004
+software systems General 9324
+software systems Simulation Theory 315
+software systems Model classification 684
+software systems Systems theory 2173
+software systems Types of simulation 6862
+software systems Simulation Languages 771
+software systems Applications 10138
+software systems Model Validation and Analysis 7166
+software systems Model Development 8484
+software systems Modeling methodologies 1880
+software systems Simulation Output Analysis 2171
+software systems Simulation Support Systems 11174
+software systems Environments 5657
+software systems Types of Simulation 6862
+software systems Animation 321
+software systems Combined 3679
+software systems Continuous 1933
+software systems Discrete event 178
+software systems Distributed 4713
+software systems Gaming 274
+software systems Monte Carlo 138
+software systems Parallel 1569
+software systems Visual 2341
+software systems Miscellaneous 13
+software systems DOCUMENT AND TEXT PROCESSING 1466
+software systems General 9324
+software systems Document and Text Editing 346
+software systems Document management 653
+software systems Languages 6406
+software systems Spelling 21
+software systems Version control 721
+software systems Document Preparation 55
+software systems Desktop publishing 10
+software systems Format and notation 2365
+software systems Hypertext/hypermedia 24
+software systems Index generation 310
+software systems Languages and systems 25721
+software systems Markup languages 101
+software systems Multi/mixed media 140
+software systems Scripting languages 187
+software systems Standards 3530
+software systems Index Generation 310
+software systems Electronic Publishing 68
+software systems Document Capture 257
+software systems Document analysis 842
+software systems Optical character recognition 56
+software systems Scanning 276
+software systems Miscellaneous 13
+software systems MISCELLANEOUS 13
+software systems GENERAL 9324
+software systems ADMINISTRATIVE DATA PROCESSING 5144
+software systems Business 1870
+software systems Education 813
+software systems Financial 241
+software systems Government 500
+software systems Law 571
+software systems Manufacturing 761
+software systems Marketing 778
+software systems Military 229
+software systems PHYSICAL SCIENCES AND ENGINEERING 1940
+software systems Aerospace 187
+software systems Archaeology 4
+software systems Astronomy 115
+software systems Chemistry 82
+software systems Earth and atmospheric sciences 148
+software systems Electronics 1309
+software systems Engineering 8761
+software systems Mathematics and statistics 2409
+software systems Physics 1469
+software systems LIFE AND MEDICAL SCIENCES 414
+software systems Biology and genetics 2387
+software systems Health 447
+software systems Medical information systems 8469
+software systems SOCIAL AND BEHAVIORAL SCIENCES 787
+software systems Economics 657
+software systems Psychology 102
+software systems Sociology 27
+software systems ARTS AND HUMANITIES 2601
+software systems Architecture 6425
+software systems Fine arts

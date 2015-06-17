@@ -1,0 +1,14 @@
+social media Office automationsocial media Office automation 1
+social media Automatic Programming 9
+social media Automatic analysis of algorithms 248
+social media Program modification 1
+social media Program synthesis 7
+social media Program transformation 9
+social media Program verification 1
+social media Deduction and Theorem Proving 2
+social media Answer/reason extraction 62
+social media Deduction 3
+social media Inference engines 14
+social media Logic programming 5
+social media Mathematical induction 1
+social media Metatheorysocial media Nonmonotonic reasoning and belief revision

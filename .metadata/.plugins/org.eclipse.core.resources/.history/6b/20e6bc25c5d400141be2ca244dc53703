@@ -1,0 +1,64 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+
+public class labelvaluesoneatatime {
+	public static void main(String args[]) throws IOException{
+		BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\labelvalues.txt"));
+		BufferedReader in1 = new BufferedReader(new FileReader("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\miscindexcorrect.txt"));
+		BufferedWriter out1 = new BufferedWriter(new FileWriter("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\labeladd2.txt"));
+		BufferedWriter out2 = new BufferedWriter(new FileWriter("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\labelaverage2.txt"));
+		ArrayList<Double> label=new ArrayList<Double>();
+		ArrayList<Integer> misc=new ArrayList<Integer>();
+		StringTokenizer st1=null;
+		String line1=in1.readLine();
+		st1=new StringTokenizer(line1,",");
+		while(st1.hasMoreTokens()){
+			misc.add(Integer.parseInt(st1.nextToken()));
+		}
+		int i=1;
+		for(i=0;i<1462;i++){
+			label.add(0.0);
+		}
+		String line="";
+		i=1;
+		int j=0;
+		int k;
+		int l=0;
+		Double temp,temp1;
+		while((line=in.readLine())!=null){
+			
+			System.out.println(i);
+			st1=new StringTokenizer(line,",");
+			j=0;
+			while(st1.hasMoreTokens()){
+				temp=Double.parseDouble(st1.nextToken());
+				temp1=(Double)label.get(j)+temp;
+				label.set(j, temp1);
+				j++;
+			}
+			if(j!=1461){
+				System.out.println("true");
+			}
+			i++;
+		}
+		for(k=0;k<1462;k++){
+			if(!misc.contains(k)){
+			out1.write(String.valueOf(label.get(k)));
+			out1.write(",");
+			out2.write(String.valueOf((Double)label.get(k)/i-1));
+			out2.write(",");
+			}
+		}
+		i=1;
+		out1.newLine();
+		out2.newLine();
+		out1.close();
+		out2.close();
+		}
+}

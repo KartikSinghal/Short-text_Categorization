@@ -1,0 +1,27 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.StringTokenizer;
+
+
+public class clearacmmapmisc {
+		public static void main(String args[]) throws IOException{
+			BufferedReader in = new BufferedReader(new FileReader("media\\enigmatus\\C85ACC635ACC503C\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\.txt"));
+			BufferedReader in1 = new BufferedReader(new FileReader("C:\\Users\\Kartik\\Documents\\BTP\\BTP_data_main\\labelvectors\\fvector\\fvectoraverage5.txt"));
+			
+			String line="";
+			String line1="";
+			String temp1,temp2;
+			StringTokenizer st1=null;
+			line=in.readLine();
+			line1=in1.readLine();
+			if(line.equals(line1)){
+				System.out.println("true");
+			}
+			int i=0;
+		}
+	
+
+}

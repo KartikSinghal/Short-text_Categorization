@@ -1,0 +1,397 @@
+wireless network applications GENERAL 48
+wireless network applications Biographies autobiographieswireless network applications Conference proceedings 39
+wireless network applications INTRODUCTORY AND SURVEY 4
+wireless network applications REFERENCE 15
+wireless network applications MISCELLANEOUSwireless network applications GENERAL 48
+wireless network applications CONTROL STRUCTURES AND MICROPROGRAMMING 5
+wireless network applications General 48
+wireless network applications Control Design Styles 25
+wireless network applications Hardwired control 38
+wireless network applications Writable control store 1
+wireless network applications Automatic synthesis 10
+wireless network applications Formal models 48
+wireless network applications Simulation 38
+wireless network applications Control Structure Reliability, Testing, and Fault-Tolerance 1
+wireless network applications Diagnosticswireless network applications Error-checking 22
+wireless network applications Redundant design 72
+wireless network applications Test generation 56
+wireless network applications Firmware engineering 13
+wireless network applications Languages and compilers 8
+wireless network applications Optimization 47
+wireless network applications Verification 2
+wireless network applications Direct data manipulation 15
+wireless network applications Instruction set interpretation 2
+wireless network applications Peripheral control 38
+wireless network applications Special-purpose 28
+wireless network applications Miscellaneouswireless network applications General 48
+wireless network applications Design Styles 72
+wireless network applications Calculator 11
+wireless network applications Parallel 8
+wireless network applications Pipeline 1
+wireless network applications Performance Analysis and Design Aids 15
+wireless network applications Simulation 38
+wireless network applications Verification 2
+wireless network applications Worst-case analysis 15
+wireless network applications Reliability, Testing, and Fault-Tolerance 1
+wireless network applications Diagnosticswireless network applications Error-checking 22
+wireless network applications Redundant design 72
+wireless network applications Test generation 56
+wireless network applications High-Speed Arithmetic 12
+wireless network applications Algorithms 54
+wireless network applications Cost/performance 86
+wireless network applications Miscellaneouswireless network applications MEMORY STRUCTURES 26
+wireless network applications General 48
+wireless network applications Semiconductor Memories 19
+wireless network applications Dynamic memory 37
+wireless network applications Read-only memory 8
+wireless network applications Static memory 20
+wireless network applications Design Styles 72
+wireless network applications Associative memories 18
+wireless network applications Cache memories 15
+wireless network applications Interleaved memories 14
+wireless network applications Mass storage 13
+wireless network applications Primary memory 16
+wireless network applications Sequential-access memory 8
+wireless network applications Shared memory 29
+wireless network applications Virtual memory 19
+wireless network applications Performance Analysis and Design Aids 15
+wireless network applications Formal models 48
+wireless network applications Simulation 38
+wireless network applications Worst-case analysis 15
+wireless network applications Reliability, Testing, and Fault-Tolerance 1
+wireless network applications Diagnosticswireless network applications Error-checking 22
+wireless network applications Redundant design 72
+wireless network applications Test generation 56
+wireless network applications Miscellaneouswireless network applications INPUT/OUTPUT AND DATA COMMUNICATIONS 10
+wireless network applications General 48
+wireless network applications Data Communications Devices 53
+wireless network applications Processors 9
+wireless network applications Receivers 23
+wireless network applications Transmitters 3
+wireless network applications Input/Output Devices 14
+wireless network applications Channels and controllers 26
+wireless network applications Image display 7
+wireless network applications Voice 2
+wireless network applications Interconnections 2
+wireless network applications Asynchronous/synchronous operation 4
+wireless network applications Fiber optics 6
+wireless network applications Interfaces 12
+wireless network applications Parallel I/O 7
+wireless network applications Physical structures 29
+wireless network applications Topology 13
+wireless network applications Performance Analysis and Design Aids 15
+wireless network applications Formal models 48
+wireless network applications Simulation 38
+wireless network applications Verification 2
+wireless network applications Worst-case analysis 15
+wireless network applications Reliability, Testing, and Fault-Tolerance 1
+wireless network applications Built-in tests 22
+wireless network applications Diagnosticswireless network applications Error-checking 22
+wireless network applications Hardware reliability 26
+wireless network applications Redundant design 72
+wireless network applications Test generation 56
+wireless network applications Miscellaneouswireless network applications REGISTER-TRANSFER-LEVEL IMPLEMENTATION 2
+wireless network applications General 48
+wireless network applications Design 70
+wireless network applications Arithmetic and logic unitswireless network applications Control design 122
+wireless network applications Data-path design 45
+wireless network applications Memory design 70
+wireless network applications Styles 3
+wireless network applications Design Aids 71
+wireless network applications Automatic synthesis 10
+wireless network applications Hardware description languages 4
+wireless network applications Optimization 47
+wireless network applications Simulation 38
+wireless network applications Verification 2
+wireless network applications Reliability and Testing 28
+wireless network applications Built-in tests 22
+wireless network applications Error-checking 22
+wireless network applications Redundant design 72
+wireless network applications Test generation 56
+wireless network applications Testability 3
+wireless network applications Miscellaneouswireless network applications LOGIC DESIGN 71
+wireless network applications General 48
+wireless network applications Design Styles 72
+wireless network applications Combinational logic 33
+wireless network applications Logic arrays 7
+wireless network applications Parallel circuits 20
+wireless network applications Sequential circuits 15
+wireless network applications Reliability and Testing 28
+wireless network applications Built-in tests 22
+wireless network applications Error-checking 22
+wireless network applications Redundant design 72
+wireless network applications Test generation 56
+wireless network applications Testability 3
+wireless network applications Design Aids 71
+wireless network applications Automatic synthesis 10
+wireless network applications Hardware description languages 4
+wireless network applications Optimization 47
+wireless network applications Simulation 38
+wireless network applications Switching theory 16
+wireless network applications Verification 2
+wireless network applications Miscellaneouswireless network applications INTEGRATED CIRCUITS 36
+wireless network applications General 48
+wireless network applications Types and Design Styles 14
+wireless network applications Advanced technologies 59
+wireless network applications Algorithms implemented in hardware 33
+wireless network applications Gate arrays 8
+wireless network applications Input/output circuits 8
+wireless network applications Memory technologies 63
+wireless network applications Microprocessors and microcomputers 2
+wireless network applications Standard cells 28
+wireless network applications VLSI 3
+wireless network applications Design Aids 71
+wireless network applications Graphics 2
+wireless network applications Layoutwireless network applications Placement and routing 24
+wireless network applications Simulation 38
+wireless network applications Verification 2
+wireless network applications Reliability and Testing 28
+wireless network applications Built-in tests 22
+wireless network applications Error-checking 22
+wireless network applications Redundant design 72
+wireless network applications Test generation 56
+wireless network applications Testability 3
+wireless network applications Miscellaneouswireless network applications PERFORMANCE AND RELIABILITY 97
+wireless network applications General 48
+wireless network applications Reliability, Testing, and Fault-Tolerance 1
+wireless network applications Performance Analysis and Design Aids 15
+wireless network applications Miscellaneouswireless network applications MISCELLANEOUSwireless network applications Design 70
+wireless network applications GENERAL 48
+wireless network applications Hardware/software interfaces 14
+wireless network applications Instruction set design 20
+wireless network applications Modeling of computer architecture 39
+wireless network applications System architectures 116
+wireless network applications Systems specification methodology 27
+wireless network applications PROCESSOR ARCHITECTURES 32
+wireless network applications General 48
+wireless network applications Single Data Stream Architectures 6
+wireless network applications Pipeline processors 10
+wireless network applications RISC/CISC, VLIW architectureswireless network applications Von Neumann architectures 1
+wireless network applications Multiple Data Stream Architectures 8
+wireless network applications Array and vector processors 2
+wireless network applications Associative processors 14
+wireless network applications Connection machines 33
+wireless network applications Interconnection architectures 30
+wireless network applications Multiple-instruction-stream, multiple-data-stream processors 6
+wireless network applications Parallel processors 17
+wireless network applications Pipeline processors 10
+wireless network applications Single-instruction-stream, multiple-data-stream processors 3
+wireless network applications Other Architecture Styles 11
+wireless network applications Adaptable architectures 57
+wireless network applications Analog computers 52
+wireless network applications Capability architectures 41
+wireless network applications Cellular architecture 33
+wireless network applications Data-flow architectures 26
+wireless network applications Heterogeneous 8
+wireless network applications High-level language architectures 7
+wireless network applications Neural nets 10
+wireless network applications Pipeline processors 10
+wireless network applications Stack-oriented processorswireless network applications Parallel Architectures 34
+wireless network applications Distributed architectures 51
+wireless network applications Mobile processors 49
+wireless network applications Miscellaneouswireless network applications Analog 3
+wireless network applications Hybrid 4
+wireless network applications COMPUTER-COMMUNICATION NETWORKS 83
+wireless network applications General 48
+wireless network applications Data communications 102
+wireless network applications Open Systems Interconnection reference model 1
+wireless network applications Security and protection 55
+wireless network applications Network Architecture and Design 83
+wireless network applications Asynchronous Transfer Mode 2
+wireless network applications Centralized networks 136
+wireless network applications Circuit-switching networks 19
+wireless network applications Distributed networks 145
+wireless network applications Frame relay networks 15
+wireless network applications ISDNwireless network applications Network communications 148
+wireless network applications Network topology 139
+wireless network applications Packet-switching networks 32
+wireless network applications Store and forward networks 16
+wireless network applications Wireless communication 157
+wireless network applications Network Protocols 148
+wireless network applications Applications 135
+wireless network applications Protocol architecture 102
+wireless network applications Protocol verification 61
+wireless network applications Routing protocols 80
+wireless network applications Network Operations 147
+wireless network applications Network management 143
+wireless network applications Network monitoring 137
+wireless network applications Public networks 136
+wireless network applications Distributed Systems 94
+wireless network applications Client/server 9
+wireless network applications Distributed applications 135
+wireless network applications Distributed databases 32
+wireless network applications Network operating systems 93
+wireless network applications Local and Wide-Area Networks 17
+wireless network applications Access schemes 57
+wireless network applications Buses 2
+wireless network applications Ethernetwireless network applications High-speed 53
+wireless network applications Internet 14
+wireless network applications Token rings 2
+wireless network applications Internetworkingwireless network applications Routers 3
+wireless network applications Standards 18
+wireless network applications Miscellaneouswireless network applications SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS 18
+wireless network applications Microprocessor/microcomputer applications 2
+wireless network applications Process control systems 38
+wireless network applications Real-time and embedded systems 31
+wireless network applications Signal processing systems 36
+wireless network applications Smartcardswireless network applications PERFORMANCE OF SYSTEMS 144
+wireless network applications Design studies 127
+wireless network applications Fault tolerance 9
+wireless network applications Measurement techniques 48
+wireless network applications Modeling techniques 89
+wireless network applications Performance attributes 80
+wireless network applications Reliability, availability, and serviceability 13
+wireless network applications COMPUTER SYSTEM IMPLEMENTATION 42
+wireless network applications General 48
+wireless network applications Large and Medium 37
+wireless network applications Super 1
+wireless network applications Minicomputerswireless network applications Microcomputerswireless network applications Microprocessors 2
+wireless network applications Personal computers 53
+wireless network applications Portable devices 37
+wireless network applications Workstations 3
+wireless network applications VLSI Systems 78
+wireless network applications Servers 5
+wireless network applications Miscellaneouswireless network applications MISCELLANEOUSwireless network applications GENERAL 48
+wireless network applications PROGRAMMING TECHNIQUES 46
+wireless network applications General 48
+wireless network applications Applicative 135
+wireless network applications Automatic Programming 21
+wireless network applications Concurrent Programming 24
+wireless network applications Distributed programming 41
+wireless network applications Parallel programming 23
+wireless network applications Sequential Programming 16
+wireless network applications Object-oriented Programming 9
+wireless network applications Logic Programming 20
+wireless network applications Visual Programming 18
+wireless network applications Miscellaneouswireless network applications SOFTWARE ENGINEERING 32
+wireless network applications General 48
+wireless network applications Protection mechanisms 33
+wireless network applications Standards 18
+wireless network applications Requirements/Specifications 91
+wireless network applications Elicitation methods 31
+wireless network applications Languages 6
+wireless network applications Methodologies 15
+wireless network applications Tools 11
+wireless network applications Design Tools and Techniques 29
+wireless network applications Computer-aided software engineering 1
+wireless network applications Decision tables 16
+wireless network applications Evolutionary prototyping 15
+wireless network applications Flow charts 16
+wireless network applications Modules and interfaces 22
+wireless network applications Object-oriented design methods 9
+wireless network applications Petri nets 12
+wireless network applications Programmer workbench 3
+wireless network applications Software libraries 23
+wireless network applications State diagrams 33
+wireless network applications Structured programming 26
+wireless network applications Top-down programmingwireless network applications User interfaces 33
+wireless network applications Coding Tools and Techniques 16
+wireless network applications Object-oriented programming 9
+wireless network applications Pretty printerswireless network applications Program editors 15
+wireless network applications Reentrant code 23
+wireless network applications Standards 18
+wireless network applications Structured programming 26
+wireless network applications Top-down programmingwireless network applications Software/Program Verification 7
+wireless network applications Assertion checkerswireless network applications Class invariants 9
+wireless network applications Correctness proofs 15
+wireless network applications Formal methods 33
+wireless network applications Model checking 49
+wireless network applications Programming by contract 10
+wireless network applications Reliability 9
+wireless network applications Statistical methods 36
+wireless network applications Validation 12
+wireless network applications Testing and Debugging 20
+wireless network applications Code inspections and walk-throughs 1
+wireless network applications Debugging aids 2
+wireless network applications Diagnosticswireless network applications Distributed debugging 30
+wireless network applications Dumpswireless network applications Error handling and recovery 1
+wireless network applications Monitors 11
+wireless network applications Symbolic execution 15
+wireless network applications Testing tools 27
+wireless network applications Tracing 3
+wireless network applications Programming Environments 49
+wireless network applications Graphical environments 33
+wireless network applications Integrated environments 68
+wireless network applications Interactive environments 35
+wireless network applications Programmer workbench 3
+wireless network applications Distribution, Maintenance, and Enhancement 3
+wireless network applications Corrections 11
+wireless network applications Documentationwireless network applications Enhancement 8
+wireless network applications Extensibility 19
+wireless network applications Portability 9
+wireless network applications Restructuring, reverse engineering, and reengineeringwireless network applications Version control 41
+wireless network applications Metrics 4
+wireless network applications Complexity measures 45
+wireless network applications Performance measures 119
+wireless network applications Process metrics 42
+wireless network applications Product metrics 9
+wireless network applications Software science 35
+wireless network applications Management 26
+wireless network applications Copyrightswireless network applications Cost estimation 46
+wireless network applications Life cycle 12
+wireless network applications Productivity 5
+wireless network applications Programming teams 15
+wireless network applications Software configuration management 12
+wireless network applications Software process models 26
+wireless network applications Software quality assurance 5
+wireless network applications Time estimation 75
+wireless network applications Design 70
+wireless network applications Methodologies 15
+wireless network applications Representation 5
+wireless network applications Software Architectures 46
+wireless network applications Data abstraction 70
+wireless network applications Domain-specific architectures 15
+wireless network applications Information hiding 45
+wireless network applications Languages 6
+wireless network applications Patterns 8
+wireless network applications Interoperability 1
+wireless network applications Data mapping 69
+wireless network applications Distributed objects 45
+wireless network applications Interface definition languages 4
+wireless network applications Reusable Software 20
+wireless network applications Domain engineering 20
+wireless network applications Reusable libraries 8
+wireless network applications Reuse models 47
+wireless network applications Miscellaneouswireless network applications Rapid 10
+wireless network applications Reusable 3
+wireless network applications PROGRAMMING LANGUAGES 27
+wireless network applications General 48
+wireless network applications Standards 18
+wireless network applications Formal Definitions and Theory 2
+wireless network applications Semantics 5
+wireless network applications Syntaxwireless network applications Language Classifications 7
+wireless network applications Applicative 135
+wireless network applications Concurrent, distributed, and parallel languages 1
+wireless network applications Constraint and logic languages 3
+wireless network applications Data-flow languages 15
+wireless network applications Design languages 77
+wireless network applications Extensible languages 22
+wireless network applications Microprogramming languages 6
+wireless network applications Multiparadigm languages 6
+wireless network applications Nondeterministic languages 6
+wireless network applications Nonprocedural languages 6
+wireless network applications Object-oriented languages 5
+wireless network applications Specialized application languages 19
+wireless network applications Very high-level languages 9
+wireless network applications Language Constructs and Features 8
+wireless network applications Abstract data types 23
+wireless network applications Classes and objects 25
+wireless network applications Concurrent programming structures 8
+wireless network applications Constraints 17
+wireless network applications Control structures 59
+wireless network applications Coroutineswireless network applications Data types and structures 18
+wireless network applications Dynamic storage management 22
+wireless network applications Frameworks 26
+wireless network applications Inheritancewireless network applications Input/output 22
+wireless network applications Modules, packages 13
+wireless network applications Patterns 8
+wireless network applications Polymorphismwireless network applications Procedures, functions, and subroutines 1
+wireless network applications Recursion 4
+wireless network applications Processors 9
+wireless network applications Code generation 110
+wireless network applications Compilers 2
+wireless network applications Debuggerswireless network applications Incremental compilers 6
+wireless network applications Interpreters 3
+wireless network applications Memory management 30
+wireless network applications Optimization 47
+wireless network applications Parsingwireless network applications Parsing
